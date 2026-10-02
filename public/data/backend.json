@@ -1,0 +1,2197 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2026-10-02T05:35:31.625Z",
+  "slug": "backend",
+  "title": "Backend",
+  "subtitle": "APIs, data, auth, caching, and server-side foundations",
+  "sourceNote": "Topic map structure discovered via roadmap.sh public API (discovery-only). Descriptions are original. See https://roadmap.sh/backend",
+  "sourceUrl": "https://roadmap.sh/backend",
+  "discoveryUrl": "https://roadmap.sh/api/v1-official-roadmap/backend",
+  "stats": {
+    "nodes": 173,
+    "interactive": 165,
+    "edges": 55
+  },
+  "nodes": [
+    {
+      "id": "8v3u-FpQ0c8C8492XsROG",
+      "kind": "section",
+      "label": "",
+      "x": 43,
+      "y": 1833,
+      "width": 300,
+      "height": 213,
+      "description": "",
+      "interactive": false
+    },
+    {
+      "id": "TcfbKmrUwzOwl13Pthm8z",
+      "kind": "section",
+      "label": "",
+      "x": -300,
+      "y": 2349,
+      "width": 246,
+      "height": 286,
+      "description": "",
+      "interactive": false
+    },
+    {
+      "id": "aaGac1eorlfnbvr3XwytQ",
+      "kind": "section",
+      "label": "",
+      "x": 43,
+      "y": 1140,
+      "width": 300,
+      "height": 203,
+      "description": "",
+      "interactive": false
+    },
+    {
+      "id": "SakiRhomfNJvPXc0XAzAO",
+      "kind": "section",
+      "label": "",
+      "x": -293,
+      "y": 904,
+      "width": 232,
+      "height": 170,
+      "description": "",
+      "interactive": false
+    },
+    {
+      "id": "9cD5ag1L0GqHx4_zxc5JX",
+      "kind": "subtopic",
+      "label": "Open API Specs",
+      "x": 43,
+      "y": 729,
+      "width": 300,
+      "height": 52,
+      "description": "Design clear contracts, handle errors, and keep services operable under real traffic.",
+      "interactive": true
+    },
+    {
+      "id": "NKyoiJPX3UjxIoILzR4sx",
+      "kind": "section",
+      "label": "",
+      "x": 43,
+      "y": 503,
+      "width": 300,
+      "height": 234,
+      "description": "",
+      "interactive": false
+    },
+    {
+      "id": "UFd8PEg6IwJMXvuv8Ow1f",
+      "kind": "section",
+      "label": "",
+      "x": 43,
+      "y": 778,
+      "width": 300,
+      "height": 342,
+      "description": "",
+      "interactive": false
+    },
+    {
+      "id": "gKTSe9yQFVbPVlLzWB0hC",
+      "kind": "topic",
+      "label": "Search Engines",
+      "x": 45,
+      "y": 2684,
+      "width": 280,
+      "height": 49,
+      "description": "Core Backend topic: Search Engines. Learn when to use it, what it costs, and how it fails.",
+      "interactive": true
+    },
+    {
+      "id": "EwvLPSI6AlZ4TnNIJTZA4",
+      "kind": "topic",
+      "label": "Learn about APIs",
+      "x": -293,
+      "y": 731,
+      "width": 232,
+      "height": 49,
+      "description": "Design clear contracts, handle errors, and keep services operable under real traffic.",
+      "interactive": true
+    },
+    {
+      "id": "4_q73_Fz02yj45i7NcRlA",
+      "kind": "section",
+      "label": "",
+      "x": 43,
+      "y": 1336,
+      "width": 301,
+      "height": 248,
+      "description": "",
+      "interactive": false
+    },
+    {
+      "id": "iogwMmOvub2ZF4zgg6WyF",
+      "kind": "title",
+      "label": "Backend",
+      "x": -253,
+      "y": -119,
+      "width": 153,
+      "height": 68,
+      "description": "A structured Backend learning path. Work top-down: foundations first, then building blocks, then advanced patterns.",
+      "interactive": false
+    },
+    {
+      "id": "SiYUdtYMDImRPmV2_XPkH",
+      "kind": "topic",
+      "label": "Introduction",
+      "x": -293,
+      "y": 76,
+      "width": 232,
+      "height": 49,
+      "description": "Core Backend topic: Introduction. Learn when to use it, what it costs, and how it fails.",
+      "interactive": true
+    },
+    {
+      "id": "CWwh2abwqx4hAxpAGvhIx",
+      "kind": "subtopic",
+      "label": "Rust",
+      "x": -577,
+      "y": 168,
+      "width": 130,
+      "height": 49,
+      "description": "Study Rust in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "l9Wrq_Ad9-Ju4NIB0m5Ha",
+      "kind": "subtopic",
+      "label": "PHP",
+      "x": -711,
+      "y": 168,
+      "width": 130,
+      "height": 49,
+      "description": "Study PHP in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "BdXbcz4-ar3XOX0wIKzBp",
+      "kind": "subtopic",
+      "label": "Go",
+      "x": -577,
+      "y": 9,
+      "width": 130,
+      "height": 49,
+      "description": "Study Go in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "8-lO-v6jCYYoklEJXULxN",
+      "kind": "subtopic",
+      "label": "JavaScript",
+      "x": -711,
+      "y": 9,
+      "width": 130,
+      "height": 49,
+      "description": "Study JavaScript in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "ANeSwxJDJyQ-49pO2-CCI",
+      "kind": "subtopic",
+      "label": "Java",
+      "x": -711,
+      "y": 115,
+      "width": 130,
+      "height": 49,
+      "description": "Study Java in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "J_sVHsD72Yzyqb9KCIvAY",
+      "kind": "subtopic",
+      "label": "Python",
+      "x": -711,
+      "y": 62,
+      "width": 130,
+      "height": 49,
+      "description": "Study Python in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "rImbMHLLfJwjf3l25vBkc",
+      "kind": "subtopic",
+      "label": "C#",
+      "x": -577,
+      "y": 115,
+      "width": 130,
+      "height": 49,
+      "description": "Study C# in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "SlH0Rl07yURDko2nDPfFy",
+      "kind": "subtopic",
+      "label": "Ruby",
+      "x": -577,
+      "y": 62,
+      "width": 130,
+      "height": 49,
+      "description": "Study Ruby in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "2f0ZO6GJElfZ2Eis28Hzg",
+      "kind": "topic",
+      "label": "Pick a Backend Language",
+      "x": -711,
+      "y": 259,
+      "width": 306,
+      "height": 49,
+      "description": "Core Backend topic: Pick a Backend Language. Learn when to use it, what it costs, and how it fails.",
+      "interactive": true
+    },
+    {
+      "id": "_I1E__wCIVrhjMk6IMieE",
+      "kind": "subtopic",
+      "label": "Git",
+      "x": 43,
+      "y": 371,
+      "width": 105,
+      "height": 49,
+      "description": "Study Git in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "ezdqQW9wTUw93F6kjOzku",
+      "kind": "topic",
+      "label": "Version Control Systems",
+      "x": -293,
+      "y": 371,
+      "width": 232,
+      "height": 49,
+      "description": "Core Backend topic: Version Control Systems. Learn when to use it, what it costs, and how it fails.",
+      "interactive": true
+    },
+    {
+      "id": "ptD8EVqwFUYr4W5A_tABY",
+      "kind": "subtopic",
+      "label": "GitHub",
+      "x": 43,
+      "y": 423,
+      "width": 105,
+      "height": 49,
+      "description": "Study GitHub in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "Wcp-VDdFHipwa7hNAp1z_",
+      "kind": "subtopic",
+      "label": "GitLab",
+      "x": 152,
+      "y": 423,
+      "width": 100,
+      "height": 49,
+      "description": "Study GitLab in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "NvUcSDWBhzJZ31nzT4UlE",
+      "kind": "topic",
+      "label": "Repo Hosting Services",
+      "x": -293,
+      "y": 423,
+      "width": 232,
+      "height": 49,
+      "description": "Core Backend topic: Repo Hosting Services. Learn when to use it, what it costs, and how it fails.",
+      "interactive": true
+    },
+    {
+      "id": "FihTrMO56kj9jT8O_pO2T",
+      "kind": "subtopic",
+      "label": "PostgreSQL",
+      "x": -551,
+      "y": 527,
+      "width": 136,
+      "height": 49,
+      "description": "Pick storage for your access patterns—consistency, query shape, and operational cost.",
+      "interactive": true
+    },
+    {
+      "id": "dEsTje8kfHwWjCI3zcgLC",
+      "kind": "subtopic",
+      "label": "MS SQL",
+      "x": -705,
+      "y": 633,
+      "width": 149,
+      "height": 49,
+      "description": "Pick storage for your access patterns—consistency, query shape, and operational cost.",
+      "interactive": true
+    },
+    {
+      "id": "VPxOdjJtKAqmM5V0LR5OC",
+      "kind": "subtopic",
+      "label": "MySQL",
+      "x": -705,
+      "y": 526,
+      "width": 149,
+      "height": 50,
+      "description": "Pick storage for your access patterns—consistency, query shape, and operational cost.",
+      "interactive": true
+    },
+    {
+      "id": "h1SAjQltHtztSt8QmRgab",
+      "kind": "subtopic",
+      "label": "Oracle",
+      "x": -551,
+      "y": 633,
+      "width": 136,
+      "height": 49,
+      "description": "Study Oracle in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "tD3i-8gBpMKCHB-ITyDiU",
+      "kind": "subtopic",
+      "label": "MariaDB",
+      "x": -705,
+      "y": 580,
+      "width": 149,
+      "height": 49,
+      "description": "Study MariaDB in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "r45b461NxLN6wBODJ5CNP",
+      "kind": "topic",
+      "label": "Relational Databases",
+      "x": -293,
+      "y": 578,
+      "width": 232,
+      "height": 50,
+      "description": "Pick storage for your access patterns—consistency, query shape, and operational cost.",
+      "interactive": true
+    },
+    {
+      "id": "F8frGuv1dunOdcVJ_IiGs",
+      "kind": "topic",
+      "label": "NoSQL Databases",
+      "x": -298,
+      "y": 3135,
+      "width": 242,
+      "height": 50,
+      "description": "Pick storage for your access patterns—consistency, query shape, and operational cost.",
+      "interactive": true
+    },
+    {
+      "id": "Z7jp_Juj5PffSxV7UZcBb",
+      "kind": "subtopic",
+      "label": "ORMs",
+      "x": -694,
+      "y": 2382,
+      "width": 137,
+      "height": 49,
+      "description": "Study ORMs in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "Ge2SnKBrQQrU-oGLz6TmT",
+      "kind": "subtopic",
+      "label": "Normalization",
+      "x": -693,
+      "y": 2436,
+      "width": 280,
+      "height": 49,
+      "description": "Study Normalization in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "qSAdfaGUfn8mtmDjHJi3z",
+      "kind": "subtopic",
+      "label": "ACID",
+      "x": -551,
+      "y": 2382,
+      "width": 138,
+      "height": 49,
+      "description": "Study ACID in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "GwApfL4Yx-b5Y8dB9Vy__",
+      "kind": "subtopic",
+      "label": "Failure Modes",
+      "x": -693,
+      "y": 2490,
+      "width": 280,
+      "height": 49,
+      "description": "Study Failure Modes in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "rq_y_OBMD9AH_4aoecvAi",
+      "kind": "subtopic",
+      "label": "Transactions",
+      "x": -693,
+      "y": 2330,
+      "width": 280,
+      "height": 49,
+      "description": "Study Transactions in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "SYXJhanu0lFmGj2m2XXhS",
+      "kind": "subtopic",
+      "label": "Profiling Performance",
+      "x": -693,
+      "y": 2544,
+      "width": 280,
+      "height": 49,
+      "description": "Study Profiling Performance in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "bQnOAu863hsHdyNMNyJop",
+      "kind": "subtopic",
+      "label": "N+1 Problem",
+      "x": -154,
+      "y": 653,
+      "width": 151,
+      "height": 49,
+      "description": "Study N+1 Problem in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "LJt27onEOeIBomiEMTyKd",
+      "kind": "topic",
+      "label": "More about Databases",
+      "x": -693,
+      "y": 2219,
+      "width": 280,
+      "height": 49,
+      "description": "Pick storage for your access patterns—consistency, query shape, and operational cost.",
+      "interactive": true
+    },
+    {
+      "id": "y-xkHFE9YzhNIX3EiWspL",
+      "kind": "subtopic",
+      "label": "Database Indexes",
+      "x": -693,
+      "y": 2872,
+      "width": 280,
+      "height": 49,
+      "description": "Pick storage for your access patterns—consistency, query shape, and operational cost.",
+      "interactive": true
+    },
+    {
+      "id": "zWstl08R4uzqve4BdYurp",
+      "kind": "subtopic",
+      "label": "Sharding Strategies",
+      "x": -693,
+      "y": 2978,
+      "width": 280,
+      "height": 49,
+      "description": "Study Sharding Strategies in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "wrl7HHWXOaxoKVlNZxZ6d",
+      "kind": "subtopic",
+      "label": "Data Replication",
+      "x": -693,
+      "y": 2925,
+      "width": 280,
+      "height": 49,
+      "description": "Study Data Replication in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "LAdKDJ4LcMaDWqslMvE8X",
+      "kind": "subtopic",
+      "label": "CAP Theorem",
+      "x": -693,
+      "y": 3031,
+      "width": 280,
+      "height": 49,
+      "description": "In a partitioned network you trade among consistency, availability, and partition tolerance—name the trade-off you are making.",
+      "interactive": true
+    },
+    {
+      "id": "95d9itpUZ4s9roZN8kG9x",
+      "kind": "topic",
+      "label": "Scaling Databases",
+      "x": -298,
+      "y": 3031,
+      "width": 242,
+      "height": 49,
+      "description": "Pick storage for your access patterns—consistency, query shape, and operational cost.",
+      "interactive": true
+    },
+    {
+      "id": "sNceS4MpSIjRkWhNDmrFg",
+      "kind": "subtopic",
+      "label": "JSON APIs",
+      "x": 194,
+      "y": 561,
+      "width": 133,
+      "height": 49,
+      "description": "Design clear contracts, handle errors, and keep services operable under real traffic.",
+      "interactive": true
+    },
+    {
+      "id": "sSNf93azjuyMzQqIHE0Rh",
+      "kind": "subtopic",
+      "label": "SOAP",
+      "x": 60,
+      "y": 614,
+      "width": 130,
+      "height": 49,
+      "description": "Study SOAP in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "J-TOE2lT4At1mSdNoxPS1",
+      "kind": "subtopic",
+      "label": "gRPC",
+      "x": 194,
+      "y": 614,
+      "width": 133,
+      "height": 49,
+      "description": "Design clear contracts, handle errors, and keep services operable under real traffic.",
+      "interactive": true
+    },
+    {
+      "id": "lfNFDZZNdrB0lbEaMtU71",
+      "kind": "subtopic",
+      "label": "REST",
+      "x": 60,
+      "y": 561,
+      "width": 130,
+      "height": 49,
+      "description": "Design clear contracts, handle errors, and keep services operable under real traffic.",
+      "interactive": true
+    },
+    {
+      "id": "zp3bq38tMnutT2N0tktOW",
+      "kind": "subtopic",
+      "label": "GraphQL",
+      "x": 58,
+      "y": 668,
+      "width": 269,
+      "height": 49,
+      "description": "Design clear contracts, handle errors, and keep services operable under real traffic.",
+      "interactive": true
+    },
+    {
+      "id": "KWTbEVX_WxS8jmSaAX3Fe",
+      "kind": "subtopic",
+      "label": "HTTP Caching",
+      "x": -293,
+      "y": 1068,
+      "width": 233,
+      "height": 50,
+      "description": "Study HTTP Caching in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "uPjCrDGA2MHylWXbZvMBM",
+      "kind": "topic",
+      "label": "Caching",
+      "x": -293,
+      "y": 858,
+      "width": 232,
+      "height": 49,
+      "description": "Core Backend topic: Caching. Learn when to use it, what it costs, and how it fails.",
+      "interactive": true
+    },
+    {
+      "id": "RBrIP5KbVQ2F0ly7kMfTo",
+      "kind": "subtopic",
+      "label": "Web Security",
+      "x": 43,
+      "y": 1115,
+      "width": 300,
+      "height": 49,
+      "description": "Authenticate users, authorize actions, and protect data in transit and at rest.",
+      "interactive": true
+    },
+    {
+      "id": "381Kw1IMRv7CJp-Uf--qd",
+      "kind": "subtopic",
+      "label": "Integration Testing",
+      "x": 46,
+      "y": 2112,
+      "width": 280,
+      "height": 49,
+      "description": "Prove behavior with the right layer of tests—fast feedback without brittle suites.",
+      "interactive": true
+    },
+    {
+      "id": "NAGisfq2CgeK3SsuRjnMw",
+      "kind": "subtopic",
+      "label": "Functional Testing",
+      "x": 45,
+      "y": 2218,
+      "width": 280,
+      "height": 49,
+      "description": "Prove behavior with the right layer of tests—fast feedback without brittle suites.",
+      "interactive": true
+    },
+    {
+      "id": "3OYm6b9f6WOrKi4KTOZYK",
+      "kind": "subtopic",
+      "label": "Unit Testing",
+      "x": 46,
+      "y": 2165,
+      "width": 280,
+      "height": 49,
+      "description": "Prove behavior with the right layer of tests—fast feedback without brittle suites.",
+      "interactive": true
+    },
+    {
+      "id": "STQQbPa7PE3gbjMdL6P-t",
+      "kind": "topic",
+      "label": "Testing",
+      "x": -298,
+      "y": 2219,
+      "width": 242,
+      "height": 49,
+      "description": "Prove behavior with the right layer of tests—fast feedback without brittle suites.",
+      "interactive": true
+    },
+    {
+      "id": "mGfD7HfuP184lFkXZzGjG",
+      "kind": "topic",
+      "label": "CI / CD",
+      "x": -693,
+      "y": 2112,
+      "width": 280,
+      "height": 49,
+      "description": "Core Backend topic: CI / CD. Learn when to use it, what it costs, and how it fails.",
+      "interactive": true
+    },
+    {
+      "id": "Ke522R-4k6TDeiDRyZbbU",
+      "kind": "subtopic",
+      "label": "Monolith",
+      "x": -693,
+      "y": 2631,
+      "width": 122,
+      "height": 49,
+      "description": "Study Monolith in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "n14b7sfTOwsjKTpFC9EZ2",
+      "kind": "subtopic",
+      "label": "Service Mesh",
+      "x": -693,
+      "y": 2737,
+      "width": 280,
+      "height": 49,
+      "description": "Study Service Mesh in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "tObmzWpjsJtK4GWhx6pwB",
+      "kind": "subtopic",
+      "label": "SOA",
+      "x": -693,
+      "y": 2684,
+      "width": 122,
+      "height": 49,
+      "description": "Study SOA in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "8DmabQJXlrT__COZrDVTV",
+      "kind": "subtopic",
+      "label": "Twelve Factor Apps",
+      "x": -693,
+      "y": 2790,
+      "width": 280,
+      "height": 49,
+      "description": "Study Twelve Factor Apps in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "tHiUpG9LN35E5RaHddMv5",
+      "kind": "topic",
+      "label": "Architectural Patterns",
+      "x": -300,
+      "y": 2684,
+      "width": 246,
+      "height": 49,
+      "description": "Core Backend topic: Architectural Patterns. Learn when to use it, what it costs, and how it fails.",
+      "interactive": true
+    },
+    {
+      "id": "GPFRMcY1DEtRgnaZwJ3vW",
+      "kind": "subtopic",
+      "label": "RabbitMQ",
+      "x": 187,
+      "y": 2367,
+      "width": 138,
+      "height": 50,
+      "description": "Study RabbitMQ in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "VoYSis1F1ZfTxMlQlXQKB",
+      "kind": "subtopic",
+      "label": "Kafka",
+      "x": 45,
+      "y": 2367,
+      "width": 138,
+      "height": 49,
+      "description": "Study Kafka in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "nJ5FpFgGCRaALcWmAKBKT",
+      "kind": "topic",
+      "label": "Message Brokers",
+      "x": 45,
+      "y": 2468,
+      "width": 280,
+      "height": 49,
+      "description": "Core Backend topic: Message Brokers. Learn when to use it, what it costs, and how it fails.",
+      "interactive": true
+    },
+    {
+      "id": "31ZlpfIPr9-5vYZqvjUeL",
+      "kind": "subtopic",
+      "label": "LXC",
+      "x": -284,
+      "y": 2462,
+      "width": 214,
+      "height": 49,
+      "description": "Study LXC in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "sVuIdAe08IWJVqAt4z-ag",
+      "kind": "subtopic",
+      "label": "WebSockets",
+      "x": 45,
+      "y": 2910,
+      "width": 280,
+      "height": 49,
+      "description": "Study WebSockets in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "RUSdlokJUcEYbCvq5FJBJ",
+      "kind": "subtopic",
+      "label": "Server Sent Events",
+      "x": 45,
+      "y": 2857,
+      "width": 280,
+      "height": 49,
+      "description": "Study Server Sent Events in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "z5AdThp9ByulmM9uekgm-",
+      "kind": "subtopic",
+      "label": "Nginx",
+      "x": -705,
+      "y": 930,
+      "width": 150,
+      "height": 49,
+      "description": "Study Nginx in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "Op-PSPNoyj6Ss9CS09AXh",
+      "kind": "subtopic",
+      "label": "Caddy",
+      "x": -705,
+      "y": 982,
+      "width": 150,
+      "height": 49,
+      "description": "Study Caddy in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "jjjonHTHHo-NiAf6p9xPv",
+      "kind": "subtopic",
+      "label": "Apache",
+      "x": -551,
+      "y": 930,
+      "width": 150,
+      "height": 49,
+      "description": "Study Apache in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "0NJDgfe6eMa7qPUOI6Eya",
+      "kind": "subtopic",
+      "label": "MS IIS",
+      "x": -551,
+      "y": 982,
+      "width": 150,
+      "height": 49,
+      "description": "Study MS IIS in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "fekyMpEnaGqjh1Cu4Nyc4",
+      "kind": "topic",
+      "label": "Learn about Web Servers",
+      "x": -705,
+      "y": 1068,
+      "width": 306,
+      "height": 49,
+      "description": "Core Backend topic: Learn about Web Servers. Learn when to use it, what it costs, and how it fails.",
+      "interactive": true
+    },
+    {
+      "id": "SHmbcMRsc3SygEDksJQBD",
+      "kind": "topic",
+      "label": "Building For Scale",
+      "x": 45,
+      "y": 3244,
+      "width": 280,
+      "height": 49,
+      "description": "Core Backend topic: Building For Scale. Learn when to use it, what it costs, and how it fails.",
+      "interactive": true
+    },
+    {
+      "id": "g8GjkJAhvnSxXTZks0V1g",
+      "kind": "subtopic",
+      "label": "Redis",
+      "x": -277,
+      "y": 956,
+      "width": 201,
+      "height": 49,
+      "description": "Pick storage for your access patterns—consistency, query shape, and operational cost.",
+      "interactive": true
+    },
+    {
+      "id": "xPvVwGQw28uMeLYIWn8yn",
+      "kind": "subtopic",
+      "label": "Memcached",
+      "x": -277,
+      "y": 1009,
+      "width": 201,
+      "height": 49,
+      "description": "Reduce load and latency with the right placement and write strategy.",
+      "interactive": true
+    },
+    {
+      "id": "28U6q_X-NTYf7OSKHjoWH",
+      "kind": "subtopic",
+      "label": "MongoDB",
+      "x": -513,
+      "y": 3319,
+      "width": 137,
+      "height": 49,
+      "description": "Pick storage for your access patterns—consistency, query shape, and operational cost.",
+      "interactive": true
+    },
+    {
+      "id": "qOlNzZ7U8LhIGukb67n7U",
+      "kind": "subtopic",
+      "label": "CouchDB",
+      "x": -513,
+      "y": 3372,
+      "width": 137,
+      "height": 49,
+      "description": "Study CouchDB in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "BTNJfWemFKEeNeTyENXui",
+      "kind": "subtopic",
+      "label": "Neo4j",
+      "x": -520,
+      "y": 3484,
+      "width": 151,
+      "height": 49,
+      "description": "Study Neo4j in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "G9AI_i3MkUE1BsO3_-PH7",
+      "kind": "subtopic",
+      "label": "Graceful Degradation",
+      "x": 83,
+      "y": 3413,
+      "width": 221,
+      "height": 42,
+      "description": "Study Graceful Degradation in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "qAu-Y4KI2Z_y-EqiG86cR",
+      "kind": "subtopic",
+      "label": "Throttling",
+      "x": 83,
+      "y": 3460,
+      "width": 221,
+      "height": 42,
+      "description": "Study Throttling in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "JansCqGDyXecQkD1K7E7e",
+      "kind": "subtopic",
+      "label": "Backpressure",
+      "x": 83,
+      "y": 3507,
+      "width": 221,
+      "height": 42,
+      "description": "Study Backpressure in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "HoQdX7a4SnkFRU4RPQ-D5",
+      "kind": "subtopic",
+      "label": "Loadshifting",
+      "x": 83,
+      "y": 3554,
+      "width": 221,
+      "height": 42,
+      "description": "Study Loadshifting in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "spkiQTPvXY4qrhhVUkoPV",
+      "kind": "subtopic",
+      "label": "Circuit Breaker",
+      "x": 83,
+      "y": 3601,
+      "width": 221,
+      "height": 42,
+      "description": "Study Circuit Breaker in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "4X-sbqpP0NDhM99bKdqIa",
+      "kind": "subtopic",
+      "label": "Instrumentation",
+      "x": -160,
+      "y": 3452,
+      "width": 216,
+      "height": 49,
+      "description": "Study Instrumentation in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "QvMEEsXh0-rzn5hDGcmEv",
+      "kind": "subtopic",
+      "label": "Monitoring",
+      "x": -160,
+      "y": 3505,
+      "width": 216,
+      "height": 49,
+      "description": "Measure health, latency, errors, and saturation. Alerts should be actionable.",
+      "interactive": true
+    },
+    {
+      "id": "neVRtPjIHP_VG7lHwfah0",
+      "kind": "subtopic",
+      "label": "Telemetry",
+      "x": -160,
+      "y": 3558,
+      "width": 216,
+      "height": 49,
+      "description": "Study Telemetry in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "jWwA6yX4Zjx-r_KpDaD3c",
+      "kind": "subtopic",
+      "label": "MD5",
+      "x": 57,
+      "y": 1222,
+      "width": 123,
+      "height": 49,
+      "description": "Study MD5 in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "JVN38r5jENoteia3YeIQ3",
+      "kind": "subtopic",
+      "label": "SHA",
+      "x": 186,
+      "y": 1222,
+      "width": 140,
+      "height": 49,
+      "description": "Study SHA in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "kGTALrvCpxyVCXHRmkI7s",
+      "kind": "subtopic",
+      "label": "scrypt",
+      "x": 60,
+      "y": 1276,
+      "width": 120,
+      "height": 49,
+      "description": "Study scrypt in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "dlG1bVkDmjI3PEGpkm1xH",
+      "kind": "subtopic",
+      "label": "bcrypt",
+      "x": 185,
+      "y": 1276,
+      "width": 141,
+      "height": 49,
+      "description": "Study bcrypt in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "x-WBJjBd8u93ym5gtxGsR",
+      "kind": "subtopic",
+      "label": "HTTPS",
+      "x": 54,
+      "y": 1355,
+      "width": 109,
+      "height": 49,
+      "description": "Study HTTPS in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "AAgciyxuDvS2B_c6FRMvT",
+      "kind": "subtopic",
+      "label": "OWASP Risks",
+      "x": 169,
+      "y": 1354,
+      "width": 162,
+      "height": 49,
+      "description": "Study OWASP Risks in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "0v3OsaghJEGHeXX0c5kqn",
+      "kind": "subtopic",
+      "label": "SSL/TLS",
+      "x": 169,
+      "y": 1411,
+      "width": 162,
+      "height": 49,
+      "description": "Study SSL/TLS in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "LU6WUbkWKbPM1rb2_gEqa",
+      "kind": "subtopic",
+      "label": "CORS",
+      "x": 54,
+      "y": 1412,
+      "width": 109,
+      "height": 49,
+      "description": "Study CORS in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "TZ0BWOENPv6pQm8qYB8Ow",
+      "kind": "subtopic",
+      "label": "Server Security",
+      "x": 168,
+      "y": 1464,
+      "width": 163,
+      "height": 49,
+      "description": "Authenticate users, authorize actions, and protect data in transit and at rest.",
+      "interactive": true
+    },
+    {
+      "id": "HgQBde1zLUFtlwB66PR6_",
+      "kind": "subtopic",
+      "label": "CSP",
+      "x": 54,
+      "y": 1465,
+      "width": 109,
+      "height": 49,
+      "description": "Study CSP in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "yCnn-NfSxIybUQ2iTuUGq",
+      "kind": "subtopic",
+      "label": "How does the internet work?",
+      "x": 43,
+      "y": -32,
+      "width": 300,
+      "height": 49,
+      "description": "Study How does the internet work? in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "R12sArWVpbIs_PHxBqVaR",
+      "kind": "subtopic",
+      "label": "What is HTTP?",
+      "x": 43,
+      "y": 21,
+      "width": 300,
+      "height": 49,
+      "description": "Study What is HTTP? in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "ZhSuu2VArnzPDp6dPQQSC",
+      "kind": "subtopic",
+      "label": "What is Domain Name?",
+      "x": 43,
+      "y": 74,
+      "width": 300,
+      "height": 49,
+      "description": "Study What is Domain Name? in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "aqMaEY8gkKMikiqleV5EP",
+      "kind": "subtopic",
+      "label": "What is hosting?",
+      "x": 43,
+      "y": 127,
+      "width": 300,
+      "height": 49,
+      "description": "Study What is hosting? in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "hkxw9jPGYphmjhTjw8766",
+      "kind": "subtopic",
+      "label": "DNS and how it works?",
+      "x": 43,
+      "y": 180,
+      "width": 300,
+      "height": 49,
+      "description": "Study DNS and how it works? in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "P82WFaTPgQEPNp5IIuZ1Y",
+      "kind": "subtopic",
+      "label": "Browsers and how they work?",
+      "x": 43,
+      "y": 233,
+      "width": 300,
+      "height": 49,
+      "description": "Study Browsers and how they work? in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "PY9G7KQy8bF6eIdr1ydHf",
+      "kind": "subtopic",
+      "label": "Authentication",
+      "x": 43,
+      "y": 778,
+      "width": 300,
+      "height": 49,
+      "description": "Authenticate users, authorize actions, and protect data in transit and at rest.",
+      "interactive": true
+    },
+    {
+      "id": "UxS_mzVUjLigEwKrXnEeB",
+      "kind": "subtopic",
+      "label": "JWT",
+      "x": 60,
+      "y": 838,
+      "width": 130,
+      "height": 49,
+      "description": "Authenticate users, authorize actions, and protect data in transit and at rest.",
+      "interactive": true
+    },
+    {
+      "id": "yRiJgjjv2s1uV9vgo3n8m",
+      "kind": "subtopic",
+      "label": "Basic Authentication",
+      "x": 58,
+      "y": 891,
+      "width": 269,
+      "height": 49,
+      "description": "Authenticate users, authorize actions, and protect data in transit and at rest.",
+      "interactive": true
+    },
+    {
+      "id": "0rGj7FThLJZouSQUhnqGW",
+      "kind": "subtopic",
+      "label": "Token Authentication",
+      "x": 58,
+      "y": 944,
+      "width": 269,
+      "height": 49,
+      "description": "Authenticate users, authorize actions, and protect data in transit and at rest.",
+      "interactive": true
+    },
+    {
+      "id": "vp-muizdICcmU0gN8zmkS",
+      "kind": "subtopic",
+      "label": "OAuth",
+      "x": 194,
+      "y": 838,
+      "width": 133,
+      "height": 49,
+      "description": "Authenticate users, authorize actions, and protect data in transit and at rest.",
+      "interactive": true
+    },
+    {
+      "id": "ffzsh8_5yRq85trFt9Xhk",
+      "kind": "subtopic",
+      "label": "Cookie Based Auth",
+      "x": 58,
+      "y": 998,
+      "width": 269,
+      "height": 50,
+      "description": "Authenticate users, authorize actions, and protect data in transit and at rest.",
+      "interactive": true
+    },
+    {
+      "id": "z3EJBpgGm0_Uj3ymhypbX",
+      "kind": "subtopic",
+      "label": "OpenID",
+      "x": 60,
+      "y": 1053,
+      "width": 130,
+      "height": 49,
+      "description": "Study OpenID in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "UCHtaePVxS-0kpqlYxbfC",
+      "kind": "subtopic",
+      "label": "SAML",
+      "x": 194,
+      "y": 1053,
+      "width": 133,
+      "height": 49,
+      "description": "Study SAML in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "Ms0TfvSRA1z7NGJAQhdqy",
+      "kind": "label",
+      "label": "Hashing Algorithms",
+      "x": 110,
+      "y": 1173,
+      "width": 166,
+      "height": 36,
+      "description": "Note under this section: Hashing Algorithms.",
+      "interactive": true
+    },
+    {
+      "id": "NulaE1isWqn-feYHg4YQT",
+      "kind": "subtopic",
+      "label": "Elasticsearch",
+      "x": 45,
+      "y": 2781,
+      "width": 138,
+      "height": 49,
+      "description": "Study Elasticsearch in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "iN_1EuIwCx_7lRBw1Io4U",
+      "kind": "subtopic",
+      "label": "Solr",
+      "x": 189,
+      "y": 2781,
+      "width": 138,
+      "height": 49,
+      "description": "Study Solr in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "5XGvep2qoti31bsyqNzrU",
+      "kind": "topic",
+      "label": "Real-Time Data",
+      "x": -298,
+      "y": 2910,
+      "width": 242,
+      "height": 49,
+      "description": "Core Backend topic: Real-Time Data. Learn when to use it, what it costs, and how it fails.",
+      "interactive": true
+    },
+    {
+      "id": "osvajAJlwGI3XnX0fE-kA",
+      "kind": "subtopic",
+      "label": "Long / Short Polling",
+      "x": 45,
+      "y": 2963,
+      "width": 280,
+      "height": 49,
+      "description": "Study Long / Short Polling in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "M0iaSSdVPWaCUpyTG50Vf",
+      "kind": "subtopic",
+      "label": "Redis",
+      "x": -343,
+      "y": 3316,
+      "width": 137,
+      "height": 49,
+      "description": "Pick storage for your access patterns—consistency, query shape, and operational cost.",
+      "interactive": true
+    },
+    {
+      "id": "dwfEHInbX2eFiafM-nRMX",
+      "kind": "subtopic",
+      "label": "DynamoDB",
+      "x": -343,
+      "y": 3369,
+      "width": 137,
+      "height": 49,
+      "description": "Study DynamoDB in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "RyJFLLGieJ8Xjt-DlIayM",
+      "kind": "subtopic",
+      "label": "Firebase",
+      "x": -671,
+      "y": 3320,
+      "width": 124,
+      "height": 49,
+      "description": "Study Firebase in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "5T0ljwlHL0545ICCeehcQ",
+      "kind": "subtopic",
+      "label": "RethinkDB",
+      "x": -671,
+      "y": 3373,
+      "width": 126,
+      "height": 49,
+      "description": "Study RethinkDB in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "kdulE3Z_BdbtRmq6T2KmR",
+      "kind": "subtopic",
+      "label": "SQLite",
+      "x": -551,
+      "y": 580,
+      "width": 136,
+      "height": 49,
+      "description": "Pick storage for your access patterns—consistency, query shape, and operational cost.",
+      "interactive": true
+    },
+    {
+      "id": "XbM4TDImSH-56NsITjyHK",
+      "kind": "subtopic",
+      "label": "Influx DB",
+      "x": -343,
+      "y": 3492,
+      "width": 137,
+      "height": 49,
+      "description": "Study Influx DB in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "WiAK70I0z-_bzbWNwiHUd",
+      "kind": "subtopic",
+      "label": "TimescaleDB",
+      "x": -343,
+      "y": 3545,
+      "width": 137,
+      "height": 49,
+      "description": "Study TimescaleDB in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "zsiZLWJ2bMvrjuHch5fX_",
+      "kind": "subtopic",
+      "label": "Cassandra",
+      "x": -674,
+      "y": 3538,
+      "width": 128,
+      "height": 49,
+      "description": "Study Cassandra in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "5xy66yQrz1P1w7n6PcAFq",
+      "kind": "subtopic",
+      "label": "AWS Neptune",
+      "x": -520,
+      "y": 3537,
+      "width": 152,
+      "height": 49,
+      "description": "Study AWS Neptune in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "Z01E67D6KjrShvQCHjGR7",
+      "kind": "subtopic",
+      "label": "Observability",
+      "x": -174,
+      "y": 3354,
+      "width": 245,
+      "height": 49,
+      "description": "Measure health, latency, errors, and saturation. Alerts should be actionable.",
+      "interactive": true
+    },
+    {
+      "id": "cnZFR67IbmEL-SkNwYc5S",
+      "kind": "label",
+      "label": "Click to visit the roadmap",
+      "x": 126,
+      "y": 3089,
+      "width": 180,
+      "height": 40,
+      "description": "Note under this section: Click to visit the roadmap.",
+      "interactive": true
+    },
+    {
+      "id": "oyg5g4-cY5EBEUgVkjnL3",
+      "kind": "topic",
+      "label": "Frontend Basics",
+      "x": -293,
+      "y": 128,
+      "width": 232,
+      "height": 49,
+      "description": "Ship usable UI: structure, state, accessibility, and performance matter as much as the framework.",
+      "interactive": true
+    },
+    {
+      "id": "9-pCsW650T1mfj5dmRB9L",
+      "kind": "subtopic",
+      "label": "HTML",
+      "x": -293,
+      "y": 215,
+      "width": 113,
+      "height": 49,
+      "description": "Ship usable UI: structure, state, accessibility, and performance matter as much as the framework.",
+      "interactive": true
+    },
+    {
+      "id": "utA1W2O6pzoV_LbtDE5DN",
+      "kind": "subtopic",
+      "label": "CSS",
+      "x": -176,
+      "y": 215,
+      "width": 116,
+      "height": 49,
+      "description": "Ship usable UI: structure, state, accessibility, and performance matter as much as the framework.",
+      "interactive": true
+    },
+    {
+      "id": "An2lMuJEkkpL0cfw4RrSl",
+      "kind": "subtopic",
+      "label": "JavaScript",
+      "x": -293,
+      "y": 268,
+      "width": 232,
+      "height": 49,
+      "description": "Study JavaScript in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "WH2EEQ3SQ8IlZLCv8aXjJ",
+      "kind": "label",
+      "label": "API Styles",
+      "x": 134,
+      "y": 511,
+      "width": 180,
+      "height": 40,
+      "description": "Design clear contracts, handle errors, and keep services operable under real traffic.",
+      "interactive": true
+    },
+    {
+      "id": "KrMr6qlHG_ZDpKTIYAHAS",
+      "kind": "label",
+      "label": "Server Side",
+      "x": -229,
+      "y": 912,
+      "width": 180,
+      "height": 40,
+      "description": "Note under this section: Server Side.",
+      "interactive": true
+    },
+    {
+      "id": "SIzm-oc6cJrTXSeMzC4D9",
+      "kind": "label",
+      "label": "Containerization",
+      "x": -248,
+      "y": 2361,
+      "width": 180,
+      "height": 40,
+      "description": "Package and orchestrate workloads. Start with containers, then scheduling, networking, and rollout strategy.",
+      "interactive": true
+    },
+    {
+      "id": "BQbVZ1Hgr4Vt1kR2Zrtgp",
+      "kind": "label",
+      "label": "Container Orchestration",
+      "x": -277,
+      "y": 2525,
+      "width": 180,
+      "height": 40,
+      "description": "Package and orchestrate workloads. Start with containers, then scheduling, networking, and rollout strategy.",
+      "interactive": true
+    },
+    {
+      "id": "K55h3aqOGe6-hgVhiFisT",
+      "kind": "subtopic",
+      "label": "Microservices",
+      "x": -565,
+      "y": 2631,
+      "width": 153,
+      "height": 49,
+      "description": "Study Microservices in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "nkmIv3dNwre4yrULMgTh3",
+      "kind": "subtopic",
+      "label": "Serverless",
+      "x": -565,
+      "y": 2684,
+      "width": 153,
+      "height": 49,
+      "description": "Study Serverless in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "ZyGLSvx17p7QmYDy1LFbM",
+      "kind": "subtopic",
+      "label": "ClickHouse",
+      "x": -673,
+      "y": 3485,
+      "width": 128,
+      "height": 49,
+      "description": "Study ClickHouse in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "aArZ3gKwObzafCkTOd-Hj",
+      "kind": "subtopic",
+      "label": "ScyllaDB",
+      "x": -674,
+      "y": 3591,
+      "width": 127,
+      "height": 49,
+      "description": "Study ScyllaDB in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "GKrcTsUi5XWj_pP1TOK0S",
+      "kind": "subtopic",
+      "label": "DGraph",
+      "x": -520,
+      "y": 3590,
+      "width": 151,
+      "height": 49,
+      "description": "Study DGraph in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "MOLAXgs0CMCT7o84L0EaK",
+      "kind": "subtopic",
+      "label": "Migrations",
+      "x": -154,
+      "y": 503,
+      "width": 151,
+      "height": 49,
+      "description": "Study Migrations in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "RcC1fVuePQZ59AsJfeTdR",
+      "kind": "subtopic",
+      "label": "Claude Code",
+      "x": -325,
+      "y": 1448,
+      "width": 146,
+      "height": 49,
+      "description": "Study Claude Code in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "HQrxxDxKN8gizvXRU5psW",
+      "kind": "subtopic",
+      "label": "Copilot",
+      "x": -325,
+      "y": 1501,
+      "width": 146,
+      "height": 49,
+      "description": "Study Copilot in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "CKlkVK_7GZ7xzIUHJqZr8",
+      "kind": "subtopic",
+      "label": "Cursor",
+      "x": -175,
+      "y": 1448,
+      "width": 146,
+      "height": 49,
+      "description": "Study Cursor in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "E7-LveK7jO2npxVTLUDfw",
+      "kind": "subtopic",
+      "label": "Antigravity",
+      "x": -175,
+      "y": 1501,
+      "width": 146,
+      "height": 49,
+      "description": "Study Antigravity in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "tUNP5VRKvrPcufPDPPEo8",
+      "kind": "subtopic",
+      "label": "How LLMs work",
+      "x": -325,
+      "y": 1194,
+      "width": 296,
+      "height": 49,
+      "description": "Study How LLMs work in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "IZKl6PxbvgNkryAkdy3-p",
+      "kind": "subtopic",
+      "label": "AI vs Traditional Coding",
+      "x": -325,
+      "y": 1247,
+      "width": 296,
+      "height": 49,
+      "description": "Study AI vs Traditional Coding in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "0TMdly8yiqnNR8sx36iqc",
+      "kind": "subtopic",
+      "label": "Code Reviews",
+      "x": -691,
+      "y": 1709,
+      "width": 278,
+      "height": 49,
+      "description": "Study Code Reviews in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "q7NpwqQXUp4wt2to-yFiP",
+      "kind": "subtopic",
+      "label": "Documentation Generation",
+      "x": -691,
+      "y": 1815,
+      "width": 278,
+      "height": 49,
+      "description": "Study Documentation Generation in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "UTupdqjOyLh7-56_0SXJ8",
+      "kind": "topic",
+      "label": "Learn the Basics",
+      "x": -692,
+      "y": 1353,
+      "width": 278,
+      "height": 49,
+      "description": "Core Backend topic: Learn the Basics. Learn when to use it, what it costs, and how it fails.",
+      "interactive": true
+    },
+    {
+      "id": "fA3yi9puMbTFmbPpo6OjN",
+      "kind": "topic",
+      "label": "AI Assisted Coding",
+      "x": -325,
+      "y": 1610,
+      "width": 296,
+      "height": 49,
+      "description": "Core Backend topic: AI Assisted Coding. Learn when to use it, what it costs, and how it fails.",
+      "interactive": true
+    },
+    {
+      "id": "xL8d-uHMpJKwUvT8z-Jia",
+      "kind": "subtopic",
+      "label": "Prompting Techniques",
+      "x": 45,
+      "y": 1658,
+      "width": 300,
+      "height": 49,
+      "description": "Study Prompting Techniques in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "Bic4PHhz-YqzPWRimJO83",
+      "kind": "subtopic",
+      "label": "Gemini",
+      "x": 63,
+      "y": 1874,
+      "width": 260,
+      "height": 49,
+      "description": "Study Gemini in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "-ye5ZtYFDoYGpj-UJaBP8",
+      "kind": "subtopic",
+      "label": "OpenAI",
+      "x": 63,
+      "y": 1927,
+      "width": 260,
+      "height": 49,
+      "description": "Study OpenAI in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "Lw2nR7x8PYgq1P5CxPAxi",
+      "kind": "subtopic",
+      "label": "Anthropic",
+      "x": 63,
+      "y": 1980,
+      "width": 260,
+      "height": 49,
+      "description": "Study Anthropic in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "EYT2rTLZ8tUW2u8DOnAWF",
+      "kind": "subtopic",
+      "label": "Refactoring",
+      "x": -691,
+      "y": 1762,
+      "width": 278,
+      "height": 49,
+      "description": "Study Refactoring in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "Nx7mjvYgqLpmJ0_iSx5of",
+      "kind": "topic",
+      "label": "Applications",
+      "x": -691,
+      "y": 1610,
+      "width": 278,
+      "height": 49,
+      "description": "Core Backend topic: Applications. Learn when to use it, what it costs, and how it fails.",
+      "interactive": true
+    },
+    {
+      "id": "Kvqsa2B03-sEQrlIeE_Kt",
+      "kind": "label",
+      "label": "AI in Development",
+      "x": -643,
+      "y": 1210,
+      "width": 180,
+      "height": 40,
+      "description": "Note under this section: AI in Development.",
+      "interactive": true
+    },
+    {
+      "id": "9f-aWi3_7USy4XpNzrTL6",
+      "kind": "subtopic",
+      "label": "Streaming",
+      "x": -691,
+      "y": 1887,
+      "width": 278,
+      "height": 49,
+      "description": "Study Streaming in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "GMxPmyatxYmIPRFHfRAnr",
+      "kind": "subtopic",
+      "label": "Structured Outputs",
+      "x": -691,
+      "y": 1940,
+      "width": 278,
+      "height": 49,
+      "description": "Study Structured Outputs in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "Uve-UObgOBfrd-cLayVWe",
+      "kind": "subtopic",
+      "label": "Function Calling",
+      "x": -691,
+      "y": 1993,
+      "width": 278,
+      "height": 49,
+      "description": "Study Function Calling in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "iatQ3RCxESHt1CwN3PSfx",
+      "kind": "topic",
+      "label": "Integration Patterns",
+      "x": -325,
+      "y": 1993,
+      "width": 296,
+      "height": 49,
+      "description": "Prove behavior with the right layer of tests—fast feedback without brittle suites.",
+      "interactive": true
+    },
+    {
+      "id": "6PCOCzCbx7jo9wO2Hl2gy",
+      "kind": "subtopic",
+      "label": "RAGs",
+      "x": -175,
+      "y": 1353,
+      "width": 146,
+      "height": 49,
+      "description": "Study RAGs in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "yKNdBbahm_h81xdMDT-qx",
+      "kind": "subtopic",
+      "label": "Vectors",
+      "x": -325,
+      "y": 1353,
+      "width": 146,
+      "height": 49,
+      "description": "Study Vectors in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "Ofv__kXuBk-Vv2jVhaFss",
+      "kind": "subtopic",
+      "label": "Embeddings",
+      "x": -325,
+      "y": 1300,
+      "width": 296,
+      "height": 49,
+      "description": "Study Embeddings in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "AAKnlJqWaAc8-zRvtIC6E",
+      "kind": "label",
+      "label": "Building AI-powered features",
+      "x": -296,
+      "y": 1849,
+      "width": 180,
+      "height": 40,
+      "description": "Note under this section: Building AI-powered features.",
+      "interactive": true
+    },
+    {
+      "id": "mHnI19RgZ57XDEIDaHxD0",
+      "kind": "subtopic",
+      "label": "MCP",
+      "x": 147,
+      "y": 1711,
+      "width": 98,
+      "height": 49,
+      "description": "Study MCP in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "IWubGe3oquSj882QVnhLU",
+      "kind": "subtopic",
+      "label": "Skills",
+      "x": 249,
+      "y": 1711,
+      "width": 96,
+      "height": 49,
+      "description": "Study Skills in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "w1D3-bSg93ndKK9XJTu7z",
+      "kind": "subtopic",
+      "label": "Agents",
+      "x": 45,
+      "y": 1711,
+      "width": 98,
+      "height": 49,
+      "description": "Study Agents in the Backend path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "fVgKQ27R3HxbZvrqXM7Zi",
+      "kind": "label",
+      "label": "AI Providers",
+      "x": 139,
+      "y": 1833,
+      "width": 180,
+      "height": 40,
+      "description": "Note under this section: AI Providers.",
+      "interactive": true
+    },
+    {
+      "id": "A7tBRtcV8EvcnODcokETG",
+      "kind": "label",
+      "label": "Advanced Backend",
+      "x": -272,
+      "y": 2115,
+      "width": 180,
+      "height": 40,
+      "description": "Note under this section: Advanced Backend.",
+      "interactive": true
+    }
+  ],
+  "edges": [
+    {
+      "id": "reactflow__edge-iogwMmOvub2ZF4zgg6WyFx2-NVSQ4OtmvRp7p4cOEvKh7w1",
+      "from": "iogwMmOvub2ZF4zgg6WyF",
+      "to": "SiYUdtYMDImRPmV2_XPkH"
+    },
+    {
+      "id": "reactflow__edge-SiYUdtYMDImRPmV2_XPkHz2-yCnn-NfSxIybUQ2iTuUGqy1",
+      "from": "SiYUdtYMDImRPmV2_XPkH",
+      "to": "yCnn-NfSxIybUQ2iTuUGq"
+    },
+    {
+      "id": "reactflow__edge-SiYUdtYMDImRPmV2_XPkHz2-R12sArWVpbIs_PHxBqVaRy1",
+      "from": "SiYUdtYMDImRPmV2_XPkH",
+      "to": "R12sArWVpbIs_PHxBqVaR"
+    },
+    {
+      "id": "reactflow__edge-SiYUdtYMDImRPmV2_XPkHz2-ZhSuu2VArnzPDp6dPQQSCy1",
+      "from": "SiYUdtYMDImRPmV2_XPkH",
+      "to": "ZhSuu2VArnzPDp6dPQQSC"
+    },
+    {
+      "id": "reactflow__edge-SiYUdtYMDImRPmV2_XPkHz2-aqMaEY8gkKMikiqleV5EPy1",
+      "from": "SiYUdtYMDImRPmV2_XPkH",
+      "to": "aqMaEY8gkKMikiqleV5EP"
+    },
+    {
+      "id": "reactflow__edge-SiYUdtYMDImRPmV2_XPkHz2-hkxw9jPGYphmjhTjw8766y1",
+      "from": "SiYUdtYMDImRPmV2_XPkH",
+      "to": "hkxw9jPGYphmjhTjw8766"
+    },
+    {
+      "id": "reactflow__edge-SiYUdtYMDImRPmV2_XPkHz2-P82WFaTPgQEPNp5IIuZ1Yy2",
+      "from": "SiYUdtYMDImRPmV2_XPkH",
+      "to": "P82WFaTPgQEPNp5IIuZ1Y"
+    },
+    {
+      "id": "xy-edge__ezdqQW9wTUw93F6kjOzkuz2-_I1E__wCIVrhjMk6IMieEy1",
+      "from": "ezdqQW9wTUw93F6kjOzku",
+      "to": "_I1E__wCIVrhjMk6IMieE"
+    },
+    {
+      "id": "xy-edge__NvUcSDWBhzJZ31nzT4UlEz2-ptD8EVqwFUYr4W5A_tABYy1",
+      "from": "NvUcSDWBhzJZ31nzT4UlE",
+      "to": "ptD8EVqwFUYr4W5A_tABY"
+    },
+    {
+      "id": "xy-edge__NvUcSDWBhzJZ31nzT4UlEx2-r45b461NxLN6wBODJ5CNPw1",
+      "from": "NvUcSDWBhzJZ31nzT4UlE",
+      "to": "r45b461NxLN6wBODJ5CNP"
+    },
+    {
+      "id": "xy-edge__r45b461NxLN6wBODJ5CNPy2-FihTrMO56kj9jT8O_pO2Tz1",
+      "from": "r45b461NxLN6wBODJ5CNP",
+      "to": "FihTrMO56kj9jT8O_pO2T"
+    },
+    {
+      "id": "xy-edge__r45b461NxLN6wBODJ5CNPy2-kdulE3Z_BdbtRmq6T2KmRz1",
+      "from": "r45b461NxLN6wBODJ5CNP",
+      "to": "kdulE3Z_BdbtRmq6T2KmR"
+    },
+    {
+      "id": "xy-edge__r45b461NxLN6wBODJ5CNPy2-h1SAjQltHtztSt8QmRgabz1",
+      "from": "r45b461NxLN6wBODJ5CNP",
+      "to": "h1SAjQltHtztSt8QmRgab"
+    },
+    {
+      "id": "xy-edge__r45b461NxLN6wBODJ5CNPx2-EwvLPSI6AlZ4TnNIJTZA4w1",
+      "from": "r45b461NxLN6wBODJ5CNP",
+      "to": "EwvLPSI6AlZ4TnNIJTZA4"
+    },
+    {
+      "id": "xy-edge__EwvLPSI6AlZ4TnNIJTZA4z2-9cD5ag1L0GqHx4_zxc5JXy1",
+      "from": "EwvLPSI6AlZ4TnNIJTZA4",
+      "to": "9cD5ag1L0GqHx4_zxc5JX"
+    },
+    {
+      "id": "xy-edge__EwvLPSI6AlZ4TnNIJTZA4x2-ELj8af7Mi38kUbaPJfCURw2",
+      "from": "EwvLPSI6AlZ4TnNIJTZA4",
+      "to": "uPjCrDGA2MHylWXbZvMBM"
+    },
+    {
+      "id": "xy-edge__LJt27onEOeIBomiEMTyKdz2-STQQbPa7PE3gbjMdL6P-ty1",
+      "from": "LJt27onEOeIBomiEMTyKd",
+      "to": "STQQbPa7PE3gbjMdL6P-t"
+    },
+    {
+      "id": "xy-edge__STQQbPa7PE3gbjMdL6P-tx2-TcfbKmrUwzOwl13Pthm8zw1",
+      "from": "STQQbPa7PE3gbjMdL6P-t",
+      "to": "TcfbKmrUwzOwl13Pthm8z"
+    },
+    {
+      "id": "xy-edge__TcfbKmrUwzOwl13Pthm8zz2-nJ5FpFgGCRaALcWmAKBKTy2",
+      "from": "TcfbKmrUwzOwl13Pthm8z",
+      "to": "nJ5FpFgGCRaALcWmAKBKT"
+    },
+    {
+      "id": "xy-edge__tHiUpG9LN35E5RaHddMv5y2-K55h3aqOGe6-hgVhiFisTz1",
+      "from": "tHiUpG9LN35E5RaHddMv5",
+      "to": "K55h3aqOGe6-hgVhiFisT"
+    },
+    {
+      "id": "xy-edge__tHiUpG9LN35E5RaHddMv5y2-nkmIv3dNwre4yrULMgTh3z1",
+      "from": "tHiUpG9LN35E5RaHddMv5",
+      "to": "nkmIv3dNwre4yrULMgTh3"
+    },
+    {
+      "id": "xy-edge__tHiUpG9LN35E5RaHddMv5y2-n14b7sfTOwsjKTpFC9EZ2z2",
+      "from": "tHiUpG9LN35E5RaHddMv5",
+      "to": "n14b7sfTOwsjKTpFC9EZ2"
+    },
+    {
+      "id": "xy-edge__tHiUpG9LN35E5RaHddMv5y2-8DmabQJXlrT__COZrDVTVz1",
+      "from": "tHiUpG9LN35E5RaHddMv5",
+      "to": "8DmabQJXlrT__COZrDVTV"
+    },
+    {
+      "id": "xy-edge__gKTSe9yQFVbPVlLzWB0hCy2-tHiUpG9LN35E5RaHddMv5z1",
+      "from": "gKTSe9yQFVbPVlLzWB0hC",
+      "to": "tHiUpG9LN35E5RaHddMv5"
+    },
+    {
+      "id": "xy-edge__5XGvep2qoti31bsyqNzrUz2-sVuIdAe08IWJVqAt4z-agy1",
+      "from": "5XGvep2qoti31bsyqNzrU",
+      "to": "sVuIdAe08IWJVqAt4z-ag"
+    },
+    {
+      "id": "xy-edge__5XGvep2qoti31bsyqNzrUz2-osvajAJlwGI3XnX0fE-kAy1",
+      "from": "5XGvep2qoti31bsyqNzrU",
+      "to": "osvajAJlwGI3XnX0fE-kA"
+    },
+    {
+      "id": "xy-edge__RUSdlokJUcEYbCvq5FJBJy2-5XGvep2qoti31bsyqNzrUz1",
+      "from": "RUSdlokJUcEYbCvq5FJBJ",
+      "to": "5XGvep2qoti31bsyqNzrU"
+    },
+    {
+      "id": "xy-edge__95d9itpUZ4s9roZN8kG9xy2-LAdKDJ4LcMaDWqslMvE8Xz1",
+      "from": "95d9itpUZ4s9roZN8kG9x",
+      "to": "LAdKDJ4LcMaDWqslMvE8X"
+    },
+    {
+      "id": "xy-edge__95d9itpUZ4s9roZN8kG9xy2-zWstl08R4uzqve4BdYurpz1",
+      "from": "95d9itpUZ4s9roZN8kG9x",
+      "to": "zWstl08R4uzqve4BdYurp"
+    },
+    {
+      "id": "xy-edge__95d9itpUZ4s9roZN8kG9xy2-wrl7HHWXOaxoKVlNZxZ6dz1",
+      "from": "95d9itpUZ4s9roZN8kG9x",
+      "to": "wrl7HHWXOaxoKVlNZxZ6d"
+    },
+    {
+      "id": "xy-edge__95d9itpUZ4s9roZN8kG9xy2-y-xkHFE9YzhNIX3EiWspLz1",
+      "from": "95d9itpUZ4s9roZN8kG9x",
+      "to": "y-xkHFE9YzhNIX3EiWspL"
+    },
+    {
+      "id": "xy-edge__95d9itpUZ4s9roZN8kG9xx2-F8frGuv1dunOdcVJ_IiGsw1",
+      "from": "95d9itpUZ4s9roZN8kG9x",
+      "to": "F8frGuv1dunOdcVJ_IiGs"
+    },
+    {
+      "id": "loYS1cqaIk953RwjVphqr",
+      "from": "iatQ3RCxESHt1CwN3PSfx",
+      "to": "9f-aWi3_7USy4XpNzrTL6"
+    },
+    {
+      "id": "SqyoZ-c-9KH6eAQlESgAa",
+      "from": "iatQ3RCxESHt1CwN3PSfx",
+      "to": "GMxPmyatxYmIPRFHfRAnr"
+    },
+    {
+      "id": "YJAHlej2Akp_T5h7K4gci",
+      "from": "iatQ3RCxESHt1CwN3PSfx",
+      "to": "Uve-UObgOBfrd-cLayVWe"
+    },
+    {
+      "id": "xy-edge__KWTbEVX_WxS8jmSaAX3Fey2-fekyMpEnaGqjh1Cu4Nyc4z1",
+      "from": "KWTbEVX_WxS8jmSaAX3Fe",
+      "to": "fekyMpEnaGqjh1Cu4Nyc4"
+    },
+    {
+      "id": "xy-edge__fekyMpEnaGqjh1Cu4Nyc4x2-Kvqsa2B03-sEQrlIeE_Ktw2",
+      "from": "fekyMpEnaGqjh1Cu4Nyc4",
+      "to": "Kvqsa2B03-sEQrlIeE_Kt"
+    },
+    {
+      "id": "xy-edge__Kvqsa2B03-sEQrlIeE_Ktx2-UTupdqjOyLh7-56_0SXJ8w1",
+      "from": "Kvqsa2B03-sEQrlIeE_Kt",
+      "to": "UTupdqjOyLh7-56_0SXJ8"
+    },
+    {
+      "id": "xy-edge__UTupdqjOyLh7-56_0SXJ8z2-tUNP5VRKvrPcufPDPPEo8y1",
+      "from": "UTupdqjOyLh7-56_0SXJ8",
+      "to": "tUNP5VRKvrPcufPDPPEo8"
+    },
+    {
+      "id": "xy-edge__UTupdqjOyLh7-56_0SXJ8z2-IZKl6PxbvgNkryAkdy3-py1",
+      "from": "UTupdqjOyLh7-56_0SXJ8",
+      "to": "IZKl6PxbvgNkryAkdy3-p"
+    },
+    {
+      "id": "xy-edge__UTupdqjOyLh7-56_0SXJ8z2-Ofv__kXuBk-Vv2jVhaFssy2",
+      "from": "UTupdqjOyLh7-56_0SXJ8",
+      "to": "Ofv__kXuBk-Vv2jVhaFss"
+    },
+    {
+      "id": "xy-edge__UTupdqjOyLh7-56_0SXJ8z2-yKNdBbahm_h81xdMDT-qxy1",
+      "from": "UTupdqjOyLh7-56_0SXJ8",
+      "to": "yKNdBbahm_h81xdMDT-qx"
+    },
+    {
+      "id": "fFFC-_2_eqSo6w98NlfsU",
+      "from": "Nx7mjvYgqLpmJ0_iSx5of",
+      "to": "0TMdly8yiqnNR8sx36iqc"
+    },
+    {
+      "id": "xy-edge__UTupdqjOyLh7-56_0SXJ8x2-Nx7mjvYgqLpmJ0_iSx5ofw1",
+      "from": "UTupdqjOyLh7-56_0SXJ8",
+      "to": "Nx7mjvYgqLpmJ0_iSx5of"
+    },
+    {
+      "id": "xy-edge__fA3yi9puMbTFmbPpo6OjNy2-Nx7mjvYgqLpmJ0_iSx5ofz2",
+      "from": "fA3yi9puMbTFmbPpo6OjN",
+      "to": "Nx7mjvYgqLpmJ0_iSx5of"
+    },
+    {
+      "id": "xy-edge__fA3yi9puMbTFmbPpo6OjNx2-A7tBRtcV8EvcnODcokETGw2",
+      "from": "fA3yi9puMbTFmbPpo6OjN",
+      "to": "AAKnlJqWaAc8-zRvtIC6E"
+    },
+    {
+      "id": "xy-edge__iatQ3RCxESHt1CwN3PSfxx2-A7tBRtcV8EvcnODcokETGw1",
+      "from": "iatQ3RCxESHt1CwN3PSfx",
+      "to": "A7tBRtcV8EvcnODcokETG"
+    },
+    {
+      "id": "xy-edge__A7tBRtcV8EvcnODcokETGy2-mGfD7HfuP184lFkXZzGjGz1",
+      "from": "A7tBRtcV8EvcnODcokETG",
+      "to": "mGfD7HfuP184lFkXZzGjG"
+    },
+    {
+      "id": "xy-edge__LJt27onEOeIBomiEMTyKdw2-mGfD7HfuP184lFkXZzGjGx1",
+      "from": "LJt27onEOeIBomiEMTyKd",
+      "to": "mGfD7HfuP184lFkXZzGjG"
+    },
+    {
+      "id": "xy-edge__LJt27onEOeIBomiEMTyKdx2-rq_y_OBMD9AH_4aoecvAiw1",
+      "from": "LJt27onEOeIBomiEMTyKd",
+      "to": "rq_y_OBMD9AH_4aoecvAi"
+    },
+    {
+      "id": "xy-edge__STQQbPa7PE3gbjMdL6P-tz2-381Kw1IMRv7CJp-Uf--qdy1",
+      "from": "STQQbPa7PE3gbjMdL6P-t",
+      "to": "381Kw1IMRv7CJp-Uf--qd"
+    },
+    {
+      "id": "xy-edge__STQQbPa7PE3gbjMdL6P-tz2-3OYm6b9f6WOrKi4KTOZYKy1",
+      "from": "STQQbPa7PE3gbjMdL6P-t",
+      "to": "3OYm6b9f6WOrKi4KTOZYK"
+    },
+    {
+      "id": "xy-edge__STQQbPa7PE3gbjMdL6P-tz2-NAGisfq2CgeK3SsuRjnMwy1",
+      "from": "STQQbPa7PE3gbjMdL6P-t",
+      "to": "NAGisfq2CgeK3SsuRjnMw"
+    },
+    {
+      "id": "xy-edge__nJ5FpFgGCRaALcWmAKBKTx2-gKTSe9yQFVbPVlLzWB0hCw2",
+      "from": "nJ5FpFgGCRaALcWmAKBKT",
+      "to": "gKTSe9yQFVbPVlLzWB0hC"
+    },
+    {
+      "id": "xy-edge__5XGvep2qoti31bsyqNzrUx2-95d9itpUZ4s9roZN8kG9xw1",
+      "from": "5XGvep2qoti31bsyqNzrU",
+      "to": "95d9itpUZ4s9roZN8kG9x"
+    }
+  ]
+}

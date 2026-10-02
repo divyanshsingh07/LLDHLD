@@ -1,0 +1,11 @@
+{
+  "source": "robots-kubernetes-io",
+  "url": "https://kubernetes.io/robots.txt",
+  "retrievedAt": "2026-10-02T05:13:57.358Z",
+  "contentHash": "a596f8f693e5eee502900b033a46f73d564da30aef78b63c9233f8283fd8a4fa",
+  "contentType": "text/plain",
+  "content": "User-agent: *\n\nDisallow: /legacy/\nDisallow: /v1.0/\nDisallow: /v1.1/\nDisallow: /404/\nDisallow: /404.html\n\nSITEMAP: https://kubernetes.io/sitemap.xml\n",
+  "meta": {
+    "status": 200
+  }
+}

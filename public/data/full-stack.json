@@ -1,0 +1,593 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2026-10-02T05:35:31.626Z",
+  "slug": "full-stack",
+  "title": "Full Stack",
+  "subtitle": "Frontend + backend path for shipping end-to-end products",
+  "sourceNote": "Topic map structure discovered via roadmap.sh public API (discovery-only). Descriptions are original. See https://roadmap.sh/full-stack",
+  "sourceUrl": "https://roadmap.sh/full-stack",
+  "discoveryUrl": "https://roadmap.sh/api/v1-official-roadmap/full-stack",
+  "stats": {
+    "nodes": 44,
+    "interactive": 41,
+    "edges": 18
+  },
+  "nodes": [
+    {
+      "id": "kPPgIGhyoDoJoUJnP-vOY",
+      "kind": "section",
+      "label": "",
+      "x": 45,
+      "y": -126,
+      "width": 356,
+      "height": 103,
+      "description": "",
+      "interactive": false
+    },
+    {
+      "id": "iogwMmOvub2ZF4zgg6WyF",
+      "kind": "title",
+      "label": "Full Stack",
+      "x": -585,
+      "y": -193,
+      "width": 162,
+      "height": 68,
+      "description": "A structured Full Stack learning path. Work top-down: foundations first, then building blocks, then advanced patterns.",
+      "interactive": false
+    },
+    {
+      "id": "B0kARTODvCBi0iOF8iiqI",
+      "kind": "topic",
+      "label": "HTML",
+      "x": -396,
+      "y": 43,
+      "width": 105,
+      "height": 49,
+      "description": "Ship usable UI: structure, state, accessibility, and performance matter as much as the framework.",
+      "interactive": true
+    },
+    {
+      "id": "dAJHWmGeiYdzZ1ZjrWz1S",
+      "kind": "topic",
+      "label": "CSS",
+      "x": -252,
+      "y": 43,
+      "width": 101,
+      "height": 49,
+      "description": "Ship usable UI: structure, state, accessibility, and performance matter as much as the framework.",
+      "interactive": true
+    },
+    {
+      "id": "T9PB6WQf-Fa9NXKKvVOy_",
+      "kind": "topic",
+      "label": "JavaScript",
+      "x": 28,
+      "y": 43,
+      "width": 125,
+      "height": 49,
+      "description": "Core Full Stack topic: JavaScript. Learn when to use it, what it costs, and how it fails.",
+      "interactive": true
+    },
+    {
+      "id": "mGgx_QTEPmVKf6AijX9fi",
+      "kind": "topic",
+      "label": "npm",
+      "x": 298,
+      "y": 133,
+      "width": 101,
+      "height": 49,
+      "description": "Core Full Stack topic: npm. Learn when to use it, what it costs, and how it fails.",
+      "interactive": true
+    },
+    {
+      "id": "WsdUAEaI7FX6DKKhPXUHp",
+      "kind": "subtopic",
+      "label": "Checkpoint - Static Webpages",
+      "x": -352,
+      "y": 133,
+      "width": 291,
+      "height": 49,
+      "description": "Study Checkpoint - Static Webpages in the Full Stack path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "2DFzoIUjKdAKGjfu_SCfa",
+      "kind": "subtopic",
+      "label": "Checkpoint - Interactivity",
+      "x": -24,
+      "y": 133,
+      "width": 287,
+      "height": 49,
+      "description": "Study Checkpoint - Interactivity in the Full Stack path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "We2APJpOPTr-VNfowG0kI",
+      "kind": "topic",
+      "label": "Git",
+      "x": 162,
+      "y": 316,
+      "width": 101,
+      "height": 49,
+      "description": "Core Full Stack topic: Git. Learn when to use it, what it costs, and how it fails.",
+      "interactive": true
+    },
+    {
+      "id": "8sPXL8iClpPqje03ksses",
+      "kind": "topic",
+      "label": "GitHub",
+      "x": -20,
+      "y": 316,
+      "width": 101,
+      "height": 49,
+      "description": "Core Full Stack topic: GitHub. Learn when to use it, what it costs, and how it fails.",
+      "interactive": true
+    },
+    {
+      "id": "R4aeJNOrfWyVp3ea-qF4H",
+      "kind": "subtopic",
+      "label": "Checkpoint - External Packages",
+      "x": -27,
+      "y": 215,
+      "width": 290,
+      "height": 49,
+      "description": "Study Checkpoint - External Packages in the Full Stack path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "CVCqdPkq_hGQfI8EEi5RC",
+      "kind": "topic",
+      "label": "Tailwind CSS",
+      "x": -329,
+      "y": 315,
+      "width": 146,
+      "height": 49,
+      "description": "Ship usable UI: structure, state, accessibility, and performance matter as much as the framework.",
+      "interactive": true
+    },
+    {
+      "id": "khoUtTUxdf8udAzN9_CAb",
+      "kind": "topic",
+      "label": "React",
+      "x": -445,
+      "y": 315,
+      "width": 101,
+      "height": 49,
+      "description": "Ship usable UI: structure, state, accessibility, and performance matter as much as the framework.",
+      "interactive": true
+    },
+    {
+      "id": "zFGWxgLPcZoW7KIzlnSV9",
+      "kind": "subtopic",
+      "label": "Checkpoint - Collaborative Work",
+      "x": -351,
+      "y": 215,
+      "width": 290,
+      "height": 49,
+      "description": "Study Checkpoint - Collaborative Work in the Full Stack path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "7JU1cVggMDoZUV-adGsf-",
+      "kind": "subtopic",
+      "label": "Checkpoint - Frontend Apps",
+      "x": -443,
+      "y": 483,
+      "width": 260,
+      "height": 49,
+      "description": "Ship usable UI: structure, state, accessibility, and performance matter as much as the framework.",
+      "interactive": true
+    },
+    {
+      "id": "_aA6Hp4KkgJeptqo8oKTg",
+      "kind": "topic",
+      "label": "Node.js",
+      "x": 7,
+      "y": 575,
+      "width": 146,
+      "height": 49,
+      "description": "Design clear contracts, handle errors, and keep services operable under real traffic.",
+      "interactive": true
+    },
+    {
+      "id": "WqNcVZ8IkyqEubdd9JCa1",
+      "kind": "label",
+      "label": "Backend Starts here",
+      "x": -283,
+      "y": 631,
+      "width": 174,
+      "height": 36,
+      "description": "Note under this section: Backend Starts here.",
+      "interactive": true
+    },
+    {
+      "id": "JGu0TKwAw-ieiG92BytYI",
+      "kind": "subtopic",
+      "label": "Checkpoint — CLI Apps",
+      "x": -48,
+      "y": 652,
+      "width": 302,
+      "height": 49,
+      "description": "Study Checkpoint — CLI Apps in the Full Stack path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "vmHbWdmMHF53otXIrqzRV",
+      "kind": "topic",
+      "label": "RESTful APIs",
+      "x": -117,
+      "y": 848,
+      "width": 151,
+      "height": 49,
+      "description": "Design clear contracts, handle errors, and keep services operable under real traffic.",
+      "interactive": true
+    },
+    {
+      "id": "3EtGLO6cwkLc1-o9gwFNk",
+      "kind": "subtopic",
+      "label": "Checkpoint — Simple CRUD Apps",
+      "x": -50,
+      "y": 780,
+      "width": 304,
+      "height": 49,
+      "description": "Study Checkpoint — Simple CRUD Apps in the Full Stack path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "vHojhJYjiN0IwruEqi1Dv",
+      "kind": "topic",
+      "label": "JWT Auth",
+      "x": -257,
+      "y": 848,
+      "width": 123,
+      "height": 49,
+      "description": "Authenticate users, authorize actions, and protect data in transit and at rest.",
+      "interactive": true
+    },
+    {
+      "id": "Onfd7Sl8LG2sjh2aQY7gb",
+      "kind": "topic",
+      "label": "Redis",
+      "x": -460,
+      "y": 848,
+      "width": 101,
+      "height": 49,
+      "description": "Pick storage for your access patterns—consistency, query shape, and operational cost.",
+      "interactive": true
+    },
+    {
+      "id": "SHTSvMDqI7X1_ZT7-m--n",
+      "kind": "topic",
+      "label": "Linux Basics",
+      "x": -577,
+      "y": 1145,
+      "width": 146,
+      "height": 49,
+      "description": "Core Full Stack topic: Linux Basics. Learn when to use it, what it costs, and how it fails.",
+      "interactive": true
+    },
+    {
+      "id": "v4NF25lJElAtkU0Rm6Fob",
+      "kind": "subtopic",
+      "label": "Checkpoint — Complete App",
+      "x": -459,
+      "y": 956,
+      "width": 265,
+      "height": 49,
+      "description": "Study Checkpoint — Complete App in the Full Stack path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "Dj2QhtEuuIgKc2CvgFGyK",
+      "kind": "label",
+      "label": "DevOps starts here",
+      "x": -473,
+      "y": 1051,
+      "width": 166,
+      "height": 36,
+      "description": "Note under this section: DevOps starts here.",
+      "interactive": true
+    },
+    {
+      "id": "cUOfvOlQ_0Uu1VX3i67kJ",
+      "kind": "topic",
+      "label": "Basic AWS Services",
+      "x": -242,
+      "y": 1145,
+      "width": 210,
+      "height": 49,
+      "description": "Core Full Stack topic: Basic AWS Services. Learn when to use it, what it costs, and how it fails.",
+      "interactive": true
+    },
+    {
+      "id": "6oBIxYj8WPcUHidQ99tus",
+      "kind": "subtopic",
+      "label": "EC2",
+      "x": -240,
+      "y": 1087,
+      "width": 71,
+      "height": 51,
+      "description": "Study EC2 in the Full Stack path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "QtL-bLKtWIdH00K6k_PdC",
+      "kind": "subtopic",
+      "label": "VPC",
+      "x": -166,
+      "y": 1087,
+      "width": 71,
+      "height": 51,
+      "description": "Study VPC in the Full Stack path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "5zyYpu9cyuTFwQCjTbHpS",
+      "kind": "subtopic",
+      "label": "Route53",
+      "x": -240,
+      "y": 1032,
+      "width": 104,
+      "height": 51,
+      "description": "Study Route53 in the Full Stack path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "B-cphY7Imnv6JBMujVIF7",
+      "kind": "subtopic",
+      "label": "SES",
+      "x": -134,
+      "y": 1032,
+      "width": 101,
+      "height": 51,
+      "description": "Study SES in the Full Stack path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "n2Xp_ijJ2OS8xhE7xMWxk",
+      "kind": "subtopic",
+      "label": "S3",
+      "x": -92,
+      "y": 1087,
+      "width": 60,
+      "height": 51,
+      "description": "Study S3 in the Full Stack path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "y1SFX7uvWaCy4OYBnECLu",
+      "kind": "topic",
+      "label": "Monit",
+      "x": 291,
+      "y": 1267,
+      "width": 89,
+      "height": 49,
+      "description": "Core Full Stack topic: Monit. Learn when to use it, what it costs, and how it fails.",
+      "interactive": true
+    },
+    {
+      "id": "HGhnbMg6jh6cAmUH4DtOx",
+      "kind": "topic",
+      "label": "PostgreSQL",
+      "x": 262,
+      "y": 717,
+      "width": 146,
+      "height": 49,
+      "description": "Pick storage for your access patterns—consistency, query shape, and operational cost.",
+      "interactive": true
+    },
+    {
+      "id": "J2_IWAb1s9zZcxOY3NXm2",
+      "kind": "subtopic",
+      "label": "Checkpoint — Deployment",
+      "x": 16,
+      "y": 1201,
+      "width": 248,
+      "height": 49,
+      "description": "Study Checkpoint — Deployment in the Full Stack path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "863KMXcFJzInvTp_-Ldmz",
+      "kind": "topic",
+      "label": "GitHub Actions",
+      "x": 103,
+      "y": 1393,
+      "width": 160,
+      "height": 49,
+      "description": "Automate build, test, and deploy. Keep pipelines fast, gated, and reproducible.",
+      "interactive": true
+    },
+    {
+      "id": "NQmEl27eBPYhivcXdOEz3",
+      "kind": "subtopic",
+      "label": "Checkpoint — Monitoring",
+      "x": 16,
+      "y": 1326,
+      "width": 248,
+      "height": 49,
+      "description": "Measure health, latency, errors, and saturation. Alerts should be actionable.",
+      "interactive": true
+    },
+    {
+      "id": "rFXupYpUFfp7vZO8zh614",
+      "kind": "topic",
+      "label": "Ansible",
+      "x": -328,
+      "y": 1393,
+      "width": 102,
+      "height": 49,
+      "description": "Declare infrastructure so environments are repeatable, reviewable, and recoverable.",
+      "interactive": true
+    },
+    {
+      "id": "liaY1GnlOateB_ZKBjNpY",
+      "kind": "subtopic",
+      "label": "Checkpoint — CI / CD",
+      "x": -227,
+      "y": 1326,
+      "width": 218,
+      "height": 49,
+      "description": "Study Checkpoint — CI / CD in the Full Stack path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "2kKHuQZScu7hCDgQWxl5u",
+      "kind": "topic",
+      "label": "Terraform",
+      "x": -560,
+      "y": 1469,
+      "width": 121,
+      "height": 49,
+      "description": "Declare infrastructure so environments are repeatable, reviewable, and recoverable.",
+      "interactive": true
+    },
+    {
+      "id": "sO_9-l4FECbaqiaFnyeXO",
+      "kind": "subtopic",
+      "label": "Checkpoint — Automation",
+      "x": -572,
+      "y": 1325,
+      "width": 252,
+      "height": 49,
+      "description": "Study Checkpoint — Automation in the Full Stack path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "YVMyHFSCVF-GgXydq-SFJ",
+      "kind": "subtopic",
+      "label": "Checkpoint — Infrastructure",
+      "x": -416,
+      "y": 1538,
+      "width": 260,
+      "height": 49,
+      "description": "Study Checkpoint — Infrastructure in the Full Stack path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "aaWX__NQvUofoN1VzwgD0",
+      "kind": "label",
+      "label": "Key topics to learn",
+      "x": 103,
+      "y": -107,
+      "width": 158,
+      "height": 36,
+      "description": "Note under this section: Key topics to learn.",
+      "interactive": true
+    },
+    {
+      "id": "7HLG5FTMmOWGS-mOpqnQh",
+      "kind": "label",
+      "label": "Project ideas and suggestions",
+      "x": 103,
+      "y": -71,
+      "width": 249,
+      "height": 36,
+      "description": "Note under this section: Project ideas and suggestions.",
+      "interactive": true
+    },
+    {
+      "id": "9mrs26igEG0D9GpMv2NZc",
+      "kind": "section",
+      "label": "",
+      "x": -318,
+      "y": -278,
+      "width": 346,
+      "height": 259,
+      "description": "",
+      "interactive": false
+    }
+  ],
+  "edges": [
+    {
+      "id": "reactflow__edge-iogwMmOvub2ZF4zgg6WyFx2-mGgx_QTEPmVKf6AijX9fiy2",
+      "from": "iogwMmOvub2ZF4zgg6WyF",
+      "to": "B0kARTODvCBi0iOF8iiqI"
+    },
+    {
+      "id": "reactflow__edge-B0kARTODvCBi0iOF8iiqIz2-mGgx_QTEPmVKf6AijX9fiy2",
+      "from": "B0kARTODvCBi0iOF8iiqI",
+      "to": "dAJHWmGeiYdzZ1ZjrWz1S"
+    },
+    {
+      "id": "reactflow__edge-khoUtTUxdf8udAzN9_CAbz2-mGgx_QTEPmVKf6AijX9fiw1",
+      "from": "T9PB6WQf-Fa9NXKKvVOy_",
+      "to": "mGgx_QTEPmVKf6AijX9fi"
+    },
+    {
+      "id": "reactflow__edge-dAJHWmGeiYdzZ1ZjrWz1Sz2-khoUtTUxdf8udAzN9_CAby2",
+      "from": "dAJHWmGeiYdzZ1ZjrWz1S",
+      "to": "T9PB6WQf-Fa9NXKKvVOy_"
+    },
+    {
+      "id": "reactflow__edge-mGgx_QTEPmVKf6AijX9fix2-We2APJpOPTr-VNfowG0kIz2",
+      "from": "mGgx_QTEPmVKf6AijX9fi",
+      "to": "We2APJpOPTr-VNfowG0kI"
+    },
+    {
+      "id": "reactflow__edge-We2APJpOPTr-VNfowG0kIy2-khoUtTUxdf8udAzN9_CAbz1",
+      "from": "We2APJpOPTr-VNfowG0kI",
+      "to": "8sPXL8iClpPqje03ksses"
+    },
+    {
+      "id": "reactflow__edge-8sPXL8iClpPqje03kssesy2-khoUtTUxdf8udAzN9_CAbz1",
+      "from": "8sPXL8iClpPqje03ksses",
+      "to": "CVCqdPkq_hGQfI8EEi5RC"
+    },
+    {
+      "id": "reactflow__edge-2kKHuQZScu7hCDgQWxl5uy2-khoUtTUxdf8udAzN9_CAbz2",
+      "from": "CVCqdPkq_hGQfI8EEi5RC",
+      "to": "khoUtTUxdf8udAzN9_CAb"
+    },
+    {
+      "id": "reactflow__edge-2kKHuQZScu7hCDgQWxl5ux2-cUOfvOlQ_0Uu1VX3i67kJz1",
+      "from": "HGhnbMg6jh6cAmUH4DtOx",
+      "to": "vmHbWdmMHF53otXIrqzRV"
+    },
+    {
+      "id": "reactflow__edge-vmHbWdmMHF53otXIrqzRVy2-cUOfvOlQ_0Uu1VX3i67kJz2",
+      "from": "vmHbWdmMHF53otXIrqzRV",
+      "to": "vHojhJYjiN0IwruEqi1Dv"
+    },
+    {
+      "id": "reactflow__edge-vHojhJYjiN0IwruEqi1Dvy2-cUOfvOlQ_0Uu1VX3i67kJz1",
+      "from": "vHojhJYjiN0IwruEqi1Dv",
+      "to": "Onfd7Sl8LG2sjh2aQY7gb"
+    },
+    {
+      "id": "reactflow__edge-Onfd7Sl8LG2sjh2aQY7gby2-cUOfvOlQ_0Uu1VX3i67kJw1",
+      "from": "Onfd7Sl8LG2sjh2aQY7gb",
+      "to": "SHTSvMDqI7X1_ZT7-m--n"
+    },
+    {
+      "id": "reactflow__edge-SHTSvMDqI7X1_ZT7-m--nz2-cUOfvOlQ_0Uu1VX3i67kJy2",
+      "from": "SHTSvMDqI7X1_ZT7-m--n",
+      "to": "cUOfvOlQ_0Uu1VX3i67kJ"
+    },
+    {
+      "id": "reactflow__edge-cUOfvOlQ_0Uu1VX3i67kJz2-2kKHuQZScu7hCDgQWxl5uw2",
+      "from": "cUOfvOlQ_0Uu1VX3i67kJ",
+      "to": "y1SFX7uvWaCy4OYBnECLu"
+    },
+    {
+      "id": "reactflow__edge-_aA6Hp4KkgJeptqo8oKTgz2-HGhnbMg6jh6cAmUH4DtOxw1",
+      "from": "_aA6Hp4KkgJeptqo8oKTg",
+      "to": "HGhnbMg6jh6cAmUH4DtOx"
+    },
+    {
+      "id": "reactflow__edge-y1SFX7uvWaCy4OYBnECLux2-2kKHuQZScu7hCDgQWxl5uz1",
+      "from": "y1SFX7uvWaCy4OYBnECLu",
+      "to": "863KMXcFJzInvTp_-Ldmz"
+    },
+    {
+      "id": "reactflow__edge-863KMXcFJzInvTp_-Ldmzy2-2kKHuQZScu7hCDgQWxl5uz2",
+      "from": "863KMXcFJzInvTp_-Ldmz",
+      "to": "rFXupYpUFfp7vZO8zh614"
+    },
+    {
+      "id": "reactflow__edge-rFXupYpUFfp7vZO8zh614y2-2kKHuQZScu7hCDgQWxl5uw1",
+      "from": "rFXupYpUFfp7vZO8zh614",
+      "to": "2kKHuQZScu7hCDgQWxl5u"
+    }
+  ]
+}

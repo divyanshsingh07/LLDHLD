@@ -1,0 +1,29 @@
+{
+  "source": "search-discovery",
+  "url": "local://search-queries",
+  "retrievedAt": "2026-10-02T05:13:38.501Z",
+  "contentHash": "fffcc82392d9a16cb019e06369335fddb8cdf2346b43c8bbdfec49d0312a8305",
+  "contentType": "application/json",
+  "content": {
+    "note": "Search engines are discovery-only. Queries recorded for extensibility; results are not scraped as knowledge.",
+    "queries": [
+      "backend developer roadmap",
+      "system design roadmap",
+      "distributed systems roadmap",
+      "devops roadmap",
+      "cloud engineer roadmap",
+      "software architecture roadmap",
+      "backend engineering learning path",
+      "system design learning path",
+      "site:github.com system design roadmap",
+      "site:github.com backend roadmap",
+      "site:github.com devops roadmap",
+      "database indexing system design",
+      "distributed systems consistency",
+      "load balancing architecture",
+      "event driven architecture",
+      "observability SRE",
+      "multi region architecture"
+    ]
+  }
+}

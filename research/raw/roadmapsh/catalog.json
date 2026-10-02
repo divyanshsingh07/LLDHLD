@@ -1,0 +1,5667 @@
+{
+  "source": "roadmapsh-catalog",
+  "url": "https://roadmap.sh/api/v1-list-official-roadmaps",
+  "retrievedAt": "2026-10-02T05:13:39.074Z",
+  "contentHash": "1cc313c164bd20c30ad7d9065eb29f619835234d8980f5d4babf8f817a97b379",
+  "contentType": "application/json; charset=utf-8",
+  "content": [
+    {
+      "_id": "698b3b1145613096ac8d3b95",
+      "order": 81920,
+      "title": {
+        "card": "Claude Code",
+        "page": "Claude Code",
+        "_id": "6a4c1f819d8cf2787748bd2f"
+      },
+      "description": "Step-by-Step guide to becoming a Claude Code expert in @currentYear@",
+      "slug": "claude-code",
+      "status": "published",
+      "seo": {
+        "title": "Claude Code",
+        "description": "Learn how to use Claude Code to build software with AI. Tips, best practices, and a community-driven roadmap for getting the most out of Anthropic's agentic coding tool.",
+        "keywords": [],
+        "_id": "6a4c1f819d8cf2787748bd30"
+      },
+      "type": "skill",
+      "dimensions": {
+        "height": 3006,
+        "width": 1159
+      },
+      "relatedRoadmaps": [
+        "ai-engineer",
+        "ai-agents",
+        "prompt-engineering",
+        "vibe-coding"
+      ],
+      "courses": [],
+      "aiCourses": [
+        "Introduction to Claude Code"
+      ],
+      "createdAt": "2026-02-10T14:05:05.659Z",
+      "updatedAt": "2026-09-10T10:53:24.782Z"
+    },
+    {
+      "_id": "6994495014f628c7576340c7",
+      "order": 150016,
+      "title": {
+        "card": "Vibe Coding",
+        "page": "Vibe Coding",
+        "_id": "6aa3f421aca636c6b9ea14d8"
+      },
+      "description": "Step-by-step guide to master Vibe Coding in @currentYear@",
+      "slug": "vibe-coding",
+      "status": "published",
+      "seo": {
+        "title": "Vibe Coding",
+        "description": "Learn vibe coding from scratch. Tips, tricks, and best practices for getting the most out of AI-assisted coding tools like Claude Code, Cursor, and more.",
+        "keywords": [],
+        "_id": "6aa3f421aca636c6b9ea14d9"
+      },
+      "type": "skill",
+      "dimensions": {
+        "height": 2753,
+        "width": 1158
+      },
+      "relatedRoadmaps": [
+        "claude-code",
+        "ai-agents",
+        "ai-engineer",
+        "prompt-engineering"
+      ],
+      "courses": [],
+      "aiCourses": [
+        "Claude Code Crash Course",
+        "Cursor Crash Course",
+        "Gemini Crash Course",
+        "Mastering Prompt Engineering",
+        "Mastering Context Engineering",
+        "Secure Vibe Coding",
+        "Mastering CLAUDE.md",
+        "Mastering Vibe Debugging",
+        "Mastering Vibe Testing",
+        "Mastering Vive Refactoring"
+      ],
+      "createdAt": "2026-02-17T10:56:16.520Z",
+      "updatedAt": "2026-09-11T12:29:23.039Z"
+    },
+    {
+      "_id": "68246b4711b0d89408504868",
+      "title": {
+        "card": "Python",
+        "page": "Python Developer",
+        "_id": "6a97028eaca636c6b9e98679"
+      },
+      "description": "Step by step guide to becoming a Python developer in @currentYear@",
+      "slug": "python",
+      "createdAt": "2025-05-14T10:07:03.997Z",
+      "updatedAt": "2026-09-29T15:24:37.655Z",
+      "courses": [],
+      "dimensions": {
+        "height": 1972,
+        "width": 1106
+      },
+      "order": 175104,
+      "relatedRoadmaps": [
+        "backend",
+        "devops",
+        "golang",
+        "javascript",
+        "nodejs"
+      ],
+      "seo": {
+        "title": "Learn to become a modern Python developer",
+        "description": "Community driven, articles, resources, guides, interview questions, quizzes for python development. Learn to become a modern Python developer by following the steps, skills, resources and guides listed in this roadmap.",
+        "keywords": [
+          "guide to becoming an python developer",
+          "python developer roadmap",
+          "python developer roadmap 2025",
+          "python roadmap",
+          "python roadmap 2025",
+          "become python developer",
+          "python developer skills",
+          "python skills test",
+          "skills for python development",
+          "learn python development",
+          "what is python",
+          "python quiz",
+          "python for ai roadmap",
+          "python interview questions"
+        ],
+        "_id": "6a97028eaca636c6b9e9867a"
+      },
+      "type": "skill",
+      "status": "published",
+      "aiCourses": [
+        "Python Fundamentals",
+        "Object-Oriented Python",
+        "Python Data Structures",
+        "File Handling and I/O in Python",
+        "Error Handling and Debugging in Python",
+        "Python Decorators and Generators",
+        "Working with Python Modules",
+        "Python Regular Expressions",
+        "Python Testing Fundamentals",
+        "Virtual Environments and Dependency Management"
+      ]
+    },
+    {
+      "_id": "6a28318ed5b55a91aab0e4fc",
+      "order": 178176,
+      "title": {
+        "card": "Python for Data Analysis",
+        "page": "Python for Data Analysis",
+        "_id": "6a9a6c14aca636c6b9e997e6"
+      },
+      "description": "Step-by-step guide to master Python for Data Analysis in @currentYear@",
+      "slug": "python-data-analysis",
+      "status": "published",
+      "seo": {
+        "title": "Python for Data Analysis",
+        "description": "Step-by-step guide to master Python for Data Analysis in 2026",
+        "keywords": [],
+        "_id": "6a9a6c14aca636c6b9e997e7"
+      },
+      "type": "skill",
+      "dimensions": {
+        "height": 3818,
+        "width": 1063
+      },
+      "relatedRoadmaps": [
+        "python",
+        "devops-beginner",
+        "data-analyst",
+        "data-engineer",
+        "machine-learning",
+        "bi-analyst"
+      ],
+      "courses": [],
+      "aiCourses": [
+        "Python Foundations for Data Analysis",
+        "Setting Up Your Data Science Environment",
+        "SQL for Python Analysts",
+        "Data Manipulation with NumPy",
+        "Data Manipulation with Pandas",
+        "Reading and Collecting Data in Python",
+        "Data Cleaning in Python",
+        "Exploratory Data Analysis in Python",
+        "Data Visualization in Python",
+        "Advanced Python for Data Analysis"
+      ],
+      "createdAt": "2026-06-09T15:30:22.073Z",
+      "updatedAt": "2026-09-29T07:01:14.780Z"
+    },
+    {
+      "_id": "6a841815c848073908214c33",
+      "order": 184320,
+      "title": {
+        "card": "R Programming",
+        "page": "R Programming",
+        "_id": "6aac1e08aca636c6b9ea69c7"
+      },
+      "description": "Step-by-step guide to becoming an R developer in @currentYear@",
+      "slug": "r-programming",
+      "status": "published",
+      "seo": {
+        "title": "R Programming",
+        "description": "Learn R programming step-by-step with this roadmap covering syntax, data structures, statistical analysis, and visualization for aspiring data scientists and analysts.",
+        "keywords": [],
+        "_id": "6aac1e08aca636c6b9ea69c8"
+      },
+      "type": "skill",
+      "dimensions": {
+        "height": 3647,
+        "width": 1132
+      },
+      "relatedRoadmaps": [
+        "python-data-analysis",
+        "data-analyst",
+        "ai-engineer",
+        "data-engineer",
+        "ai-data-scientist",
+        "bi-analyst",
+        "power-bi"
+      ],
+      "courses": [],
+      "aiCourses": [],
+      "createdAt": "2026-08-18T08:30:13.027Z",
+      "updatedAt": "2026-09-29T07:01:11.450Z",
+      "openGraph": {
+        "image": "",
+        "_id": "6aac1e08aca636c6b9ea69ca"
+      },
+      "partner": {
+        "description": "",
+        "linkText": "",
+        "link": "https://datacamp.pxf.io/oNv1je",
+        "name": "DataCamp",
+        "logo": "https://assets.roadmap.sh/guest/img_5780-dde0u.png",
+        "_id": "6aac1e08aca636c6b9ea69c9"
+      }
+    },
+    {
+      "_id": "68246b4711b0d89408504832",
+      "title": {
+        "card": "Computer Science",
+        "page": "Computer Science",
+        "_id": "6a9ef9cbaca636c6b9e9bfc0"
+      },
+      "description": "Computer Science curriculum with free resources for a self-taught developer.",
+      "slug": "computer-science",
+      "createdAt": "2025-05-14T10:07:03.515Z",
+      "updatedAt": "2026-09-07T17:52:13.415Z",
+      "dimensions": {
+        "height": 4143,
+        "width": 1106
+      },
+      "order": 196608,
+      "relatedRoadmaps": [
+        "linux",
+        "php",
+        "blockchain",
+        "aws",
+        "devops",
+        "software-design-architecture"
+      ],
+      "seo": {
+        "title": "Computer Science Roadmap: Curriculum for the self taught developer",
+        "description": "Computer Science study plan with free resources for the self-taught and bootcamp grads wanting to learn Computer Science.",
+        "keywords": [
+          "computer science",
+          "computer science roadmap",
+          "computer science roadmap 2024",
+          "computer science roadmap 2025",
+          "guide to computer science",
+          "software engineer roadmap",
+          "software engineer roadmap 2024",
+          "software engineer roadmap 2025",
+          "self-taught computer science roadmap",
+          "computer science skills",
+          "computer science skills test",
+          "cs roadmap",
+          "computer science curriculum",
+          "cs curriculum",
+          "compscience roadmap",
+          "comp science roadmap",
+          "skills for computer science",
+          "what is computer science",
+          "computer science quiz",
+          "computer science interview questions"
+        ],
+        "_id": "6a9ef9cbaca636c6b9e9bfc1"
+      },
+      "type": "skill",
+      "status": "published",
+      "courses": [],
+      "aiCourses": [
+        "Introduction to Algorithms",
+        "Data Structures from Scratch",
+        "Operating System Concepts",
+        "Computer Networks Fundamentals",
+        "Discrete Mathematics for Programmers",
+        "Computational Complexity Theory",
+        "Memory Management Concepts",
+        "Compiler Design Basics",
+        "Database Theory Fundamentals",
+        "Parallel and Concurrent Computing Basics"
+      ]
+    },
+    {
+      "_id": "68246b4711b0d8940850482f",
+      "title": {
+        "card": "SQL",
+        "page": "SQL Roadmap",
+        "_id": "6a9931beaca636c6b9e98d48"
+      },
+      "description": "Step by step guide to learning SQL in @currentYear@",
+      "slug": "sql",
+      "createdAt": "2025-05-14T10:07:03.448Z",
+      "updatedAt": "2026-09-03T08:37:19.312Z",
+      "courses": [],
+      "dimensions": {
+        "height": 2687,
+        "width": 1100
+      },
+      "order": 229376,
+      "relatedRoadmaps": [
+        "postgresql-dba",
+        "backend",
+        "devops",
+        "cpp"
+      ],
+      "seo": {
+        "title": "SQL Roadmap",
+        "description": "Comprehensive roadmap to learn SQL from scratch in 2026. From basic syntax to advanced querying, this step-by-step guide will equip you with the skills needed to excel in database management and data analysis.",
+        "keywords": [
+          "sql",
+          "sql tutorial",
+          "sql for beginners",
+          "how to learn sql",
+          "step by step guide for sql",
+          "use sql in production",
+          "guide to learning sql",
+          "sql roadmap",
+          "sql roadmap 2024",
+          "sql roadmap 2025",
+          "sql learning path",
+          "sql learning roadmap",
+          "sql learning guide",
+          "sql skills",
+          "sql for development",
+          "sql for development skills",
+          "sql for development skills test",
+          "sql learning guide",
+          "become a sql expert",
+          "sql career path",
+          "learn sql for development",
+          "what is sql",
+          "sql quiz",
+          "sql interview questions"
+        ],
+        "_id": "6a9931beaca636c6b9e98d49"
+      },
+      "type": "skill",
+      "status": "published",
+      "aiCourses": [
+        "SQL Fundamentals",
+        "Writing Complex Queries with Joins and Subqueries",
+        "Database Design and Normalization",
+        "SQL Performance and Query Optimization",
+        "Aggregate Functions and Grouping",
+        "Working with Views and Stored Procedures",
+        "Transactions and ACID Properties",
+        "Indexing Strategies",
+        "SQL Data Types Deep Dive",
+        "Database Constraints and Relationships"
+      ]
+    },
+    {
+      "_id": "69c53a3731e228f31bc86fbe",
+      "order": 245760,
+      "title": {
+        "card": "OpenClaw",
+        "page": "OpenClaw",
+        "_id": "69deafce31e228f31bc915b2"
+      },
+      "description": "Learn to deploy and get the most out of OpenClaw",
+      "slug": "openclaw",
+      "status": "published",
+      "seo": {
+        "title": "OpenClaw",
+        "description": "Learn to deploy and get the most out of OpenClaw in @currentYear@",
+        "keywords": [],
+        "_id": "69deafce31e228f31bc915b3"
+      },
+      "type": "skill",
+      "dimensions": {
+        "height": 3150,
+        "width": 1109
+      },
+      "relatedRoadmaps": [
+        "vibe-coding",
+        "claude-code",
+        "ai-engineer",
+        "ai-agents"
+      ],
+      "courses": [],
+      "aiCourses": [
+        "Architecture Deep Dive",
+        "Deploying OpenClaw on VPS/Cloud",
+        "Mastering OpenClaw Workspace Configuration",
+        "Automating Everything with OpenClaw",
+        "Building & Installing OpenClaw Skills",
+        "Extending OpenClaw with Plugins",
+        "Building Multi-Agent Systems with OpenClaw",
+        "Securing Your OpenClaw Deployment",
+        "OpenClaw Channels Masterclass",
+        "OpenClaw for Beginners: From Zero to First Agent"
+      ],
+      "createdAt": "2026-03-26T13:52:55.181Z",
+      "updatedAt": "2026-09-10T11:04:25.517Z"
+    },
+    {
+      "_id": "68246b4711b0d8940850483b",
+      "title": {
+        "card": "React",
+        "page": "React Developer",
+        "_id": "6a9edd49aca636c6b9e9b811"
+      },
+      "description": "Everything that is there to learn about React and the ecosystem in @currentYear@.",
+      "slug": "react",
+      "createdAt": "2025-05-14T10:07:03.615Z",
+      "updatedAt": "2026-09-07T15:50:41.814Z",
+      "dimensions": {
+        "height": 2882,
+        "width": 1091
+      },
+      "order": 262144,
+      "relatedRoadmaps": [
+        "frontend",
+        "typescript",
+        "javascript",
+        "angular",
+        "vue",
+        "nodejs"
+      ],
+      "seo": {
+        "title": "React Developer Roadmap: Learn to become a React developer",
+        "description": "Community driven, articles, resources, guides, interview questions, quizzes for react development. Learn to become a modern React developer by following the steps, skills, resources and guides listed in this roadmap.",
+        "keywords": [
+          "react roadmap 2024",
+          "react roadmap 2025",
+          "react developer roadmap 2024",
+          "react developer roadmap 2025",
+          "react.js roadmap 2025",
+          "react.js developer roadmap 2025",
+          "guide to becoming a react developer",
+          "react developer roadmap",
+          "react roadmap",
+          "become react developer",
+          "react developer skills",
+          "react skills test",
+          "skills for react development",
+          "learn react development",
+          "what is react",
+          "react library roadmap",
+          "react quiz",
+          "react quiz 2025",
+          "react interview questions"
+        ],
+        "_id": "6a9edd49aca636c6b9e9b812"
+      },
+      "type": "skill",
+      "status": "published",
+      "courses": [],
+      "aiCourses": [
+        "React Component Patterns",
+        "State Management Fundamentals",
+        "React Hooks Deep Dive",
+        "Building Forms in React",
+        "React Performance Optimization",
+        "Component Lifecycle and Effects",
+        "React Context API",
+        "Controlled vs Uncontrolled Components",
+        "React Error Boundaries",
+        "Testing React Components"
+      ]
+    },
+    {
+      "_id": "68246b4711b0d89408504844",
+      "title": {
+        "card": "Vue",
+        "page": "Vue Developer",
+        "_id": "68c40f70166b018f83df326c"
+      },
+      "description": "Everything that is there to learn about Vue and the ecosystem in @currentYear@.",
+      "slug": "vue",
+      "createdAt": "2025-05-14T10:07:03.687Z",
+      "updatedAt": "2026-01-06T16:31:50.785Z",
+      "dimensions": {
+        "height": 2367,
+        "width": 1064
+      },
+      "order": 393216,
+      "relatedRoadmaps": [
+        "frontend",
+        "javascript",
+        "react",
+        "angular",
+        "nodejs"
+      ],
+      "seo": {
+        "title": "Vue Developer Roadmap: Learn to become a Vue developer",
+        "description": "Community driven, articles, resources, guides, interview questions, quizzes for vue development. Learn to become a modern Vue developer by following the steps, skills, resources and guides listed in this roadmap.",
+        "keywords": [
+          "guide to becoming a vue developer",
+          "guide to becoming a vue.js developer",
+          "vue developer roadmap",
+          "vue.js developer roadmap",
+          "vue roadmap",
+          "vue roadmap 2025",
+          "vue.js roadmap",
+          "vue.js roadmap 2025",
+          "become vue developer",
+          "become vue.js developer",
+          "vue developer skills",
+          "vue.js developer skills",
+          "vue skills test",
+          "vue.js skills test",
+          "skills for vue development",
+          "skills for vue.js development",
+          "learn vue development",
+          "learn vue.js development",
+          "what is vue",
+          "what is vue.js",
+          "vue quiz",
+          "vue.js quiz",
+          "vue interview questions",
+          "vue.js interview questions"
+        ],
+        "_id": "68c40f70166b018f83df326d"
+      },
+      "type": "skill",
+      "status": "published",
+      "courses": [],
+      "aiCourses": [
+        "Vue.js Component Architecture",
+        "Vue Reactivity System Deep Dive",
+        "State Management with Vuex",
+        "Vue Router and Navigation",
+        "Building Forms with Vue",
+        "Vue Lifecycle Hooks",
+        "Props and Custom Events",
+        "Slots and Dynamic Components",
+        "Vue Mixins and Composables",
+        "Testing Vue Applications"
+      ]
+    },
+    {
+      "_id": "68246b4711b0d89408504835",
+      "title": {
+        "card": "Frontend",
+        "page": "Frontend Developer",
+        "_id": "6a2671afac1c5fa9928ab4b6"
+      },
+      "description": "Step by step guide to becoming a modern frontend developer in @currentYear@",
+      "slug": "frontend",
+      "createdAt": "2025-05-14T10:07:03.551Z",
+      "updatedAt": "2026-07-15T11:43:37.362Z",
+      "dimensions": {
+        "height": 3995,
+        "width": 1097
+      },
+      "order": 413696,
+      "partner": {
+        "description": "Get the latest Frontend news from our sister site",
+        "linkText": "TheNewStack.io",
+        "link": "https://thenewstack.io/?utm_source=roadmap.sh&utm_medium=Referral&utm_campaign=Alert",
+        "_id": "6a2671afac1c5fa9928ab4b8"
+      },
+      "relatedRoadmaps": [
+        "full-stack",
+        "javascript",
+        "nodejs",
+        "react",
+        "angular",
+        "vue",
+        "design-system"
+      ],
+      "seo": {
+        "title": "Frontend Developer Roadmap: What is Frontend Development?",
+        "description": "Learn what Frontend Development is, what frontend developers do and how to become a modern frontend developer using our community-driven roadmap.",
+        "keywords": [
+          "javascript roadmap 2025",
+          "frontend roadmap 2025",
+          "frontend developer roadmap 2025",
+          "guide to becoming a developer",
+          "guide to becoming a frontend developer",
+          "frontend developer",
+          "frontend engineer",
+          "frontend skills",
+          "frontend development",
+          "javascript developer",
+          "frontend development skills",
+          "frontend development skills test",
+          "frontend roadmap",
+          "frontend engineer roadmap",
+          "frontend developer roadmap",
+          "become a frontend developer",
+          "frontend developer career path",
+          "javascript developer",
+          "modern javascript developer",
+          "node developer",
+          "skills for frontend development",
+          "learn frontend development",
+          "what is frontend development",
+          "frontend developer quiz",
+          "frontend developer interview questions"
+        ],
+        "_id": "6a2671afac1c5fa9928ab4b7"
+      },
+      "type": "role",
+      "courses": [],
+      "status": "published",
+      "aiCourses": [
+        "HTML & CSS Deep Dive",
+        "JavaScript DOM Manipulation",
+        "Responsive Web Design",
+        "Browser Developer Tools Mastery",
+        "Web Accessibility Fundamentals",
+        "CSS Layout Techniques",
+        "JavaScript Event Handling",
+        "Form Validation Techniques",
+        "Cross-Browser Compatibility",
+        "Frontend Debugging Strategies",
+        "Prompt Engineering Fundamentals"
+      ]
+    },
+    {
+      "_id": "68246b4711b0d89408504838",
+      "title": {
+        "card": "Backend",
+        "page": "Backend Developer",
+        "_id": "6986094d45613096ac8d34a0"
+      },
+      "description": "Step by step guide to becoming a modern backend developer in @currentYear@",
+      "slug": "backend",
+      "createdAt": "2025-05-14T10:07:03.584Z",
+      "updatedAt": "2026-02-07T16:58:57.293Z",
+      "courses": [],
+      "dimensions": {
+        "height": 4214,
+        "width": 1100
+      },
+      "order": 417792,
+      "partner": {
+        "description": "Get the latest Backend news from our sister site",
+        "linkText": "TheNewStack.io",
+        "link": "https://thenewstack.io/?utm_source=roadmap.sh&utm_medium=Referral&utm_campaign=Alert",
+        "_id": "6986094d45613096ac8d34a2"
+      },
+      "relatedRoadmaps": [
+        "frontend",
+        "full-stack",
+        "system-design",
+        "python",
+        "devops",
+        "javascript",
+        "nodejs",
+        "postgresql-dba"
+      ],
+      "seo": {
+        "title": "Backend Developer Roadmap: What is Backend Development",
+        "description": "Learn what backend development is, what backend developers do and how to become one using our community-driven roadmap.",
+        "keywords": [
+          "backend roadmap 2025",
+          "backend developer roadmap 2025",
+          "guide to becoming a developer",
+          "guide to becoming a backend developer",
+          "backend roadmap",
+          "backend developer",
+          "backend engineer",
+          "backend skills",
+          "backend development",
+          "javascript developer",
+          "backend development skills",
+          "backend development skills test",
+          "backend engineer roadmap",
+          "backend developer roadmap",
+          "become a backend developer",
+          "backend developer career path",
+          "typescript developer",
+          "javascript developer",
+          "modern javascript developer",
+          "nodejs developer",
+          "skills for backend development",
+          "learn backend development",
+          "what is backend development",
+          "backend developer quiz",
+          "backend developer interview questions"
+        ],
+        "_id": "6986094d45613096ac8d34a1"
+      },
+      "type": "role",
+      "status": "published",
+      "aiCourses": [
+        "Building REST APIs from Scratch",
+        "Server-Side Programming Fundamentals",
+        "Working with Relational Databases",
+        "Authentication and Authorization Basics",
+        "Error Handling and Logging",
+        "Session Management",
+        "File Upload Handling",
+        "Background Job Processing",
+        "API Rate Limiting and Throttling",
+        "Server-Side Caching Techniques",
+        "Prompt Engineering Fundamentals"
+      ]
+    },
+    {
+      "_id": "68246b4711b0d89408504841",
+      "title": {
+        "card": "Full Stack",
+        "page": "Full Stack Developer",
+        "_id": "68c40824166b018f83df2f1a"
+      },
+      "description": "Step by step guide to becoming a modern full stack developer in @currentYear@",
+      "slug": "full-stack",
+      "createdAt": "2025-05-14T10:07:03.665Z",
+      "updatedAt": "2026-01-06T16:31:50.558Z",
+      "courses": [],
+      "dimensions": {
+        "height": 2224,
+        "width": 1003
+      },
+      "order": 458752,
+      "relatedRoadmaps": [
+        "frontend",
+        "backend",
+        "devops",
+        "react",
+        "nodejs",
+        "docker"
+      ],
+      "seo": {
+        "title": "Full Stack Developer Roadmap",
+        "description": "Learn to become a modern full stack developer using this roadmap. Community driven, articles, resources, guides, interview questions, quizzes for modern full stack development.",
+        "keywords": [
+          "javascript roadmap 2025",
+          "full stack roadmap 2025",
+          "full stack developer roadmap 2025",
+          "guide to becoming a mern developer",
+          "guide to becoming a full stack developer",
+          "full stack developer",
+          "full stack engineer",
+          "full stack skills",
+          "full stack development",
+          "full stack development skills",
+          "full stack development skills test",
+          "full stack roadmap",
+          "full stack engineer roadmap",
+          "full stack developer roadmap",
+          "become a full stack developer",
+          "full stack developer career path",
+          "javascript developer",
+          "modern javascript developer",
+          "node developer",
+          "skills for full stack development",
+          "learn full stack development",
+          "what is full stack development",
+          "full stack developer quiz",
+          "full stack developer interview questions"
+        ],
+        "_id": "68c40824166b018f83df2f1b"
+      },
+      "type": "role",
+      "status": "published",
+      "aiCourses": [
+        "Building a Full-Stack Application",
+        "Frontend-Backend Integration",
+        "Database Design for Web Apps",
+        "Deployment and Hosting Fundamentals",
+        "Authentication Flows End-to-End",
+        "State Management Across Stack",
+        "API Design for Full-Stack Apps",
+        "Error Handling Across the Stack",
+        "File Storage and Management",
+        "Building Real-Time Features"
+      ]
+    },
+    {
+      "_id": "68246b4711b0d89408504853",
+      "title": {
+        "card": "Android",
+        "page": "Android Developer",
+        "_id": "6a2bcda0d5b55a91aab11b1b"
+      },
+      "description": "Step by step guide to becoming an Android developer in @currentYear@",
+      "slug": "android",
+      "createdAt": "2025-05-14T10:07:03.825Z",
+      "updatedAt": "2026-07-24T08:58:13.999Z",
+      "dimensions": {
+        "height": 2540,
+        "width": 1099
+      },
+      "order": 458752,
+      "relatedRoadmaps": [
+        "react-native",
+        "flutter",
+        "java",
+        "spring-boot",
+        "rust"
+      ],
+      "seo": {
+        "title": "Android Developer Roadmap: Learn to become an Android developer",
+        "description": "Community driven, articles, resources, guides, interview questions, quizzes for android development. Learn to become a modern Android developer by following the steps, skills, resources and guides listed in this roadmap.",
+        "keywords": [
+          "guide to becoming an android developer",
+          "android developer roadmap",
+          "android developer roadmap 2025",
+          "android roadmap",
+          "kotlin developer roadmap",
+          "android roadmap 2025",
+          "become android developer",
+          "android application development",
+          "android application development roadmap",
+          "android application development 2025",
+          "android developer skills",
+          "android skills test",
+          "skills for android development",
+          "learn android development",
+          "what is android",
+          "android quiz",
+          "android interview questions"
+        ],
+        "_id": "6a2bcda0d5b55a91aab11b1c"
+      },
+      "type": "role",
+      "status": "published",
+      "courses": [],
+      "aiCourses": [
+        "Android App Architecture",
+        "Android UI Development",
+        "Working with Android Lifecycle",
+        "Local Data Storage in Android",
+        "Android Networking Fundamentals",
+        "RecyclerView and Lists",
+        "Android Navigation Components",
+        "Background Processing in Android",
+        "Android Permissions Handling",
+        "Testing Android Applications"
+      ]
+    },
+    {
+      "_id": "68246b4711b0d8940850483e",
+      "title": {
+        "card": "DevOps",
+        "page": "DevOps Roadmap",
+        "_id": "6a69cd2dc84807390820cf8e"
+      },
+      "description": "Step by step guide for DevOps, SRE or any other Operations Role in @currentYear@",
+      "slug": "devops",
+      "createdAt": "2025-05-14T10:07:03.639Z",
+      "updatedAt": "2026-07-29T09:51:43.464Z",
+      "dimensions": {
+        "height": 3379,
+        "width": 1107
+      },
+      "order": 524288,
+      "partner": {
+        "description": "Get the latest DevOps news from our sister site",
+        "linkText": "TheNewStack.io",
+        "link": "https://thenewstack.io/?utm_source=roadmap.sh&utm_medium=Referral&utm_campaign=Alert",
+        "_id": "6a69cd2dc84807390820cf90"
+      },
+      "relatedRoadmaps": [
+        "backend",
+        "docker",
+        "kubernetes",
+        "python",
+        "java",
+        "golang",
+        "javascript",
+        "nodejs"
+      ],
+      "seo": {
+        "title": "DevOps Roadmap: Learn to become a DevOps Engineer or SRE",
+        "description": "Learn to become a modern DevOps engineer by following the steps, skills, resources and guides listed in our community-driven roadmap.",
+        "keywords": [
+          "devops roadmap 2025",
+          "sre roadmap 2025",
+          "operations roadmap 2025",
+          "guide to becoming a devops engineer",
+          "devops roadmap",
+          "sre roadmap",
+          "site reliability engineer roadmap",
+          "operations roles",
+          "become devops",
+          "devops skills",
+          "modern devops skills",
+          "devops skills test",
+          "skills for devops",
+          "learn devops",
+          "what is devops",
+          "what is sre",
+          "devops quiz",
+          "devops interview questions"
+        ],
+        "_id": "6a69cd2dc84807390820cf8f"
+      },
+      "type": "role",
+      "courses": [],
+      "status": "published",
+      "aiCourses": [
+        "Linux Server Administration",
+        "CI/CD Pipeline Fundamentals",
+        "Infrastructure as Code Basics",
+        "Monitoring and Logging Essentials",
+        "Shell Scripting for DevOps",
+        "Configuration Management Basics",
+        "Container Fundamentals",
+        "Networking for DevOps",
+        "Secrets and Configuration Management",
+        "Incident Response and On-Call Practices"
+      ]
+    },
+    {
+      "_id": "69387478d824458807763664",
+      "order": 557056,
+      "title": {
+        "card": "DevSecOps",
+        "page": "DevSecOps",
+        "_id": "6a295d97d5b55a91aab0ec8b"
+      },
+      "description": "Step by step guide to becoming a DevSecOps Expert in @currentYear@",
+      "slug": "devsecops",
+      "status": "published",
+      "seo": {
+        "title": "DevSecOps Roadmap: Learn to become a DevSecOps Expert",
+        "description": "Learn to become a modern DevSecOps Expert by following the steps, skills, resources, and guides listed in this roadmap.",
+        "keywords": [],
+        "_id": "6a295d97d5b55a91aab0ec8c"
+      },
+      "type": "role",
+      "dimensions": {
+        "height": 2731,
+        "width": 1086
+      },
+      "relatedRoadmaps": [
+        "devops",
+        "cyber-security"
+      ],
+      "courses": [],
+      "createdAt": "2025-12-09T19:11:52.639Z",
+      "updatedAt": "2026-06-10T12:50:33.026Z",
+      "aiCourses": [
+        "Security in CI/CD Pipelines",
+        "Container Security Basics",
+        "Infrastructure Security Scanning",
+        "Secrets Management",
+        "Compliance as Code",
+        "Vulnerability Management",
+        "Security Testing Automation",
+        "Secure Configuration Management",
+        "Incident Response for DevSecOps",
+        "Security Monitoring and Alerting"
+      ]
+    },
+    {
+      "_id": "68246b4711b0d8940850484d",
+      "title": {
+        "card": "Data Analyst",
+        "page": "Data Analyst Roadmap",
+        "_id": "6a9a6b18aca636c6b9e9977a"
+      },
+      "description": "Step by step guide to becoming an Data Analyst in @currentYear@",
+      "slug": "data-analyst",
+      "createdAt": "2025-05-14T10:07:03.772Z",
+      "updatedAt": "2026-09-04T06:54:17.861Z",
+      "courses": [],
+      "dimensions": {
+        "height": 2992,
+        "width": 1125
+      },
+      "order": 589824,
+      "relatedRoadmaps": [
+        "sql",
+        "ai-data-scientist",
+        "postgresql-dba",
+        "python"
+      ],
+      "seo": {
+        "title": "Data Analyst Roadmap",
+        "description": "Learn to become an Data Analyst using this roadmap. Community driven, articles, resources, guides, interview questions, quizzes for modern data analysts.",
+        "keywords": [
+          "data analyst roadmap 2025",
+          "data analytics roadmap 2025",
+          "guide to becoming an data analyst",
+          "easy data analyst roadmap",
+          "data analyst",
+          "data analyst roadmap",
+          "data scientist roadmap",
+          "data analytics skills",
+          "data analyst skills",
+          "skills for data analyst",
+          "data analyst quiz",
+          "data analyst interview questions"
+        ],
+        "_id": "6a9a6b18aca636c6b9e9977b"
+      },
+      "type": "role",
+      "status": "published",
+      "aiCourses": [
+        "SQL for Data Analysis",
+        "Data Visualization Principles",
+        "Statistics for Data Analysis",
+        "Excel for Data Analysts",
+        "Data Cleaning and Preparation",
+        "Exploratory Data Analysis",
+        "Building Dashboards and Reports",
+        "Pivot Tables and Advanced Excel",
+        "Statistical Hypothesis Testing",
+        "Data Storytelling and Presentation"
+      ]
+    },
+    {
+      "_id": "68246b4711b0d8940850484a",
+      "title": {
+        "card": "Angular",
+        "page": "Angular Developer",
+        "_id": "6a2fe3602204ffbc59e596c7"
+      },
+      "description": "Everything that is there to learn about Angular and the ecosystem in @currentYear@.",
+      "slug": "angular",
+      "createdAt": "2025-05-14T10:07:03.744Z",
+      "updatedAt": "2026-06-15T11:34:57.179Z",
+      "dimensions": {
+        "height": 3794,
+        "width": 1102
+      },
+      "order": 655360,
+      "relatedRoadmaps": [
+        "frontend",
+        "javascript",
+        "react",
+        "vue",
+        "nodejs"
+      ],
+      "seo": {
+        "title": "Angular Developer Roadmap: Learn to become a Angular developer",
+        "description": "Community driven, articles, resources, guides, interview questions, quizzes for angular development. Learn to become a modern Angular developer by following the steps, skills, resources and guides listed in this roadmap.",
+        "keywords": [
+          "guide to becoming a angular developer",
+          "angular developer roadmap",
+          "angular roadmap",
+          "angular roadmap 2025",
+          "become angular developer",
+          "angular developer skills",
+          "angular skills test",
+          "skills for angular development",
+          "learn angular development",
+          "what is angular",
+          "angular quiz",
+          "angular interview questions",
+          "future of angular development",
+          "angular learning path",
+          "angular tutorial",
+          "angular for beginners",
+          "how to learn angular",
+          "angular fundamentals",
+          "angular developer career",
+          "frontend developer angular",
+          "typescript for angular",
+          "angular architecture 2025"
+        ],
+        "_id": "6a2fe3602204ffbc59e596c8"
+      },
+      "type": "skill",
+      "status": "published",
+      "courses": [],
+      "aiCourses": [
+        "Angular Component Architecture",
+        "Services and Dependency Injection",
+        "Angular Forms Deep Dive",
+        "RxJS Fundamentals for Angular",
+        "Angular Routing and Navigation",
+        "Angular Directives and Pipes",
+        "HTTP Client and API Integration",
+        "Angular Module Organization",
+        "Change Detection Strategies",
+        "Testing Angular Applications"
+      ]
+    },
+    {
+      "_id": "6aaa5ca7aca636c6b9ea3cb7",
+      "order": 655360,
+      "title": {
+        "card": "SEO",
+        "page": "SEO",
+        "_id": "6abb6684189aa098f55855c2"
+      },
+      "description": "Step-by-step guide to becoming an SEO expert in @currentYear@",
+      "slug": "seo",
+      "status": "published",
+      "seo": {
+        "title": "SEO Roadmap",
+        "description": "Learn SEO, GEO, and AEO with a step-by-step roadmap covering technical foundations, content strategy, entity optimization, link building, and AI visibility measurement.",
+        "keywords": [],
+        "_id": "6abb6684189aa098f55855c3"
+      },
+      "type": "role",
+      "dimensions": {
+        "height": 6080,
+        "width": 1076
+      },
+      "relatedRoadmaps": [
+        "frontend",
+        "html",
+        "css",
+        "javascript",
+        "system-design",
+        "ai-engineer"
+      ],
+      "courses": [],
+      "aiCourses": [],
+      "createdAt": "2026-09-16T09:08:55.685Z",
+      "updatedAt": "2026-09-29T07:19:34.015Z"
+    },
+    {
+      "_id": "68246b4711b0d89408504847",
+      "title": {
+        "card": "AI Engineer",
+        "page": "AI Engineer",
+        "_id": "6aa3f51caca636c6b9ea160d"
+      },
+      "description": "Step by step guide to becoming an AI Engineer in @currentYear@",
+      "slug": "ai-engineer",
+      "createdAt": "2025-05-14T10:07:03.713Z",
+      "updatedAt": "2026-09-11T12:33:34.104Z",
+      "dimensions": {
+        "height": 5794,
+        "width": 1122
+      },
+      "order": 720896,
+      "relatedRoadmaps": [
+        "ai-data-scientist",
+        "prompt-engineering",
+        "data-analyst",
+        "python"
+      ],
+      "seo": {
+        "title": "AI Engineer Roadmap",
+        "description": "Learn to become an AI Engineer using this roadmap. Community driven, articles, resources, guides, interview questions, quizzes for modern AI development.",
+        "keywords": [
+          "ai engineer roadmap 2024",
+          "ai engineer roadmap 2025",
+          "guide to becoming an ai engineer",
+          "ai engineer roadmap",
+          "ai engineer skills",
+          "become an ai engineer",
+          "ai engineer career path",
+          "skills for ai engineer",
+          "ai engineer quiz",
+          "ai engineer interview questions",
+          "ai engineer learning path",
+          "how to become ai engineer 2025",
+          "ai engineering concepts",
+          "ai engineering curriculum",
+          "ai engineer future",
+          "ai engineer requirements",
+          "machine learning engineer roadmap",
+          "generative ai engineer",
+          "python for ai engineer",
+          "cloud ai services 2025",
+          "data engineering for ai"
+        ],
+        "_id": "6aa3f51caca636c6b9ea160e"
+      },
+      "type": "role",
+      "courses": [],
+      "status": "published",
+      "aiCourses": [
+        "Machine Learning Fundamentals",
+        "Neural Networks from Scratch",
+        "Natural Language Processing Basics",
+        "Working with ML Frameworks",
+        "Model Training and Evaluation",
+        "Data Preprocessing for ML",
+        "Feature Engineering Techniques",
+        "Model Deployment Basics",
+        "Embeddings and Vector Representations",
+        "Transformer Architecture Fundamentals"
+      ]
+    },
+    {
+      "_id": "68246b4711b0d89408504850",
+      "title": {
+        "card": "AI and Data Scientist",
+        "page": "AI and Data Scientist Roadmap",
+        "_id": "6a9a6b6caca636c6b9e997b9"
+      },
+      "description": "Step by step roadmap guide to becoming an AI and Data Scientist in @currentYear@",
+      "slug": "ai-data-scientist",
+      "createdAt": "2025-05-14T10:07:03.801Z",
+      "updatedAt": "2026-09-04T06:55:42.557Z",
+      "dimensions": {
+        "height": 2871,
+        "width": 1128
+      },
+      "order": 786432,
+      "relatedRoadmaps": [
+        "prompt-engineering",
+        "data-analyst",
+        "ai-engineer",
+        "python",
+        "backend",
+        "devops"
+      ],
+      "seo": {
+        "title": "AI and Data Scientist Roadmap",
+        "description": "Learn to become an AI and Data Scientist using this roadmap. Community driven, articles, resources, guides, interview questions, quizzes for modern AI and Data Science.",
+        "keywords": [
+          "ai and data scientist roadmap 2024",
+          "ai and data scientist roadmap 2025",
+          "guide to becoming an ai and data scientist",
+          "ai and data scientist roadmap",
+          "ai scientist",
+          "ai scientist roadmap 2025",
+          "data scientist roadmap",
+          "ai skills",
+          "data scientist skills",
+          "ai engineer roadmap",
+          "ai skills test",
+          "data scientist skills test",
+          "ai and data scientist roadmap",
+          "become an ai and data scientist",
+          "ai and data scientist career path",
+          "ai career path",
+          "data scientist career path",
+          "skills for ai engineer",
+          "skills for data scientist",
+          "learn ai for developers",
+          "ai and data scientist quiz",
+          "ai and data scientist interview questions"
+        ],
+        "_id": "6a9a6b6caca636c6b9e997ba"
+      },
+      "type": "role",
+      "courses": [],
+      "status": "published",
+      "aiCourses": [
+        "Statistics and Probability for Data Science",
+        "Python for Data Science",
+        "Machine Learning Algorithms",
+        "Feature Engineering Techniques",
+        "Model Evaluation and Validation",
+        "Exploratory Data Analysis",
+        "Regression Analysis Deep Dive",
+        "Classification Algorithms",
+        "Clustering and Dimensionality Reduction",
+        "Time Series Analysis Basics"
+      ]
+    },
+    {
+      "_id": "689b4a029d7a0652aa4d5a46",
+      "title": {
+        "card": "Data Engineer",
+        "page": "Data Engineer Roadmap",
+        "_id": "6a757c86c8480739082143d5"
+      },
+      "description": "Step by step guide to becoming a Data Engineer in @currentYear@",
+      "slug": "data-engineer",
+      "createdAt": "2025-08-12T14:04:50.388Z",
+      "updatedAt": "2026-08-07T06:34:48.171Z",
+      "courses": [],
+      "dimensions": {
+        "height": 5644,
+        "width": 1166
+      },
+      "order": 851968,
+      "relatedRoadmaps": [
+        "sql",
+        "ai-data-scientist",
+        "postgresql-dba",
+        "python"
+      ],
+      "seo": {
+        "title": "Data Engineer Roadmap",
+        "description": "Learn to become a Data Engineer using this roadmap. Community driven, articles, resources, guides, interview questions, quizzes for modern data engineers.",
+        "keywords": [
+          "data engineer roadmap 2025",
+          "data engineering roadmap 2025",
+          "guide to becoming a data engineer",
+          "easy data engineer roadmap",
+          "data engineer",
+          "data engineer roadmap",
+          "data scientist roadmap",
+          "data engineering skills",
+          "data engineer skills",
+          "skills for data engineer",
+          "data engineer quiz",
+          "data engineer interview questions"
+        ],
+        "_id": "6a757c86c8480739082143d6"
+      },
+      "type": "role",
+      "status": "published",
+      "aiCourses": [
+        "Data Pipeline Fundamentals",
+        "ETL Process Design",
+        "Data Warehousing Concepts",
+        "Batch vs Stream Processing",
+        "Data Quality and Validation",
+        "SQL for Data Engineering",
+        "Data Modeling Techniques",
+        "Data Lake Fundamentals",
+        "Workflow Orchestration Basics",
+        "Data Governance Introduction"
+      ]
+    },
+    {
+      "_id": "68a31ed5a36f4a805da9360a",
+      "title": {
+        "card": "Machine Learning",
+        "page": "Machine Learning",
+        "_id": "6a32dd0843b548b57e9381ab"
+      },
+      "description": "Step by step guide to becoming a Machine Learning Engineer in @currentYear@",
+      "slug": "machine-learning",
+      "createdAt": "2025-08-18T12:38:45.293Z",
+      "updatedAt": "2026-06-17T17:44:42.082Z",
+      "dimensions": {
+        "height": 4848,
+        "width": 1119
+      },
+      "order": 983040,
+      "relatedRoadmaps": [
+        "python",
+        "ai-data-scientist",
+        "ai-engineer",
+        "ai-agents",
+        "data-analyst",
+        "data-engineer"
+      ],
+      "seo": {
+        "title": "Machine Learning Roadmap",
+        "description": "Learn to become a Machine Learning Engineer using this roadmap. Community driven, articles, resources, guides, interview questions, quizzes for modern machine learning engineers.",
+        "keywords": [
+          "machine learning roadmap 2025",
+          "ml engineer roadmap 2025",
+          "guide to becoming a machine learning engineer",
+          "easy machine learning roadmap",
+          "machine learning engineer",
+          "ml roadmap",
+          "ai engineer roadmap",
+          "machine learning skills",
+          "ml engineer skills",
+          "skills for machine learning",
+          "machine learning quiz",
+          "machine learning interview questions"
+        ],
+        "_id": "6a32dd0843b548b57e9381ac"
+      },
+      "type": "role",
+      "courses": [],
+      "status": "published",
+      "aiCourses": [
+        "Supervised Learning Fundamentals",
+        "Unsupervised Learning Basics",
+        "Model Evaluation Techniques",
+        "Feature Engineering",
+        "Regression and Classification",
+        "Decision Trees and Random Forests",
+        "Neural Network Basics",
+        "Cross-Validation Techniques",
+        "Handling Imbalanced Data",
+        "Model Interpretation Basics"
+      ]
+    },
+    {
+      "_id": "6a58c0e1ba9305f350f99f6f",
+      "order": 1015808,
+      "title": {
+        "card": "Product Design",
+        "page": "Product Design",
+        "_id": "6a60de1beffd34ff20f89da4"
+      },
+      "description": "Step-by-step guide to becoming a Product Designer in @currentYear@",
+      "slug": "product-design",
+      "status": "published",
+      "seo": {
+        "title": "Product Design",
+        "description": "Step-by-step guide to becoming a product designer in @currentYear@",
+        "keywords": [],
+        "_id": "6a60de1beffd34ff20f89da5"
+      },
+      "type": "role",
+      "dimensions": {
+        "height": 4236,
+        "width": 1111
+      },
+      "relatedRoadmaps": [
+        "design-system",
+        "ux-design",
+        "frontend"
+      ],
+      "courses": [],
+      "aiCourses": [
+        "Product Design Foundations",
+        "Discover: Research Methods for Product Design",
+        "Define: Framing the Right Problem in Product Design",
+        "Strategy, Alignment & Risk in Product Design",
+        "Information Architecture & Ideation in UI/UX Design",
+        "Validating and Improving Designs",
+        "Visual Design Foundations",
+        "Interface Design, Motion & Content in Product Design",
+        "Designing Responsibly with AI",
+        "Shipping, Scaling & Measuring Impact in Product Design"
+      ],
+      "createdAt": "2026-07-16T11:30:41.977Z",
+      "updatedAt": "2026-08-06T15:08:10.657Z"
+    },
+    {
+      "_id": "68246b4711b0d8940850485c",
+      "title": {
+        "card": "PostgreSQL",
+        "page": "PostgreSQL DBA",
+        "_id": "68c40e1f166b018f83df3136"
+      },
+      "description": "Step by step guide to becoming a modern PostgreSQL DB Administrator in @currentYear@",
+      "slug": "postgresql-dba",
+      "createdAt": "2025-05-14T10:07:03.903Z",
+      "updatedAt": "2026-01-06T16:31:51.969Z",
+      "courses": [],
+      "dimensions": {
+        "height": 4138,
+        "width": 1060
+      },
+      "order": 1048576,
+      "relatedRoadmaps": [
+        "sql",
+        "mongodb",
+        "backend",
+        "devops",
+        "full-stack"
+      ],
+      "seo": {
+        "title": "DBA Roadmap: Learn to become a database administrator with PostgreSQL",
+        "description": "Community driven, articles, resources, guides, interview questions, quizzes for PostgreSQL. Learn to become a modern database administrator by following the steps, skills, resources and guides listed in this roadmap.",
+        "keywords": [
+          "guide to becoming a database administrator",
+          "guide to becoming a DBA",
+          "dba roadmap",
+          "db administrator roadmap",
+          "database administrator roadmap",
+          "database administrator roadmap 2025",
+          "postgresql roadmap",
+          "postgresql roadmap 2025",
+          "dba skills",
+          "db administrator skills",
+          "become dba",
+          "postgresql skills",
+          "modern dba skills",
+          "dba skills test",
+          "skills for dba",
+          "skills for database administrator",
+          "learn dba",
+          "what is dba",
+          "database administrator quiz",
+          "dba interview questions"
+        ],
+        "_id": "68c40e1f166b018f83df3137"
+      },
+      "type": "role",
+      "status": "published",
+      "aiCourses": [
+        "PostgreSQL Administration Fundamentals",
+        "Query Performance Tuning",
+        "Backup and Recovery Strategies",
+        "PostgreSQL Security and Access Control",
+        "Indexing Strategies and Optimization",
+        "VACUUM and Database Maintenance",
+        "Replication Setup and Management",
+        "PostgreSQL Configuration Tuning",
+        "Monitoring PostgreSQL Performance",
+        "Partitioning Tables in PostgreSQL"
+      ]
+    },
+    {
+      "_id": "68246b4711b0d89408504859",
+      "title": {
+        "card": "JavaScript",
+        "page": "JavaScript Roadmap",
+        "_id": "68c41405166b018f83df3894"
+      },
+      "description": "Step by step guide to learn JavaScript in @currentYear@",
+      "slug": "javascript",
+      "createdAt": "2025-05-14T10:07:03.878Z",
+      "updatedAt": "2026-04-06T09:20:34.848Z",
+      "dimensions": {
+        "height": 2864,
+        "width": 1061
+      },
+      "order": 1114112,
+      "relatedRoadmaps": [
+        "nodejs",
+        "typescript",
+        "frontend",
+        "backend",
+        "react",
+        "angular",
+        "vue"
+      ],
+      "seo": {
+        "title": "JavaScript Developer Roadmap: Step by step guide to learn JavaScript",
+        "description": "Community driven, articles, resources, guides, interview questions, quizzes for javascript development. Learn to become a modern JavaScript developer by following the steps, skills, resources and guides listed in this roadmap.",
+        "keywords": [
+          "javascript guide 2024",
+          "javascript guide 2025",
+          "learn javascript",
+          "step by step javascript guide",
+          "javascript roadmap 2024",
+          "javascript roadmap 2025",
+          "javascript developer roadmap 2024",
+          "javascript developer roadmap 2025",
+          "guide to becoming a javascript developer",
+          "javascript developer roadmap",
+          "javascript roadmap",
+          "become javascript developer",
+          "javascript developer skills",
+          "javascript skills test",
+          "skills for javascript development",
+          "learn javascript development",
+          "what is javascript",
+          "javascript quiz",
+          "javascript interview questions"
+        ],
+        "_id": "68c41405166b018f83df3895"
+      },
+      "type": "skill",
+      "courses": [],
+      "status": "published",
+      "aiCourses": [
+        "JavaScript Fundamentals Deep Dive",
+        "Asynchronous JavaScript",
+        "Object-Oriented JavaScript",
+        "Functional Programming in JavaScript",
+        "JavaScript Error Handling and Debugging",
+        "Closures and Scope",
+        "Prototypes and Inheritance",
+        "ES6+ Features Explained",
+        "Working with Arrays and Objects",
+        "JavaScript Modules and Bundling Basics"
+      ]
+    },
+    {
+      "_id": "68246b4711b0d89408504856",
+      "title": {
+        "card": "iOS",
+        "page": "iOS Developer",
+        "_id": "68c40e34166b018f83df313e"
+      },
+      "description": "Step by step guide to becoming an iOS developer in @currentYear@",
+      "slug": "ios",
+      "createdAt": "2025-05-14T10:07:03.852Z",
+      "updatedAt": "2026-01-06T16:31:51.616Z",
+      "dimensions": {
+        "height": 5004,
+        "width": 1183
+      },
+      "order": 1179648,
+      "relatedRoadmaps": [
+        "react-native",
+        "flutter",
+        "rust"
+      ],
+      "seo": {
+        "title": "iOS Developer Roadmap: Learn to become an iOS developer",
+        "description": "Community driven, articles, resources, guides, interview questions, quizzes for ios development. Learn to become a modern iOS developer by following the steps, skills, resources and guides listed in this roadmap.",
+        "keywords": [
+          "guide to becoming an ios developer",
+          "ios developer roadmap",
+          "ios developer roadmap 2025",
+          "ios roadmap",
+          "ios roadmap 2025",
+          "become ios developer",
+          "ios developer skills",
+          "ios skills test",
+          "skills for ios development",
+          "learn ios development",
+          "apple developer roadmap",
+          "what is ios",
+          "ios quiz",
+          "ios interview questions"
+        ],
+        "_id": "68c40e34166b018f83df313f"
+      },
+      "type": "role",
+      "status": "published",
+      "courses": [],
+      "aiCourses": [
+        "iOS App Architecture",
+        "UIKit Fundamentals",
+        "iOS Navigation Patterns",
+        "Core Data Essentials",
+        "iOS Networking and API Integration",
+        "Auto Layout Deep Dive",
+        "iOS Table and Collection Views",
+        "iOS App Lifecycle",
+        "Local Storage Options in iOS",
+        "Testing iOS Applications"
+      ]
+    },
+    {
+      "_id": "68246b4711b0d89408504865",
+      "title": {
+        "card": "TypeScript",
+        "page": "TypeScript",
+        "_id": "68c40f8b166b018f83df32a7"
+      },
+      "description": "Everything you need to learn about TypeScript in @currentYear@",
+      "slug": "typescript",
+      "createdAt": "2025-05-14T10:07:03.975Z",
+      "updatedAt": "2026-01-06T16:31:52.381Z",
+      "dimensions": {
+        "height": 2278,
+        "width": 1061
+      },
+      "order": 1245184,
+      "relatedRoadmaps": [
+        "frontend",
+        "backend",
+        "javascript",
+        "nodejs",
+        "react"
+      ],
+      "seo": {
+        "title": "TypeScript Roadmap: Learn to become a TypeScript developer",
+        "description": "Community driven, articles, resources, guides, interview questions, quizzes for typescript development. Learn to become a modern TypeScript developer by following the steps, skills, resources and guides listed in this roadmap.",
+        "keywords": [
+          "typescript roadmap 2024",
+          "typescript roadmap 2025",
+          "typescript developer roadmap 2024",
+          "typescript developer roadmap 2025",
+          "guide to becoming a typescript developer",
+          "guide to learning typescript",
+          "typescript developer roadmap",
+          "typescript roadmap",
+          "become typescript developer",
+          "typescript developer skills",
+          "typescript skills test",
+          "skills for typescript development",
+          "learn typescript development",
+          "what is typescript",
+          "typescript quiz",
+          "typescript interview questions"
+        ],
+        "_id": "68c40f8b166b018f83df32a8"
+      },
+      "type": "skill",
+      "status": "published",
+      "courses": [],
+      "aiCourses": [
+        "TypeScript Type System Deep Dive",
+        "Generics in TypeScript",
+        "TypeScript with Object-Oriented Patterns",
+        "Advanced Types and Type Guards",
+        "Migrating JavaScript to TypeScript",
+        "Interfaces vs Type Aliases",
+        "TypeScript Utility Types",
+        "Decorators in TypeScript",
+        "TypeScript Configuration and Setup",
+        "TypeScript Error Handling Patterns"
+      ]
+    },
+    {
+      "_id": "68246b4711b0d89408504862",
+      "title": {
+        "card": "Node.js",
+        "page": "Node.js Developer",
+        "_id": "68c40f90166b018f83df32b6"
+      },
+      "description": "Step by step guide to becoming a modern Node.js developer in @currentYear@",
+      "slug": "nodejs",
+      "createdAt": "2025-05-14T10:07:03.951Z",
+      "updatedAt": "2026-01-06T16:31:52.243Z",
+      "courses": [],
+      "dimensions": {
+        "height": 2639,
+        "width": 1059
+      },
+      "order": 1310720,
+      "relatedRoadmaps": [
+        "javascript",
+        "backend",
+        "docker",
+        "typescript",
+        "system-design",
+        "frontend"
+      ],
+      "seo": {
+        "title": "Node.js Developer Roadmap: Learn to become a modern node.js developer",
+        "description": "Learn to become a modern node.js developer using this roadmap. Community driven, articles, resources, guides, interview questions, quizzes for modern node.js development.",
+        "keywords": [
+          "node.js roadmap 2024",
+          "node.js roadmap 2025",
+          "nodejs roadmap 2024",
+          "nodejs roadmap 2025",
+          "node.js developer roadmap 2025",
+          "nodejs developer roadmap 2025",
+          "guide to becoming a developer",
+          "guide to becoming a node.js developer",
+          "guid to becoming a node.js developer",
+          "node.js developer",
+          "nodejs developer",
+          "node.js engineer",
+          "nodejs engineer",
+          "node.js skills",
+          "nodejs skills",
+          "node.js development",
+          "nodejs development",
+          "node.js development skills",
+          "nodejs development skills",
+          "node.js development skills test",
+          "nodejs development skills test",
+          "node.js roadmap",
+          "nodejs roadmap",
+          "node.js engineer roadmap",
+          "nodejs engineer roadmap",
+          "node.js developer roadmap",
+          "nodejs developer roadmap",
+          "become a node.js developer",
+          "become a node.js developer",
+          "node.js developer career path",
+          "nodejs developer career path",
+          "node.js developer",
+          "nodejs developer",
+          "modern node.js developer",
+          "node developer",
+          "skills for node.js development",
+          "skills for nodejs development",
+          "learn node.js development",
+          "node.js developer quiz",
+          "nodejs developer quiz",
+          "node.js developer interview questions",
+          "nodejs developer interview questions"
+        ],
+        "_id": "68c40f90166b018f83df32b7"
+      },
+      "type": "skill",
+      "status": "published",
+      "aiCourses": [
+        "Node.js Core Modules",
+        "Building REST APIs with Express",
+        "Asynchronous Patterns in Node.js",
+        "Error Handling in Node.js",
+        "Node.js Streams and Buffers",
+        "Working with File System",
+        "Node.js Event Loop Deep Dive",
+        "Middleware Patterns",
+        "Database Integration in Node.js",
+        "Testing Node.js Applications"
+      ]
+    },
+    {
+      "_id": "68246b4711b0d8940850485f",
+      "title": {
+        "card": "Blockchain",
+        "page": "Blockchain Developer",
+        "_id": "694ac7b63eeddc26d7c36969"
+      },
+      "description": "Step by step guide to becoming a blockchain developer in @currentYear@.",
+      "slug": "blockchain",
+      "createdAt": "2025-05-14T10:07:03.928Z",
+      "updatedAt": "2026-01-06T16:31:52.106Z",
+      "dimensions": {
+        "height": 3411,
+        "width": 1103
+      },
+      "order": 1376256,
+      "relatedRoadmaps": [
+        "computer-science",
+        "linux",
+        "software-architect",
+        "frontend",
+        "backend",
+        "nodejs"
+      ],
+      "seo": {
+        "title": "Blockchain Developer Roadmap: Learn to become a blockchain developer",
+        "description": "Learn to become a blockchain developer using this roadmap. Community driven, articles, resources, guides, interview questions, quizzes for modern backend development.",
+        "keywords": [
+          "blockchain roadmap 2025",
+          "web3 developer roadmap",
+          "web3 developer roadmap 2025",
+          "web3 roadmap",
+          "blockchain developer roadmap 2025",
+          "guide to becoming a blockchain developer",
+          "blockchain roadmap",
+          "blockchain engineer",
+          "blockchain skills",
+          "blockchain development",
+          "javascript developer",
+          "blockchain development skills",
+          "blockchain development skills test",
+          "blockchain engineer roadmap",
+          "blockchain developer roadmap",
+          "become a blockchain developer",
+          "blockchain developer career path",
+          "skills for blockchain development",
+          "learn blockchain development",
+          "what is blockchain development",
+          "blockchain developer quiz",
+          "blockchain developer interview questions"
+        ],
+        "_id": "694ac7b63eeddc26d7c3696a"
+      },
+      "type": "role",
+      "status": "published",
+      "courses": [],
+      "aiCourses": [
+        "Blockchain Fundamentals",
+        "Cryptography Basics for Blockchain",
+        "Smart Contract Development",
+        "Distributed Ledger Concepts",
+        "Consensus Mechanisms Explained",
+        "Wallet and Key Management",
+        "Token Standards and Implementation",
+        "Blockchain Security Fundamentals",
+        "Decentralized Application Architecture",
+        "Testing Smart Contracts"
+      ]
+    },
+    {
+      "_id": "68246b4811b0d8940850486b",
+      "title": {
+        "card": "QA",
+        "page": "QA Engineer",
+        "_id": "69ca3d7c31e228f31bc8713d"
+      },
+      "description": "Steps to follow in order to become a modern QA Engineer in @currentYear@",
+      "slug": "qa",
+      "createdAt": "2025-05-14T10:07:04.022Z",
+      "updatedAt": "2026-03-30T09:08:13.741Z",
+      "dimensions": {
+        "height": 2848,
+        "width": 1117
+      },
+      "order": 1441792,
+      "relatedRoadmaps": [
+        "frontend",
+        "backend",
+        "devops",
+        "javascript",
+        "nodejs"
+      ],
+      "seo": {
+        "title": "QA Roadmap: Learn to become a modern QA engineer",
+        "description": "Community driven, articles, resources, guides, interview questions, quizzes for modern QA development. Learn to become a modern QA engineer by following the steps, skills, resources and guides listed in this roadmap.",
+        "keywords": [
+          "qa engineer 2025",
+          "quality assurance engineer 2025",
+          "qa engineer roadmap 2025",
+          "guide to becoming a QA engineer",
+          "QA engineer",
+          "QA skills",
+          "QA development skills",
+          "QA development skills test",
+          "QA engineer roadmap",
+          "QA engineer roadmap 2025",
+          "become a QA engineer",
+          "QA engineer career path",
+          "skills for QA development",
+          "what is QA engineer",
+          "QA engineer quiz",
+          "QA engineer interview questions"
+        ],
+        "_id": "69ca3d7c31e228f31bc8713e"
+      },
+      "type": "role",
+      "status": "published",
+      "courses": [],
+      "aiCourses": [
+        "Software Testing Fundamentals",
+        "Test Case Design Techniques",
+        "Test Automation Basics",
+        "API Testing Fundamentals",
+        "Performance Testing Introduction",
+        "Test Planning and Strategy",
+        "Bug Reporting and Tracking",
+        "Regression Testing Approaches",
+        "Mobile Testing Basics",
+        "Security Testing Introduction"
+      ]
+    },
+    {
+      "_id": "68246b4811b0d89408504871",
+      "title": {
+        "card": "System Design",
+        "page": "System Design Roadmap",
+        "_id": "69a6b82e3258582713dc3de5"
+      },
+      "description": "Everything you need to know about designing large-scale systems in @currentYear@",
+      "slug": "system-design",
+      "createdAt": "2025-05-14T10:07:04.091Z",
+      "updatedAt": "2026-03-03T10:30:08.690Z",
+      "courses": [],
+      "dimensions": {
+        "height": 3831,
+        "width": 1149
+      },
+      "order": 1572864,
+      "relatedRoadmaps": [
+        "software-architect",
+        "devops",
+        "python",
+        "java",
+        "golang",
+        "engineering-manager"
+      ],
+      "seo": {
+        "title": "System Design Roadmap",
+        "description": "Learn system design in 2026 with this step by step guide and resources.",
+        "keywords": [
+          "guide to learn system design",
+          "distributed systems roadmap",
+          "modern system design roadmap",
+          "system design roadmap",
+          "system design roadmap 2025",
+          "scalable system roadmap",
+          "system design patterns roadmap",
+          "systems design roadmap",
+          "application architectures",
+          "system design guide",
+          "learn systems design",
+          "system design guide 2025"
+        ],
+        "_id": "69a6b82e3258582713dc3de6"
+      },
+      "type": "skill",
+      "status": "published",
+      "aiCourses": [
+        "Scalability Fundamentals",
+        "Database Scaling Strategies",
+        "Caching Strategies and Patterns",
+        "Load Balancing Concepts",
+        "Distributed Systems Basics",
+        "Message Queue Fundamentals",
+        "CAP Theorem and Trade-offs",
+        "Designing for High Availability",
+        "Content Delivery Networks",
+        "Rate Limiting and Throttling Design"
+      ],
+      "openGraph": {
+        "image": "",
+        "_id": "69a6b82e3258582713dc3de7"
+      }
+    },
+    {
+      "_id": "68246b4811b0d8940850486e",
+      "title": {
+        "card": "Software Architect",
+        "page": "Software Architect",
+        "_id": "68edf7f0166b018f83dfa18a"
+      },
+      "description": "Step by step guide to becoming a Software Architect in @currentYear@",
+      "slug": "software-architect",
+      "createdAt": "2025-05-14T10:07:04.045Z",
+      "updatedAt": "2026-01-06T16:31:52.878Z",
+      "courses": [],
+      "dimensions": {
+        "height": 2844,
+        "width": 1062
+      },
+      "order": 1638400,
+      "partner": {
+        "description": "Ready-to use free on/offboarding templates for new employees",
+        "linkText": "silo.team",
+        "link": "https://www.silo.team/book-a-demo-silo-team?utm_source=affiliate1&utm_medium=referral&utm_campaign=free_onboarding_checklist",
+        "_id": "68edf7f0166b018f83dfa18c"
+      },
+      "relatedRoadmaps": [
+        "backend",
+        "software-design-architecture",
+        "python",
+        "golang",
+        "java",
+        "devops"
+      ],
+      "seo": {
+        "title": "Software Architect Roadmap",
+        "description": "Community driven, articles, resources, guides, interview questions, quizzes for Software Architect. Learn to become a modern software architect by following the steps, skills, resources and guides listed in this roadmap.",
+        "keywords": [
+          "solution architect roadmap",
+          "solution architect roadmap 2025",
+          "enterprise architect roadmap",
+          "guide to becoming a software architect",
+          "db administrator roadmap",
+          "software architect roadmap 2025",
+          "software architect roadmap",
+          "software architect roadmap 2025",
+          "software architect skills",
+          "db administrator skills",
+          "become software architect",
+          "modern software architect skills",
+          "software architect skills test",
+          "skills for software architect",
+          "learn software architect",
+          "what is software architect",
+          "software architect quiz",
+          "software architect interview questions"
+        ],
+        "_id": "68edf7f0166b018f83dfa18b"
+      },
+      "type": "role",
+      "status": "published",
+      "aiCourses": [
+        "Design Patterns in Practice",
+        "Architectural Patterns Overview",
+        "System Design Fundamentals",
+        "Documenting Software Architecture",
+        "Making Architectural Decisions",
+        "Microservices vs Monolith",
+        "Event-Driven Architecture Basics",
+        "API Gateway Patterns",
+        "Data Architecture Fundamentals",
+        "Technical Debt Management"
+      ]
+    },
+    {
+      "_id": "69df8f5931e228f31bc916e2",
+      "order": 1638400,
+      "title": {
+        "card": "LeetCode",
+        "page": "LeetCode",
+        "_id": "6a608d26effd34ff20f89a70"
+      },
+      "description": "Step-by-step guide to pass your coding interview",
+      "slug": "leetcode",
+      "status": "published",
+      "seo": {
+        "title": "LeetCode",
+        "description": "Step-by-step guide to pass your coding interview",
+        "keywords": [],
+        "_id": "6a608d26effd34ff20f89a71"
+      },
+      "type": "skill",
+      "dimensions": {
+        "height": 4017,
+        "width": 1096
+      },
+      "relatedRoadmaps": [
+        "datastructures-and-algorithms"
+      ],
+      "courses": [],
+      "aiCourses": [
+        "Arrays and Hashing",
+        "Two Pointers and Sliding Window",
+        "Stack and Binary Search",
+        "Linked Lists and Fast and Slow Pointers",
+        "Trees: BFS and DFS",
+        "Heap, Priority Queue and Backtracking",
+        "Tries and Graph Traversal",
+        "Advanced Graphs and Shortest Path Algorithms",
+        "Dynamic Programming: 1D and 2D Problems",
+        "Greedy Algorithms, Intervals and Bit Manipulation"
+      ],
+      "createdAt": "2026-04-15T13:15:05.224Z",
+      "updatedAt": "2026-09-29T07:01:31.577Z"
+    },
+    {
+      "_id": "68246b4811b0d8940850487a",
+      "title": {
+        "card": "Java",
+        "page": "Java Developer",
+        "_id": "69247d6d7c7d1fa20e767b66"
+      },
+      "description": "Step by step guide to becoming a Java developer in @currentYear@",
+      "slug": "java",
+      "createdAt": "2025-05-14T10:07:04.159Z",
+      "updatedAt": "2026-01-27T13:57:35.172Z",
+      "courses": [],
+      "dimensions": {
+        "height": 2199,
+        "width": 1057
+      },
+      "order": 1703936,
+      "relatedRoadmaps": [
+        "backend",
+        "spring-boot",
+        "devops",
+        "golang",
+        "javascript"
+      ],
+      "seo": {
+        "title": "Learn to become a modern Java developer",
+        "description": "Community driven, articles, resources, guides, interview questions, quizzes for java development. Learn to become a modern Java developer by following the steps, skills, resources and guides listed in this roadmap.",
+        "keywords": [
+          "guide to becoming a developer",
+          "guide to becoming a java developer",
+          "java developer",
+          "java engineer",
+          "java skills",
+          "guide to java",
+          "java roadmap",
+          "java roadmap 2025",
+          "java skills",
+          "java skills test",
+          "skills for java",
+          "cloud development",
+          "what is java",
+          "java quiz",
+          "java interview questions",
+          "java engineer roadmap",
+          "java engineer roadmap 2025",
+          "java developer roadmap 2025",
+          "java developer roadmap",
+          "become a java developer",
+          "java developer career path",
+          "java developer",
+          "modern java developer"
+        ],
+        "_id": "69247d6d7c7d1fa20e767b67"
+      },
+      "type": "skill",
+      "status": "published",
+      "aiCourses": [
+        "Java Object-Oriented Programming",
+        "Java Collections Framework",
+        "Exception Handling in Java",
+        "Java Concurrency Basics",
+        "Java I/O and File Handling",
+        "Java Generics Deep Dive",
+        "JVM Memory Management",
+        "Java Streams and Lambdas",
+        "JDBC and Database Connectivity",
+        "Unit Testing in Java"
+      ]
+    },
+    {
+      "_id": "68246b4811b0d89408504877",
+      "title": {
+        "card": "ASP.NET Core",
+        "page": "ASP.NET Core Developer",
+        "_id": "6aa7db67aca636c6b9ea1d6f"
+      },
+      "description": "Step by step guide to becoming an ASP.NET core developer in @currentYear@",
+      "slug": "aspnet-core",
+      "createdAt": "2025-05-14T10:07:04.137Z",
+      "updatedAt": "2026-09-14T11:34:19.617Z",
+      "courses": [],
+      "dimensions": {
+        "height": 3383,
+        "width": 1122
+      },
+      "order": 1769472,
+      "relatedRoadmaps": [
+        "backend",
+        "devops",
+        "python",
+        "cpp",
+        "data-analyst",
+        "nodejs"
+      ],
+      "seo": {
+        "title": "ASP.NET Core Roadmap",
+        "description": "Community driven, articles, resources, guides, interview questions, quizzes for asp.net core development. Learn to become a modern ASP.NET core developer by following the steps, skills, resources and guides listed in this roadmap.",
+        "keywords": [
+          "guide to becoming a developer",
+          "guide to becoming an asp.net core developer",
+          "asp.net core developer",
+          "asp.net core engineer",
+          "asp.net core skills",
+          "guide to asp.net core",
+          "asp.net developer roadmap",
+          "asp net developer roadmap 2025",
+          "asp developer roadmap",
+          "asp developer roadmap 2025",
+          "asp.net core roadmap",
+          "asp.net core skills",
+          "asp.net core skills test",
+          "skills for asp.net core",
+          "cloud development with asp.net",
+          "what is asp.net core",
+          "asp.net core quiz",
+          "asp.net core interview questions",
+          "asp.net core engineer roadmap",
+          "asp.net core developer roadmap",
+          "become an asp.net core developer",
+          "asp.net core developer career path",
+          "modern asp.net core developer"
+        ],
+        "_id": "6aa7db67aca636c6b9ea1d70"
+      },
+      "type": "skill",
+      "status": "published",
+      "aiCourses": [
+        "ASP.NET Core MVC Fundamentals",
+        "Dependency Injection in ASP.NET Core",
+        "Entity Framework Core Basics",
+        "ASP.NET Core Web API Development",
+        "Authentication in ASP.NET Core",
+        "Middleware Pipeline",
+        "Configuration and Options Pattern",
+        "Logging in ASP.NET Core",
+        "Model Validation Techniques",
+        "Testing ASP.NET Core Applications"
+      ]
+    },
+    {
+      "_id": "68246b4811b0d89408504874",
+      "title": {
+        "card": "API Design",
+        "page": "API Design",
+        "_id": "6a0b1b49a95e0d5c68de82fb"
+      },
+      "description": "Step by step guide to learn how to design and build robust APIs.",
+      "slug": "api-design",
+      "createdAt": "2025-05-14T10:07:04.114Z",
+      "updatedAt": "2026-05-18T13:59:39.252Z",
+      "courses": [],
+      "dimensions": {
+        "height": 3066,
+        "width": 1126
+      },
+      "order": 1835008,
+      "relatedRoadmaps": [
+        "backend",
+        "devops",
+        "python",
+        "golang",
+        "design-system",
+        "nodejs"
+      ],
+      "seo": {
+        "title": "API Design Roadmap",
+        "description": "Learn how to design and develop robust APIs with this community-driven API Design roadmap. It lists all the essential skills and tools you need to develop APIs.",
+        "keywords": [
+          "guide to becoming a api designer",
+          "guide to becoming an api engineer",
+          "api developer",
+          "api design roadmap 2025",
+          "api design roadmap",
+          "api engineer",
+          "api design engineer roadmap",
+          "api skills",
+          "guide to api",
+          "api roadmap",
+          "api skills",
+          "api skills test",
+          "skills for api",
+          "cloud development",
+          "what is api",
+          "api quiz",
+          "api interview questions",
+          "api engineer roadmap",
+          "api developer roadmap",
+          "api developer roadmap 2025",
+          "become an api developer",
+          "api developer career path",
+          "api developer",
+          "modern api developer"
+        ],
+        "_id": "6a0b1b49a95e0d5c68de82fc"
+      },
+      "type": "skill",
+      "status": "published",
+      "aiCourses": [
+        "REST API Design Principles",
+        "API Versioning Strategies",
+        "Error Handling in APIs",
+        "API Documentation Best Practices",
+        "Rate Limiting and Throttling",
+        "API Authentication Methods",
+        "Pagination and Filtering Patterns",
+        "Request and Response Design",
+        "Hypermedia and HATEOAS",
+        "API Testing Strategies"
+      ]
+    },
+    {
+      "_id": "6a674dccc84807390820c5bc",
+      "order": 1867776,
+      "title": {
+        "card": "Power BI",
+        "page": "Power BI",
+        "_id": "6aac1dedaca636c6b9ea69af"
+      },
+      "description": "Step-by-step guide to becoming a Power BI Expert in @currentYear@",
+      "slug": "power-bi",
+      "status": "published",
+      "seo": {
+        "title": "Power BI",
+        "description": "Step-by-step guide to becoming a Power BI Expert in 2026",
+        "keywords": [],
+        "_id": "6aac1dedaca636c6b9ea69b0"
+      },
+      "type": "skill",
+      "dimensions": {
+        "height": 4605,
+        "width": 1097
+      },
+      "relatedRoadmaps": [
+        "bi-analyst",
+        "data-analyst",
+        "python-data-analysis",
+        "ai-data-scientist"
+      ],
+      "courses": [],
+      "aiCourses": [
+        "Power BI Fundamentals",
+        "Connecting to Data Sources",
+        "Power Query & Data Transformation",
+        "Data Modeling for Power BI",
+        "DAX Fundamentals",
+        "Advanced DAX",
+        "Data Visualization Essentials",
+        "Interactive Reports",
+        "Advanced & AI Visuals",
+        "Publishing & the Power BI Service",
+        "Security & Governance in Power BI"
+      ],
+      "createdAt": "2026-07-27T12:23:40.931Z",
+      "updatedAt": "2026-09-29T07:01:25.804Z",
+      "partner": {
+        "description": "",
+        "linkText": "",
+        "link": "https://datacamp.pxf.io/0G5WkY",
+        "name": "DataCamp",
+        "logo": "https://assets.roadmap.sh/guest/img_5780-dde0u.png",
+        "_id": "6aac1dedaca636c6b9ea69b1"
+      },
+      "openGraph": {
+        "image": "",
+        "_id": "6aac1dedaca636c6b9ea69b2"
+      }
+    },
+    {
+      "_id": "685a7eec7c69fc967b2cacbe",
+      "title": {
+        "card": "Spring Boot",
+        "page": "Spring Boot Developer",
+        "_id": "698084299d704efe2cb0b313"
+      },
+      "description": "Step by step guide to becoming a Spring Boot developer in @currentYear@",
+      "slug": "spring-boot",
+      "createdAt": "2025-06-24T10:33:16.865Z",
+      "updatedAt": "2026-03-17T15:55:08.992Z",
+      "courses": [],
+      "dimensions": {
+        "height": 1769,
+        "width": 1093
+      },
+      "order": 1900544,
+      "relatedRoadmaps": [
+        "backend",
+        "java",
+        "devops",
+        "python",
+        "golang"
+      ],
+      "seo": {
+        "title": "Spring Boot Roadmap",
+        "description": "Community driven, articles, resources, guides, interview questions, quizzes for spring boot development. Learn to become a modern Spring Boot developer by following the steps, skills, resources and guides listed in this roadmap.",
+        "keywords": [
+          "guide to becoming a spring boot developer",
+          "guide to spring boot",
+          "spring boot developer",
+          "spring boot engineer",
+          "spring boot guide",
+          "spring boot roadmap",
+          "spring boot roadmap 2024",
+          "spring boot roadmap 2025",
+          "spring boot skills",
+          "spring boot skills test",
+          "spring boot quiz",
+          "spring boot interview questions",
+          "spring boot engineer roadmap",
+          "spring boot developer roadmap",
+          "become a spring boot developer",
+          "spring boot developer career path",
+          "modern spring boot developer",
+          "skills for spring boot",
+          "cloud development",
+          "what is spring boot"
+        ],
+        "_id": "698084299d704efe2cb0b314"
+      },
+      "type": "skill",
+      "status": "published",
+      "aiCourses": [
+        "Spring Boot Fundamentals",
+        "Spring Dependency Injection",
+        "Building REST APIs with Spring",
+        "Spring Data JPA Basics",
+        "Spring Security Introduction",
+        "Spring Boot Configuration",
+        "Exception Handling in Spring",
+        "Spring Boot Validation",
+        "Spring Boot Testing",
+        "Spring Boot Actuator and Monitoring"
+      ]
+    },
+    {
+      "_id": "685ed2f57c69fc967b2cb467",
+      "title": {
+        "card": "Flutter",
+        "page": "Flutter Developer",
+        "_id": "68c40fd0166b018f83df332f"
+      },
+      "description": "Step by step guide to becoming a Flutter developer in @currentYear@",
+      "slug": "flutter",
+      "createdAt": "2025-06-27T17:20:53.406Z",
+      "updatedAt": "2026-01-06T16:31:57.099Z",
+      "dimensions": {
+        "height": 2948,
+        "width": 1058
+      },
+      "order": 1966080,
+      "relatedRoadmaps": [
+        "react-native",
+        "android",
+        "backend",
+        "devops",
+        "python",
+        "golang"
+      ],
+      "seo": {
+        "title": "Flutter Roadmap: Learn to become a modern Flutter developer",
+        "description": "Community driven, articles, resources, guides, interview questions, quizzes for flutter development. Learn to become a modern Flutter developer by following the steps, skills, resources and guides listed in this roadmap.",
+        "keywords": [
+          "guide to becoming a flutter developer",
+          "guide to becoming a flutter developer 2025",
+          "flutter developer",
+          "flutter engineer",
+          "guide to flutter",
+          "flutter roadmap",
+          "flutter roadmap 2025",
+          "flutter skills",
+          "flutter skills test",
+          "skills for flutter",
+          "what is flutter",
+          "flutter quiz",
+          "flutter interview questions",
+          "flutter engineer roadmap",
+          "flutter developer roadmap",
+          "become a flutter developer",
+          "flutter developer career path",
+          "modern flutter developer"
+        ],
+        "_id": "68c40fd0166b018f83df3330"
+      },
+      "type": "skill",
+      "status": "published",
+      "courses": [],
+      "aiCourses": [
+        "Flutter Widget Fundamentals",
+        "State Management in Flutter",
+        "Navigation and Routing",
+        "Working with APIs in Flutter",
+        "Flutter Layouts Deep Dive",
+        "Custom Widgets in Flutter",
+        "Flutter Forms and Validation",
+        "Local Data Persistence",
+        "Flutter Animations Basics",
+        "Testing Flutter Applications"
+      ]
+    },
+    {
+      "_id": "6a3bb379b1fa196058c9638f",
+      "order": 1998848,
+      "title": {
+        "card": "C Programming",
+        "page": "C Programming",
+        "_id": "6a5113b1dd873c5a784da2fa"
+      },
+      "description": "Step by Step guide to become a C developer in @currentYear@",
+      "slug": "c",
+      "status": "published",
+      "seo": {
+        "title": "C Programming",
+        "description": "Step by Step guide to become a C developer",
+        "keywords": [],
+        "_id": "6a5113b1dd873c5a784da2fb"
+      },
+      "type": "skill",
+      "dimensions": {
+        "height": 3796,
+        "width": 1100
+      },
+      "relatedRoadmaps": [
+        "backend",
+        "devops",
+        "cpp",
+        "rust",
+        "golang"
+      ],
+      "courses": [],
+      "aiCourses": [
+        "C Fundamentals: Setup, Variables, and Data Types",
+        "Operators and Control Flow in C",
+        "Functions and Program Structure",
+        "Pointers and Memory Management",
+        "Arrays, Strings, and User-Defined Types",
+        "Data Structures in C",
+        "Structuring and Scaling C Codebases",
+        "Error Handling and File I/O",
+        "The C Standard Library",
+        "Build Systems, Preprocessors and Compilers in C",
+        "Testing & Debugging in C",
+        "Concurrency in C"
+      ],
+      "createdAt": "2026-06-24T10:37:45.415Z",
+      "updatedAt": "2026-07-15T12:17:03.888Z"
+    },
+    {
+      "_id": "68246b4811b0d8940850487d",
+      "title": {
+        "card": "C++",
+        "page": "C++ Developer Roadmap",
+        "_id": "695e49163eeddc26d7c37ad7"
+      },
+      "description": "Step by step guide to becoming a C++ developer in @currentYear@",
+      "slug": "cpp",
+      "createdAt": "2025-05-14T10:07:04.180Z",
+      "updatedAt": "2026-07-08T11:38:30.950Z",
+      "dimensions": {
+        "height": 3224,
+        "width": 1104
+      },
+      "order": 2031616,
+      "relatedRoadmaps": [
+        "rust",
+        "linux",
+        "python",
+        "computer-science",
+        "java",
+        "datastructures-and-algorithms"
+      ],
+      "seo": {
+        "title": "C++ Developer Roadmap",
+        "description": "Community driven, articles, resources, guides, interview questions, quizzes for C++ development. Learn to become a modern C++ developer by following the steps, skills, resources and guides listed in this roadmap.",
+        "keywords": [
+          "guide to becoming a c++ developer",
+          "c++ developer 2025",
+          "c++ engineer",
+          "c++ skills",
+          "cpp roadmap 2025",
+          "guide to c++",
+          "c++ roadmap",
+          "c++ roadmap 2025",
+          "c++ skills",
+          "c++ skills test",
+          "skills for c++",
+          "what is c++",
+          "c plus plus roadmap",
+          "c plus plus developer",
+          "c++ quiz",
+          "c++ interview questions",
+          "c++ engineer roadmap",
+          "c++ developer roadmap",
+          "c++ developer roadmap 2025",
+          "become a c++ developer",
+          "c++ developer career path",
+          "c++ developer",
+          "modern c++ developer"
+        ],
+        "_id": "695e49163eeddc26d7c37ad8"
+      },
+      "type": "skill",
+      "status": "published",
+      "courses": [],
+      "aiCourses": [
+        "C++ Fundamentals and Syntax",
+        "Memory Management in C++",
+        "Object-Oriented C++",
+        "STL Containers and Algorithms",
+        "Pointers and References Deep Dive",
+        "Templates in C++",
+        "Exception Handling in C++",
+        "File I/O in C++",
+        "Modern C++ Features",
+        "Debugging C++ Applications"
+      ]
+    },
+    {
+      "_id": "685055757c69fc967b2c9bda",
+      "title": {
+        "card": "Rust",
+        "page": "Rust Developer",
+        "_id": "6a731071c84807390820f869"
+      },
+      "description": "Step by step guide to becoming a Rust developer in @currentYear@",
+      "slug": "rust",
+      "createdAt": "2025-06-16T17:33:41.560Z",
+      "updatedAt": "2026-08-05T10:29:08.098Z",
+      "dimensions": {
+        "height": 3547,
+        "width": 1102
+      },
+      "order": 2097152,
+      "relatedRoadmaps": [
+        "backend",
+        "devops",
+        "golang",
+        "nodejs",
+        "cpp"
+      ],
+      "seo": {
+        "title": "Learn to become a Rust developer",
+        "description": "Community driven, articles, resources, guides, interview questions, quizzes for Rust development. Learn to become a modern Rust developer by following the steps, skills, resources and guides listed in this roadmap.",
+        "keywords": [
+          "guide to becoming a rust developer",
+          "rust developer",
+          "guide to rust",
+          "rust roadmap",
+          "rust roadmap 2024",
+          "rust roadmap 2025",
+          "rustlang roadmap",
+          "rustlang roadmap 2025",
+          "rust skills",
+          "rust skills test",
+          "skills for rust",
+          "cloud development",
+          "what is rust",
+          "rust quiz",
+          "rust interview questions"
+        ],
+        "_id": "6a731071c84807390820f86a"
+      },
+      "type": "skill",
+      "status": "published",
+      "courses": [],
+      "aiCourses": [
+        "Rust Ownership and Borrowing",
+        "Rust Data Types and Structures",
+        "Error Handling in Rust",
+        "Rust Traits and Generics",
+        "Building CLI Apps in Rust",
+        "Rust Modules and Crates",
+        "Lifetimes in Rust",
+        "Pattern Matching in Rust",
+        "Concurrency in Rust",
+        "Testing Rust Applications"
+      ]
+    },
+    {
+      "_id": "68763c5653bb5acca53d6e12",
+      "title": {
+        "card": "Go",
+        "page": "Go Developer",
+        "_id": "68c40fe6166b018f83df3369"
+      },
+      "description": "Step by step guide to becoming a Go developer in @currentYear@",
+      "slug": "golang",
+      "createdAt": "2025-07-15T11:32:38.321Z",
+      "updatedAt": "2026-01-06T16:31:57.237Z",
+      "dimensions": {
+        "height": 4779,
+        "width": 1061
+      },
+      "order": 2162688,
+      "relatedRoadmaps": [
+        "backend",
+        "devops",
+        "python",
+        "java",
+        "javascript",
+        "nodejs"
+      ],
+      "seo": {
+        "title": "Learn to become a Go developer",
+        "description": "Community driven, articles, resources, guides, interview questions, quizzes for Go development. Learn to become a modern Go developer by following the steps, skills, resources and guides listed in this roadmap.",
+        "keywords": [
+          "guide to becoming a golang developer",
+          "guide to becoming a go developer",
+          "golang developer",
+          "go developer",
+          "guide to golang",
+          "guide to go",
+          "golang roadmap",
+          "golang roadmap 2025",
+          "go roadmap",
+          "go roadmap 2025",
+          "golang skills",
+          "go skills",
+          "golang skills test",
+          "go skills test",
+          "skills for golang",
+          "skills for go",
+          "cloud development",
+          "what is golang",
+          "what is go",
+          "golang quiz",
+          "go quiz",
+          "golang interview questions",
+          "go interview questions"
+        ],
+        "_id": "68c40fe6166b018f83df336a"
+      },
+      "type": "skill",
+      "courses": [],
+      "status": "published",
+      "aiCourses": [
+        "Go Fundamentals",
+        "Concurrency in Go",
+        "Go Interfaces and Structs",
+        "Error Handling in Go",
+        "Building Web Services in Go",
+        "Go Modules and Packages",
+        "Working with JSON in Go",
+        "Go Testing Fundamentals",
+        "Go Pointers and Memory",
+        "File Handling in Go"
+      ]
+    },
+    {
+      "_id": "68246b4811b0d89408504880",
+      "title": {
+        "card": "Cyber Security",
+        "page": "Cyber Security Expert",
+        "_id": "6a2fe6622204ffbc59e59a2e"
+      },
+      "description": "Step by step guide to becoming a Cyber Security Expert in @currentYear@",
+      "slug": "cyber-security",
+      "createdAt": "2025-05-14T10:07:04.206Z",
+      "updatedAt": "2026-06-15T11:47:47.372Z",
+      "dimensions": {
+        "height": 4512,
+        "width": 1113
+      },
+      "order": 2228224,
+      "relatedRoadmaps": [
+        "linux",
+        "computer-science",
+        "docker",
+        "python",
+        "cpp"
+      ],
+      "seo": {
+        "title": "Cyber Security Roadmap: Learn to become a Cyber Security Expert",
+        "description": "Community driven, articles, resources, guides, interview questions, quizzes for cyber security. Learn to become a modern Cyber Security Expert by following the steps, skills, resources and guides listed in this roadmap.",
+        "keywords": [
+          "guide to becoming a cyber security expert",
+          "guide to becoming a cyber security expert in 2025",
+          "cyber security expert",
+          "cyber security skills",
+          "guide to cyber security",
+          "cyber security roadmap",
+          "cyber security roadmap 2025",
+          "cyber security skills test",
+          "skills for cyber security",
+          "what is cyber security",
+          "cyber security quiz",
+          "cyber security interview questions",
+          "cyber security engineer roadmap",
+          "cyber security expert roadmap",
+          "cyber security expert roadmap 2025",
+          "become a cyber security expert",
+          "cyber security expert career path",
+          "modern cyber security expert",
+          "digital safety roadmap",
+          "cybersecurity roadmap",
+          "cybersecurity roadmap 2025",
+          "cybersecurity skills 2025"
+        ],
+        "_id": "6a2fe6622204ffbc59e59a2f"
+      },
+      "type": "role",
+      "status": "published",
+      "courses": [],
+      "aiCourses": [
+        "Network Security Fundamentals",
+        "Web Application Security Basics",
+        "Cryptography Essentials",
+        "Security Assessment and Auditing",
+        "Incident Response Basics",
+        "Authentication and Access Control",
+        "Malware Analysis Introduction",
+        "Secure Coding Practices",
+        "Social Engineering Awareness",
+        "Security Monitoring and Logging"
+      ]
+    },
+    {
+      "_id": "69b15109f59e68a92255db82",
+      "order": 2260992,
+      "title": {
+        "card": "AI Product Builders",
+        "page": "AI Product Builder",
+        "_id": "6a3bf18fb1fa196058c967a8"
+      },
+      "description": "A step-by-step guide to building and shipping products with AI.",
+      "slug": "ai-product-builder",
+      "status": "published",
+      "seo": {
+        "title": "AI Product Builder",
+        "description": "Learn how to prototype, generate, deploy, and iterate on production-ready applications using AI.",
+        "keywords": [],
+        "_id": "6a3bf18fb1fa196058c967a9"
+      },
+      "type": "skill",
+      "dimensions": {
+        "height": 1845,
+        "width": 1097
+      },
+      "relatedRoadmaps": [
+        "claude-code",
+        "vibe-coding",
+        "devops",
+        "full-stack",
+        "openclaw",
+        "forward-deployed-engineer"
+      ],
+      "courses": [],
+      "aiCourses": [
+        "AI Product Development Fundamentals",
+        "Prompt Engineering for Developers",
+        "Frontend Fundamentals for AI Builders",
+        "Deploying Your First App",
+        "Testing AI-Generated Code",
+        "Database Basics for App Builders",
+        "Security Essentials for AI-Built Apps",
+        "Version Control for AI-Native Projects"
+      ],
+      "createdAt": "2026-03-11T11:24:57.687Z",
+      "updatedAt": "2026-06-25T07:26:26.674Z"
+    },
+    {
+      "_id": "68246b4811b0d89408504883",
+      "title": {
+        "card": "UX Design",
+        "page": "UX Design",
+        "_id": "6a5e130dd00674e850e8b3d7"
+      },
+      "description": "Step by step guide to becoming a UX Designer in @currentYear@",
+      "slug": "ux-design",
+      "createdAt": "2025-05-14T10:07:04.233Z",
+      "updatedAt": "2026-07-20T12:22:38.616Z",
+      "dimensions": {
+        "height": 3246,
+        "width": 1099
+      },
+      "order": 2293760,
+      "relatedRoadmaps": [
+        "design-system",
+        "frontend"
+      ],
+      "seo": {
+        "title": "UX Design Roadmap: Step by Step guide to learn UX Design in 2026",
+        "description": "Learn how to become a UX Designer in 2026. We also have resources and short descriptions attached to the roadmap items so you can get everything you want to learn in one place.",
+        "keywords": [
+          "guide to learn ux design",
+          "guide to becoming a ux designer",
+          "ux designer",
+          "ux designer 2025",
+          "ux design skills",
+          "guide to ux design",
+          "ux design roadmap",
+          "latest ux design roadmap",
+          "ux design roadmap 2025",
+          "ux design skills test",
+          "skills for ux design",
+          "what is ux design",
+          "ux design quiz",
+          "ux design interview questions",
+          "ux designer roadmap",
+          "become a ux designer",
+          "ux designer career path",
+          "ux designer",
+          "modern ux designer"
+        ],
+        "_id": "6a5e130dd00674e850e8b3d8"
+      },
+      "type": "role",
+      "status": "published",
+      "courses": [],
+      "aiCourses": [
+        "UX Research Methods",
+        "User Interface Design Principles",
+        "Wireframing and Prototyping",
+        "Usability Testing Fundamentals",
+        "Information Architecture Basics",
+        "User Journey Mapping",
+        "Accessibility in UX Design",
+        "Interaction Design Patterns",
+        "Design Thinking Process",
+        "UX Writing and Microcopy"
+      ]
+    },
+    {
+      "_id": "684ff8967c69fc967b2c99be",
+      "title": {
+        "card": "Software Design and Architecture",
+        "page": "Software Design and Architecture",
+        "_id": "68c40ff1166b018f83df3371"
+      },
+      "description": "Step by step guide to learn software design and architecture",
+      "slug": "software-design-architecture",
+      "createdAt": "2025-06-16T10:57:26.190Z",
+      "updatedAt": "2025-09-12T12:38:05.654Z",
+      "dimensions": {
+        "height": 2583,
+        "width": 1164
+      },
+      "order": 2359296,
+      "relatedRoadmaps": [
+        "backend",
+        "software-architect",
+        "devops",
+        "python",
+        "java",
+        "golang"
+      ],
+      "seo": {
+        "title": "Software Design and Architecture Roadmap",
+        "description": "Learn software design and architecture with this step by step guide and resources.",
+        "keywords": [
+          "guide to learn software design and architecture",
+          "software design roadmap",
+          "software architecture roadmap",
+          "software architecture roadmap 2025",
+          "software design and architecture roadmap",
+          "modern software design and architecture roadmap",
+          "fullstack software design and architecture roadmap",
+          "design and architecture roadmap",
+          "scalable design roadmap",
+          "scalable design roadmap 2025",
+          "software design patterns roadmap",
+          "software design patterns roadmap 2025",
+          "software architecture patterns roadmap",
+          "design architecture patterns roadmap",
+          "application architectures",
+          "software architecture guide"
+        ],
+        "_id": "68c40ff1166b018f83df3372"
+      },
+      "type": "skill",
+      "status": "published",
+      "courses": [],
+      "aiCourses": [
+        "SOLID Principles in Practice",
+        "Clean Code Fundamentals",
+        "Design Patterns Essentials",
+        "Domain-Driven Design Basics",
+        "Refactoring Techniques",
+        "Code Organization Strategies",
+        "Coupling and Cohesion",
+        "Dependency Management",
+        "Testing and Testability",
+        "Documentation for Developers"
+      ]
+    },
+    {
+      "_id": "68594b4f7c69fc967b2ca9d6",
+      "title": {
+        "card": "GraphQL",
+        "page": "GraphQL",
+        "_id": "69a007ca14f628c75763a5a0"
+      },
+      "description": "Step by step guide to learn GraphQL in @currentYear@",
+      "slug": "graphql",
+      "createdAt": "2025-06-23T12:40:47.808Z",
+      "updatedAt": "2026-02-26T08:43:56.741Z",
+      "dimensions": {
+        "height": 2432,
+        "width": 1099
+      },
+      "order": 2424832,
+      "relatedRoadmaps": [
+        "frontend",
+        "backend",
+        "nodejs",
+        "javascript",
+        "react",
+        "vue",
+        "angular"
+      ],
+      "seo": {
+        "title": "GraphQL Roadmap",
+        "description": "Learn what GraphQL is and how it compares to REST. A community-driven roadmap covering queries, mutations, schemas, resolvers, subscriptions, and best practices for building flexible APIs.",
+        "keywords": [
+          "guide to learn graphql",
+          "graphql roadmap",
+          "graphql roadmap 2026",
+          "modern graphql roadmap",
+          "fullstack graphql roadmap",
+          "design and architecture roadmap",
+          "scalable design roadmap",
+          "design architecture patterns roadmap",
+          "application architectures"
+        ],
+        "_id": "69a007ca14f628c75763a5a1"
+      },
+      "type": "skill",
+      "status": "published",
+      "courses": [],
+      "aiCourses": [
+        "GraphQL Schema Design",
+        "Queries and Mutations",
+        "Resolvers Deep Dive",
+        "GraphQL Error Handling",
+        "Pagination and Filtering",
+        "GraphQL Subscriptions Basics",
+        "Authentication in GraphQL",
+        "Schema Stitching and Federation Basics",
+        "GraphQL Performance Optimization",
+        "Testing GraphQL APIs"
+      ],
+      "openGraph": {
+        "image": "",
+        "_id": "69a007ca14f628c75763a5a2"
+      }
+    },
+    {
+      "_id": "68559b077c69fc967b2ca691",
+      "title": {
+        "card": "React Native",
+        "page": "React Native Developer",
+        "_id": "692d78930b7b842abb9ecaf8"
+      },
+      "description": "Step by step guide to becoming a React Native developer in @currentYear@",
+      "slug": "react-native",
+      "createdAt": "2025-06-20T17:31:51.852Z",
+      "updatedAt": "2026-01-06T16:31:56.550Z",
+      "dimensions": {
+        "height": 2878,
+        "width": 1101
+      },
+      "order": 2490368,
+      "relatedRoadmaps": [
+        "javascript",
+        "react",
+        "frontend",
+        "flutter",
+        "android"
+      ],
+      "seo": {
+        "title": "React Native Developer",
+        "description": "Community driven, articles, resources, guides, interview questions, quizzes for react native development. Learn to become a modern React Native developer by following the steps, skills, resources and guides listed in this roadmap.",
+        "keywords": [
+          "guide to becoming a react native developer",
+          "guide to becoming a react native developer",
+          "react native developer",
+          "react native engineer",
+          "react native skills",
+          "guide to react native",
+          "react native roadmap",
+          "react native roadmap 2025",
+          "react native skills",
+          "react native skills test",
+          "skills for react native",
+          "what is react native",
+          "react native quiz",
+          "react native interview questions",
+          "react native engineer roadmap",
+          "react native engineer roadmap 2025",
+          "react native developer roadmap",
+          "react native developer roadmap 2025",
+          "become a react native developer",
+          "react native developer career path",
+          "modern react native developer"
+        ],
+        "_id": "692d78930b7b842abb9ecaf9"
+      },
+      "type": "skill",
+      "status": "published",
+      "courses": [],
+      "aiCourses": [
+        "React Native Fundamentals",
+        "Navigation in React Native",
+        "Styling React Native Apps",
+        "Native Device Features",
+        "State Management in React Native",
+        "Lists and Scrolling Performance",
+        "React Native Debugging",
+        "Platform-Specific Code",
+        "Local Storage in React Native",
+        "Building and Deploying Apps"
+      ]
+    },
+    {
+      "_id": "6867ba865c499280169f327b",
+      "title": {
+        "card": "Design System",
+        "page": "Design System",
+        "_id": "691d82697c7d1fa20e765f28"
+      },
+      "description": "Learn how to create a design system with this step by step guide",
+      "slug": "design-system",
+      "createdAt": "2025-07-04T11:27:02.941Z",
+      "updatedAt": "2025-11-19T08:40:14.512Z",
+      "dimensions": {
+        "height": 3240,
+        "width": 1062
+      },
+      "order": 2555904,
+      "relatedRoadmaps": [
+        "frontend",
+        "javascript",
+        "react",
+        "nodejs",
+        "software-architect",
+        "system-design"
+      ],
+      "seo": {
+        "title": "Design System Roadmap",
+        "description": "Learn how to create a design system or become a design system engineer with this step by step guide with resources.",
+        "keywords": [
+          "guide to create a design system",
+          "guide to becoming a design system engineer",
+          "design system engineer",
+          "design system engineer 2025",
+          "design system skills",
+          "guide to design system",
+          "design system roadmap",
+          "design system skills 2025",
+          "design system skills test",
+          "skills for design system",
+          "what is design system",
+          "design system quiz",
+          "design system interview questions",
+          "design system engineer roadmap",
+          "design system engineer roadmap 2025",
+          "become a design system engineer",
+          "design system engineer career path",
+          "design system engineer",
+          "modern design system engineer"
+        ],
+        "_id": "691d82697c7d1fa20e765f29"
+      },
+      "type": "skill",
+      "status": "published",
+      "courses": [],
+      "aiCourses": [
+        "Design System Fundamentals",
+        "Building Component Libraries",
+        "Design Tokens and Variables",
+        "Documentation for Design Systems",
+        "Versioning and Governance",
+        "Component API Design",
+        "Accessibility in Design Systems",
+        "Design System Adoption Strategies",
+        "Testing Design Components",
+        "Design System Maintenance"
+      ]
+    },
+    {
+      "_id": "682b5090cce3131cb994dd49",
+      "title": {
+        "card": "Prompt Engineering",
+        "page": "Prompt Engineering Roadmap",
+        "_id": "69f1b4de0cbf10396238cd4f"
+      },
+      "description": "Step by step guide to learning Prompt Engineering in @currentYear@",
+      "slug": "prompt-engineering",
+      "createdAt": "2025-05-19T15:38:56.166Z",
+      "updatedAt": "2026-04-29T07:36:03.435Z",
+      "dimensions": {
+        "height": 2427,
+        "width": 1097
+      },
+      "order": 2621440,
+      "relatedRoadmaps": [
+        "ai-engineer",
+        "ai-agents",
+        "ai-data-scientist",
+        "data-analyst",
+        "mlops",
+        "claude-code",
+        "vibe-coding"
+      ],
+      "seo": {
+        "title": "Prompt Engineering Roadmap",
+        "description": "Step by step guide to learn Prompt Engineering. We also have resources and short descriptions attached to the roadmap items so you can get everything you want to learn in one place.",
+        "keywords": [
+          "prompt engineering tutorial",
+          "step by step prompt engineering",
+          "prompt engineering roadmap 2024",
+          "prompt engineering roadmap 2025",
+          "guide to learning prompt engineering",
+          "prompt engineering",
+          "prompt engineering engineer",
+          "prompt engineering skills",
+          "prompt engineering development",
+          "prompt engineering development skills",
+          "prompt engineering development skills test",
+          "prompt engineering engineer roadmap",
+          "prompt engineering roadmap",
+          "become a prompt engineering",
+          "prompt engineering career path",
+          "learn prompt engineering development",
+          "what is prompt engineering",
+          "prompt engineering quiz",
+          "prompt engineering interview questions"
+        ],
+        "_id": "69f1b4de0cbf10396238cd50"
+      },
+      "type": "skill",
+      "status": "published",
+      "courses": [],
+      "aiCourses": [
+        "Prompt Engineering Fundamentals",
+        "Writing Effective Prompts",
+        "Chain of Thought Prompting",
+        "Few-Shot Learning Techniques",
+        "Prompt Optimization Strategies",
+        "Role and Context Setting",
+        "Output Formatting Techniques",
+        "Handling Ambiguity in Prompts",
+        "Iterative Prompt Refinement",
+        "Prompt Testing and Evaluation"
+      ]
+    },
+    {
+      "_id": "685d810a7c69fc967b2cafcb",
+      "title": {
+        "card": "MongoDB",
+        "page": "MongoDB",
+        "_id": "69a0075c14f628c75763a56b"
+      },
+      "description": "Step by step guide to learning MongoDB in @currentYear@",
+      "slug": "mongodb",
+      "createdAt": "2025-06-26T17:19:06.733Z",
+      "updatedAt": "2026-07-15T09:50:03.565Z",
+      "dimensions": {
+        "height": 2696,
+        "width": 1103
+      },
+      "order": 2686976,
+      "relatedRoadmaps": [
+        "postgresql-dba",
+        "backend",
+        "nodejs",
+        "redis"
+      ],
+      "seo": {
+        "title": "MongoDB Roadmap",
+        "description": "Step by step guide to learn MongoDB in 2026. We also have resources and short descriptions attached to the roadmap items so you can get everything you want to learn in one place.",
+        "keywords": [
+          "mongodb tutorial",
+          "step by step mongodb",
+          "mongodb roadmap 2026",
+          "mongodb roadmap 2025",
+          "guide to learning mongodb",
+          "mongodb roadmap",
+          "mongodb",
+          "mongodb engineer",
+          "mongodb skills",
+          "mongodb development",
+          "mongodb development skills",
+          "mongodb development skills test",
+          "mongodb engineer roadmap",
+          "mongodb career path",
+          "learn mongodb development",
+          "what is mongodb",
+          "mongodb quiz",
+          "mongodb interview questions"
+        ],
+        "_id": "69a0075c14f628c75763a56c"
+      },
+      "type": "skill",
+      "status": "published",
+      "courses": [],
+      "aiCourses": [
+        "MongoDB Document Modeling",
+        "CRUD Operations in MongoDB",
+        "MongoDB Aggregation Framework",
+        "Indexing in MongoDB",
+        "MongoDB Schema Design Patterns",
+        "MongoDB Query Optimization",
+        "Working with Embedded Documents",
+        "MongoDB Transactions",
+        "Data Validation in MongoDB",
+        "MongoDB Backup and Recovery"
+      ],
+      "openGraph": {
+        "image": "",
+        "_id": "69a0075c14f628c75763a56d"
+      }
+    },
+    {
+      "_id": "684c5fb77c69fc967b2c95e4",
+      "title": {
+        "card": "Linux",
+        "page": "Linux Roadmap",
+        "_id": "6a0308c870a823016f6a6c6d"
+      },
+      "description": "Step by step guide to learning Linux in @currentYear@",
+      "slug": "linux",
+      "createdAt": "2025-06-13T17:28:23.990Z",
+      "updatedAt": "2026-05-12T11:02:34.052Z",
+      "dimensions": {
+        "height": 2763,
+        "width": 1101
+      },
+      "order": 2752512,
+      "relatedRoadmaps": [
+        "devops",
+        "backend",
+        "docker",
+        "cyber-security"
+      ],
+      "seo": {
+        "title": "Linux Roadmap",
+        "description": "Step by step guide to learn Linux in 2026. We also have resources and short descriptions attached to the roadmap items so you can get everything you want to learn in one place.",
+        "keywords": [
+          "step by step guide for linux",
+          "linux for beginners",
+          "how to learn linux",
+          "use linux in production",
+          "guide to learning linux",
+          "linux roadmap 2024",
+          "linux roadmap 2025",
+          "linux",
+          "linux tutorial",
+          "linux roadmap",
+          "linux learning path",
+          "linux learning roadmap",
+          "linux learning guide",
+          "linux skills",
+          "linux for development",
+          "linux for development skills",
+          "linux for development skills test",
+          "linux learning guide",
+          "become a linux expert",
+          "linux career path",
+          "learn linux for development",
+          "what is linux",
+          "linux quiz",
+          "linux interview questions"
+        ],
+        "_id": "6a0308c870a823016f6a6c6e"
+      },
+      "type": "skill",
+      "status": "published",
+      "courses": [],
+      "aiCourses": [
+        "Linux File System Navigation",
+        "Linux User and Permission Management",
+        "Shell Scripting Basics",
+        "Process Management in Linux",
+        "Linux Networking Fundamentals",
+        "Package Management",
+        "Text Processing with Linux Tools",
+        "Linux System Monitoring",
+        "Cron Jobs and Scheduling",
+        "Linux Security Basics"
+      ]
+    },
+    {
+      "_id": "683ed77f7c69fc967b2c8f12",
+      "title": {
+        "card": "Kubernetes",
+        "page": "Kubernetes Roadmap",
+        "_id": "6ab3c9c7aca636c6b9eab0a5"
+      },
+      "description": "Step by step guide to learning Kubernetes in @currentYear@",
+      "slug": "kubernetes",
+      "createdAt": "2025-06-03T11:07:43.855Z",
+      "updatedAt": "2026-09-23T12:44:58.809Z",
+      "dimensions": {
+        "height": 2251,
+        "width": 1146
+      },
+      "order": 2818048,
+      "partner": {
+        "description": "Get the latest Kubernetes news from our sister site",
+        "linkText": "TheNewStack.io",
+        "link": "https://thenewstack.io/?utm_source=roadmap.sh&utm_medium=Referral&utm_campaign=Alert",
+        "name": "",
+        "logo": "",
+        "_id": "6ab3c9c7aca636c6b9eab0a7"
+      },
+      "relatedRoadmaps": [
+        "docker",
+        "devops",
+        "cloudflare",
+        "backend"
+      ],
+      "seo": {
+        "title": "Kubernetes Roadmap",
+        "description": "Step by step guide to learn Kubernetes in 2026. We also have resources and short descriptions attached to the roadmap items so you can get everything you want to learn in one place.",
+        "keywords": [
+          "kubernetes tutorial",
+          "step by step kubernetes",
+          "kubernetes roadmap 2026",
+          "guide to learning kubernetes",
+          "kubernetes",
+          "kubernetes engineer",
+          "kubernetes engineer 2025",
+          "kubernetes skills",
+          "kubernetes development",
+          "kubernetes development skills",
+          "kubernetes development skills test",
+          "kubernetes engineer roadmap",
+          "kubernetes roadmap",
+          "become a kubernetes expert",
+          "kubernetes career path",
+          "learn kubernetes development",
+          "what is kubernetes",
+          "kubernetes quiz",
+          "kubernetes interview questions"
+        ],
+        "_id": "6ab3c9c7aca636c6b9eab0a6"
+      },
+      "type": "skill",
+      "status": "published",
+      "courses": [],
+      "aiCourses": [
+        "Kubernetes Architecture",
+        "Pods and Deployments",
+        "Services and Networking",
+        "ConfigMaps and Secrets",
+        "Kubernetes Storage Basics",
+        "ReplicaSets and Scaling",
+        "Kubernetes Namespaces",
+        "Health Checks and Probes",
+        "Kubernetes RBAC",
+        "Debugging in Kubernetes"
+      ]
+    },
+    {
+      "_id": "68387e247c69fc967b2c7e3d",
+      "title": {
+        "card": "Docker",
+        "page": "Docker Roadmap",
+        "_id": "69a0072114f628c75763a53a"
+      },
+      "description": "Step by step guide to learning Docker in @currentYear@",
+      "slug": "docker",
+      "createdAt": "2025-05-29T15:32:52.622Z",
+      "updatedAt": "2026-02-26T08:41:07.276Z",
+      "dimensions": {
+        "height": 2159,
+        "width": 1143
+      },
+      "order": 2883584,
+      "relatedRoadmaps": [
+        "devops",
+        "backend",
+        "kubernetes",
+        "linux",
+        "aws"
+      ],
+      "seo": {
+        "title": "Docker Roadmap",
+        "description": "Step by step guide to learn Docker in 2026. We also have resources and short descriptions attached to the roadmap items so you can get everything you want to learn in one place.",
+        "keywords": [
+          "docker tutorial",
+          "step by step guide for docker",
+          "docker for beginners",
+          "how to learn docker",
+          "use docker in production",
+          "docker roadmap 2025",
+          "guide to learning docker",
+          "docker roadmap",
+          "docker learning path",
+          "docker learning roadmap",
+          "docker learning roadmap 2025",
+          "container roadmap",
+          "container roadmap 2025",
+          "docker",
+          "docker learning guide",
+          "docker skills",
+          "docker for development",
+          "docker for development skills",
+          "docker for development skills test",
+          "docker learning guide",
+          "become a docker expert",
+          "docker career path",
+          "learn docker for development",
+          "what is docker",
+          "docker quiz",
+          "docker interview questions"
+        ],
+        "_id": "69a0072114f628c75763a53b"
+      },
+      "type": "skill",
+      "status": "published",
+      "courses": [],
+      "aiCourses": [
+        "Docker Fundamentals",
+        "Writing Dockerfiles",
+        "Docker Compose Basics",
+        "Container Networking",
+        "Docker Volumes and Data Management",
+        "Multi-Stage Builds",
+        "Docker Image Optimization",
+        "Container Security Basics",
+        "Docker Logging and Debugging",
+        "Docker Registry and Image Management"
+      ],
+      "openGraph": {
+        "image": "",
+        "_id": "69a0072114f628c75763a53c"
+      }
+    },
+    {
+      "_id": "683992ce7c69fc967b2c8000",
+      "title": {
+        "card": "AWS",
+        "page": "AWS Roadmap",
+        "_id": "69a0070c14f628c75763a52a"
+      },
+      "description": "Step by step guide to learning AWS in @currentYear@",
+      "slug": "aws",
+      "createdAt": "2025-05-30T11:13:18.951Z",
+      "updatedAt": "2026-02-26T08:40:46.664Z",
+      "dimensions": {
+        "height": 3279,
+        "width": 1123
+      },
+      "order": 3014656,
+      "relatedRoadmaps": [
+        "devops",
+        "computer-science",
+        "cloudflare",
+        "linux",
+        "backend"
+      ],
+      "seo": {
+        "title": "AWS Roadmap",
+        "description": "Step by step guide to learn AWS in 2026. We also have resources and short descriptions attached to the roadmap items so you can get everything you want to learn in one place.",
+        "keywords": [
+          "step by step guide for aws",
+          "how to learn aws",
+          "use aws in production",
+          "guide to learning aws",
+          "aws for beginners",
+          "aws tutorial",
+          "aws roadmap 2026",
+          "aws roadmap",
+          "aws learning path",
+          "aws learning roadmap",
+          "aws learning roadmap 2025",
+          "aws",
+          "aws learning guide",
+          "aws skills",
+          "aws for development",
+          "aws for development skills",
+          "aws for development skills test",
+          "aws learning guide",
+          "become a aws expert",
+          "aws career path",
+          "learn aws for development",
+          "what is aws",
+          "amazon web services roadmap",
+          "amazon web services tools",
+          "learn amazon web services",
+          "aws quiz",
+          "aws interview questions"
+        ],
+        "_id": "69a0070c14f628c75763a52b"
+      },
+      "type": "skill",
+      "status": "published",
+      "courses": [],
+      "aiCourses": [
+        "AWS Core Services Overview",
+        "EC2 and Compute Fundamentals",
+        "S3 and Storage Services",
+        "IAM and Security Basics",
+        "VPC and Networking Essentials",
+        "RDS and Database Services",
+        "Lambda and Serverless Basics",
+        "CloudWatch Monitoring",
+        "Route 53 and DNS",
+        "AWS Cost Management"
+      ],
+      "openGraph": {
+        "image": "",
+        "_id": "69a0070c14f628c75763a52c"
+      }
+    },
+    {
+      "_id": "68246b4811b0d89408504886",
+      "title": {
+        "card": "Terraform",
+        "page": "Terraform Roadmap",
+        "_id": "69a006f514f628c75763a51a"
+      },
+      "description": "Step by step guide to learn Terraform in @currentYear@",
+      "slug": "terraform",
+      "createdAt": "2025-05-14T10:07:04.256Z",
+      "updatedAt": "2026-06-30T16:00:17.476Z",
+      "dimensions": {
+        "height": 3160,
+        "width": 1167
+      },
+      "order": 3080192,
+      "relatedRoadmaps": [
+        "devops",
+        "aws",
+        "git-github",
+        "cloudflare",
+        "backend"
+      ],
+      "seo": {
+        "title": "Terraform Roadmap",
+        "description": "Step-by-step guide to learning Terraform in 2026. We also have resources and short descriptions attached to the roadmap items so you can get everything you want to learn in one place.",
+        "keywords": [
+          "terraform tutorial",
+          "terraform tutorial 2026",
+          "step by step guide for terraform",
+          "how to learn terraform",
+          "guide to learning terraform",
+          "use terraform in production",
+          "terraform for beginners",
+          "terraform roadmap 2024",
+          "terraform roadmap 2025",
+          "terraform roadmap",
+          "terraform learning path",
+          "terraform learning roadmap",
+          "terraform",
+          "terraform learning guide",
+          "terraform skills",
+          "terraform for development",
+          "terraform for development skills",
+          "terraform for development skills test",
+          "terraform learning guide",
+          "become a terraform expert",
+          "terraform career path",
+          "learn terraform for development",
+          "what is terraform",
+          "terraform quiz",
+          "terraform interview questions"
+        ],
+        "_id": "69a006f514f628c75763a51b"
+      },
+      "type": "skill",
+      "status": "published",
+      "courses": [],
+      "aiCourses": [
+        "Terraform Fundamentals",
+        "Writing Terraform Modules",
+        "State Management in Terraform",
+        "Terraform Variables and Outputs",
+        "Multi-Environment Infrastructure",
+        "Terraform Providers Deep Dive",
+        "Resource Dependencies and Lifecycle",
+        "Terraform Workspaces",
+        "Testing Terraform Configurations",
+        "Terraform Import and Migration"
+      ],
+      "openGraph": {
+        "image": "",
+        "_id": "69a006f514f628c75763a51c"
+      }
+    },
+    {
+      "_id": "68246b4811b0d8940850488f",
+      "title": {
+        "card": "Technical Writer",
+        "page": "Technical Writer",
+        "_id": "6ab277e5aca636c6b9eaabdc"
+      },
+      "description": "Roadmap for anyone looking for a career in technical writing in @currentYear@",
+      "slug": "technical-writer",
+      "createdAt": "2025-05-14T10:07:04.326Z",
+      "updatedAt": "2026-09-22T12:43:19.084Z",
+      "dimensions": {
+        "height": 2246,
+        "width": 1105
+      },
+      "order": 3145728,
+      "relatedRoadmaps": [
+        "devrel",
+        "engineering-manager",
+        "git-github"
+      ],
+      "seo": {
+        "title": "Technical Writer Roadmap",
+        "description": "Learn what technical writing is, what technical writers do and how to become one using our community-driven roadmap.",
+        "keywords": [
+          "technical writer roadmap 2024",
+          "technical writer roadmap 2025",
+          "guide to becoming a technical writer",
+          "technical writer roadmap",
+          "technical writer",
+          "technical writing skills",
+          "technical writing skills 2025",
+          "technical writing",
+          "technical documentation roadmap",
+          "technical documentation",
+          "technical writing test",
+          "become a technical writer",
+          "technical writer career path",
+          "skills for technical writing",
+          "learn technical writing",
+          "what is technical writing",
+          "technical writer quiz",
+          "technical writer interview questions"
+        ],
+        "_id": "6ab277e5aca636c6b9eaabdd"
+      },
+      "type": "role",
+      "status": "published",
+      "courses": [],
+      "aiCourses": [
+        "Technical Writing Fundamentals",
+        "Documentation Structure and Organization",
+        "Writing API Documentation",
+        "Creating User Guides",
+        "Writing for Developer Audiences",
+        "Documentation Tools and Workflows",
+        "Style Guides and Consistency",
+        "Visual Documentation Techniques",
+        "Documentation Maintenance",
+        "Writing Tutorials and How-Tos"
+      ]
+    },
+    {
+      "_id": "68246b4811b0d89408504889",
+      "title": {
+        "card": "Game Developer",
+        "page": "Game Developer",
+        "_id": "68c40ed0166b018f83df3192"
+      },
+      "description": "Roadmap to becoming a Game Developer in @currentYear@",
+      "slug": "game-developer",
+      "createdAt": "2025-05-14T10:07:04.280Z",
+      "updatedAt": "2026-01-06T16:31:53.833Z",
+      "dimensions": {
+        "height": 2686,
+        "width": 1065
+      },
+      "order": 3276800,
+      "relatedRoadmaps": [
+        "backend",
+        "server-side-game-developer",
+        "react-native",
+        "python",
+        "javascript"
+      ],
+      "seo": {
+        "title": "Game Developer Roadmap",
+        "description": "Learn what game development is, what game developers do and how to become one using our community-driven roadmap.",
+        "keywords": [
+          "game developer roadmap 2024",
+          "game developer roadmap 2025",
+          "guide to becoming a developer",
+          "guide to becoming a game developer",
+          "game developer roadmap",
+          "game developer",
+          "game engineer",
+          "game skills",
+          "game development",
+          "game development skills",
+          "game development skills test",
+          "game engineer roadmap",
+          "become a game developer",
+          "game developer career path",
+          "modern javascript developer",
+          "node developer",
+          "skills for game development",
+          "learn game development",
+          "what is game development",
+          "game developer quiz",
+          "game developer interview questions"
+        ],
+        "_id": "68c40ed0166b018f83df3193"
+      },
+      "type": "role",
+      "status": "published",
+      "courses": [],
+      "aiCourses": [
+        "Game Development Fundamentals",
+        "Game Physics Basics",
+        "2D Game Development",
+        "Game AI Introduction",
+        "Game Asset Management",
+        "Collision Detection Techniques",
+        "Game Loop and Timing",
+        "Sprite Animation and Graphics",
+        "Level Design Basics",
+        "Game Audio Fundamentals"
+      ]
+    },
+    {
+      "_id": "68246b4811b0d8940850488c",
+      "title": {
+        "card": "Server Side Game Developer",
+        "page": "Server Side Game Developer",
+        "_id": "68c40ed7166b018f83df319a"
+      },
+      "description": "Roadmap to becoming a Server Side Game Developer in @currentYear@",
+      "slug": "server-side-game-developer",
+      "createdAt": "2025-05-14T10:07:04.302Z",
+      "updatedAt": "2026-01-06T16:31:53.971Z",
+      "dimensions": {
+        "height": 3232,
+        "width": 1062
+      },
+      "order": 3309568,
+      "relatedRoadmaps": [
+        "backend",
+        "game-developer",
+        "software-architect"
+      ],
+      "seo": {
+        "title": "Server Side Game Developer Roadmap",
+        "description": "Learn what Server Side Game Development is, what server side game developers do and how to become one using our community-driven roadmap.",
+        "keywords": [
+          "server side game developer roadmap 2024",
+          "server side game developer roadmap 2024",
+          "guide to becoming a server side game developer",
+          "server side game developer roadmap",
+          "server side game developer roadmap 2025",
+          "server side game developer",
+          "server side game engineer",
+          "server side game skills",
+          "server side game development",
+          "server side game development skills",
+          "server side game development skills test",
+          "server side game engineer roadmap",
+          "server side game developer roadmap",
+          "become a server side game developer",
+          "server side game developer career path",
+          "skills for game development",
+          "learn server side game development",
+          "what is server side game development",
+          "server side game developer quiz",
+          "server side game developer interview questions"
+        ],
+        "_id": "68c40ed7166b018f83df319b"
+      },
+      "type": "role",
+      "courses": [],
+      "status": "published",
+      "aiCourses": [
+        "Game Server Architecture",
+        "Networking for Multiplayer Games",
+        "Game State Synchronization",
+        "Server-Side Game Logic",
+        "Handling Latency and Lag",
+        "Player Session Management",
+        "Matchmaking Systems",
+        "Game Database Design",
+        "Anti-Cheat Fundamentals",
+        "Server Performance Optimization"
+      ]
+    },
+    {
+      "_id": "68246b4811b0d89408504892",
+      "title": {
+        "card": "MLOps",
+        "page": "MLOps Roadmap",
+        "_id": "6974c6dd15c8fad1a6b36c6d"
+      },
+      "description": "Step by step guide to learn MLOps in @currentYear@",
+      "slug": "mlops",
+      "createdAt": "2025-05-14T10:07:04.347Z",
+      "updatedAt": "2026-01-24T13:19:27.128Z",
+      "dimensions": {
+        "height": 2096,
+        "width": 1106
+      },
+      "order": 3407872,
+      "relatedRoadmaps": [
+        "ai-data-scientist",
+        "devops",
+        "backend",
+        "python",
+        "golang"
+      ],
+      "seo": {
+        "title": "MLOps Roadmap",
+        "description": "Learn about MLOps using this roadmap. Community driven, articles, resources, guides, interview questions, quizzes for modern machine learning operations.",
+        "keywords": [
+          "mlops roadmap 2024",
+          "mlops roadmap 2025",
+          "mlops roadmap",
+          "mlops engineer",
+          "machine learning expert",
+          "machine learning engineer",
+          "ai ops engineer"
+        ],
+        "_id": "6974c6dd15c8fad1a6b36c6e"
+      },
+      "type": "role",
+      "status": "published",
+      "courses": [],
+      "aiCourses": [
+        "ML Pipeline Fundamentals",
+        "Model Versioning and Registry",
+        "Model Deployment Strategies",
+        "ML Monitoring Basics",
+        "Feature Store Concepts",
+        "Data Pipeline for ML",
+        "Experiment Tracking",
+        "Model Serving Patterns",
+        "CI/CD for Machine Learning",
+        "ML Infrastructure Basics"
+      ]
+    },
+    {
+      "_id": "6839fdc07c69fc967b2c872e",
+      "title": {
+        "card": "Data Structures & Algorithms",
+        "page": "Data Structures & Algorithms",
+        "_id": "6ab61fe5786e49e9a56734fb"
+      },
+      "description": "Step by step guide to learn Data Structures and Algorithms in @currentYear@",
+      "slug": "datastructures-and-algorithms",
+      "createdAt": "2025-05-30T18:49:36.854Z",
+      "updatedAt": "2026-09-25T07:16:54.387Z",
+      "dimensions": {
+        "height": 2829,
+        "width": 1100
+      },
+      "order": 3407872,
+      "relatedRoadmaps": [
+        "computer-science",
+        "python",
+        "cpp",
+        "linux",
+        "rust"
+      ],
+      "seo": {
+        "title": "Data Structures and Algorithms Roadmap",
+        "description": "Learn about Data Structures and Algorithms using this roadmap. Community driven, articles, resources, guides, interview questions, quizzes for modern data structure and algorithms.",
+        "keywords": [
+          "dsa",
+          "dsa roadmap",
+          "dsa roadmap 2026",
+          "learn data structures",
+          "learn algorithms",
+          "datastructures and algorithms roadmap 2025",
+          "datastructures and algorithms engineer",
+          "data structures roadmap",
+          "data structures roadmap 2025",
+          "algorithms roadmap",
+          "algorithms roadmap 2025",
+          "self-taught datastructures and algorithms"
+        ],
+        "_id": "6ab61fe5786e49e9a56734fc"
+      },
+      "type": "skill",
+      "status": "published",
+      "courses": [],
+      "aiCourses": [
+        "Arrays and Strings",
+        "Linked Lists and Trees",
+        "Sorting and Searching Algorithms",
+        "Graph Algorithms Basics",
+        "Dynamic Programming Introduction",
+        "Hash Tables and Hashing",
+        "Stacks and Queues",
+        "Recursion and Backtracking",
+        "Binary Search Trees",
+        "Algorithm Complexity Analysis"
+      ]
+    },
+    {
+      "_id": "68246b4811b0d8940850489b",
+      "title": {
+        "card": "Redis",
+        "page": "Redis Roadmap",
+        "_id": "69bd3bd631e228f31bc863e2"
+      },
+      "description": "Step by step guide to learn Redis in @currentYear@",
+      "slug": "redis",
+      "createdAt": "2025-05-14T10:07:04.412Z",
+      "updatedAt": "2026-03-20T12:21:44.235Z",
+      "dimensions": {
+        "height": 4148,
+        "width": 1138
+      },
+      "order": 3473408,
+      "relatedRoadmaps": [
+        "mongodb",
+        "postgresql-dba",
+        "sql"
+      ],
+      "seo": {
+        "title": "Redis Roadmap",
+        "description": "Learn about Redis using this roadmap. We also have resources and short descriptions attached to the roadmap items so you can get everything you want to learn in one place.",
+        "keywords": [
+          "learn redis 2024",
+          "learn redis 2026",
+          "redis tutorial",
+          "redis for beginners",
+          "how to learn redis",
+          "step by step guide for redis",
+          "use redis in production",
+          "guide to learning redis",
+          "redis roadmap",
+          "redis roadmap 2024",
+          "redis roadmap 2025",
+          "redis learning path",
+          "redis learning roadmap",
+          "redis learning guide",
+          "redis skills",
+          "redis for development",
+          "redis for development skills",
+          "redis learning guide",
+          "become a redis expert",
+          "redis career path",
+          "learn redis for development",
+          "what is redis",
+          "redis quiz",
+          "redis interview questions"
+        ],
+        "_id": "69bd3bd631e228f31bc863e3"
+      },
+      "type": "skill",
+      "status": "published",
+      "courses": [],
+      "aiCourses": [
+        "Redis Data Structures",
+        "Caching Patterns with Redis",
+        "Redis Persistence Options",
+        "Redis Pub/Sub Messaging",
+        "Redis Performance Optimization",
+        "Redis Transactions",
+        "Redis Cluster Basics",
+        "Lua Scripting in Redis",
+        "Redis Security Configuration",
+        "Redis Monitoring and Debugging"
+      ]
+    },
+    {
+      "_id": "68246b4811b0d89408504898",
+      "title": {
+        "card": "Product Manager",
+        "page": "Product Manager",
+        "_id": "69a0090714f628c75763a77e"
+      },
+      "description": "Everything you need to know to become a Product Manager in @currentYear@",
+      "slug": "product-manager",
+      "createdAt": "2025-05-14T10:07:04.388Z",
+      "updatedAt": "2026-02-26T08:49:13.640Z",
+      "dimensions": {
+        "height": 6106,
+        "width": 1142
+      },
+      "order": 3538944,
+      "partner": {
+        "description": "Ready-to use free on/offboarding templates for new employees",
+        "linkText": "silo.team",
+        "link": "https://www.silo.team/book-a-demo-silo-team?utm_source=affiliate1&utm_medium=referral&utm_campaign=free_onboarding_checklist",
+        "_id": "69a0090714f628c75763a780"
+      },
+      "relatedRoadmaps": [
+        "ux-design",
+        "data-analyst",
+        "api-design",
+        "design-system",
+        "software-architect",
+        "engineering-manager"
+      ],
+      "seo": {
+        "title": "Product Manager",
+        "description": "Learn what product management is, what product managers do and how to become one using our community-driven roadmap.",
+        "keywords": [
+          "product manager roadmap 2024",
+          "product manager roadmap 2025",
+          "guide to becoming a product manager",
+          "product manager roadmap",
+          "product manager skills",
+          "product manager skills 2025",
+          "product manager",
+          "become a product manager",
+          "product manager career path",
+          "skills for product manager",
+          "learn product manager",
+          "what is product manager"
+        ],
+        "_id": "69a0090714f628c75763a77f"
+      },
+      "type": "role",
+      "status": "published",
+      "courses": [],
+      "aiCourses": [
+        "Product Management Fundamentals",
+        "Writing Product Requirements",
+        "Prioritization Frameworks",
+        "User Story Mapping",
+        "Product Metrics and Analytics",
+        "Stakeholder Management",
+        "Roadmap Planning",
+        "Competitive Analysis",
+        "Product Discovery Techniques",
+        "Go-to-Market Strategy Basics"
+      ],
+      "openGraph": {
+        "image": "",
+        "_id": "69a0090714f628c75763a781"
+      }
+    },
+    {
+      "_id": "68246b4811b0d89408504895",
+      "title": {
+        "card": "Git and GitHub",
+        "page": "Learn Git and GitHub",
+        "_id": "6a992ec8aca636c6b9e98a87"
+      },
+      "description": "Step by step guide to learn Git and GitHub in @currentYear@",
+      "slug": "git-github",
+      "createdAt": "2025-05-14T10:07:04.365Z",
+      "updatedAt": "2026-09-03T08:24:40.418Z",
+      "dimensions": {
+        "height": 3846,
+        "width": 1104
+      },
+      "order": 3604480,
+      "relatedRoadmaps": [
+        "computer-science",
+        "frontend",
+        "backend",
+        "devops",
+        "linux",
+        "full-stack"
+      ],
+      "seo": {
+        "title": "Learn Git and GitHub",
+        "description": "Learn about Git and GitHub using this roadmap. We also have resources and short descriptions attached to the roadmap items so you can get everything you want to learn in one place.",
+        "keywords": [
+          "learn git and github 2025",
+          "git roadmap",
+          "github roadmap",
+          "git roadmap 2025",
+          "github roadmap 2025",
+          "learn github",
+          "github tutorial",
+          "git for beginners",
+          "version control",
+          "git commands",
+          "git vcs roadmap",
+          "github features",
+          "pull requests",
+          "github actions",
+          "open source github roadmap",
+          "become a git expert",
+          "github developer career path",
+          "how to use git and github",
+          "git github roadmap 2026"
+        ],
+        "_id": "6a992ec8aca636c6b9e98a88"
+      },
+      "type": "skill",
+      "status": "published",
+      "courses": [],
+      "aiCourses": [
+        "Git Internals and Architecture",
+        "Branching Strategies in Practice",
+        "Resolving Merge Conflicts",
+        "Git Workflows for Teams",
+        "Advanced Git Commands",
+        "Git Rebase vs Merge",
+        "Git Hooks and Automation",
+        "Repository Management",
+        "Code Review with Pull Requests",
+        "Git Troubleshooting and Recovery"
+      ]
+    },
+    {
+      "_id": "68246b4811b0d894085048a1",
+      "title": {
+        "card": "PHP",
+        "page": "PHP Roadmap",
+        "_id": "6a2fe4f12204ffbc59e59704"
+      },
+      "description": "Step by step guide to learning PHP in @currentYear@",
+      "slug": "php",
+      "createdAt": "2025-05-14T10:07:04.458Z",
+      "updatedAt": "2026-06-15T11:41:38.992Z",
+      "courses": [],
+      "dimensions": {
+        "height": 3887,
+        "width": 1111
+      },
+      "order": 3670016,
+      "relatedRoadmaps": [
+        "devops",
+        "backend",
+        "system-design",
+        "linux",
+        "software-design-architecture"
+      ],
+      "seo": {
+        "title": "PHP Roadmap",
+        "description": "Step-by-step guide to learn PHP in 2026. We also have resources and short descriptions attached to the roadmap items so you can get everything you want to learn in one place.",
+        "keywords": [
+          "php tutorial",
+          "php tutorial 2025",
+          "step by step guide for php",
+          "php for beginners",
+          "how to learn php",
+          "use php in production",
+          "php roadmap 2024",
+          "php roadmap 2025",
+          "guide to learning php",
+          "php roadmap",
+          "php learning path",
+          "php learning roadmap",
+          "php",
+          "php learning guide",
+          "php skills",
+          "php for development",
+          "php for development skills",
+          "php for development skills test",
+          "php learning guide",
+          "become a php expert",
+          "php career path",
+          "learn php for development",
+          "what is php",
+          "php quiz",
+          "php interview questions"
+        ],
+        "_id": "6a2fe4f12204ffbc59e59705"
+      },
+      "type": "skill",
+      "status": "published",
+      "aiCourses": [
+        "PHP Fundamentals",
+        "Object-Oriented PHP",
+        "Working with Databases in PHP",
+        "PHP Error Handling",
+        "Building Web Applications with PHP",
+        "PHP Sessions and Cookies",
+        "PHP Security Basics",
+        "Composer and Dependency Management",
+        "PHP Testing Fundamentals",
+        "PHP Performance Optimization"
+      ]
+    },
+    {
+      "_id": "68246b4811b0d8940850489e",
+      "title": {
+        "card": "Engineering Manager",
+        "page": "Engineering Manager",
+        "_id": "69a008f514f628c75763a76e"
+      },
+      "description": "Everything you need to know to become an Engineering Manager in @currentYear@",
+      "slug": "engineering-manager",
+      "createdAt": "2025-05-14T10:07:04.435Z",
+      "updatedAt": "2026-02-26T08:48:55.643Z",
+      "dimensions": {
+        "height": 4630,
+        "width": 1140
+      },
+      "order": 3735552,
+      "relatedRoadmaps": [
+        "backend",
+        "software-architect",
+        "system-design",
+        "software-design-architecture",
+        "product-manager"
+      ],
+      "seo": {
+        "title": "Engineering Manager",
+        "description": "Learn what engineering management is, what engineering managers do and how to become one using our community-driven roadmap.",
+        "keywords": [
+          "engineering manager",
+          "engineering manager roadmap",
+          "engineering manager roadmap 2025",
+          "Engineering Management",
+          "become an Engineering Manager",
+          "tech leadership",
+          "software engineering manager",
+          "management skills",
+          "technical leadership",
+          "career roadmap"
+        ],
+        "_id": "69a008f514f628c75763a76f"
+      },
+      "type": "role",
+      "status": "published",
+      "courses": [],
+      "aiCourses": [
+        "Engineering Team Leadership",
+        "Technical Project Management",
+        "One-on-Ones and Feedback",
+        "Hiring and Interviewing Engineers",
+        "Managing Technical Debt",
+        "Team Performance Metrics",
+        "Career Development Conversations",
+        "Conflict Resolution in Teams",
+        "Agile Team Management",
+        "Cross-Team Collaboration"
+      ],
+      "openGraph": {
+        "image": "",
+        "_id": "69a008f514f628c75763a770"
+      }
+    },
+    {
+      "_id": "68246b4811b0d894085048a7",
+      "title": {
+        "card": "Developer Relations",
+        "page": "Developer Relations",
+        "_id": "6ab27815aca636c6b9eaabec"
+      },
+      "description": "Step by step guide to becoming a Developer Advocate in @currentYear@",
+      "slug": "devrel",
+      "createdAt": "2025-05-14T10:07:04.501Z",
+      "updatedAt": "2026-09-22T12:44:07.118Z",
+      "dimensions": {
+        "height": 4057,
+        "width": 1105
+      },
+      "order": 3801088,
+      "relatedRoadmaps": [
+        "frontend",
+        "backend",
+        "full-stack",
+        "product-manager",
+        "qa"
+      ],
+      "seo": {
+        "title": "DevRel Roadmap",
+        "description": "Learn what DevRel is, what developer advocates do and how to become one using our community-driven roadmap.",
+        "keywords": [
+          "devrel roadmap 2024",
+          "devrel roadmap 2025",
+          "devrel enginer roadmap 2024",
+          "devrel enginer roadmap 2025",
+          "guide to becoming a developer",
+          "guide to becoming a devrel",
+          "devrel roadmap",
+          "devrel",
+          "developer relations engineer",
+          "devrel skills",
+          "devrel skills test",
+          "developer relations roadmap",
+          "developer relations roadmap 2025",
+          "become a devrel",
+          "devrel career path",
+          "skills for devrel",
+          "learn devrel",
+          "what is devrel",
+          "devrel quiz",
+          "devrel interview questions",
+          "developer advocate"
+        ],
+        "_id": "6ab27815aca636c6b9eaabed"
+      },
+      "type": "role",
+      "status": "published",
+      "courses": [],
+      "aiCourses": [
+        "Developer Relations Fundamentals",
+        "Building Developer Communities",
+        "Technical Content Creation",
+        "Developer Advocacy Strategies",
+        "Measuring DevRel Success",
+        "Speaking at Tech Conferences",
+        "Running Developer Events",
+        "Developer Feedback Loops",
+        "Open Source Community Management",
+        "Building Developer Programs"
+      ]
+    },
+    {
+      "_id": "68246b4811b0d894085048a4",
+      "title": {
+        "card": "Cloudflare",
+        "page": "Cloudflare",
+        "_id": "6a0f36ada95e0d5c68ded49b"
+      },
+      "description": "Learn to deploy your applications on Cloudflare in @currentYear@",
+      "slug": "cloudflare",
+      "createdAt": "2025-05-14T10:07:04.481Z",
+      "updatedAt": "2026-05-21T16:45:33.617Z",
+      "dimensions": {
+        "height": 3076,
+        "width": 1111
+      },
+      "order": 3866624,
+      "relatedRoadmaps": [
+        "devops",
+        "backend",
+        "full-stack",
+        "javascript",
+        "nodejs",
+        "aws",
+        "linux"
+      ],
+      "seo": {
+        "title": "Cloudflare Roadmap",
+        "description": "Step-by-step guide to learn Cloudflare in 2026. We also have resources and short descriptions attached to the roadmap items so you can get everything you want to learn in one place.",
+        "keywords": [
+          "cloudflare tutorial",
+          "step by step guide for cloudflare",
+          "how to learn cloudflare",
+          "use cloudflare in production",
+          "cloudflare roadmap 2025",
+          "learn cloudflare tools",
+          "guide to learning cloudflare",
+          "cloudflare for beginners",
+          "cloudflare roadmap",
+          "cloudflare learning path",
+          "cloudflare learning roadmap",
+          "cloudflare",
+          "cloudflare learning guide",
+          "cloudflare skills",
+          "cloudflare for development",
+          "cloudflare for development skills",
+          "cloudflare for development skills test",
+          "cloudflare quiz",
+          "cloudflare career path",
+          "cloudflare interview questions",
+          "learn cloudflare for development",
+          "become a cloudflare expert",
+          "what is cloudflare"
+        ],
+        "_id": "6a0f36ada95e0d5c68ded49c"
+      },
+      "type": "skill",
+      "status": "published",
+      "courses": [],
+      "aiCourses": [
+        "CDN Fundamentals",
+        "DNS Management Basics",
+        "Web Performance with Cloudflare",
+        "Cloudflare Security Features",
+        "Caching Strategies with Cloudflare",
+        "SSL/TLS Configuration",
+        "Firewall Rules and WAF",
+        "Page Rules and Redirects",
+        "Load Balancing with Cloudflare",
+        "Cloudflare Workers Introduction"
+      ],
+      "openGraph": {
+        "image": "",
+        "_id": "6a0f36ada95e0d5c68ded49d"
+      }
+    },
+    {
+      "_id": "68a73c5fc353ee02ff4728a8",
+      "title": {
+        "card": "BI Analyst",
+        "page": "BI Analyst",
+        "_id": "6a9a6daeaca636c6b9e99812"
+      },
+      "description": "Learn to become a Business Intelligence Analyst in @currentYear@",
+      "slug": "bi-analyst",
+      "createdAt": "2025-08-21T15:33:51.038Z",
+      "updatedAt": "2026-09-04T07:05:19.320Z",
+      "dimensions": {
+        "height": 5799,
+        "width": 1095
+      },
+      "order": 3932160,
+      "relatedRoadmaps": [
+        "data-analyst",
+        "sql",
+        "python",
+        "ai-data-scientist"
+      ],
+      "seo": {
+        "title": "BI Analyst",
+        "description": "Learn what business intelligence analysis is, what BI analysts do and how to become one using our community-driven roadmap.",
+        "keywords": [
+          "bi analyst",
+          "bi analyst roadmap",
+          "bi analyst roadmap 2025",
+          "Business Intelligence",
+          "become a BI Analyst",
+          "data analytics",
+          "business intelligence analyst",
+          "analytical skills",
+          "data visualization",
+          "career roadmap"
+        ],
+        "_id": "6a9a6daeaca636c6b9e99813"
+      },
+      "type": "role",
+      "status": "published",
+      "courses": [],
+      "aiCourses": [
+        "Business Intelligence Fundamentals",
+        "Data Visualization Best Practices",
+        "Dashboard Design Principles",
+        "KPIs and Metrics Definition",
+        "Reporting and Storytelling with Data",
+        "SQL for BI Analysts",
+        "Data Modeling for BI",
+        "Self-Service BI Concepts",
+        "BI Tool Fundamentals",
+        "Data Quality for Reporting"
+      ]
+    },
+    {
+      "_id": "68246b4811b0d894085048ad",
+      "title": {
+        "card": "AI Red Teaming",
+        "page": "AI Red Teaming",
+        "_id": "69bd3bcd31e228f31bc863d5"
+      },
+      "description": "Learn to become a red teaming expert in AI in @currentYear@",
+      "slug": "ai-red-teaming",
+      "createdAt": "2025-05-14T10:07:04.544Z",
+      "updatedAt": "2026-03-20T12:25:38.799Z",
+      "dimensions": {
+        "height": 2382,
+        "width": 1096
+      },
+      "order": 3997696,
+      "relatedRoadmaps": [
+        "ai-engineer",
+        "ai-data-scientist",
+        "prompt-engineering",
+        "data-analyst",
+        "cyber-security",
+        "ai-agents"
+      ],
+      "seo": {
+        "title": "AI Red Teaming Roadmap",
+        "description": "Step by step guide to learn AI Red Teaming in 2026. We also have resources and short descriptions attached to the roadmap items so you can get everything you want to learn in one place.",
+        "keywords": [
+          "ai red teaming tutorial",
+          "step by step guide for ai red teaming",
+          "how to learn ai red teaming",
+          "use ai red teaming in production",
+          "ai red teaming roadmap 2025",
+          "guide to learning ai red teaming",
+          "ai red teaming for beginners",
+          "ai red teaming roadmap",
+          "ai red teaming learning path",
+          "ai red teaming learning roadmap",
+          "ai red teaming learning guide",
+          "ai red teaming skills",
+          "ai red teaming for development",
+          "ai red teaming for development skills",
+          "ai red teaming for development skills test",
+          "ai red teaming quiz",
+          "ai red teaming career path",
+          "ai red teaming interview questions",
+          "learn ai red teaming for development",
+          "become an ai red teaming expert",
+          "what is ai red teaming"
+        ],
+        "_id": "69bd3bcd31e228f31bc863d6"
+      },
+      "type": "skill",
+      "status": "published",
+      "courses": [],
+      "aiCourses": [
+        "AI Security Fundamentals",
+        "Prompt Injection Techniques",
+        "Model Vulnerability Assessment",
+        "Adversarial Testing Methods",
+        "AI Safety Evaluation",
+        "Jailbreak Detection and Prevention",
+        "Data Poisoning Awareness",
+        "Model Robustness Testing",
+        "Bias and Fairness Testing",
+        "AI Risk Assessment Frameworks"
+      ],
+      "openGraph": {
+        "image": "",
+        "_id": "69bd3bcd31e228f31bc863d7"
+      }
+    },
+    {
+      "_id": "68246b4811b0d894085048aa",
+      "title": {
+        "card": "AI Agents",
+        "page": "AI Agents",
+        "_id": "69aeadf598cf6f865c8d9b39"
+      },
+      "description": "Learn to design, build and ship AI agents in @currentYear@",
+      "slug": "ai-agents",
+      "createdAt": "2025-05-14T10:07:04.524Z",
+      "updatedAt": "2026-03-09T11:24:39.307Z",
+      "dimensions": {
+        "height": 3640,
+        "width": 1100
+      },
+      "order": 4063232,
+      "relatedRoadmaps": [
+        "ai-engineer",
+        "ai-data-scientist",
+        "prompt-engineering",
+        "data-analyst",
+        "mlops",
+        "claude-code",
+        "vibe-coding"
+      ],
+      "seo": {
+        "title": "AI Agents Roadmap",
+        "description": "Step by step guide to learn AI Agents in 2026. We also have resources and short descriptions attached to the roadmap items so you can get everything you want to learn in one place.",
+        "keywords": [
+          "step by step guide for ai agents",
+          "how to learn ai agents",
+          "use ai agents in production",
+          "guide to learning ai agents",
+          "ai agents roadmap 2025",
+          "ai agents tutorial",
+          "ai agents for beginners",
+          "ai agents roadmap",
+          "ai agents learning path",
+          "ai agents learning roadmap",
+          "ai agents learning guide",
+          "ai agents skills",
+          "ai agents for development",
+          "ai agents for development skills",
+          "ai agents for development skills test",
+          "ai agents quiz",
+          "ai agents career path",
+          "ai agents interview questions",
+          "learn ai agents for development",
+          "become an ai agents expert",
+          "what is ai agents",
+          "what is ai agent"
+        ],
+        "_id": "69aeadf598cf6f865c8d9b3a"
+      },
+      "type": "skill",
+      "status": "published",
+      "courses": [],
+      "aiCourses": [
+        "AI Agent Fundamentals",
+        "Building Conversational Agents",
+        "Agent Memory and Context",
+        "Tool Use in AI Agents",
+        "Agent Orchestration Patterns",
+        "Multi-Agent Systems Basics",
+        "Agent Planning and Reasoning",
+        "Error Handling in Agents",
+        "Agent Evaluation Methods",
+        "Building Reliable AI Agents"
+      ]
+    },
+    {
+      "_id": "68ac725dc353ee02ff473d34",
+      "title": {
+        "card": "Next.js",
+        "page": "Next.js",
+        "_id": "6aa7ec0eaca636c6b9ea2b40"
+      },
+      "description": "Learn everything you need to master Next.js",
+      "slug": "nextjs",
+      "createdAt": "2025-08-25T14:25:33.893Z",
+      "updatedAt": "2026-09-14T12:43:59.385Z",
+      "dimensions": {
+        "height": 3297,
+        "width": 1033
+      },
+      "order": 4128768,
+      "relatedRoadmaps": [
+        "react",
+        "frontend",
+        "typescript",
+        "javascript",
+        "nodejs",
+        "full-stack"
+      ],
+      "seo": {
+        "title": "Next.js Roadmap: Master Next.js Framework",
+        "description": "Community driven, articles, resources, guides, interview questions, quizzes for learning Next.js. Master the Next.js framework by following the steps, skills, resources and guides listed in this roadmap.",
+        "keywords": [
+          "next.js roadmap 2025",
+          "nextjs roadmap 2025",
+          "learn next.js 2025",
+          "nextjs learning path 2025",
+          "guide to learning next.js",
+          "next.js learning roadmap",
+          "nextjs roadmap",
+          "master next.js framework",
+          "next.js skills",
+          "next.js skills test",
+          "next.js concepts",
+          "learn next.js",
+          "what is next.js",
+          "next.js framework roadmap",
+          "next.js quiz",
+          "next.js interview questions",
+          "next.js app router",
+          "next.js pages router",
+          "next.js 15 roadmap",
+          "react framework roadmap",
+          "full stack next.js",
+          "next.js server components",
+          "next.js client components"
+        ],
+        "_id": "6aa7ec0eaca636c6b9ea2b41"
+      },
+      "type": "skill",
+      "status": "published",
+      "courses": [],
+      "aiCourses": [
+        "Next.js Routing Fundamentals",
+        "Server-Side Rendering Concepts",
+        "Static Site Generation",
+        "API Routes in Next.js",
+        "Data Fetching Strategies",
+        "Next.js Layouts and Pages",
+        "Image Optimization in Next.js",
+        "Environment Variables and Configuration",
+        "Middleware in Next.js",
+        "Deployment and Performance"
+      ]
+    },
+    {
+      "_id": "68b81077778c8bf6b334081f",
+      "order": 4194304,
+      "title": {
+        "card": "Code Review",
+        "page": "Code Review Pyramid",
+        "_id": "68b8191c778c8bf6b3340939"
+      },
+      "description": "Learn what to focus on when conducting a code review.",
+      "slug": "code-review",
+      "seo": {
+        "title": "Code Review Pyramid",
+        "description": "Learn what to focus on when conducting a code review.",
+        "keywords": [],
+        "_id": "68b8191c778c8bf6b334093a"
+      },
+      "type": "skill",
+      "dimensions": {
+        "height": 616,
+        "width": 1183
+      },
+      "relatedRoadmaps": [],
+      "courses": [],
+      "createdAt": "2025-09-03T09:55:03.963Z",
+      "updatedAt": "2025-09-03T11:33:30.622Z",
+      "status": "published",
+      "aiCourses": [
+        "Code Review Fundamentals",
+        "Giving Constructive Feedback",
+        "Common Code Smells",
+        "Review Checklists and Standards",
+        "Automating Code Quality Checks",
+        "Security Review Basics",
+        "Performance Review Considerations",
+        "Review Workflow Best Practices",
+        "Handling Disagreements in Reviews",
+        "Reviewing Tests and Documentation"
+      ]
+    },
+    {
+      "_id": "68bf16a85e78be1fe78f72b5",
+      "order": 4259840,
+      "title": {
+        "card": "Kotlin",
+        "page": "Kotlin",
+        "_id": "69a005de14f628c75763a36c"
+      },
+      "description": "Step by step guide to learning Kotlin in @currentYear@",
+      "slug": "kotlin",
+      "status": "published",
+      "seo": {
+        "title": "Kotlin",
+        "description": "Learn Kotlin for Android development. A community-driven roadmap covering syntax, coroutines, Jetpack Compose, and everything you need to build modern Android apps.",
+        "keywords": [],
+        "_id": "69a005de14f628c75763a36d"
+      },
+      "type": "skill",
+      "dimensions": {
+        "height": 4614,
+        "width": 1097
+      },
+      "relatedRoadmaps": [
+        "python",
+        "golang",
+        "rust",
+        "java",
+        "javascript",
+        "typescript",
+        "php",
+        "nodejs",
+        "android"
+      ],
+      "courses": [],
+      "createdAt": "2025-09-08T17:47:20.662Z",
+      "updatedAt": "2026-02-26T08:35:47.767Z",
+      "aiCourses": [
+        "Kotlin Fundamentals",
+        "Kotlin Null Safety",
+        "Object-Oriented Kotlin",
+        "Kotlin Collections and Sequences",
+        "Coroutines Basics",
+        "Kotlin Extension Functions",
+        "Functional Programming in Kotlin",
+        "Kotlin Data Classes",
+        "Scope Functions in Kotlin",
+        "Testing in Kotlin"
+      ],
+      "openGraph": {
+        "image": "",
+        "_id": "69a005de14f628c75763a36e"
+      }
+    },
+    {
+      "_id": "68d190ad166b018f83df5574",
+      "order": 4325376,
+      "title": {
+        "card": "HTML",
+        "page": "HTML",
+        "_id": "69a00a3a14f628c75763a808"
+      },
+      "description": "Step by step guide to learning HTML in @currentYear@",
+      "slug": "html",
+      "status": "published",
+      "seo": {
+        "title": "HTML Roadmap: Master HTML",
+        "description": "Learn what HTML is and how to use it. A community-driven roadmap covering semantic markup, forms, accessibility, SEO best practices, and everything you need to structure a website.",
+        "keywords": [],
+        "_id": "69a00a3a14f628c75763a809"
+      },
+      "type": "skill",
+      "dimensions": {
+        "height": 2434,
+        "width": 1037
+      },
+      "relatedRoadmaps": [
+        "frontend",
+        "javascript",
+        "typescript",
+        "nodejs",
+        "react",
+        "css"
+      ],
+      "courses": [],
+      "createdAt": "2025-09-22T18:08:45.568Z",
+      "updatedAt": "2026-02-26T08:54:20.306Z",
+      "aiCourses": [
+        "HTML Document Structure",
+        "Semantic HTML Elements",
+        "HTML Forms and Inputs",
+        "HTML Tables and Lists",
+        "Accessibility in HTML",
+        "HTML Media Elements",
+        "HTML Metadata and SEO",
+        "HTML5 Features Overview",
+        "HTML Validation and Best Practices",
+        "HTML for Email"
+      ],
+      "openGraph": {
+        "image": "",
+        "_id": "69a00a3a14f628c75763a80a"
+      }
+    },
+    {
+      "_id": "68d40dd6166b018f83df66fe",
+      "order": 4390912,
+      "title": {
+        "card": "CSS",
+        "page": "CSS",
+        "_id": "69a0046a14f628c75763a339"
+      },
+      "description": "Step by step guide to learning CSS in @currentYear@",
+      "slug": "css",
+      "status": "published",
+      "seo": {
+        "title": "CSS Roadmap",
+        "description": "Learn what CSS is and how to use it to style the web. A community-driven roadmap covering selectors, the box model, flexbox, grid, animations, and modern CSS best practices.",
+        "keywords": [],
+        "_id": "69a0046a14f628c75763a33a"
+      },
+      "type": "skill",
+      "dimensions": {
+        "height": 2777,
+        "width": 1006
+      },
+      "relatedRoadmaps": [
+        "frontend",
+        "html",
+        "javascript",
+        "full-stack"
+      ],
+      "courses": [],
+      "createdAt": "2025-09-24T15:27:18.982Z",
+      "updatedAt": "2026-02-26T08:29:32.677Z",
+      "openGraph": {
+        "image": "",
+        "_id": "69a0046a14f628c75763a33b"
+      },
+      "aiCourses": [
+        "CSS Selectors and Specificity",
+        "CSS Box Model Deep Dive",
+        "Flexbox Layout",
+        "CSS Grid Layout",
+        "CSS Positioning and Display",
+        "CSS Typography",
+        "CSS Colors and Backgrounds",
+        "CSS Transitions and Animations",
+        "Responsive Design with CSS",
+        "CSS Variables and Custom Properties"
+      ]
+    },
+    {
+      "_id": "68f727f3166b018f83dfa430",
+      "order": 4456448,
+      "title": {
+        "card": "Swift & Swift UI",
+        "page": "Swift & Swift UI",
+        "_id": "69a0045014f628c75763a320"
+      },
+      "description": "Step by step guide to learning Swift and Swift UI in @currentYear@",
+      "slug": "swift-ui",
+      "status": "published",
+      "seo": {
+        "title": "Swift & Swift UI Roadmap",
+        "description": "Learn what Swift is and how to build Apple apps with SwiftUI. A community-driven roadmap covering Swift syntax and core SwiftUI concepts, including views, state management, and animations",
+        "keywords": [],
+        "_id": "69a0045014f628c75763a321"
+      },
+      "type": "skill",
+      "dimensions": {
+        "height": 4612,
+        "width": 1100
+      },
+      "relatedRoadmaps": [
+        "ios",
+        "react-native",
+        "flutter"
+      ],
+      "courses": [],
+      "createdAt": "2025-10-21T06:28:03.767Z",
+      "updatedAt": "2026-02-26T08:29:09.161Z",
+      "aiCourses": [
+        "SwiftUI View Fundamentals",
+        "State and Data Flow",
+        "SwiftUI Navigation",
+        "Building Custom Views",
+        "Animation in SwiftUI",
+        "SwiftUI Layout System",
+        "Lists and Grids in SwiftUI",
+        "Gestures in SwiftUI",
+        "SwiftUI and Core Data",
+        "SwiftUI App Architecture"
+      ],
+      "openGraph": {
+        "image": "",
+        "_id": "69a0045014f628c75763a322"
+      }
+    },
+    {
+      "_id": "6901b5fa166b018f83dfd5ce",
+      "order": 4521984,
+      "title": {
+        "card": "Shell / Bash",
+        "page": "Shell / Bash Roadmap",
+        "_id": "6abbccd2b63d4fa9c3928504"
+      },
+      "description": "Learn to master Shell and Bash in @currentYear@",
+      "slug": "shell-bash",
+      "status": "published",
+      "seo": {
+        "title": "Shell / Bash Roadmap",
+        "description": "Learn to master Shell and Bash with this community-driven roadmap covering commands, scripting, automation, process management, and best practices for the command line.",
+        "keywords": [],
+        "_id": "6abbccd2b63d4fa9c3928505"
+      },
+      "type": "skill",
+      "dimensions": {
+        "height": 4128,
+        "width": 1100
+      },
+      "relatedRoadmaps": [
+        "backend",
+        "full-stack",
+        "devops",
+        "system-design",
+        "nodejs"
+      ],
+      "courses": [],
+      "createdAt": "2025-10-29T06:36:42.672Z",
+      "updatedAt": "2026-09-29T14:36:05.499Z",
+      "aiCourses": [
+        "Bash Scripting Fundamentals",
+        "Shell Variables and Control Flow",
+        "Text Processing with Bash",
+        "Working with Files and Directories",
+        "Automating Tasks with Shell Scripts",
+        "Command Line Arguments",
+        "Pipes and Redirection",
+        "Regular Expressions in Bash",
+        "Error Handling in Scripts",
+        "Debugging Shell Scripts"
+      ],
+      "openGraph": {
+        "image": "",
+        "_id": "6abbccd2b63d4fa9c3928506"
+      }
+    },
+    {
+      "_id": "6909cf3b166b018f83dff44b",
+      "order": 4587520,
+      "title": {
+        "card": "Laravel",
+        "page": "Laravel",
+        "_id": "69a003bc14f628c75763a2f9"
+      },
+      "description": "Step by step guide to mastering Laravel in @currentYear@",
+      "slug": "laravel",
+      "status": "published",
+      "seo": {
+        "title": "Laravel Roadmap",
+        "description": "Learn what Laravel is and how to use it. A community-driven roadmap covering routing, Eloquent ORM, Blade templating, queues, authentication, and Laravel best practices.",
+        "keywords": [],
+        "_id": "69a003bc14f628c75763a2fa"
+      },
+      "type": "skill",
+      "dimensions": {
+        "height": 3562,
+        "width": 1044
+      },
+      "relatedRoadmaps": [
+        "php",
+        "backend",
+        "full-stack",
+        "system-design",
+        "software-architect"
+      ],
+      "courses": [],
+      "createdAt": "2025-11-04T10:02:35.998Z",
+      "updatedAt": "2026-02-26T08:26:38.956Z",
+      "aiCourses": [
+        "Laravel MVC Architecture",
+        "Eloquent ORM Fundamentals",
+        "Laravel Routing and Controllers",
+        "Blade Templating",
+        "Laravel Authentication Basics",
+        "Laravel Migrations and Seeding",
+        "Form Validation in Laravel",
+        "Laravel Middleware",
+        "Laravel Queues and Jobs",
+        "Testing Laravel Applications"
+      ],
+      "openGraph": {
+        "image": "",
+        "_id": "69a003bc14f628c75763a2fb"
+      }
+    },
+    {
+      "_id": "691600837c7d1fa20e764b85",
+      "order": 4653056,
+      "title": {
+        "card": "AWS",
+        "page": "AWS Best Practices",
+        "_id": "692ea9690b7b842abb9f018c"
+      },
+      "description": "Detailed list of best practices for Amazon Web Services (AWS)",
+      "slug": "aws-best-practices",
+      "status": "published",
+      "seo": {
+        "title": "AWS Best Practices",
+        "description": "Detailed list of best practices for Amazon Web Services (AWS). Each best practice carries further details and how to implement that best practice.",
+        "keywords": [],
+        "_id": "692ea9690b7b842abb9f018d"
+      },
+      "type": "best-practice",
+      "dimensions": {
+        "height": 2164,
+        "width": 1098
+      },
+      "relatedRoadmaps": [
+        "aws",
+        "backend",
+        "full-stack"
+      ],
+      "courses": [],
+      "createdAt": "2024-11-13T16:00:03.391Z",
+      "updatedAt": "2025-12-02T08:55:07.437Z",
+      "aiCourses": [
+        "AWS Security Best Practices",
+        "Cost Optimization in AWS",
+        "High Availability Design",
+        "AWS Monitoring and Logging",
+        "Infrastructure as Code with AWS",
+        "AWS Backup Strategies",
+        "Network Security in AWS",
+        "IAM Best Practices",
+        "AWS Resource Tagging",
+        "Performance Optimization in AWS"
+      ]
+    },
+    {
+      "_id": "69176b9f7c7d1fa20e76529f",
+      "order": 4718592,
+      "title": {
+        "card": "API Security",
+        "page": "API Security Best Practices",
+        "_id": "691d96247c7d1fa20e765f86"
+      },
+      "description": "Detailed list of best practices to make your APIs secure",
+      "slug": "api-security-best-practices",
+      "status": "published",
+      "seo": {
+        "title": "API Security Best Practices",
+        "description": "Detailed list of best practices to make your APIs secure. Each best practice carries further details and how to implement that best practice.",
+        "keywords": [],
+        "_id": "691d96247c7d1fa20e765f87"
+      },
+      "type": "best-practice",
+      "dimensions": {
+        "height": 1814,
+        "width": 1085
+      },
+      "relatedRoadmaps": [
+        "backend",
+        "api-design",
+        "system-design",
+        "nodejs",
+        "golang",
+        "php"
+      ],
+      "openGraph": {
+        "image": "",
+        "_id": "691d96247c7d1fa20e765f88"
+      },
+      "courses": [],
+      "createdAt": "2024-11-14T17:49:19.745Z",
+      "updatedAt": "2025-11-19T10:04:22.877Z",
+      "aiCourses": [
+        "API Authentication Methods",
+        "Input Validation and Sanitization",
+        "Rate Limiting Implementation",
+        "Secure API Communication",
+        "API Security Testing",
+        "Authorization Patterns",
+        "Handling Sensitive Data",
+        "API Logging for Security",
+        "CORS and Security Headers",
+        "API Vulnerability Prevention"
+      ]
+    },
+    {
+      "_id": "69179c907c7d1fa20e76539a",
+      "order": 4784128,
+      "title": {
+        "card": "Backend Performance",
+        "page": "Backend Performance",
+        "_id": "6917a8437c7d1fa20e765583"
+      },
+      "description": "Detailed list of best practices to improve your backend performance",
+      "slug": "backend-performance-best-practices",
+      "status": "published",
+      "seo": {
+        "title": "Backend Performance Best Practices",
+        "description": "Detailed list of best practices to improve the backend performance of your website. Each best practice carries further details and how to implement that best practice.",
+        "keywords": [],
+        "_id": "6917a8437c7d1fa20e765584"
+      },
+      "type": "best-practice",
+      "dimensions": {
+        "height": 1949,
+        "width": 1083
+      },
+      "relatedRoadmaps": [
+        "backend",
+        "api-design",
+        "system-design"
+      ],
+      "openGraph": {
+        "image": "",
+        "_id": "6917a8437c7d1fa20e765585"
+      },
+      "courses": [],
+      "createdAt": "2024-11-14T21:18:08.345Z",
+      "updatedAt": "2025-11-14T22:08:05.149Z",
+      "aiCourses": [
+        "Database Query Optimization",
+        "Caching Strategies",
+        "Connection Pooling",
+        "Async Processing Patterns",
+        "Profiling and Bottleneck Detection",
+        "Memory Management",
+        "N+1 Query Problem Solutions",
+        "Load Testing Fundamentals",
+        "Resource Optimization",
+        "Performance Monitoring Setup"
+      ]
+    },
+    {
+      "_id": "6917a59e7c7d1fa20e76546d",
+      "order": 4849664,
+      "title": {
+        "card": "Frontend Performance",
+        "page": "Frontend Performance",
+        "_id": "6918294c7c7d1fa20e76569e"
+      },
+      "description": "Detailed list of best practices to improve your frontend performance",
+      "slug": "frontend-performance-best-practices",
+      "status": "published",
+      "seo": {
+        "title": "Frontend Performance Best Practices",
+        "description": "Detailed list of best practices to improve the frontend performance of your website. Each best practice carries further details and how to implement that best practice.",
+        "keywords": [],
+        "_id": "6918294c7c7d1fa20e76569f"
+      },
+      "type": "best-practice",
+      "dimensions": {
+        "height": 1423,
+        "width": 1059
+      },
+      "relatedRoadmaps": [
+        "frontend",
+        "javascript",
+        "react",
+        "vue",
+        "angular"
+      ],
+      "openGraph": {
+        "image": "",
+        "_id": "6918294c7c7d1fa20e7656a0"
+      },
+      "courses": [],
+      "createdAt": "2024-11-14T21:56:46.553Z",
+      "updatedAt": "2025-11-15T07:18:38.172Z",
+      "aiCourses": [
+        "Minimizing Bundle Size",
+        "Image Optimization Techniques",
+        "Critical Rendering Path",
+        "Lazy Loading Strategies",
+        "Browser Caching Techniques",
+        "JavaScript Performance Optimization",
+        "CSS Performance Best Practices",
+        "Core Web Vitals Optimization",
+        "Network Request Optimization",
+        "Performance Measurement Tools"
+      ]
+    },
+    {
+      "_id": "6917a8c57c7d1fa20e7655dd",
+      "order": 4915200,
+      "title": {
+        "card": "Code Review",
+        "page": "Code Review",
+        "_id": "691b05fd7c7d1fa20e765a35"
+      },
+      "description": "Detailed list of best practices for effective code reviews and quality",
+      "slug": "code-review-best-practices",
+      "status": "published",
+      "seo": {
+        "title": "Code Review Best Practices",
+        "description": "Discover the essential best practices for effective code review and improve the quality of your software development. From establishing clear objectives to providing constructive feedback, this interactive guide covers everything you need to know to optimize your code review process and ensure the delivery of high-quality code.",
+        "keywords": [],
+        "_id": "691b05fd7c7d1fa20e765a36"
+      },
+      "type": "best-practice",
+      "dimensions": {
+        "height": 3505,
+        "width": 1054
+      },
+      "relatedRoadmaps": [
+        "code-review",
+        "frontend",
+        "backend",
+        "system-design",
+        "software-architect",
+        "engineering-manager"
+      ],
+      "courses": [],
+      "createdAt": "2024-11-14T22:10:13.456Z",
+      "updatedAt": "2025-11-17T13:15:14.497Z",
+      "openGraph": {
+        "image": "",
+        "_id": "691b05fd7c7d1fa20e765a37"
+      },
+      "aiCourses": [
+        "Effective Code Review Processes",
+        "Balancing Speed and Thoroughness",
+        "Automated Review Tools",
+        "Reviewing for Security",
+        "Building a Review Culture",
+        "Feedback That Drives Improvement",
+        "Review Metrics and Goals",
+        "Large PR Review Strategies",
+        "Documentation Review",
+        "Continuous Improvement in Reviews"
+      ]
+    },
+    {
+      "_id": "691db6b27c7d1fa20e765fcd",
+      "order": 4980736,
+      "title": {
+        "card": "Elasticsearch",
+        "page": "Elasticsearch",
+        "_id": "692eff4e0b7b842abb9f0224"
+      },
+      "description": "Step by step guide to mastering Elasticsearch in @currentYear@",
+      "slug": "elasticsearch",
+      "status": "published",
+      "seo": {
+        "title": "Elasticsearch Roadmap",
+        "description": "Learn what Elasticsearch is, how it works, when and why you should use it, and how to master it using our community-driven roadmap.",
+        "keywords": [],
+        "_id": "692eff4e0b7b842abb9f0225"
+      },
+      "type": "skill",
+      "dimensions": {
+        "height": 3844,
+        "width": 1095
+      },
+      "relatedRoadmaps": [
+        "backend",
+        "full-stack",
+        "system-design",
+        "nodejs",
+        "python",
+        "software-architect",
+        "golang",
+        "php"
+      ],
+      "courses": [],
+      "createdAt": "2025-11-19T12:23:14.518Z",
+      "updatedAt": "2026-01-06T16:31:58.650Z",
+      "openGraph": {
+        "image": "",
+        "_id": "692eff4e0b7b842abb9f0226"
+      },
+      "aiCourses": [
+        "Elasticsearch Fundamentals",
+        "Indexing and Document Management",
+        "Search Queries and Filters",
+        "Aggregations in Elasticsearch",
+        "Mapping and Analysis",
+        "Full-Text Search Techniques",
+        "Elasticsearch Cluster Basics",
+        "Performance Tuning",
+        "Elasticsearch Security",
+        "Index Lifecycle Management"
+      ]
+    },
+    {
+      "_id": "692f01fd0b7b842abb9f024a",
+      "order": 5111808,
+      "title": {
+        "card": "WordPress",
+        "page": "WordPress",
+        "_id": "6932b21d0b7b842abba019a4"
+      },
+      "description": "Step by step guide to becoming a WordPress Developer in @currentYear@",
+      "slug": "wordpress",
+      "status": "published",
+      "seo": {
+        "title": "WordPress Roadmap",
+        "description": "Discover how to build, customize, and maintain websites using the WordPress content management system.",
+        "keywords": [],
+        "_id": "6932b21d0b7b842abba019a5"
+      },
+      "type": "skill",
+      "dimensions": {
+        "height": 3563,
+        "width": 1099
+      },
+      "relatedRoadmaps": [
+        "frontend",
+        "javascript",
+        "php",
+        "css",
+        "html"
+      ],
+      "courses": [],
+      "createdAt": "2025-12-02T15:13:01.846Z",
+      "updatedAt": "2026-01-06T16:31:58.787Z",
+      "aiCourses": [
+        "WordPress Theme Development",
+        "Custom Post Types and Taxonomies",
+        "WordPress Plugin Basics",
+        "WordPress Security Fundamentals",
+        "WordPress Performance Optimization",
+        "WordPress Hooks and Filters",
+        "Custom Fields and Meta Boxes",
+        "WordPress REST API Basics",
+        "Child Theme Development",
+        "WordPress Multisite Basics"
+      ]
+    },
+    {
+      "_id": "694421b23eeddc26d7c2b206",
+      "order": 5242880,
+      "title": {
+        "card": "Django",
+        "page": "Django",
+        "_id": "69a0035c14f628c75763a2eb"
+      },
+      "description": "Step-by-step guide to becoming a Django Developer in @currentYear@",
+      "slug": "django",
+      "status": "published",
+      "seo": {
+        "title": "Django Roadmap",
+        "description": "Learn what Django is and how to build web apps with it. A community-driven roadmap covering models, views, templates, REST APIs, authentication, and Django best practices.",
+        "keywords": [],
+        "_id": "69a0035c14f628c75763a2ec"
+      },
+      "type": "skill",
+      "dimensions": {
+        "height": 3879,
+        "width": 1035
+      },
+      "relatedRoadmaps": [
+        "python",
+        "backend",
+        "full-stack",
+        "system-design",
+        "software-architect"
+      ],
+      "courses": [],
+      "createdAt": "2025-12-18T15:45:54.798Z",
+      "updatedAt": "2026-02-26T08:25:03.150Z",
+      "aiCourses": [
+        "Django Project Structure",
+        "Django Models and ORM",
+        "Views and URL Routing",
+        "Django Templates",
+        "Django Forms and Validation",
+        "Django Admin Customization",
+        "Authentication in Django",
+        "Django Middleware",
+        "Django REST Framework Basics",
+        "Testing Django Applications"
+      ],
+      "openGraph": {
+        "image": "",
+        "_id": "69a0035c14f628c75763a2ed"
+      }
+    },
+    {
+      "_id": "6964d7d33eeddc26d7c399b0",
+      "order": 5308416,
+      "title": {
+        "card": "Ruby",
+        "page": "Ruby",
+        "_id": "69a0032f14f628c75763a2d4"
+      },
+      "description": "Step by step guide to becoming a Ruby developer in @currentYear@",
+      "slug": "ruby",
+      "status": "published",
+      "seo": {
+        "title": "Ruby",
+        "description": "Learn what Ruby is and how to use it. A community-driven roadmap covering basic syntax, OOP, gems, metaprogramming, and best practices for writing clean, idiomatic Ruby code.",
+        "keywords": [],
+        "_id": "69a0032f14f628c75763a2d5"
+      },
+      "type": "skill",
+      "dimensions": {
+        "height": 2768,
+        "width": 1066
+      },
+      "relatedRoadmaps": [
+        "backend",
+        "full-stack",
+        "devops",
+        "ruby-on-rails"
+      ],
+      "courses": [],
+      "createdAt": "2026-01-12T11:15:31.802Z",
+      "updatedAt": "2026-02-26T08:24:17.062Z",
+      "aiCourses": [
+        "Ruby Fundamentals",
+        "Object-Oriented Ruby",
+        "Ruby Blocks and Iterators",
+        "Ruby Collections",
+        "Error Handling in Ruby",
+        "Ruby Modules and Mixins",
+        "Metaprogramming Basics",
+        "File I/O in Ruby",
+        "Ruby Testing Fundamentals",
+        "Ruby Gems and Bundler",
+        "Ruby Enumerable Module"
+      ],
+      "openGraph": {
+        "image": "",
+        "_id": "69a0032f14f628c75763a2d6"
+      }
+    },
+    {
+      "_id": "69738c5b15c8fad1a6b36c07",
+      "order": 5373952,
+      "title": {
+        "card": "Ruby on Rails",
+        "page": "Ruby on Rails",
+        "_id": "69a002e714f628c75763a2be"
+      },
+      "description": "Step-by-step guide to become a Ruby on Rails Developer in @currentYear@",
+      "slug": "ruby-on-rails",
+      "status": "published",
+      "seo": {
+        "title": "Ruby on Rails",
+        "description": "Learn what Ruby on Rails is and how to build web apps with it. A community-driven roadmap covering MVC, ActiveRecord, routing, authentication, testing, and Rails best practices.",
+        "keywords": [],
+        "_id": "69a002e714f628c75763a2bf"
+      },
+      "type": "skill",
+      "dimensions": {
+        "height": 3006,
+        "width": 1090
+      },
+      "relatedRoadmaps": [
+        "ruby",
+        "backend",
+        "full-stack",
+        "django",
+        "laravel",
+        "nodejs"
+      ],
+      "courses": [],
+      "aiCourses": [
+        "Rails Project Structure",
+        "Rails Models and Active Record",
+        "Rails Views and URL Routing",
+        "Rails ERB Templates",
+        "Rails Forms and Validation",
+        "Authentication in Rails",
+        "Testing Rails Applications",
+        "Debugging Rails apps",
+        "Rails Controllers and Actions",
+        "Rails MVC Architecture",
+        "Rails Migrations",
+        "Rails Active Jobs"
+      ],
+      "createdAt": "2026-01-23T14:57:31.276Z",
+      "updatedAt": "2026-02-26T08:23:04.930Z"
+    },
+    {
+      "_id": "69b15246f59e68a92255dbac",
+      "order": 5464064,
+      "title": {
+        "card": "Scala",
+        "page": "Scala",
+        "_id": "69bbf6fa31e228f31bc85ec0"
+      },
+      "description": "Step-by-step guide to become a Scala developer in @currentYear@",
+      "slug": "scala",
+      "status": "published",
+      "seo": {
+        "title": "Scala Roadmap",
+        "description": "Structured roadmap for learning Scala programming. Covers functional programming, object-oriented design, the type system, Akka, Spark, sbt, and best practices for building scalable, production-grade JVM applications",
+        "keywords": [],
+        "_id": "69bbf6fa31e228f31bc85ec1"
+      },
+      "type": "skill",
+      "dimensions": {
+        "height": 4530,
+        "width": 1121
+      },
+      "relatedRoadmaps": [
+        "java",
+        "data-analyst",
+        "data-engineer"
+      ],
+      "courses": [],
+      "aiCourses": [
+        "Scala Basics",
+        "Control Flow and Loops in Scala",
+        "Object-Oriented Programming in Scala",
+        "Pattern Matching in Scala",
+        "Functional Programming with Scala",
+        "Collections and Sequences in Scala",
+        "Concurrency in Scala",
+        "Type System and Generics in Scala",
+        "Error Handling in Scala",
+        "Implicits and Type Classes in Scala",
+        "Akka Actors with Scala",
+        "Apache Spark Essentials",
+        "Testing Scala with ScalaTest",
+        "Scala Build Tools with SBT"
+      ],
+      "createdAt": "2026-03-11T11:30:14.516Z",
+      "updatedAt": "2026-03-19T14:05:02.831Z",
+      "openGraph": {
+        "image": "",
+        "_id": "69bbf6fa31e228f31bc85ec2"
+      }
+    },
+    {
+      "_id": "69f205280cbf10396238ceca",
+      "order": 5554176,
+      "title": {
+        "card": "Network Engineer",
+        "page": "Network Engineer",
+        "_id": "6a844634c848073908214d6a"
+      },
+      "description": "Step-by-Step guide to learn Network Engineering in @currentYear@",
+      "slug": "network-engineer",
+      "status": "published",
+      "seo": {
+        "title": "Network Engineer",
+        "description": "A structured roadmap covering OSI layers, IP addressing, routing protocols, switching, network security, and troubleshooting",
+        "keywords": [],
+        "_id": "6a844634c848073908214d6b"
+      },
+      "type": "role",
+      "dimensions": {
+        "height": 5139,
+        "width": 1103
+      },
+      "relatedRoadmaps": [
+        "devops-beginner",
+        "terraform",
+        "mlops",
+        "linux",
+        "shell-bash",
+        "cyber-security",
+        "system-design"
+      ],
+      "courses": [],
+      "aiCourses": [
+        "Networking Fundamentals",
+        "Network Types & Topologies",
+        "Network Hardware & Devices",
+        "The OSI & TCP/IP Models",
+        "IP Addressing & Subnetting",
+        "Routing Fundamentals",
+        "Switching & VLANs",
+        "DNS & Core Network Services",
+        "Wireless Networking",
+        "Network Security Fundamentals",
+        "Network Threats & Defense",
+        "Traffic Management & Optimization",
+        "Network Monitoring & Observability"
+      ],
+      "createdAt": "2026-04-29T13:18:32.247Z",
+      "updatedAt": "2026-08-18T12:08:26.227Z"
+    },
+    {
+      "_id": "6a1426d6a95e0d5c68dee0c3",
+      "order": 5619712,
+      "title": {
+        "card": "Forward Deployed Engineer",
+        "page": "Forward Deployed Engineer",
+        "_id": "6a4372773121943999cfb1e4"
+      },
+      "description": "Step-by-step guide to becoming a Forward Deployed Engineer in @currentYear@",
+      "slug": "forward-deployed-engineer",
+      "status": "published",
+      "seo": {
+        "title": "Forward Deployed Engineer",
+        "description": "Learn the skills to become a Forward Deployed Engineer in 2026.",
+        "keywords": [],
+        "_id": "6a4372773121943999cfb1e5"
+      },
+      "type": "role",
+      "dimensions": {
+        "height": 1482,
+        "width": 1130
+      },
+      "relatedRoadmaps": [
+        "full-stack",
+        "devops",
+        "ai-engineer",
+        "python",
+        "ai-agents",
+        "linux",
+        "backend",
+        "frontend"
+      ],
+      "courses": [],
+      "aiCourses": [
+        "Computer Science Foundations",
+        "Full Stack Development for AI Applications",
+        "AI Engineering: From LLMs to Production",
+        "Building and Deploying AI Agents",
+        "Cloud Infrastructure for AI Deployments",
+        "MLOps: Taking Models to Production",
+        "AI Security and Enterprise Guardrails",
+        "Evaluating and Observing AI Systems",
+        "Enterprise AI Deployment: Audit, Evals, and Delivery",
+        "Customer Delivery and Field Skills for FDEs"
+      ],
+      "createdAt": "2026-05-25T10:39:18.366Z",
+      "updatedAt": "2026-06-30T07:38:33.403Z"
+    }
+  ],
+  "meta": {
+    "usage": "discovery-only",
+    "license": "proprietary-restricted"
+  }
+}

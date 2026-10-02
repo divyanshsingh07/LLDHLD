@@ -1,0 +1,161 @@
+# Source registry for the research pipeline.
+# Discovery may append additional sources; authority drives scoring.
+
+defaults:
+  rateLimitMs: 400
+  userAgent: "EngineeringRoadmapResearchBot/1.0 (+local research; respectful fetch)"
+
+sources:
+  - id: roadmapsh-catalog
+    name: roadmap.sh Official Roadmap Catalog
+    url: https://roadmap.sh/api/v1-list-official-roadmaps
+    type: api
+    category: catalog
+    authority: high
+    license: proprietary-restricted
+    usage: discovery-only
+    enabled: true
+    parser: roadmapsh-catalog
+
+  - id: system-design-primer
+    name: Donne Martin System Design Primer
+    url: https://raw.githubusercontent.com/donnemartin/system-design-primer/master/README.md
+    type: github-raw
+    category: system-design
+    authority: high
+    license: CC-BY-4.0
+    usage: concept-discovery
+    enabled: true
+    parser: markdown-headings
+
+  - id: aws-well-architected
+    name: AWS Well-Architected Framework
+    url: https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html
+    type: docs
+    category: cloud
+    authority: high
+    license: amazon-docs
+    usage: concept-discovery
+    enabled: true
+    parser: html-headings
+
+  - id: google-sre-book
+    name: Google SRE Book (public chapters)
+    url: https://sre.google/sre-book/table-of-contents/
+    type: docs
+    category: reliability
+    authority: high
+    license: CC-BY-NC-ND-4.0
+    usage: concept-discovery
+    enabled: true
+    parser: html-headings
+
+  - id: kubernetes-docs
+    name: Kubernetes Official Documentation
+    url: https://kubernetes.io/docs/home/
+    type: docs
+    category: orchestration
+    authority: high
+    license: CC-BY-4.0
+    usage: concept-discovery
+    enabled: true
+    parser: html-headings
+
+  - id: docker-docs
+    name: Docker Official Documentation
+    url: https://docs.docker.com/get-started/
+    type: docs
+    category: containers
+    authority: high
+    license: apache-2.0-docs
+    usage: concept-discovery
+    enabled: true
+    parser: html-headings
+
+  - id: opentelemetry-docs
+    name: OpenTelemetry Documentation
+    url: https://opentelemetry.io/docs/
+    type: docs
+    category: observability
+    authority: high
+    license: CC-BY-4.0
+    usage: concept-discovery
+    enabled: true
+    parser: html-headings
+
+  - id: cncf-landscape
+    name: CNCF Landscape
+    url: https://landscape.cncf.io/api/items
+    type: api
+    category: cloud-native
+    authority: high
+    license: apache-2.0
+    usage: concept-discovery
+    enabled: true
+    parser: cncf-landscape
+
+  - id: postgresql-docs
+    name: PostgreSQL Documentation
+    url: https://www.postgresql.org/docs/current/
+    type: docs
+    category: databases
+    authority: high
+    license: postgresql
+    usage: concept-discovery
+    enabled: true
+    parser: html-headings
+
+  - id: redis-docs
+    name: Redis Documentation
+    url: https://redis.io/docs/latest/
+    type: docs
+    category: databases
+    authority: high
+    license: redis-docs
+    usage: concept-discovery
+    enabled: true
+    parser: html-headings
+
+# Role/skill roadmaps fetched via roadmap.sh public API (labels only; descriptions not republished).
+roadmapsh_slugs:
+  - backend
+  - backend-beginner
+  - full-stack
+  - devops
+  - devops-beginner
+  - system-design
+  - software-architect
+  - software-design-architecture
+  - api-design
+  - computer-science
+  - linux
+  - docker
+  - kubernetes
+  - aws
+  - terraform
+  - redis
+  - postgresql-dba
+  - sql
+  - git-github
+  - datastructures-and-algorithms
+  - cyber-security
+  - code-review
+
+search_queries:
+  - backend developer roadmap
+  - system design roadmap
+  - distributed systems roadmap
+  - devops roadmap
+  - cloud engineer roadmap
+  - software architecture roadmap
+  - backend engineering learning path
+  - system design learning path
+  - site:github.com system design roadmap
+  - site:github.com backend roadmap
+  - site:github.com devops roadmap
+  - database indexing system design
+  - distributed systems consistency
+  - load balancing architecture
+  - event driven architecture
+  - observability SRE
+  - multi region architecture

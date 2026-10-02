@@ -1,0 +1,1981 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2026-10-02T05:35:31.628Z",
+  "slug": "devops",
+  "title": "DevOps",
+  "subtitle": "CI/CD, containers, cloud, observability, and operations",
+  "sourceNote": "Topic map structure discovered via roadmap.sh public API (discovery-only). Descriptions are original. See https://roadmap.sh/devops",
+  "sourceUrl": "https://roadmap.sh/devops",
+  "discoveryUrl": "https://roadmap.sh/api/v1-official-roadmap/devops",
+  "stats": {
+    "nodes": 152,
+    "interactive": 145,
+    "edges": 58
+  },
+  "nodes": [
+    {
+      "id": "JizyX8jse920gpWcmoSED",
+      "kind": "section",
+      "label": "",
+      "x": 1992,
+      "y": 1314,
+      "width": 229,
+      "height": 354,
+      "description": "",
+      "interactive": false
+    },
+    {
+      "id": "SPXgDee7rpQAX3FfTdA3J",
+      "kind": "section",
+      "label": "",
+      "x": 1585,
+      "y": 1298,
+      "width": 252,
+      "height": 375,
+      "description": "",
+      "interactive": false
+    },
+    {
+      "id": "45zz5L6lKJrF9JWgyj1Pz",
+      "kind": "section",
+      "label": "",
+      "x": 1190,
+      "y": 1276,
+      "width": 279,
+      "height": 336,
+      "description": "",
+      "interactive": false
+    },
+    {
+      "id": "7crPw2SKw-TlsSe9kpZFQ",
+      "kind": "section",
+      "label": "",
+      "x": 1190,
+      "y": 1041,
+      "width": 279,
+      "height": 243,
+      "description": "",
+      "interactive": false
+    },
+    {
+      "id": "PsbYeHGMd9E1UNqcaFQOz",
+      "kind": "section",
+      "label": "",
+      "x": 1978,
+      "y": 1010,
+      "width": 267,
+      "height": 219,
+      "description": "",
+      "interactive": false
+    },
+    {
+      "id": "OY4ipeYrizxKKv9Z72iLR",
+      "kind": "section",
+      "label": "",
+      "x": 1192,
+      "y": 446,
+      "width": 356,
+      "height": 227,
+      "description": "",
+      "interactive": false
+    },
+    {
+      "id": "fqBgeJj5fan4TT7K2E6c7",
+      "kind": "title",
+      "label": "DevOps",
+      "x": 1679,
+      "y": 96,
+      "width": 142,
+      "height": 68,
+      "description": "A structured DevOps learning path. Work top-down: foundations first, then building blocks, then advanced patterns.",
+      "interactive": false
+    },
+    {
+      "id": "v5FGKQc-_7NYEsWjmTEuq",
+      "kind": "topic",
+      "label": "Learn a Programming Language",
+      "x": 1603,
+      "y": 229,
+      "width": 294,
+      "height": 49,
+      "description": "Core DevOps topic: Learn a Programming Language. Learn when to use it, what it costs, and how it fails.",
+      "interactive": true
+    },
+    {
+      "id": "TwVfCYMS9jSaJ6UyYmC-K",
+      "kind": "subtopic",
+      "label": "Python",
+      "x": 2040,
+      "y": 176,
+      "width": 108,
+      "height": 49,
+      "description": "Study Python in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "PuXAPYA0bsMgwcnlwJxQn",
+      "kind": "subtopic",
+      "label": "Ruby",
+      "x": 2153,
+      "y": 176,
+      "width": 101,
+      "height": 49,
+      "description": "Study Ruby in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "npnMwSDEK2aLGgnuZZ4dO",
+      "kind": "subtopic",
+      "label": "Go",
+      "x": 2040,
+      "y": 229,
+      "width": 108,
+      "height": 49,
+      "description": "Study Go in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "eL62bKAoJCMsu7zPlgyhy",
+      "kind": "subtopic",
+      "label": "Rust",
+      "x": 2153,
+      "y": 229,
+      "width": 101,
+      "height": 49,
+      "description": "Study Rust in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "QCdemtWa2mE78poNXeqzr",
+      "kind": "subtopic",
+      "label": "JavaScript / Node.js",
+      "x": 2040,
+      "y": 285,
+      "width": 213,
+      "height": 49,
+      "description": "Design clear contracts, handle errors, and keep services operable under real traffic.",
+      "interactive": true
+    },
+    {
+      "id": "qe84v529VbCyydl0BKFk2",
+      "kind": "topic",
+      "label": "Operating System",
+      "x": 1353,
+      "y": 355,
+      "width": 195,
+      "height": 49,
+      "description": "Core DevOps topic: Operating System. Learn when to use it, what it costs, and how it fails.",
+      "interactive": true
+    },
+    {
+      "id": "3A1SykJ5JxBFeVzSzDEWJ",
+      "kind": "label",
+      "label": "Linux",
+      "x": 1404,
+      "y": 458,
+      "width": 58,
+      "height": 36,
+      "description": "Note under this section: Linux.",
+      "interactive": true
+    },
+    {
+      "id": "8hSJLQBKu8ablW2Lwxknv",
+      "kind": "label",
+      "label": "Unix",
+      "x": 1244,
+      "y": 460,
+      "width": 51,
+      "height": 36,
+      "description": "Note under this section: Unix.",
+      "interactive": true
+    },
+    {
+      "id": "cTqVab0VbVcn3W7i0wBrX",
+      "kind": "subtopic",
+      "label": "Ubuntu / Debian",
+      "x": 1336,
+      "y": 505,
+      "width": 194,
+      "height": 49,
+      "description": "Study Ubuntu / Debian in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "zhNUK953p6tjREndk3yQZ",
+      "kind": "subtopic",
+      "label": "SUSE Linux",
+      "x": 1336,
+      "y": 558,
+      "width": 194,
+      "height": 49,
+      "description": "Study SUSE Linux in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "7mS6Y_BOAHNgM3OjyFtZ9",
+      "kind": "subtopic",
+      "label": "RHEL / Derivatives",
+      "x": 1336,
+      "y": 611,
+      "width": 194,
+      "height": 49,
+      "description": "Study RHEL / Derivatives in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "PiPHFimToormOPl1EtEe8",
+      "kind": "subtopic",
+      "label": "FreeBSD",
+      "x": 1210,
+      "y": 502,
+      "width": 119,
+      "height": 51,
+      "description": "Study FreeBSD in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "97cJYKqv7CPPUXkKNwM4x",
+      "kind": "subtopic",
+      "label": "OpenBSD",
+      "x": 1210,
+      "y": 557,
+      "width": 119,
+      "height": 49,
+      "description": "Study OpenBSD in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "haiYSwNt3rjiiwCDszPk1",
+      "kind": "subtopic",
+      "label": "NetBSD",
+      "x": 1210,
+      "y": 610,
+      "width": 119,
+      "height": 49,
+      "description": "Study NetBSD in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "UOQimp7QkM3sxmFvk5d3i",
+      "kind": "subtopic",
+      "label": "Windows",
+      "x": 1191,
+      "y": 355,
+      "width": 114,
+      "height": 49,
+      "description": "Study Windows in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "wjJPzrFJBNYOD3SJLzW2M",
+      "kind": "topic",
+      "label": "Terminal Knowledge",
+      "x": 1704,
+      "y": 536,
+      "width": 205,
+      "height": 49,
+      "description": "Core DevOps topic: Terminal Knowledge. Learn when to use it, what it costs, and how it fails.",
+      "interactive": true
+    },
+    {
+      "id": "x-JWvG1iw86ULL9KrQmRu",
+      "kind": "subtopic",
+      "label": "Process Monitoring",
+      "x": 2008,
+      "y": 458,
+      "width": 235,
+      "height": 49,
+      "description": "Measure health, latency, errors, and saturation. Alerts should be actionable.",
+      "interactive": true
+    },
+    {
+      "id": "gIEQDgKOsoEnSv8mpEzGH",
+      "kind": "subtopic",
+      "label": "Performance Monitoring",
+      "x": 2008,
+      "y": 511,
+      "width": 235,
+      "height": 49,
+      "description": "Measure health, latency, errors, and saturation. Alerts should be actionable.",
+      "interactive": true
+    },
+    {
+      "id": "OaqKLZe-XnngcDhDzCtRt",
+      "kind": "subtopic",
+      "label": "Networking Tools",
+      "x": 2008,
+      "y": 564,
+      "width": 235,
+      "height": 49,
+      "description": "Study Networking Tools in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "cUifrP7v55psTb20IZndf",
+      "kind": "subtopic",
+      "label": "Text Manipulation",
+      "x": 2008,
+      "y": 617,
+      "width": 235,
+      "height": 49,
+      "description": "Study Text Manipulation in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "syBIAL1mHbJLnTBoSxXI7",
+      "kind": "subtopic",
+      "label": "Bash",
+      "x": 1704,
+      "y": 388,
+      "width": 205,
+      "height": 49,
+      "description": "Study Bash in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "z6IBekR8Xl-6f8WEb05Nw",
+      "kind": "subtopic",
+      "label": "Power Shell",
+      "x": 1704,
+      "y": 441,
+      "width": 205,
+      "height": 49,
+      "description": "Study Power Shell in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "Jt8BmtLUH6fHT2pGKoJs3",
+      "kind": "subtopic",
+      "label": "Vim / Nano /  Emacs",
+      "x": 1704,
+      "y": 623,
+      "width": 205,
+      "height": 49,
+      "description": "Study Vim / Nano /  Emacs in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "ZusrlGqCntlKDPOaTiWqI",
+      "kind": "label",
+      "label": "Scripting",
+      "x": 1763,
+      "y": 347,
+      "width": 85,
+      "height": 36,
+      "description": "Note under this section: Scripting.",
+      "interactive": true
+    },
+    {
+      "id": "LvhFmlxz5uIy7k_nzx2Bv",
+      "kind": "topic",
+      "label": "Version Control Systems",
+      "x": 1348,
+      "y": 718,
+      "width": 239,
+      "height": 49,
+      "description": "Core DevOps topic: Version Control Systems. Learn when to use it, what it costs, and how it fails.",
+      "interactive": true
+    },
+    {
+      "id": "uyDm1SpOQdpHjq9zBAdck",
+      "kind": "subtopic",
+      "label": "Git",
+      "x": 1190,
+      "y": 718,
+      "width": 119,
+      "height": 49,
+      "description": "Study Git in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "h10BH3OybHcIN2iDTSGkn",
+      "kind": "topic",
+      "label": "VCS Hosting",
+      "x": 1410,
+      "y": 909,
+      "width": 174,
+      "height": 49,
+      "description": "Core DevOps topic: VCS Hosting. Learn when to use it, what it costs, and how it fails.",
+      "interactive": true
+    },
+    {
+      "id": "ot9I_IHdnq2yAMffrSrbN",
+      "kind": "subtopic",
+      "label": "GitHub",
+      "x": 1187,
+      "y": 856,
+      "width": 119,
+      "height": 49,
+      "description": "Study GitHub in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "oQIB0KE0BibjIYmxrpPZS",
+      "kind": "subtopic",
+      "label": "GitLab",
+      "x": 1187,
+      "y": 909,
+      "width": 119,
+      "height": 49,
+      "description": "Study GitLab in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "Z7SsBWgluZWr9iWb2e9XO",
+      "kind": "subtopic",
+      "label": "Bitbucket",
+      "x": 1187,
+      "y": 962,
+      "width": 119,
+      "height": 49,
+      "description": "Study Bitbucket in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "jCWrnQNgjHKyhzd9dwOHz",
+      "kind": "topic",
+      "label": "What is and how to setup X ?",
+      "x": 1976,
+      "y": 909,
+      "width": 270,
+      "height": 49,
+      "description": "Core DevOps topic: What is and how to setup X ?. Learn when to use it, what it costs, and how it fails.",
+      "interactive": true
+    },
+    {
+      "id": "F93XnRj0BLswJkzyRggLS",
+      "kind": "subtopic",
+      "label": "Forward Proxy",
+      "x": 1923,
+      "y": 716,
+      "width": 164,
+      "height": 49,
+      "description": "Study Forward Proxy in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "f3tM2uo6LLSOmyeFfLc7h",
+      "kind": "subtopic",
+      "label": "Firewall",
+      "x": 2091,
+      "y": 769,
+      "width": 157,
+      "height": 49,
+      "description": "Study Firewall in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "ukOrSeyK1ElOt9tTjCkfO",
+      "kind": "subtopic",
+      "label": "Nginx",
+      "x": 1997,
+      "y": 1025,
+      "width": 105,
+      "height": 49,
+      "description": "Study Nginx in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "dF3otkMMN09tgCzci8Jyv",
+      "kind": "subtopic",
+      "label": "Tomcat",
+      "x": 1997,
+      "y": 1078,
+      "width": 105,
+      "height": 49,
+      "description": "Study Tomcat in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "0_GMTcMeZv3A8dYkHRoW7",
+      "kind": "subtopic",
+      "label": "Apache",
+      "x": 2105,
+      "y": 1078,
+      "width": 122,
+      "height": 49,
+      "description": "Study Apache in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "54UZNO2q8M5FiA_XbcU_D",
+      "kind": "subtopic",
+      "label": "Caddy",
+      "x": 2105,
+      "y": 1025,
+      "width": 122,
+      "height": 49,
+      "description": "Study Caddy in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "5iJOE1QxMvf8BQ_8ssiI8",
+      "kind": "subtopic",
+      "label": "IIS",
+      "x": 1997,
+      "y": 1132,
+      "width": 230,
+      "height": 49,
+      "description": "Study IIS in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "R4XSY4TSjU1M7cW66zUqJ",
+      "kind": "subtopic",
+      "label": "Caching Server",
+      "x": 1922,
+      "y": 769,
+      "width": 165,
+      "height": 49,
+      "description": "Study Caching Server in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "i8Sd9maB_BeFurULrHXNq",
+      "kind": "subtopic",
+      "label": "Load Balancer",
+      "x": 1919,
+      "y": 822,
+      "width": 328,
+      "height": 49,
+      "description": "Distribute traffic across instances. Know L4 vs L7, algorithms, and how balancing differs from reverse proxies.",
+      "interactive": true
+    },
+    {
+      "id": "eGF7iyigl57myx2ejpmNC",
+      "kind": "subtopic",
+      "label": "Reverse Proxy",
+      "x": 2090,
+      "y": 716,
+      "width": 158,
+      "height": 49,
+      "description": "Study Reverse Proxy in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "CQhUflAcv1lhBnmDY0gaz",
+      "kind": "topic",
+      "label": "Containers",
+      "x": 1665,
+      "y": 909,
+      "width": 137,
+      "height": 49,
+      "description": "Package and orchestrate workloads. Start with containers, then scheduling, networking, and rollout strategy.",
+      "interactive": true
+    },
+    {
+      "id": "P0acFNZ413MSKElHqCxr3",
+      "kind": "subtopic",
+      "label": "Docker",
+      "x": 1665,
+      "y": 772,
+      "width": 137,
+      "height": 49,
+      "description": "Package and orchestrate workloads. Start with containers, then scheduling, networking, and rollout strategy.",
+      "interactive": true
+    },
+    {
+      "id": "qYRJYIZsmf-inMqKECRkI",
+      "kind": "subtopic",
+      "label": "LXC",
+      "x": 1665,
+      "y": 825,
+      "width": 137,
+      "height": 49,
+      "description": "Study LXC in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "2Wd9SlWGg6QtxgiUVLyZL",
+      "kind": "topic",
+      "label": "Cloud Providers",
+      "x": 1585,
+      "y": 1281,
+      "width": 252,
+      "height": 49,
+      "description": "Core DevOps topic: Cloud Providers. Learn when to use it, what it costs, and how it fails.",
+      "interactive": true
+    },
+    {
+      "id": "1ieK6B_oqW8qOC6bdmiJe",
+      "kind": "subtopic",
+      "label": "AWS",
+      "x": 1599,
+      "y": 1342,
+      "width": 111,
+      "height": 49,
+      "description": "Study AWS in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "ctor79Vd7EXDMdrLyUcu_",
+      "kind": "subtopic",
+      "label": "Azure",
+      "x": 1714,
+      "y": 1342,
+      "width": 108,
+      "height": 49,
+      "description": "Study Azure in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "zYrOxFQkl3KSe67fh3smD",
+      "kind": "subtopic",
+      "label": "Google Cloud",
+      "x": 1599,
+      "y": 1395,
+      "width": 224,
+      "height": 49,
+      "description": "Study Google Cloud in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "-h-kNVDNzZYnQAR_4lfXc",
+      "kind": "subtopic",
+      "label": "Digital Ocean",
+      "x": 1599,
+      "y": 1448,
+      "width": 224,
+      "height": 49,
+      "description": "Study Digital Ocean in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "YUJf-6ccHvYjL_RzufQ-G",
+      "kind": "subtopic",
+      "label": "Alibaba Cloud",
+      "x": 1599,
+      "y": 1554,
+      "width": 224,
+      "height": 49,
+      "description": "Study Alibaba Cloud in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "I327qPYGMcdayRR5WT0Ek",
+      "kind": "subtopic",
+      "label": "Hetzner",
+      "x": 1599,
+      "y": 1501,
+      "width": 110,
+      "height": 49,
+      "description": "Study Hetzner in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "FaPf567JGRAg1MBlFj9Tk",
+      "kind": "subtopic",
+      "label": "Heroku",
+      "x": 1599,
+      "y": 1607,
+      "width": 224,
+      "height": 49,
+      "description": "Study Heroku in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "RDLmML_HS2c8J4D_U_KYe",
+      "kind": "subtopic",
+      "label": "FTP / SFTP",
+      "x": 1206,
+      "y": 1057,
+      "width": 139,
+      "height": 49,
+      "description": "Study FTP / SFTP in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "Vu955vdsYerCG8G6suqml",
+      "kind": "subtopic",
+      "label": "DNS",
+      "x": 1348,
+      "y": 1057,
+      "width": 102,
+      "height": 49,
+      "description": "Study DNS in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "ke-8MeuLx7AS2XjSsPhxe",
+      "kind": "subtopic",
+      "label": "HTTP",
+      "x": 1206,
+      "y": 1110,
+      "width": 139,
+      "height": 49,
+      "description": "Study HTTP in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "AJO3jtHvIICj8YKaSXl0U",
+      "kind": "subtopic",
+      "label": "HTTPS",
+      "x": 1348,
+      "y": 1110,
+      "width": 102,
+      "height": 49,
+      "description": "Study HTTPS in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "0o6ejhfpmO4S8A6djVWva",
+      "kind": "subtopic",
+      "label": "SSL / TLS",
+      "x": 1207,
+      "y": 1163,
+      "width": 139,
+      "height": 49,
+      "description": "Study SSL / TLS in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "wcIRMLVm3SdEJWF9RPfn7",
+      "kind": "subtopic",
+      "label": "SSH",
+      "x": 1349,
+      "y": 1163,
+      "width": 102,
+      "height": 49,
+      "description": "Study SSH in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "E-lSLGzgOPrz-25ER2Hk7",
+      "kind": "subtopic",
+      "label": "White / Grey Listing",
+      "x": 1206,
+      "y": 1298,
+      "width": 248,
+      "height": 50,
+      "description": "Study White / Grey Listing in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "zJy9dOynWgLTDKI1iBluG",
+      "kind": "subtopic",
+      "label": "SMTP",
+      "x": 1207,
+      "y": 1351,
+      "width": 118,
+      "height": 49,
+      "description": "Study SMTP in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "5vUKHuItQfkarp7LtACvX",
+      "kind": "subtopic",
+      "label": "DMARC",
+      "x": 1329,
+      "y": 1351,
+      "width": 122,
+      "height": 49,
+      "description": "Study DMARC in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "WMuXqa4b5wyRuYAQKQJRj",
+      "kind": "subtopic",
+      "label": "IMAP",
+      "x": 1207,
+      "y": 1404,
+      "width": 118,
+      "height": 49,
+      "description": "Study IMAP in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "ewcJfnDFKXN8I5TLpXEaB",
+      "kind": "subtopic",
+      "label": "SPF",
+      "x": 1329,
+      "y": 1404,
+      "width": 122,
+      "height": 49,
+      "description": "Study SPF in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "fzO6xVTBxliu24f3W5zaU",
+      "kind": "subtopic",
+      "label": "POP3S",
+      "x": 1206,
+      "y": 1457,
+      "width": 248,
+      "height": 49,
+      "description": "Study POP3S in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "RYCD78msIR2BPJoIP71aj",
+      "kind": "subtopic",
+      "label": "Domain Keys",
+      "x": 1206,
+      "y": 1511,
+      "width": 248,
+      "height": 49,
+      "description": "Study Domain Keys in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "n-pIspYFAk0vpHNbLbbLz",
+      "kind": "label",
+      "label": "Email Protocols",
+      "x": 1275,
+      "y": 1565,
+      "width": 136,
+      "height": 36,
+      "description": "Note under this section: Email Protocols.",
+      "interactive": true
+    },
+    {
+      "id": "QZ7bkY-MaEgxYoPDP3nma",
+      "kind": "subtopic",
+      "label": "OSI Model",
+      "x": 1206,
+      "y": 1220,
+      "width": 248,
+      "height": 49,
+      "description": "Study OSI Model in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "w5d24Sf8GDkLDLGUPxzS9",
+      "kind": "topic",
+      "label": "Networking & Protocols",
+      "x": 1583,
+      "y": 1138,
+      "width": 255,
+      "height": 49,
+      "description": "Core DevOps topic: Networking & Protocols. Learn when to use it, what it costs, and how it fails.",
+      "interactive": true
+    },
+    {
+      "id": "9p_ufPj6QH9gHbWBQUmGw",
+      "kind": "topic",
+      "label": "Serverless",
+      "x": 1992,
+      "y": 1281,
+      "width": 230,
+      "height": 49,
+      "description": "Core DevOps topic: Serverless. Learn when to use it, what it costs, and how it fails.",
+      "interactive": true
+    },
+    {
+      "id": "LZDRgDxEZ3klp2PrrJFBX",
+      "kind": "subtopic",
+      "label": "Vercel",
+      "x": 2011,
+      "y": 1500,
+      "width": 194,
+      "height": 49,
+      "description": "Study Vercel in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "l8VAewSEXzoyqYFhoplJj",
+      "kind": "subtopic",
+      "label": "Cloudflare",
+      "x": 2011,
+      "y": 1394,
+      "width": 194,
+      "height": 49,
+      "description": "Study Cloudflare in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "mlrlf2McMI7IBhyEdq0Nf",
+      "kind": "subtopic",
+      "label": "Azure Functions",
+      "x": 2011,
+      "y": 1447,
+      "width": 194,
+      "height": 49,
+      "description": "Study Azure Functions in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "UfQrIJ-uMNJt9H_VM_Q5q",
+      "kind": "subtopic",
+      "label": "AWS Lambda",
+      "x": 2011,
+      "y": 1341,
+      "width": 194,
+      "height": 49,
+      "description": "Study AWS Lambda in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "hCKODV2b_l2uPit0YeP1M",
+      "kind": "subtopic",
+      "label": "Netlify",
+      "x": 2011,
+      "y": 1553,
+      "width": 194,
+      "height": 49,
+      "description": "Study Netlify in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "1oYvpFG8LKT1JD6a_9J0m",
+      "kind": "topic",
+      "label": "Provisioning",
+      "x": 2022,
+      "y": 1750,
+      "width": 170,
+      "height": 49,
+      "description": "Core DevOps topic: Provisioning. Learn when to use it, what it costs, and how it fails.",
+      "interactive": true
+    },
+    {
+      "id": "XA__697KgofsH28coQ-ma",
+      "kind": "subtopic",
+      "label": "AWS CDK",
+      "x": 2023,
+      "y": 1837,
+      "width": 168,
+      "height": 49,
+      "description": "Study AWS CDK in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "TgBb4aL_9UkyU36CN4qvS",
+      "kind": "subtopic",
+      "label": "CloudFormation",
+      "x": 2023,
+      "y": 1890,
+      "width": 168,
+      "height": 49,
+      "description": "Study CloudFormation in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "O0xZ3dy2zIDbOetVrgna6",
+      "kind": "subtopic",
+      "label": "Pulumi",
+      "x": 2023,
+      "y": 1943,
+      "width": 168,
+      "height": 49,
+      "description": "Study Pulumi in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "nUBGf1rp9GK_pbagWCP9g",
+      "kind": "subtopic",
+      "label": "Terraform",
+      "x": 2023,
+      "y": 1997,
+      "width": 168,
+      "height": 49,
+      "description": "Declare infrastructure so environments are repeatable, reviewable, and recoverable.",
+      "interactive": true
+    },
+    {
+      "id": "V9sOxlNOyRp0Mghl7zudv",
+      "kind": "topic",
+      "label": "Configuration Management",
+      "x": 1697,
+      "y": 1750,
+      "width": 258,
+      "height": 49,
+      "description": "Core DevOps topic: Configuration Management. Learn when to use it, what it costs, and how it fails.",
+      "interactive": true
+    },
+    {
+      "id": "h9vVPOmdUSeEGVQQaSTH5",
+      "kind": "subtopic",
+      "label": "Ansible",
+      "x": 1521,
+      "y": 1721,
+      "width": 115,
+      "height": 49,
+      "description": "Declare infrastructure so environments are repeatable, reviewable, and recoverable.",
+      "interactive": true
+    },
+    {
+      "id": "kv508kxzUj_CjZRb-TeRv",
+      "kind": "subtopic",
+      "label": "Chef",
+      "x": 1402,
+      "y": 1721,
+      "width": 115,
+      "height": 49,
+      "description": "Study Chef in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "yP1y8U3eblpzbaLiCGliU",
+      "kind": "subtopic",
+      "label": "Puppet",
+      "x": 1521,
+      "y": 1774,
+      "width": 115,
+      "height": 49,
+      "description": "Study Puppet in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "aQJaouIaxIJChM-40M3HQ",
+      "kind": "topic",
+      "label": "CI / CD Tools",
+      "x": 1786,
+      "y": 1971,
+      "width": 154,
+      "height": 49,
+      "description": "Core DevOps topic: CI / CD Tools. Learn when to use it, what it costs, and how it fails.",
+      "interactive": true
+    },
+    {
+      "id": "JnWVCS1HbAyfCJzGt-WOH",
+      "kind": "subtopic",
+      "label": "GitHub Actions",
+      "x": 1441,
+      "y": 2078,
+      "width": 256,
+      "height": 49,
+      "description": "Automate build, test, and deploy. Keep pipelines fast, gated, and reproducible.",
+      "interactive": true
+    },
+    {
+      "id": "2KjSLLVTvl2G2KValw7S7",
+      "kind": "subtopic",
+      "label": "GitLab CI",
+      "x": 1439,
+      "y": 1972,
+      "width": 126,
+      "height": 49,
+      "description": "Study GitLab CI in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "dUapFp3f0Rum-rf_Vk_b-",
+      "kind": "subtopic",
+      "label": "Jenkins",
+      "x": 1569,
+      "y": 1919,
+      "width": 126,
+      "height": 49,
+      "description": "Automate build, test, and deploy. Keep pipelines fast, gated, and reproducible.",
+      "interactive": true
+    },
+    {
+      "id": "1-JneOQeGhox-CKrdiquq",
+      "kind": "subtopic",
+      "label": "Circle CI",
+      "x": 1569,
+      "y": 1972,
+      "width": 126,
+      "height": 49,
+      "description": "Study Circle CI in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "TsXFx1wWikVBVoFUUDAMx",
+      "kind": "subtopic",
+      "label": "Octopus Deploy",
+      "x": 1440,
+      "y": 2025,
+      "width": 256,
+      "height": 49,
+      "description": "Study Octopus Deploy in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "L000AbzF3oLcn4B1eUIYX",
+      "kind": "subtopic",
+      "label": "TeamCity",
+      "x": 1439,
+      "y": 1919,
+      "width": 126,
+      "height": 49,
+      "description": "Study TeamCity in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "hcrPpjFxPi_iLiMdLKJrO",
+      "kind": "topic",
+      "label": "Secret Management",
+      "x": 1725,
+      "y": 2196,
+      "width": 205,
+      "height": 49,
+      "description": "Core DevOps topic: Secret Management. Learn when to use it, what it costs, and how it fails.",
+      "interactive": true
+    },
+    {
+      "id": "ZWq23Q9ZNxLNti68oltxA",
+      "kind": "subtopic",
+      "label": "Sealed Secrets",
+      "x": 2006,
+      "y": 2142,
+      "width": 164,
+      "height": 49,
+      "description": "Study Sealed Secrets in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "yQ4d2uiROZYr950cjYnQE",
+      "kind": "subtopic",
+      "label": "Cloud Specific Tools",
+      "x": 2006,
+      "y": 2250,
+      "width": 239,
+      "height": 49,
+      "description": "Study Cloud Specific Tools in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "tZzvs80KzqT8aDvEyjack",
+      "kind": "subtopic",
+      "label": "Vault",
+      "x": 2006,
+      "y": 2196,
+      "width": 118,
+      "height": 49,
+      "description": "Study Vault in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "GHQWHLxsO40kJ6z_YCinJ",
+      "kind": "subtopic",
+      "label": "SOPs",
+      "x": 2128,
+      "y": 2196,
+      "width": 118,
+      "height": 49,
+      "description": "Study SOPs in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "qqRLeTpuoW64H9LvY0U_w",
+      "kind": "topic",
+      "label": "Infrastructure Monitoring",
+      "x": 1438,
+      "y": 2196,
+      "width": 239,
+      "height": 49,
+      "description": "Measure health, latency, errors, and saturation. Alerts should be actionable.",
+      "interactive": true
+    },
+    {
+      "id": "W9sKEoDlR8LzocQkqSv82",
+      "kind": "subtopic",
+      "label": "Zabbix",
+      "x": 1444,
+      "y": 2389,
+      "width": 117,
+      "height": 49,
+      "description": "Study Zabbix in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "NiVvRbCOCDpVvif48poCo",
+      "kind": "subtopic",
+      "label": "Prometheus",
+      "x": 1443,
+      "y": 2282,
+      "width": 231,
+      "height": 49,
+      "description": "Measure health, latency, errors, and saturation. Alerts should be actionable.",
+      "interactive": true
+    },
+    {
+      "id": "bujq_C-ejtpmk-ICALByy",
+      "kind": "subtopic",
+      "label": "Datadog",
+      "x": 1564,
+      "y": 2389,
+      "width": 108,
+      "height": 49,
+      "description": "Study Datadog in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "niA_96yR7uQ0sc6S_OStf",
+      "kind": "subtopic",
+      "label": "Grafana",
+      "x": 1443,
+      "y": 2335,
+      "width": 229,
+      "height": 49,
+      "description": "Study Grafana in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "gaoZjOYmU0J5aM6vtLNvN",
+      "kind": "topic",
+      "label": "Logs Management",
+      "x": 1187,
+      "y": 2010,
+      "width": 194,
+      "height": 49,
+      "description": "Core DevOps topic: Logs Management. Learn when to use it, what it costs, and how it fails.",
+      "interactive": true
+    },
+    {
+      "id": "K_qLhK2kKN_uCq7iVjqph",
+      "kind": "subtopic",
+      "label": "Elastic Stack",
+      "x": 1207,
+      "y": 1848,
+      "width": 154,
+      "height": 49,
+      "description": "Study Elastic Stack in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "s_kss4FJ2KyZRdcKNHK2v",
+      "kind": "subtopic",
+      "label": "Graylog",
+      "x": 1207,
+      "y": 1901,
+      "width": 154,
+      "height": 49,
+      "description": "Study Graylog in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "dZID_Y_uRTF8JlfDCqeqs",
+      "kind": "subtopic",
+      "label": "Splunk",
+      "x": 1207,
+      "y": 1741,
+      "width": 154,
+      "height": 50,
+      "description": "Study Splunk in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "cjjMZdyLgakyVkImVQTza",
+      "kind": "subtopic",
+      "label": "Papertrail",
+      "x": 1207,
+      "y": 1688,
+      "width": 154,
+      "height": 49,
+      "description": "Study Papertrail in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "Yq8kVoRf20aL_o4VZU5--",
+      "kind": "topic",
+      "label": "Container Orchestration",
+      "x": 1192,
+      "y": 2475,
+      "width": 232,
+      "height": 49,
+      "description": "Package and orchestrate workloads. Start with containers, then scheduling, networking, and rollout strategy.",
+      "interactive": true
+    },
+    {
+      "id": "XbrWlTyH4z8crSHkki2lp",
+      "kind": "subtopic",
+      "label": "GKE / EKS / AKS",
+      "x": 1192,
+      "y": 2564,
+      "width": 232,
+      "height": 49,
+      "description": "Study GKE / EKS / AKS in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "FE2h-uQy6qli3rKERci1j",
+      "kind": "subtopic",
+      "label": "AWS ECS / Fargate",
+      "x": 1192,
+      "y": 2617,
+      "width": 232,
+      "height": 49,
+      "description": "Study AWS ECS / Fargate in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "VD24HC9qJOC42lbpJ-swC",
+      "kind": "subtopic",
+      "label": "Docker Swarm",
+      "x": 1192,
+      "y": 2670,
+      "width": 232,
+      "height": 49,
+      "description": "Package and orchestrate workloads. Start with containers, then scheduling, networking, and rollout strategy.",
+      "interactive": true
+    },
+    {
+      "id": "zuBAjrqQPjj-0DHGjCaqT",
+      "kind": "topic",
+      "label": "Artifact Management",
+      "x": 1776,
+      "y": 2475,
+      "width": 214,
+      "height": 49,
+      "description": "Core DevOps topic: Artifact Management. Learn when to use it, what it costs, and how it fails.",
+      "interactive": true
+    },
+    {
+      "id": "C_sFyIsIIpriZlovvcbSE",
+      "kind": "subtopic",
+      "label": "Artifactory",
+      "x": 1804,
+      "y": 2283,
+      "width": 157,
+      "height": 49,
+      "description": "Study Artifactory in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "ootuLJfRXarVvm3J1Ir11",
+      "kind": "subtopic",
+      "label": "Nexus",
+      "x": 1805,
+      "y": 2335,
+      "width": 155,
+      "height": 49,
+      "description": "Study Nexus in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "vsmE6EpCc2DFGk1YTbkHS",
+      "kind": "subtopic",
+      "label": "Cloud Smith",
+      "x": 1806,
+      "y": 2387,
+      "width": 154,
+      "height": 49,
+      "description": "Study Cloud Smith in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "-INN1qTMLimrZgaSPCcHj",
+      "kind": "topic",
+      "label": "GitOps",
+      "x": 2040,
+      "y": 2475,
+      "width": 172,
+      "height": 49,
+      "description": "Core DevOps topic: GitOps. Learn when to use it, what it costs, and how it fails.",
+      "interactive": true
+    },
+    {
+      "id": "i-DLwNXdCUUug6lfjkPSy",
+      "kind": "subtopic",
+      "label": "ArgoCD",
+      "x": 2040,
+      "y": 2335,
+      "width": 172,
+      "height": 49,
+      "description": "Study ArgoCD in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "6gVV_JUgKgwJb4C8tHZn7",
+      "kind": "subtopic",
+      "label": "FluxCD",
+      "x": 2040,
+      "y": 2388,
+      "width": 172,
+      "height": 49,
+      "description": "Study FluxCD in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "EeWsihH9ehbFKebYoB5i9",
+      "kind": "topic",
+      "label": "Service Mesh",
+      "x": 2040,
+      "y": 2663,
+      "width": 172,
+      "height": 49,
+      "description": "Core DevOps topic: Service Mesh. Learn when to use it, what it costs, and how it fails.",
+      "interactive": true
+    },
+    {
+      "id": "XsSnqW6k2IzvmrMmJeU6a",
+      "kind": "subtopic",
+      "label": "Istio",
+      "x": 1830,
+      "y": 2586,
+      "width": 111,
+      "height": 49,
+      "description": "Study Istio in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "OXOTm3nz6o44p50qd0brN",
+      "kind": "subtopic",
+      "label": "Consul",
+      "x": 1830,
+      "y": 2639,
+      "width": 111,
+      "height": 49,
+      "description": "Study Consul in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "hhoSe4q1u850PgK62Ubau",
+      "kind": "subtopic",
+      "label": "Linkerd",
+      "x": 1830,
+      "y": 2692,
+      "width": 111,
+      "height": 49,
+      "description": "Study Linkerd in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "epLLYArR16HlhAS4c33b4",
+      "kind": "subtopic",
+      "label": "Envoy",
+      "x": 1830,
+      "y": 2745,
+      "width": 111,
+      "height": 49,
+      "description": "Study Envoy in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "Qc0MGR5bMG9eeM5Zb9PMk",
+      "kind": "topic",
+      "label": "Cloud Design Patterns",
+      "x": 1585,
+      "y": 2965,
+      "width": 234,
+      "height": 49,
+      "description": "Core DevOps topic: Cloud Design Patterns. Learn when to use it, what it costs, and how it fails.",
+      "interactive": true
+    },
+    {
+      "id": "JCe3fcOf-sokTJURyX1oI",
+      "kind": "subtopic",
+      "label": "Availability",
+      "x": 1193,
+      "y": 2890,
+      "width": 269,
+      "height": 49,
+      "description": "Study Availability in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "5FN7iva4DW_lv-r1tijd8",
+      "kind": "subtopic",
+      "label": "Data Management",
+      "x": 1193,
+      "y": 2942,
+      "width": 269,
+      "height": 49,
+      "description": "Study Data Management in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "1_NRXjckZ0F8EtEmgixqz",
+      "kind": "subtopic",
+      "label": "Design and Implementation",
+      "x": 1193,
+      "y": 2994,
+      "width": 269,
+      "height": 49,
+      "description": "Study Design and Implementation in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "8kby89epyullS9W7uKDrs",
+      "kind": "subtopic",
+      "label": "Management and Monitoring",
+      "x": 1193,
+      "y": 3046,
+      "width": 269,
+      "height": 49,
+      "description": "Measure health, latency, errors, and saturation. Alerts should be actionable.",
+      "interactive": true
+    },
+    {
+      "id": "w2eCgBC-ydMHSxh7LMti8",
+      "kind": "subtopic",
+      "label": "Loki",
+      "x": 1207,
+      "y": 1795,
+      "width": 154,
+      "height": 49,
+      "description": "Study Loki in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "hIBeTUiAI3zwUY6NgAO-A",
+      "kind": "subtopic",
+      "label": "Kubernetes",
+      "x": 1192,
+      "y": 2723,
+      "width": 232,
+      "height": 49,
+      "description": "Package and orchestrate workloads. Start with containers, then scheduling, networking, and rollout strategy.",
+      "interactive": true
+    },
+    {
+      "id": "z7rDVZZVr1C2ZoOHGxDQ_",
+      "kind": "label",
+      "label": "Web Server",
+      "x": 2056,
+      "y": 1183,
+      "width": 106,
+      "height": 36,
+      "description": "Note under this section: Web Server.",
+      "interactive": true
+    },
+    {
+      "id": "5zUf-LBQ0ByeP2hnAf9x1",
+      "kind": "label",
+      "label": "Editors",
+      "x": 1770,
+      "y": 676,
+      "width": 71,
+      "height": 36,
+      "description": "Note under this section: Editors.",
+      "interactive": true
+    },
+    {
+      "id": "JXsctlXUUS1ie8nNEgIk9",
+      "kind": "subtopic",
+      "label": "GCP Functions",
+      "x": 2011,
+      "y": 1606,
+      "width": 194,
+      "height": 49,
+      "description": "Study GCP Functions in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "wNguM6-YEznduz3MgBCYo",
+      "kind": "topic",
+      "label": "Observability",
+      "x": 1492,
+      "y": 2475,
+      "width": 218,
+      "height": 49,
+      "description": "Measure health, latency, errors, and saturation. Alerts should be actionable.",
+      "interactive": true
+    },
+    {
+      "id": "8rd7T5ahK2I_zh5co-IF-",
+      "kind": "subtopic",
+      "label": "Jaeger",
+      "x": 1511,
+      "y": 2563,
+      "width": 180,
+      "height": 49,
+      "description": "Study Jaeger in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "pk76Us6z8LoX3f0mhnCyR",
+      "kind": "subtopic",
+      "label": "New Relic",
+      "x": 1511,
+      "y": 2616,
+      "width": 180,
+      "height": 49,
+      "description": "Study New Relic in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "BHny2Emf96suhAlltiEro",
+      "kind": "subtopic",
+      "label": "Datadog",
+      "x": 1511,
+      "y": 2669,
+      "width": 180,
+      "height": 49,
+      "description": "Study Datadog in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "eOyu4wmKOrcMlhD8pUGGh",
+      "kind": "subtopic",
+      "label": "Prometheus",
+      "x": 1511,
+      "y": 2722,
+      "width": 180,
+      "height": 49,
+      "description": "Measure health, latency, errors, and saturation. Alerts should be actionable.",
+      "interactive": true
+    },
+    {
+      "id": "K81bmtgnB1gfhYdi3TB5a",
+      "kind": "subtopic",
+      "label": "OpenTelemetry",
+      "x": 1511,
+      "y": 2775,
+      "width": 180,
+      "height": 49,
+      "description": "Study OpenTelemetry in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "lUUJAEBrGJvL8dRs2n1GD",
+      "kind": "subtopic",
+      "label": "ESO",
+      "x": 2174,
+      "y": 2142,
+      "width": 72,
+      "height": 49,
+      "description": "Study ESO in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "4aJVaimsuvGIPXMZ_WjaA",
+      "kind": "subtopic",
+      "label": "Dynatrace",
+      "x": 1511,
+      "y": 2828,
+      "width": 180,
+      "height": 49,
+      "description": "Study Dynatrace in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "Kumwd6XOlEMeDohDH0q9P",
+      "kind": "subtopic",
+      "label": "Salt",
+      "x": 1402,
+      "y": 1774,
+      "width": 115,
+      "height": 49,
+      "description": "Study Salt in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "3GryoQuI67JTHg9r3xUHO",
+      "kind": "subtopic",
+      "label": "OpenShift",
+      "x": 1192,
+      "y": 2776,
+      "width": 232,
+      "height": 49,
+      "description": "Study OpenShift in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "DjDR8Yn5Q55NvoihElj7m",
+      "kind": "subtopic",
+      "label": "Render",
+      "x": 1713,
+      "y": 1501,
+      "width": 110,
+      "height": 49,
+      "description": "Study Render in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "e0CIteRMxc0DydKEJnMhp",
+      "kind": "subtopic",
+      "label": "Railway",
+      "x": 1439,
+      "y": 1866,
+      "width": 126,
+      "height": 49,
+      "description": "Study Railway in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "1du8Q2pRZM82ri6jBy5T7",
+      "kind": "subtopic",
+      "label": "Buildkite",
+      "x": 1569,
+      "y": 1866,
+      "width": 126,
+      "height": 49,
+      "description": "Study Buildkite in the DevOps path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    }
+  ],
+  "edges": [
+    {
+      "id": "reactflow__edge-fqBgeJj5fan4TT7K2E6c7x2-43OZ35TemharSqfrst0Pvw1",
+      "from": "fqBgeJj5fan4TT7K2E6c7",
+      "to": "v5FGKQc-_7NYEsWjmTEuq"
+    },
+    {
+      "id": "reactflow__edge-43OZ35TemharSqfrst0Pvz2-npnMwSDEK2aLGgnuZZ4dOy1",
+      "from": "v5FGKQc-_7NYEsWjmTEuq",
+      "to": "npnMwSDEK2aLGgnuZZ4dO"
+    },
+    {
+      "id": "reactflow__edge-43OZ35TemharSqfrst0Pvz2-TwVfCYMS9jSaJ6UyYmC-Ky1",
+      "from": "v5FGKQc-_7NYEsWjmTEuq",
+      "to": "TwVfCYMS9jSaJ6UyYmC-K"
+    },
+    {
+      "id": "reactflow__edge-43OZ35TemharSqfrst0Pvz2-QCdemtWa2mE78poNXeqzry1",
+      "from": "v5FGKQc-_7NYEsWjmTEuq",
+      "to": "QCdemtWa2mE78poNXeqzr"
+    },
+    {
+      "id": "reactflow__edge-v5FGKQc-_7NYEsWjmTEuqy2-qe84v529VbCyydl0BKFk2w1",
+      "from": "v5FGKQc-_7NYEsWjmTEuq",
+      "to": "qe84v529VbCyydl0BKFk2"
+    },
+    {
+      "id": "reactflow__edge-qe84v529VbCyydl0BKFk2y2--JGe6oHUuaAdakoOjTV5uz1",
+      "from": "qe84v529VbCyydl0BKFk2",
+      "to": "UOQimp7QkM3sxmFvk5d3i"
+    },
+    {
+      "id": "reactflow__edge-Qc0MGR5bMG9eeM5Zb9PMky2-uyDm1SpOQdpHjq9zBAdckz1",
+      "from": "LvhFmlxz5uIy7k_nzx2Bv",
+      "to": "uyDm1SpOQdpHjq9zBAdck"
+    },
+    {
+      "id": "reactflow__edge-Qc0MGR5bMG9eeM5Zb9PMkx2-NiVvRbCOCDpVvif48poCow1",
+      "from": "qqRLeTpuoW64H9LvY0U_w",
+      "to": "NiVvRbCOCDpVvif48poCo"
+    },
+    {
+      "id": "reactflow__edge-qe84v529VbCyydl0BKFk2z2-wjJPzrFJBNYOD3SJLzW2My1",
+      "from": "qe84v529VbCyydl0BKFk2",
+      "to": "wjJPzrFJBNYOD3SJLzW2M"
+    },
+    {
+      "id": "reactflow__edge-wjJPzrFJBNYOD3SJLzW2My2-LvhFmlxz5uIy7k_nzx2Bvz1",
+      "from": "wjJPzrFJBNYOD3SJLzW2M",
+      "to": "LvhFmlxz5uIy7k_nzx2Bv"
+    },
+    {
+      "id": "reactflow__edge-wjJPzrFJBNYOD3SJLzW2Mx2-Jt8BmtLUH6fHT2pGKoJs3w2",
+      "from": "wjJPzrFJBNYOD3SJLzW2M",
+      "to": "Jt8BmtLUH6fHT2pGKoJs3"
+    },
+    {
+      "id": "reactflow__edge-wjJPzrFJBNYOD3SJLzW2Mw2-z6IBekR8Xl-6f8WEb05Nwx2",
+      "from": "wjJPzrFJBNYOD3SJLzW2M",
+      "to": "z6IBekR8Xl-6f8WEb05Nw"
+    },
+    {
+      "id": "reactflow__edge-wjJPzrFJBNYOD3SJLzW2Mz2-x-JWvG1iw86ULL9KrQmRuy1",
+      "from": "wjJPzrFJBNYOD3SJLzW2M",
+      "to": "x-JWvG1iw86ULL9KrQmRu"
+    },
+    {
+      "id": "reactflow__edge-wjJPzrFJBNYOD3SJLzW2Mz2-gIEQDgKOsoEnSv8mpEzGHy1",
+      "from": "wjJPzrFJBNYOD3SJLzW2M",
+      "to": "gIEQDgKOsoEnSv8mpEzGH"
+    },
+    {
+      "id": "reactflow__edge-wjJPzrFJBNYOD3SJLzW2Mz2-OaqKLZe-XnngcDhDzCtRty1",
+      "from": "wjJPzrFJBNYOD3SJLzW2M",
+      "to": "OaqKLZe-XnngcDhDzCtRt"
+    },
+    {
+      "id": "reactflow__edge-wjJPzrFJBNYOD3SJLzW2Mz2-cUifrP7v55psTb20IZndfy1",
+      "from": "wjJPzrFJBNYOD3SJLzW2M",
+      "to": "cUifrP7v55psTb20IZndf"
+    },
+    {
+      "id": "reactflow__edge-h10BH3OybHcIN2iDTSGkny2-ot9I_IHdnq2yAMffrSrbNz2",
+      "from": "h10BH3OybHcIN2iDTSGkn",
+      "to": "ot9I_IHdnq2yAMffrSrbN"
+    },
+    {
+      "id": "reactflow__edge-h10BH3OybHcIN2iDTSGkny2-oQIB0KE0BibjIYmxrpPZSz1",
+      "from": "h10BH3OybHcIN2iDTSGkn",
+      "to": "oQIB0KE0BibjIYmxrpPZS"
+    },
+    {
+      "id": "reactflow__edge-h10BH3OybHcIN2iDTSGkny2-Z7SsBWgluZWr9iWb2e9XOz1",
+      "from": "h10BH3OybHcIN2iDTSGkn",
+      "to": "Z7SsBWgluZWr9iWb2e9XO"
+    },
+    {
+      "id": "reactflow__edge-h10BH3OybHcIN2iDTSGknz2-CQhUflAcv1lhBnmDY0gazy1",
+      "from": "h10BH3OybHcIN2iDTSGkn",
+      "to": "CQhUflAcv1lhBnmDY0gaz"
+    },
+    {
+      "id": "reactflow__edge-CQhUflAcv1lhBnmDY0gazw2-qYRJYIZsmf-inMqKECRkIx1",
+      "from": "CQhUflAcv1lhBnmDY0gaz",
+      "to": "qYRJYIZsmf-inMqKECRkI"
+    },
+    {
+      "id": "reactflow__edge-CQhUflAcv1lhBnmDY0gazz2-jCWrnQNgjHKyhzd9dwOHzy1",
+      "from": "CQhUflAcv1lhBnmDY0gaz",
+      "to": "jCWrnQNgjHKyhzd9dwOHz"
+    },
+    {
+      "id": "reactflow__edge-jCWrnQNgjHKyhzd9dwOHzx2-PsbYeHGMd9E1UNqcaFQOzw1",
+      "from": "jCWrnQNgjHKyhzd9dwOHz",
+      "to": "PsbYeHGMd9E1UNqcaFQOz"
+    },
+    {
+      "id": "reactflow__edge-jCWrnQNgjHKyhzd9dwOHzy2-w5d24Sf8GDkLDLGUPxzS9w1",
+      "from": "jCWrnQNgjHKyhzd9dwOHz",
+      "to": "w5d24Sf8GDkLDLGUPxzS9"
+    },
+    {
+      "id": "reactflow__edge-w5d24Sf8GDkLDLGUPxzS9y2-7crPw2SKw-TlsSe9kpZFQz1",
+      "from": "w5d24Sf8GDkLDLGUPxzS9",
+      "to": "7crPw2SKw-TlsSe9kpZFQ"
+    },
+    {
+      "id": "reactflow__edge-2Wd9SlWGg6QtxgiUVLyZLz2-9p_ufPj6QH9gHbWBQUmGwy1",
+      "from": "2Wd9SlWGg6QtxgiUVLyZL",
+      "to": "9p_ufPj6QH9gHbWBQUmGw"
+    },
+    {
+      "id": "reactflow__edge-JizyX8jse920gpWcmoSEDx2-1oYvpFG8LKT1JD6a_9J0mw1",
+      "from": "JizyX8jse920gpWcmoSED",
+      "to": "1oYvpFG8LKT1JD6a_9J0m"
+    },
+    {
+      "id": "reactflow__edge-1oYvpFG8LKT1JD6a_9J0mx2-XA__697KgofsH28coQ-maw1",
+      "from": "1oYvpFG8LKT1JD6a_9J0m",
+      "to": "XA__697KgofsH28coQ-ma"
+    },
+    {
+      "id": "reactflow__edge-1oYvpFG8LKT1JD6a_9J0my2-V9sOxlNOyRp0Mghl7zudvz1",
+      "from": "1oYvpFG8LKT1JD6a_9J0m",
+      "to": "V9sOxlNOyRp0Mghl7zudv"
+    },
+    {
+      "id": "reactflow__edge-aQJaouIaxIJChM-40M3HQy2-dUapFp3f0Rum-rf_Vk_b-z1",
+      "from": "aQJaouIaxIJChM-40M3HQ",
+      "to": "dUapFp3f0Rum-rf_Vk_b-"
+    },
+    {
+      "id": "reactflow__edge-aQJaouIaxIJChM-40M3HQy2-1-JneOQeGhox-CKrdiquqz1",
+      "from": "aQJaouIaxIJChM-40M3HQ",
+      "to": "1-JneOQeGhox-CKrdiquq"
+    },
+    {
+      "id": "reactflow__edge-aQJaouIaxIJChM-40M3HQy2-TsXFx1wWikVBVoFUUDAMxz1",
+      "from": "aQJaouIaxIJChM-40M3HQ",
+      "to": "TsXFx1wWikVBVoFUUDAMx"
+    },
+    {
+      "id": "reactflow__edge-aQJaouIaxIJChM-40M3HQy2-JnWVCS1HbAyfCJzGt-WOHz1",
+      "from": "aQJaouIaxIJChM-40M3HQ",
+      "to": "JnWVCS1HbAyfCJzGt-WOH"
+    },
+    {
+      "id": "reactflow__edge-hcrPpjFxPi_iLiMdLKJrOz2-ZWq23Q9ZNxLNti68oltxAy1",
+      "from": "hcrPpjFxPi_iLiMdLKJrO",
+      "to": "ZWq23Q9ZNxLNti68oltxA"
+    },
+    {
+      "id": "reactflow__edge-hcrPpjFxPi_iLiMdLKJrOz2-tZzvs80KzqT8aDvEyjacky1",
+      "from": "hcrPpjFxPi_iLiMdLKJrO",
+      "to": "tZzvs80KzqT8aDvEyjack"
+    },
+    {
+      "id": "reactflow__edge-hcrPpjFxPi_iLiMdLKJrOz2-yQ4d2uiROZYr950cjYnQEy1",
+      "from": "hcrPpjFxPi_iLiMdLKJrO",
+      "to": "yQ4d2uiROZYr950cjYnQE"
+    },
+    {
+      "id": "reactflow__edge-hcrPpjFxPi_iLiMdLKJrOy2-qqRLeTpuoW64H9LvY0U_wz2",
+      "from": "hcrPpjFxPi_iLiMdLKJrO",
+      "to": "qqRLeTpuoW64H9LvY0U_w"
+    },
+    {
+      "id": "reactflow__edge-qqRLeTpuoW64H9LvY0U_wy2-gaoZjOYmU0J5aM6vtLNvNx2",
+      "from": "qqRLeTpuoW64H9LvY0U_w",
+      "to": "gaoZjOYmU0J5aM6vtLNvN"
+    },
+    {
+      "id": "reactflow__edge-gaoZjOYmU0J5aM6vtLNvNw2-s_kss4FJ2KyZRdcKNHK2vx1",
+      "from": "gaoZjOYmU0J5aM6vtLNvN",
+      "to": "s_kss4FJ2KyZRdcKNHK2v"
+    },
+    {
+      "id": "reactflow__edge-zuBAjrqQPjj-0DHGjCaqTw2-vsmE6EpCc2DFGk1YTbkHSx2",
+      "from": "zuBAjrqQPjj-0DHGjCaqT",
+      "to": "vsmE6EpCc2DFGk1YTbkHS"
+    },
+    {
+      "id": "reactflow__edge--INN1qTMLimrZgaSPCcHjw2-6gVV_JUgKgwJb4C8tHZn7x1",
+      "from": "-INN1qTMLimrZgaSPCcHj",
+      "to": "6gVV_JUgKgwJb4C8tHZn7"
+    },
+    {
+      "id": "reactflow__edge-zuBAjrqQPjj-0DHGjCaqTz2--INN1qTMLimrZgaSPCcHjy1",
+      "from": "zuBAjrqQPjj-0DHGjCaqT",
+      "to": "-INN1qTMLimrZgaSPCcHj"
+    },
+    {
+      "id": "reactflow__edge--INN1qTMLimrZgaSPCcHjx2-EeWsihH9ehbFKebYoB5i9w1",
+      "from": "-INN1qTMLimrZgaSPCcHj",
+      "to": "EeWsihH9ehbFKebYoB5i9"
+    },
+    {
+      "id": "reactflow__edge-EeWsihH9ehbFKebYoB5i9y2-XsSnqW6k2IzvmrMmJeU6az2",
+      "from": "EeWsihH9ehbFKebYoB5i9",
+      "to": "XsSnqW6k2IzvmrMmJeU6a"
+    },
+    {
+      "id": "reactflow__edge-EeWsihH9ehbFKebYoB5i9y2-hhoSe4q1u850PgK62Ubauz1",
+      "from": "EeWsihH9ehbFKebYoB5i9",
+      "to": "hhoSe4q1u850PgK62Ubau"
+    },
+    {
+      "id": "reactflow__edge-EeWsihH9ehbFKebYoB5i9y2-epLLYArR16HlhAS4c33b4z1",
+      "from": "EeWsihH9ehbFKebYoB5i9",
+      "to": "epLLYArR16HlhAS4c33b4"
+    },
+    {
+      "id": "reactflow__edge-EeWsihH9ehbFKebYoB5i9x2-Qc0MGR5bMG9eeM5Zb9PMkz2",
+      "from": "EeWsihH9ehbFKebYoB5i9",
+      "to": "Qc0MGR5bMG9eeM5Zb9PMk"
+    },
+    {
+      "id": "reactflow__edge-EeWsihH9ehbFKebYoB5i9y2-OXOTm3nz6o44p50qd0brNz2",
+      "from": "EeWsihH9ehbFKebYoB5i9",
+      "to": "OXOTm3nz6o44p50qd0brN"
+    },
+    {
+      "id": "reactflow__edge-Qc0MGR5bMG9eeM5Zb9PMky2-JCe3fcOf-sokTJURyX1oIz1",
+      "from": "Qc0MGR5bMG9eeM5Zb9PMk",
+      "to": "JCe3fcOf-sokTJURyX1oI"
+    },
+    {
+      "id": "reactflow__edge-Qc0MGR5bMG9eeM5Zb9PMky2-5FN7iva4DW_lv-r1tijd8z1",
+      "from": "Qc0MGR5bMG9eeM5Zb9PMk",
+      "to": "5FN7iva4DW_lv-r1tijd8"
+    },
+    {
+      "id": "reactflow__edge-Qc0MGR5bMG9eeM5Zb9PMky2-1_NRXjckZ0F8EtEmgixqzz1",
+      "from": "Qc0MGR5bMG9eeM5Zb9PMk",
+      "to": "1_NRXjckZ0F8EtEmgixqz"
+    },
+    {
+      "id": "reactflow__edge-Qc0MGR5bMG9eeM5Zb9PMky2-8kby89epyullS9W7uKDrsz1",
+      "from": "Qc0MGR5bMG9eeM5Zb9PMk",
+      "to": "8kby89epyullS9W7uKDrs"
+    },
+    {
+      "id": "reactflow__edge-Yq8kVoRf20aL_o4VZU5--z2-wNguM6-YEznduz3MgBCYoy1",
+      "from": "Yq8kVoRf20aL_o4VZU5--",
+      "to": "wNguM6-YEznduz3MgBCYo"
+    },
+    {
+      "id": "reactflow__edge-wNguM6-YEznduz3MgBCYoz2-zuBAjrqQPjj-0DHGjCaqTy1",
+      "from": "wNguM6-YEznduz3MgBCYo",
+      "to": "zuBAjrqQPjj-0DHGjCaqT"
+    },
+    {
+      "id": "reactflow__edge-wNguM6-YEznduz3MgBCYox2-8rd7T5ahK2I_zh5co-IF-w1",
+      "from": "wNguM6-YEznduz3MgBCYo",
+      "to": "8rd7T5ahK2I_zh5co-IF-"
+    },
+    {
+      "id": "xy-edge__V9sOxlNOyRp0Mghl7zudvy2-h9vVPOmdUSeEGVQQaSTH5z1",
+      "from": "V9sOxlNOyRp0Mghl7zudv",
+      "to": "h9vVPOmdUSeEGVQQaSTH5"
+    },
+    {
+      "id": "xy-edge__V9sOxlNOyRp0Mghl7zudvy2-yP1y8U3eblpzbaLiCGliUz1",
+      "from": "V9sOxlNOyRp0Mghl7zudv",
+      "to": "yP1y8U3eblpzbaLiCGliU"
+    },
+    {
+      "id": "xy-edge__aQJaouIaxIJChM-40M3HQy2-1du8Q2pRZM82ri6jBy5T7z1",
+      "from": "aQJaouIaxIJChM-40M3HQ",
+      "to": "1du8Q2pRZM82ri6jBy5T7"
+    }
+  ]
+}

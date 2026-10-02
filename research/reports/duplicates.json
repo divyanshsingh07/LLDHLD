@@ -1,0 +1,1198 @@
+[
+  {
+    "canonical": "Code Review",
+    "merged": [
+      "Code Reviews",
+      "Code Styles",
+      "Documentation"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "opentelemetry-docs",
+      "roadmapsh-backend",
+      "roadmapsh-code-review",
+      "roadmapsh-git-github",
+      "roadmapsh-software-architect"
+    ]
+  },
+  {
+    "canonical": "API Fundamentals",
+    "merged": [
+      "Learn about APIs",
+      "What are APIs"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-api-design",
+      "roadmapsh-backend-beginner",
+      "roadmapsh-backend"
+    ]
+  },
+  {
+    "canonical": "HTTP Fundamentals",
+    "merged": [
+      "HTTP",
+      "HTTP Headers",
+      "HTTP Methods",
+      "HTTP Status Codes",
+      "What is HTTP?"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-api-design",
+      "roadmapsh-backend",
+      "roadmapsh-computer-science",
+      "roadmapsh-devops",
+      "roadmapsh-system-design"
+    ]
+  },
+  {
+    "canonical": "Cookies & Sessions",
+    "merged": [
+      "Cookie Based Auth",
+      "Cookies"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-api-design",
+      "roadmapsh-backend"
+    ]
+  },
+  {
+    "canonical": "Application Security Fundamentals",
+    "merged": [
+      "CORS",
+      "OWASP",
+      "Security"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-api-design",
+      "roadmapsh-backend",
+      "roadmapsh-computer-science",
+      "roadmapsh-kubernetes",
+      "roadmapsh-postgresql-dba",
+      "roadmapsh-software-architect",
+      "roadmapsh-system-design",
+      "roadmapsh-terraform",
+      "system-design-primer",
+      "system"
+    ]
+  },
+  {
+    "canonical": "REST API Design",
+    "merged": [
+      "Open API Specs",
+      "REST",
+      "RESTful APIs",
+      "Representational state transfer (REST)"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-api-design",
+      "roadmapsh-backend-beginner",
+      "roadmapsh-backend",
+      "roadmapsh-computer-science",
+      "roadmapsh-full-stack",
+      "roadmapsh-software-architect",
+      "roadmapsh-system-design",
+      "system-design-primer",
+      "system"
+    ]
+  },
+  {
+    "canonical": "GraphQL APIs",
+    "merged": [
+      "GraphQL",
+      "GraphQL APIs"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-api-design",
+      "roadmapsh-backend",
+      "roadmapsh-computer-science",
+      "roadmapsh-software-architect",
+      "roadmapsh-system-design"
+    ]
+  },
+  {
+    "canonical": "Rate Limiting",
+    "merged": [
+      "Rate Limiting",
+      "Throttling"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-api-design",
+      "roadmapsh-backend",
+      "roadmapsh-system-design"
+    ]
+  },
+  {
+    "canonical": "Validation & Error Handling",
+    "merged": [
+      "API Semantics",
+      "Error Handling"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-api-design",
+      "roadmapsh-code-review"
+    ]
+  },
+  {
+    "canonical": "Load Balancing",
+    "merged": [
+      "Layer 4 Load Balancing",
+      "Layer 4 load balancing",
+      "Layer 7 Load Balancing",
+      "Layer 7 load balancing",
+      "Load Balancer",
+      "Load Balancing",
+      "Load balancer"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-api-design",
+      "roadmapsh-computer-science",
+      "roadmapsh-devops",
+      "roadmapsh-kubernetes",
+      "roadmapsh-system-design",
+      "system-design-primer",
+      "system"
+    ]
+  },
+  {
+    "canonical": "Event-Driven Architecture",
+    "merged": [
+      "Event Driven Architecture",
+      "Event Sourcing",
+      "Events"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-api-design",
+      "roadmapsh-aws",
+      "roadmapsh-software-design-architecture",
+      "roadmapsh-system-design"
+    ]
+  },
+  {
+    "canonical": "API Gateways",
+    "merged": [
+      "API Gateway",
+      "API Gateways",
+      "Gateway API"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-api-design",
+      "roadmapsh-aws",
+      "roadmapsh-kubernetes"
+    ]
+  },
+  {
+    "canonical": "Backend Testing",
+    "merged": [
+      "Integration Testing",
+      "Tests",
+      "Unit Testing"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-api-design",
+      "roadmapsh-backend-beginner",
+      "roadmapsh-backend",
+      "roadmapsh-code-review",
+      "roadmapsh-docker",
+      "roadmapsh-terraform"
+    ]
+  },
+  {
+    "canonical": "Authorization & Access Control",
+    "merged": [
+      "ABAC",
+      "RBAC"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-api-design"
+    ]
+  },
+  {
+    "canonical": "Observability Fundamentals",
+    "merged": [
+      "Logs",
+      "Metrics",
+      "Monitoring",
+      "Observability",
+      "Traces"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-api-design",
+      "roadmapsh-aws",
+      "roadmapsh-backend",
+      "roadmapsh-devops",
+      "roadmapsh-kubernetes",
+      "roadmapsh-linux",
+      "roadmapsh-redis",
+      "roadmapsh-system-design"
+    ]
+  },
+  {
+    "canonical": "Cloud Computing Fundamentals",
+    "merged": [
+      "IaaS vs PaaS vs SaaS",
+      "Public vs Private vs Hybrid Cloud",
+      "What is Cloud Computing?"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-aws"
+    ]
+  },
+  {
+    "canonical": "Cloud Core Services",
+    "merged": [
+      "AWS Global Infrastructure",
+      "Introduction to AWS",
+      "Networking"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-aws",
+      "roadmapsh-computer-science",
+      "roadmapsh-docker",
+      "roadmapsh-linux"
+    ]
+  },
+  {
+    "canonical": "Well-Architected Thinking",
+    "merged": [
+      "Shared Responsibility Model",
+      "Well Architected Framework"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-aws"
+    ]
+  },
+  {
+    "canonical": "Cloud Networking",
+    "merged": [
+      "Security Groups",
+      "Subnets",
+      "VPC"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-aws",
+      "roadmapsh-full-stack"
+    ]
+  },
+  {
+    "canonical": "Backup & Restore",
+    "merged": [
+      "Backup / Restore",
+      "Disaster Recovery"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-aws",
+      "roadmapsh-redis"
+    ]
+  },
+  {
+    "canonical": "Data Modeling at Scale",
+    "merged": [
+      "Data Modeling",
+      "Denormalization"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-aws",
+      "roadmapsh-system-design"
+    ]
+  },
+  {
+    "canonical": "Kubernetes Workloads & Networking",
+    "merged": [
+      "Deploying your First Application",
+      "Deployments",
+      "Pods",
+      "Services"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-aws",
+      "roadmapsh-kubernetes"
+    ]
+  },
+  {
+    "canonical": "Web Frontend Foundations",
+    "merged": [
+      "CSS",
+      "HTML",
+      "JavaScript"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-backend-beginner",
+      "roadmapsh-backend",
+      "roadmapsh-cyber-security",
+      "roadmapsh-datastructures-and-algorithms",
+      "roadmapsh-full-stack"
+    ]
+  },
+  {
+    "canonical": "Programming Fundamentals",
+    "merged": [
+      "Learn a Programming Language",
+      "Pick a Language",
+      "Programming Fundamentals",
+      "Programming Language"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-backend-beginner",
+      "roadmapsh-computer-science",
+      "roadmapsh-datastructures-and-algorithms",
+      "roadmapsh-devops-beginner",
+      "roadmapsh-devops"
+    ]
+  },
+  {
+    "canonical": "Version Control with Git",
+    "merged": [
+      "Git",
+      "GitHub",
+      "Github",
+      "Version Control Systems",
+      "What is Version Control?"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-backend-beginner",
+      "roadmapsh-backend",
+      "roadmapsh-devops-beginner",
+      "roadmapsh-devops",
+      "roadmapsh-full-stack",
+      "roadmapsh-git-github",
+      "roadmapsh-software-architect"
+    ]
+  },
+  {
+    "canonical": "Relational Databases",
+    "merged": [
+      "ACID",
+      "PostgreSQL",
+      "RDBMS Benefits and Limitations",
+      "Relational Databases",
+      "What are Relational Databases?"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-backend-beginner",
+      "roadmapsh-backend",
+      "roadmapsh-full-stack",
+      "roadmapsh-postgresql-dba",
+      "roadmapsh-sql"
+    ]
+  },
+  {
+    "canonical": "Caching Fundamentals",
+    "merged": [
+      "Application Caching",
+      "Application caching",
+      "Cache",
+      "Caching",
+      "Client Caching",
+      "Client caching",
+      "When to update the cache"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-backend-beginner",
+      "roadmapsh-backend",
+      "roadmapsh-computer-science",
+      "roadmapsh-redis",
+      "roadmapsh-system-design",
+      "system-design-primer",
+      "system"
+    ]
+  },
+  {
+    "canonical": "Distributed Caching",
+    "merged": [
+      "In-memory Data Structure Store",
+      "Memcached",
+      "Redis",
+      "What is Redis?"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-backend-beginner",
+      "roadmapsh-backend",
+      "roadmapsh-full-stack",
+      "roadmapsh-redis"
+    ]
+  },
+  {
+    "canonical": "Authentication",
+    "merged": [
+      "Authentication",
+      "Basic Authentication",
+      "OAuth"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-backend-beginner",
+      "roadmapsh-backend",
+      "roadmapsh-redis",
+      "roadmapsh-terraform"
+    ]
+  },
+  {
+    "canonical": "Search & Indexing Engines",
+    "merged": [
+      "Elasticsearch",
+      "Search Engines"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-backend"
+    ]
+  },
+  {
+    "canonical": "CAP & Consistency Models",
+    "merged": [
+      "Availability vs Consistency",
+      "Availability vs consistency",
+      "CAP Theorem",
+      "CAP theorem",
+      "Consistency Patterns",
+      "Consistency patterns",
+      "Eventual Consistency",
+      "Eventual consistency",
+      "Strong Consistency",
+      "Strong consistency",
+      "Weak Consistency",
+      "Weak consistency"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-backend",
+      "roadmapsh-computer-science",
+      "roadmapsh-system-design",
+      "system-design-primer",
+      "system"
+    ]
+  },
+  {
+    "canonical": "Sharding & Partitioning",
+    "merged": [
+      "Federation",
+      "Scaling Databases",
+      "Sharding"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-backend",
+      "roadmapsh-computer-science",
+      "roadmapsh-system-design"
+    ]
+  },
+  {
+    "canonical": "RPC & gRPC",
+    "merged": [
+      "Remote procedure call (RPC)",
+      "gRPC"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-backend",
+      "roadmapsh-computer-science",
+      "roadmapsh-software-architect",
+      "roadmapsh-system-design",
+      "system-design-primer",
+      "system"
+    ]
+  },
+  {
+    "canonical": "CI/CD",
+    "merged": [
+      "CI / CD",
+      "Continuous Integration"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-backend",
+      "roadmapsh-docker",
+      "roadmapsh-software-architect"
+    ]
+  },
+  {
+    "canonical": "Service Mesh",
+    "merged": [
+      "Envoy",
+      "Istio",
+      "Linkerd",
+      "Service Mesh"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-backend",
+      "roadmapsh-devops",
+      "roadmapsh-software-architect"
+    ]
+  },
+  {
+    "canonical": "Architectural Styles & Patterns",
+    "merged": [
+      "Architectural Patterns",
+      "Architectural Principles",
+      "Architectural Styles"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-backend",
+      "roadmapsh-computer-science",
+      "roadmapsh-software-design-architecture"
+    ]
+  },
+  {
+    "canonical": "Realtime Communication",
+    "merged": [
+      "SSE",
+      "WebSockets"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-backend",
+      "roadmapsh-computer-science"
+    ]
+  },
+  {
+    "canonical": "Web Servers & App Runtimes",
+    "merged": [
+      "Apache",
+      "Application Layer",
+      "Application layer",
+      "Caddy",
+      "Nginx"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-backend",
+      "roadmapsh-devops-beginner",
+      "roadmapsh-devops",
+      "roadmapsh-system-design",
+      "system-design-primer",
+      "system"
+    ]
+  },
+  {
+    "canonical": "Backend Service Design",
+    "merged": [
+      "Applications",
+      "Building For Scale"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-backend"
+    ]
+  },
+  {
+    "canonical": "Graph Databases",
+    "merged": [
+      "AWS Neptune",
+      "Graph Databases",
+      "Neo4j"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-backend",
+      "roadmapsh-system-design"
+    ]
+  },
+  {
+    "canonical": "Backpressure",
+    "merged": [
+      "Back Pressure",
+      "Back pressure",
+      "Backpressure"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-backend",
+      "roadmapsh-system-design",
+      "system-design-primer",
+      "system"
+    ]
+  },
+  {
+    "canonical": "Resilience Patterns",
+    "merged": [
+      "Bulkhead",
+      "Circuit Breaker"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-backend",
+      "roadmapsh-system-design"
+    ]
+  },
+  {
+    "canonical": "TLS & HTTPS",
+    "merged": [
+      "Certificates",
+      "HTTPS",
+      "SSL vs TLS",
+      "TLS & HTTPS"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-backend",
+      "roadmapsh-computer-science",
+      "roadmapsh-cyber-security",
+      "roadmapsh-devops"
+    ]
+  },
+  {
+    "canonical": "Internet Fundamentals",
+    "merged": [
+      "Browsers and how they work?",
+      "How does the internet work?"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-backend"
+    ]
+  },
+  {
+    "canonical": "Microservices",
+    "merged": [
+      "Microservices",
+      "Service Oriented"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-backend",
+      "roadmapsh-software-architect",
+      "roadmapsh-software-design-architecture",
+      "roadmapsh-system-design",
+      "system-design-primer",
+      "system"
+    ]
+  },
+  {
+    "canonical": "Stream Processing",
+    "merged": [
+      "Real-time Analytics",
+      "Streaming"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-backend",
+      "roadmapsh-redis"
+    ]
+  },
+  {
+    "canonical": "Data Structures",
+    "merged": [
+      "2 3 4 Trees",
+      "Basic Data Structures",
+      "Data Structures",
+      "Hash Tables",
+      "Linked Lists"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-computer-science",
+      "roadmapsh-datastructures-and-algorithms"
+    ]
+  },
+  {
+    "canonical": "Algorithms & Complexity",
+    "merged": [
+      "Asymptotic Notation",
+      "Big-O Notation"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-computer-science",
+      "roadmapsh-datastructures-and-algorithms"
+    ]
+  },
+  {
+    "canonical": "Database Indexing",
+    "merged": [
+      "B-Tree",
+      "Indexes",
+      "Indexing",
+      "SQL Tuning"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-computer-science",
+      "roadmapsh-datastructures-and-algorithms",
+      "roadmapsh-postgresql-dba",
+      "roadmapsh-sql",
+      "roadmapsh-system-design"
+    ]
+  },
+  {
+    "canonical": "System Design Approach",
+    "merged": [
+      "How to approach System Design?",
+      "System Design",
+      "System design topics: start here",
+      "What is System Design?"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-computer-science",
+      "roadmapsh-system-design",
+      "system-design-primer",
+      "system"
+    ]
+  },
+  {
+    "canonical": "Reverse Proxies & CDNs",
+    "merged": [
+      "CDN",
+      "Content delivery network",
+      "Pull CDNs",
+      "Push CDNs"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-computer-science",
+      "roadmapsh-system-design",
+      "system-design-primer",
+      "system"
+    ]
+  },
+  {
+    "canonical": "Message Queues",
+    "merged": [
+      "Asynchronism",
+      "Message Broker",
+      "Message Queues",
+      "Message queues",
+      "Queues"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-computer-science",
+      "roadmapsh-datastructures-and-algorithms",
+      "roadmapsh-redis",
+      "roadmapsh-system-design",
+      "system-design-primer",
+      "system"
+    ]
+  },
+  {
+    "canonical": "NoSQL Data Models",
+    "merged": [
+      "Document Store",
+      "Key-Value Store",
+      "NoSQL",
+      "SQL or NoSQL",
+      "SQL vs NoSQL",
+      "SQL vs NoSQL Databases",
+      "Wide Column Store"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-computer-science",
+      "roadmapsh-sql",
+      "roadmapsh-system-design",
+      "system-design-primer",
+      "system"
+    ]
+  },
+  {
+    "canonical": "Database Replication",
+    "merged": [
+      "Replication",
+      "Replication Basics"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-computer-science",
+      "roadmapsh-postgresql-dba",
+      "roadmapsh-redis",
+      "roadmapsh-system-design",
+      "system-design-primer",
+      "system"
+    ]
+  },
+  {
+    "canonical": "DNS",
+    "merged": [
+      "DNS",
+      "Domain Name System",
+      "Domain name system"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-computer-science",
+      "roadmapsh-cyber-security",
+      "roadmapsh-devops",
+      "roadmapsh-system-design",
+      "system-design-primer",
+      "system"
+    ]
+  },
+  {
+    "canonical": "Operating System Fundamentals",
+    "merged": [
+      "Memory Management",
+      "Operating System"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-computer-science",
+      "roadmapsh-devops-beginner",
+      "roadmapsh-devops",
+      "roadmapsh-redis"
+    ]
+  },
+  {
+    "canonical": "Concurrency Basics",
+    "merged": [
+      "Parallelism",
+      "Processes vs Threads"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-computer-science",
+      "roadmapsh-terraform"
+    ]
+  },
+  {
+    "canonical": "Networking Fundamentals",
+    "merged": [
+      "Basics of Computer Networking",
+      "Networking & Protocols"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-cyber-security",
+      "roadmapsh-devops-beginner",
+      "roadmapsh-devops"
+    ]
+  },
+  {
+    "canonical": "Linux Command Line",
+    "merged": [
+      "Basic Commands",
+      "Linux",
+      "Linux Basics",
+      "Shell Commands",
+      "Shell and Other Basics",
+      "Ubuntu / Debian"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-cyber-security",
+      "roadmapsh-devops",
+      "roadmapsh-docker",
+      "roadmapsh-full-stack",
+      "roadmapsh-linux"
+    ]
+  },
+  {
+    "canonical": "Ports, Firewalls & NAT",
+    "merged": [
+      "NAT",
+      "iptables"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-cyber-security"
+    ]
+  },
+  {
+    "canonical": "Input Validation & Injection Defense",
+    "merged": [
+      "SQL Injection",
+      "XSS"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-cyber-security"
+    ]
+  },
+  {
+    "canonical": "Docker Workflows",
+    "merged": [
+      "Docker",
+      "Docker and OCI",
+      "Images"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-devops-beginner",
+      "roadmapsh-devops",
+      "roadmapsh-docker",
+      "roadmapsh-linux"
+    ]
+  },
+  {
+    "canonical": "Infrastructure as Code",
+    "merged": [
+      "CaC vs IaC",
+      "Infrastructure as Code",
+      "Terraform",
+      "What is Infrastructure as Code?",
+      "What is Terraform?"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-devops-beginner",
+      "roadmapsh-devops",
+      "roadmapsh-full-stack",
+      "roadmapsh-software-architect",
+      "roadmapsh-terraform"
+    ]
+  },
+  {
+    "canonical": "Containerization",
+    "merged": [
+      "Bare Metal vs VMs vs Containers",
+      "Containerization",
+      "Containers",
+      "What are Containers?",
+      "Why do we need Containers?"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-devops",
+      "roadmapsh-docker",
+      "roadmapsh-kubernetes",
+      "roadmapsh-linux",
+      "roadmapsh-software-architect"
+    ]
+  },
+  {
+    "canonical": "Metrics & Alerting",
+    "merged": [
+      "Grafana",
+      "Prometheus"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-devops",
+      "roadmapsh-postgresql-dba"
+    ]
+  },
+  {
+    "canonical": "Kubernetes Fundamentals",
+    "merged": [
+      "Key Concepts and Terminologies",
+      "Kubernetes",
+      "Overview of Kubernetes",
+      "Why use Kubernetes?"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-devops",
+      "roadmapsh-docker",
+      "roadmapsh-kubernetes"
+    ]
+  },
+  {
+    "canonical": "Distributed Tracing",
+    "merged": [
+      "Jaeger",
+      "OpenTelemetry"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-devops"
+    ]
+  },
+  {
+    "canonical": "Software Architecture Roles",
+    "merged": [
+      "Application Architecture",
+      "Enterprise Architecture",
+      "Levels of Architecture",
+      "Solution Architecture",
+      "What is Software Architecture",
+      "What is a Software Architect"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-docker",
+      "roadmapsh-software-architect"
+    ]
+  },
+  {
+    "canonical": "Full Stack Integration",
+    "merged": [
+      "Checkpoint - Interactivity",
+      "Checkpoint - Static Webpages"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-full-stack"
+    ]
+  },
+  {
+    "canonical": "SQL Fundamentals",
+    "merged": [
+      "Basic SQL Syntax",
+      "Learn SQL",
+      "Queries",
+      "SQL Keywords"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-postgresql-dba",
+      "roadmapsh-sql"
+    ]
+  },
+  {
+    "canonical": "Distributed Coordination",
+    "merged": [
+      "Etcd",
+      "Leader Election"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-postgresql-dba",
+      "roadmapsh-system-design"
+    ]
+  },
+  {
+    "canonical": "Cache Strategies",
+    "merged": [
+      "Cache Aside",
+      "Cache-Aside",
+      "Refresh Ahead",
+      "TTL",
+      "Write-through"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-redis",
+      "roadmapsh-system-design"
+    ]
+  },
+  {
+    "canonical": "Clean Code & Design Principles",
+    "merged": [
+      "Clean Code",
+      "Clean Code Principles",
+      "Design Principles",
+      "SOLID"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-software-architect",
+      "roadmapsh-software-design-architecture"
+    ]
+  },
+  {
+    "canonical": "Domain-Driven Design",
+    "merged": [
+      "DDD",
+      "Domain-Driven Design"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-software-architect",
+      "roadmapsh-software-design-architecture"
+    ]
+  },
+  {
+    "canonical": "Performance vs Scalability",
+    "merged": [
+      "Latency numbers every programmer should know",
+      "Latency vs Throughput",
+      "Latency vs throughput",
+      "Performance vs Scalability",
+      "Performance vs scalability"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-system-design",
+      "system-design-primer",
+      "system"
+    ]
+  },
+  {
+    "canonical": "Availability Patterns",
+    "merged": [
+      "Availability Patterns",
+      "Availability in Numbers",
+      "Availability in numbers",
+      "Availability patterns"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-system-design",
+      "system-design-primer",
+      "system"
+    ]
+  },
+  {
+    "canonical": "Task Queues & Workers",
+    "merged": [
+      "Background Jobs",
+      "Task Queues",
+      "Task queues"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-system-design",
+      "system-design-primer",
+      "system"
+    ]
+  },
+  {
+    "canonical": "Horizontal Scaling",
+    "merged": [
+      "Horizontal Scaling",
+      "Horizontal scaling"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-system-design",
+      "system-design-primer",
+      "system"
+    ]
+  },
+  {
+    "canonical": "TCP & UDP",
+    "merged": [
+      "TCP",
+      "Transmission control protocol (TCP)",
+      "UDP",
+      "User datagram protocol (UDP)"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "roadmapsh-system-design",
+      "system-design-primer",
+      "system"
+    ]
+  },
+  {
+    "canonical": "Real-World Design Practice",
+    "merged": [
+      "Additional system design interview questions",
+      "Company architectures",
+      "Real world architectures"
+    ],
+    "reason": "same core concept across sources (alias + semantic match)",
+    "sources": [
+      "system-design-primer",
+      "system"
+    ]
+  }
+]

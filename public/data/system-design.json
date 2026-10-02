@@ -1,0 +1,2171 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2026-10-02T05:35:31.621Z",
+  "slug": "system-design",
+  "title": "System Design",
+  "subtitle": "Large-scale systems — foundations, building blocks, patterns, reliability",
+  "sourceNote": "Topic map structure discovered via roadmap.sh public API (discovery-only). Descriptions are original. See https://roadmap.sh/system-design",
+  "sourceUrl": "https://roadmap.sh/system-design",
+  "discoveryUrl": "https://roadmap.sh/api/v1-official-roadmap/system-design",
+  "stats": {
+    "nodes": 177,
+    "interactive": 160,
+    "edges": 41
+  },
+  "nodes": [
+    {
+      "id": "9_t9UR6FVSn41Ha8kfbyJ",
+      "kind": "section",
+      "label": "",
+      "x": -73,
+      "y": 3317,
+      "width": 277,
+      "height": 202,
+      "description": "",
+      "interactive": false
+    },
+    {
+      "id": "2dBw7KwXyXzZAZUSw0EAy",
+      "kind": "section",
+      "label": "",
+      "x": 198,
+      "y": 3046,
+      "width": 284,
+      "height": 474,
+      "description": "",
+      "interactive": false
+    },
+    {
+      "id": "yy2gnfWzDpMa1KChmfrgy",
+      "kind": "section",
+      "label": "",
+      "x": -72,
+      "y": 3046,
+      "width": 273,
+      "height": 255,
+      "description": "",
+      "interactive": false
+    },
+    {
+      "id": "IG4lMqEfFCgQyz3tyiGgk",
+      "kind": "section",
+      "label": "",
+      "x": -351,
+      "y": 3045,
+      "width": 283,
+      "height": 255,
+      "description": "",
+      "interactive": false
+    },
+    {
+      "id": "FT5tOhtkEXCcUj3xRKsVW",
+      "kind": "section",
+      "label": "",
+      "x": -341,
+      "y": 2276,
+      "width": 334,
+      "height": 628,
+      "description": "",
+      "interactive": false
+    },
+    {
+      "id": "UQKMEfR6t72oqk0qTfYi9",
+      "kind": "section",
+      "label": "",
+      "x": 19,
+      "y": 2365,
+      "width": 235,
+      "height": 461,
+      "description": "",
+      "interactive": false
+    },
+    {
+      "id": "HAkZP9cC1VtsnANNLNKn2",
+      "kind": "section",
+      "label": "",
+      "x": 250,
+      "y": 2363,
+      "width": 286,
+      "height": 568,
+      "description": "",
+      "interactive": false
+    },
+    {
+      "id": "O3b90NuLijJq9a-WuPXDs",
+      "kind": "section",
+      "label": "",
+      "x": -303,
+      "y": 1582,
+      "width": 214,
+      "height": 126,
+      "description": "",
+      "interactive": false
+    },
+    {
+      "id": "rLSI7a7h09MxAXM86LfpN",
+      "kind": "section",
+      "label": "",
+      "x": 503,
+      "y": 1482,
+      "width": 251,
+      "height": 331,
+      "description": "",
+      "interactive": false
+    },
+    {
+      "id": "vwomvb6mMBiKcd9jg7iWI",
+      "kind": "section",
+      "label": "",
+      "x": 503,
+      "y": 1221,
+      "width": 251,
+      "height": 270,
+      "description": "",
+      "interactive": false
+    },
+    {
+      "id": "Abp4pD1x7gM8zFInV-6SK",
+      "kind": "section",
+      "label": "",
+      "x": -302,
+      "y": 891,
+      "width": 209,
+      "height": 270,
+      "description": "",
+      "interactive": false
+    },
+    {
+      "id": "FWDXTm_Fu7E2X0r6L4xkf",
+      "kind": "section",
+      "label": "",
+      "x": -303,
+      "y": 1152,
+      "width": 209,
+      "height": 330,
+      "description": "",
+      "interactive": false
+    },
+    {
+      "id": "urVudVWogiwLJMybuf7f8",
+      "kind": "section",
+      "label": "",
+      "x": 429,
+      "y": 552,
+      "width": 328,
+      "height": 206,
+      "description": "",
+      "interactive": false
+    },
+    {
+      "id": "sM7epahS3ZKtTKcpC7aYw",
+      "kind": "section",
+      "label": "",
+      "x": -303,
+      "y": 500,
+      "width": 166,
+      "height": 146,
+      "description": "",
+      "interactive": false
+    },
+    {
+      "id": "MRD8SlWGmk8hoaZL6U690",
+      "kind": "section",
+      "label": "",
+      "x": -305,
+      "y": 260,
+      "width": 327,
+      "height": 163,
+      "description": "",
+      "interactive": false
+    },
+    {
+      "id": "iogwMmOvub2ZF4zgg6WyF",
+      "kind": "title",
+      "label": "System Design",
+      "x": 115,
+      "y": 73,
+      "width": 229,
+      "height": 68,
+      "description": "A structured System Design learning path. Work top-down: foundations first, then building blocks, then advanced patterns.",
+      "interactive": false
+    },
+    {
+      "id": "_hYN0gEi9BL24nptEtXWU",
+      "kind": "topic",
+      "label": "Introduction",
+      "x": 106,
+      "y": 214,
+      "width": 247,
+      "height": 49,
+      "description": "Core System Design topic: Introduction. Learn when to use it, what it costs, and how it fails.",
+      "interactive": true
+    },
+    {
+      "id": "idLHBxhvcIqZTqmh_E8Az",
+      "kind": "subtopic",
+      "label": "What is System Design?",
+      "x": 433,
+      "y": 188,
+      "width": 308,
+      "height": 49,
+      "description": "Study What is System Design? in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "os3Pa6W9SSNEzgmlBbglQ",
+      "kind": "subtopic",
+      "label": "How to approach System Design?",
+      "x": 433,
+      "y": 242,
+      "width": 308,
+      "height": 49,
+      "description": "Study How to approach System Design? in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "e_15lymUjFc6VWqzPnKxG",
+      "kind": "topic",
+      "label": "Performance vs Scalability",
+      "x": 106,
+      "y": 267,
+      "width": 247,
+      "height": 49,
+      "description": "Core System Design topic: Performance vs Scalability. Learn when to use it, what it costs, and how it fails.",
+      "interactive": true
+    },
+    {
+      "id": "O3wAHLnzrkvLWr4afHDdr",
+      "kind": "topic",
+      "label": "Latency vs Throughput",
+      "x": 106,
+      "y": 320,
+      "width": 247,
+      "height": 49,
+      "description": "Core System Design topic: Latency vs Throughput. Learn when to use it, what it costs, and how it fails.",
+      "interactive": true
+    },
+    {
+      "id": "uJc27BNAuP321HQNbjftn",
+      "kind": "topic",
+      "label": "Availability vs Consistency",
+      "x": 106,
+      "y": 373,
+      "width": 247,
+      "height": 49,
+      "description": "Core System Design topic: Availability vs Consistency. Learn when to use it, what it costs, and how it fails.",
+      "interactive": true
+    },
+    {
+      "id": "tcGdVQsCEobdV9hgOq3eG",
+      "kind": "subtopic",
+      "label": "CAP Theorem",
+      "x": -295,
+      "y": 363,
+      "width": 305,
+      "height": 49,
+      "description": "In a partitioned network you trade among consistency, availability, and partition tolerance—name the trade-off you are making.",
+      "interactive": true
+    },
+    {
+      "id": "m4xqKqnCvrCc13oO86z1h",
+      "kind": "label",
+      "label": "AP - Availability + Partition Tolerance",
+      "x": -295,
+      "y": 276,
+      "width": 295,
+      "height": 36,
+      "description": "Note under this section: AP - Availability + Partition Tolerance.",
+      "interactive": true
+    },
+    {
+      "id": "2b5j0CJbR1NahDu9VmB6F",
+      "kind": "label",
+      "label": "CP - Consistency + Partition Tolerance",
+      "x": -295,
+      "y": 317,
+      "width": 312,
+      "height": 36,
+      "description": "Note under this section: CP - Consistency + Partition Tolerance.",
+      "interactive": true
+    },
+    {
+      "id": "GHe8V-REu1loRpDnHbyUn",
+      "kind": "topic",
+      "label": "Consistency Patterns",
+      "x": 106,
+      "y": 426,
+      "width": 247,
+      "height": 49,
+      "description": "Core System Design topic: Consistency Patterns. Learn when to use it, what it costs, and how it fails.",
+      "interactive": true
+    },
+    {
+      "id": "EKD5AikZtwjtsEYRPJhQ2",
+      "kind": "subtopic",
+      "label": "Weak Consistency",
+      "x": 455,
+      "y": 374,
+      "width": 263,
+      "height": 49,
+      "description": "Study Weak Consistency in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "rRDGVynX43inSeQ9lR_FS",
+      "kind": "subtopic",
+      "label": "Eventual Consistency",
+      "x": 455,
+      "y": 427,
+      "width": 263,
+      "height": 49,
+      "description": "Study Eventual Consistency in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "JjB7eB8gdRCAYf5M0RcT7",
+      "kind": "subtopic",
+      "label": "Strong Consistency",
+      "x": 455,
+      "y": 481,
+      "width": 263,
+      "height": 49,
+      "description": "Study Strong Consistency in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "ezptoTqeaepByegxS5kHL",
+      "kind": "topic",
+      "label": "Availability Patterns",
+      "x": 106,
+      "y": 552,
+      "width": 247,
+      "height": 49,
+      "description": "Core System Design topic: Availability Patterns. Learn when to use it, what it costs, and how it fails.",
+      "interactive": true
+    },
+    {
+      "id": "L_jRfjvMGjFbHEbozeVQl",
+      "kind": "subtopic",
+      "label": "Fail-Over",
+      "x": -291,
+      "y": 583,
+      "width": 141,
+      "height": 49,
+      "description": "Study Fail-Over in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "d_Cg6Zjyf2HEs0l5cpX8P",
+      "kind": "label",
+      "label": "Active - Active",
+      "x": -282,
+      "y": 511,
+      "width": 123,
+      "height": 36,
+      "description": "Note under this section: Active - Active.",
+      "interactive": true
+    },
+    {
+      "id": "OUz9JOof4kkNAIsTzklS3",
+      "kind": "label",
+      "label": "Active - Passive",
+      "x": -288,
+      "y": 542,
+      "width": 135,
+      "height": 36,
+      "description": "Note under this section: Active - Passive.",
+      "interactive": true
+    },
+    {
+      "id": "vJkqOyqXGa-aRjx3M1H-K",
+      "kind": "section",
+      "label": "",
+      "x": -141,
+      "y": 500,
+      "width": 166,
+      "height": 146,
+      "description": "",
+      "interactive": false
+    },
+    {
+      "id": "0RQ5jzZKdadYY0h_QZ0Bb",
+      "kind": "subtopic",
+      "label": "Replication",
+      "x": -129,
+      "y": 583,
+      "width": 141,
+      "height": 49,
+      "description": "Study Replication in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "mKV71c9XnnRbgVlmwlsbw",
+      "kind": "label",
+      "label": "Master - Slave",
+      "x": -121,
+      "y": 511,
+      "width": 127,
+      "height": 36,
+      "description": "Note under this section: Master - Slave.",
+      "interactive": true
+    },
+    {
+      "id": "K8xJZfEGkwOFcqb7CRJ7f",
+      "kind": "label",
+      "label": "Master - Master",
+      "x": -128,
+      "y": 542,
+      "width": 140,
+      "height": 36,
+      "description": "Note under this section: Master - Master.",
+      "interactive": true
+    },
+    {
+      "id": "uHdrZllrZFAnVkwIB3y5-",
+      "kind": "subtopic",
+      "label": "Availability in Numbers",
+      "x": 441,
+      "y": 696,
+      "width": 304,
+      "height": 50,
+      "description": "Study Availability in Numbers in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "0mI68m25Zrhj6Uoc1om2B",
+      "kind": "label",
+      "label": "99.9% Availability - three 9s",
+      "x": 445,
+      "y": 572,
+      "width": 227,
+      "height": 36,
+      "description": "Note under this section: 99.9% Availability - three 9s.",
+      "interactive": true
+    },
+    {
+      "id": "rgadr3yf8Xq_1kCEJ0exf",
+      "kind": "label",
+      "label": "99.99% Availability - four 9s",
+      "x": 445,
+      "y": 611,
+      "width": 226,
+      "height": 36,
+      "description": "Note under this section: 99.99% Availability - four 9s.",
+      "interactive": true
+    },
+    {
+      "id": "XJrLBec_U4QXa7IOecFbL",
+      "kind": "label",
+      "label": "Availability in Parallel vs Sequence",
+      "x": 445,
+      "y": 651,
+      "width": 278,
+      "height": 36,
+      "description": "Note under this section: Availability in Parallel vs Sequence.",
+      "interactive": true
+    },
+    {
+      "id": "DOESIlBThd_wp2uOSd_CS",
+      "kind": "topic",
+      "label": "Background Jobs",
+      "x": -38,
+      "y": 709,
+      "width": 219,
+      "height": 49,
+      "description": "Core System Design topic: Background Jobs. Learn when to use it, what it costs, and how it fails.",
+      "interactive": true
+    },
+    {
+      "id": "NEsPjQifNDlZJE-2YLVl1",
+      "kind": "subtopic",
+      "label": "Event-Driven",
+      "x": -301,
+      "y": 683,
+      "width": 187,
+      "height": 49,
+      "description": "Study Event-Driven in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "zoViI4kzpKIxpU20T89K_",
+      "kind": "subtopic",
+      "label": "Schedule Driven",
+      "x": -301,
+      "y": 736,
+      "width": 187,
+      "height": 49,
+      "description": "Study Schedule Driven in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "2gRIstNT-fTkv5GZ692gx",
+      "kind": "subtopic",
+      "label": "Returning Results",
+      "x": -301,
+      "y": 809,
+      "width": 187,
+      "height": 49,
+      "description": "Study Returning Results in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "Uk6J8JRcKVEFz4_8rLfnQ",
+      "kind": "topic",
+      "label": "Domain Name System",
+      "x": -38,
+      "y": 809,
+      "width": 219,
+      "height": 49,
+      "description": "Core System Design topic: Domain Name System. Learn when to use it, what it costs, and how it fails.",
+      "interactive": true
+    },
+    {
+      "id": "O730v5Ww3ByAiBSs6fwyM",
+      "kind": "topic",
+      "label": "Content Delivery Networks",
+      "x": 239,
+      "y": 809,
+      "width": 262,
+      "height": 49,
+      "description": "Core System Design topic: Content Delivery Networks. Learn when to use it, what it costs, and how it fails.",
+      "interactive": true
+    },
+    {
+      "id": "uIerrf_oziiLg-KEyz8WM",
+      "kind": "subtopic",
+      "label": "Push CDNs",
+      "x": 572,
+      "y": 838,
+      "width": 183,
+      "height": 49,
+      "description": "Push or pull edge caches to cut latency for static and semi-static content close to users.",
+      "interactive": true
+    },
+    {
+      "id": "HkXiEMLqxJoQyAHav3ccL",
+      "kind": "subtopic",
+      "label": "Pull CDNs",
+      "x": 572,
+      "y": 785,
+      "width": 183,
+      "height": 49,
+      "description": "Push or pull edge caches to cut latency for static and semi-static content close to users.",
+      "interactive": true
+    },
+    {
+      "id": "14KqLKgh090Rb3MDwelWY",
+      "kind": "topic",
+      "label": "Load Balancers",
+      "x": 239,
+      "y": 1029,
+      "width": 167,
+      "height": 49,
+      "description": "Distribute traffic across instances. Know L4 vs L7, algorithms, and how balancing differs from reverse proxies.",
+      "interactive": true
+    },
+    {
+      "id": "ocdcbhHrwjJX0KWgmsOL6",
+      "kind": "subtopic",
+      "label": "LB vs Reverse Proxy",
+      "x": 502,
+      "y": 923,
+      "width": 251,
+      "height": 49,
+      "description": "Study LB vs Reverse Proxy in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "urSjLyLTE5IIz0TFxMBWL",
+      "kind": "subtopic",
+      "label": "Load Balancing Algorithms",
+      "x": 502,
+      "y": 976,
+      "width": 251,
+      "height": 49,
+      "description": "Distribute traffic across instances. Know L4 vs L7, algorithms, and how balancing differs from reverse proxies.",
+      "interactive": true
+    },
+    {
+      "id": "e69-JVbDj7dqV_p1j1kML",
+      "kind": "subtopic",
+      "label": "Layer 7 Load Balancing",
+      "x": 502,
+      "y": 1029,
+      "width": 251,
+      "height": 49,
+      "description": "Distribute traffic across instances. Know L4 vs L7, algorithms, and how balancing differs from reverse proxies.",
+      "interactive": true
+    },
+    {
+      "id": "MpM9rT1-_LGD7YbnBjqOk",
+      "kind": "subtopic",
+      "label": "Layer 4 Load Balancing",
+      "x": 502,
+      "y": 1082,
+      "width": 251,
+      "height": 49,
+      "description": "Distribute traffic across instances. Know L4 vs L7, algorithms, and how balancing differs from reverse proxies.",
+      "interactive": true
+    },
+    {
+      "id": "IkUCfSWNY-02wg2WCo1c6",
+      "kind": "subtopic",
+      "label": "Horizontal Scaling",
+      "x": 502,
+      "y": 1135,
+      "width": 251,
+      "height": 49,
+      "description": "Study Horizontal Scaling in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "XXuzTrP5UNVwSpAk-tAGr",
+      "kind": "topic",
+      "label": "Application Layer",
+      "x": -38,
+      "y": 1029,
+      "width": 184,
+      "height": 49,
+      "description": "Core System Design topic: Application Layer. Learn when to use it, what it costs, and how it fails.",
+      "interactive": true
+    },
+    {
+      "id": "UKTiaHCzYXnrNw31lHriv",
+      "kind": "subtopic",
+      "label": "Microservices",
+      "x": -38,
+      "y": 890,
+      "width": 184,
+      "height": 49,
+      "description": "Study Microservices in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "Nt0HUWLOl4O77elF8Is1S",
+      "kind": "subtopic",
+      "label": "Service Discovery",
+      "x": -38,
+      "y": 943,
+      "width": 184,
+      "height": 49,
+      "description": "Study Service Discovery in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "5FXwwRMNBhG7LT5ub6t2L",
+      "kind": "topic",
+      "label": "Databases",
+      "x": -38,
+      "y": 1129,
+      "width": 184,
+      "height": 49,
+      "description": "Pick storage for your access patterns—consistency, query shape, and operational cost.",
+      "interactive": true
+    },
+    {
+      "id": "KLnpMR2FxlQkCHZP6-tZm",
+      "kind": "subtopic",
+      "label": "SQL vs NoSQL",
+      "x": -38,
+      "y": 1222,
+      "width": 184,
+      "height": 49,
+      "description": "Pick storage for your access patterns—consistency, query shape, and operational cost.",
+      "interactive": true
+    },
+    {
+      "id": "dc-aIbBwUdlwgwQKGrq49",
+      "kind": "subtopic",
+      "label": "Replication",
+      "x": -295,
+      "y": 1166,
+      "width": 193,
+      "height": 49,
+      "description": "Study Replication in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "FX6dcV_93zOfbZMdM_-li",
+      "kind": "subtopic",
+      "label": "Sharding",
+      "x": -295,
+      "y": 1219,
+      "width": 193,
+      "height": 49,
+      "description": "Study Sharding in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "DGmVRI7oWdSOeIUn_g0rI",
+      "kind": "subtopic",
+      "label": "Federation",
+      "x": -295,
+      "y": 1272,
+      "width": 193,
+      "height": 49,
+      "description": "Study Federation in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "Zp9D4--DgtlAjE2nIfaO_",
+      "kind": "subtopic",
+      "label": "Denormalization",
+      "x": -295,
+      "y": 1325,
+      "width": 193,
+      "height": 49,
+      "description": "Study Denormalization in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "fY8zgbB13wxZ1CFtMSdZZ",
+      "kind": "subtopic",
+      "label": "SQL Tuning",
+      "x": -295,
+      "y": 1378,
+      "width": 193,
+      "height": 49,
+      "description": "Pick storage for your access patterns—consistency, query shape, and operational cost.",
+      "interactive": true
+    },
+    {
+      "id": "uyrV_iIIQQvEDSUM9gt7H",
+      "kind": "label",
+      "label": "RDBMS",
+      "x": -239,
+      "y": 1438,
+      "width": 78,
+      "height": 36,
+      "description": "Note under this section: RDBMS.",
+      "interactive": true
+    },
+    {
+      "id": "KFtdmmce4bRkDyvFXZzLN",
+      "kind": "subtopic",
+      "label": "Key-Value Store",
+      "x": -294,
+      "y": 899,
+      "width": 193,
+      "height": 49,
+      "description": "Study Key-Value Store in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "didEznSlVHqqlijtyOSr3",
+      "kind": "subtopic",
+      "label": "Document Store",
+      "x": -294,
+      "y": 952,
+      "width": 193,
+      "height": 49,
+      "description": "Study Document Store in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "WHq1AdISkcgthaugE9uY7",
+      "kind": "subtopic",
+      "label": "Wide Column Store",
+      "x": -294,
+      "y": 1005,
+      "width": 193,
+      "height": 49,
+      "description": "Study Wide Column Store in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "6RLgnL8qLBzYkllHeaI-Z",
+      "kind": "subtopic",
+      "label": "Graph Databases",
+      "x": -294,
+      "y": 1058,
+      "width": 193,
+      "height": 49,
+      "description": "Pick storage for your access patterns—consistency, query shape, and operational cost.",
+      "interactive": true
+    },
+    {
+      "id": "de-uXrRy3XDwZbLyXXluK",
+      "kind": "label",
+      "label": "NoSQL",
+      "x": -234,
+      "y": 1115,
+      "width": 73,
+      "height": 36,
+      "description": "Pick storage for your access patterns—consistency, query shape, and operational cost.",
+      "interactive": true
+    },
+    {
+      "id": "-X4g8kljgVBOBcf1DDzgi",
+      "kind": "topic",
+      "label": "Caching",
+      "x": 239,
+      "y": 1261,
+      "width": 167,
+      "height": 49,
+      "description": "Core System Design topic: Caching. Learn when to use it, what it costs, and how it fails.",
+      "interactive": true
+    },
+    {
+      "id": "Bgqgl67FK56ioLNFivIsc",
+      "kind": "subtopic",
+      "label": "Refresh Ahead",
+      "x": 512,
+      "y": 1230,
+      "width": 232,
+      "height": 49,
+      "description": "Study Refresh Ahead in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "vNndJ-MWetcbaF2d-3-JP",
+      "kind": "subtopic",
+      "label": "Write-behind",
+      "x": 512,
+      "y": 1283,
+      "width": 232,
+      "height": 49,
+      "description": "Study Write-behind in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "RNITLR1FUQWkRbSBXTD_z",
+      "kind": "subtopic",
+      "label": "Write-through",
+      "x": 512,
+      "y": 1336,
+      "width": 232,
+      "height": 49,
+      "description": "Study Write-through in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "bffJlvoLHFldS0CluWifP",
+      "kind": "subtopic",
+      "label": "Cache Aside",
+      "x": 512,
+      "y": 1389,
+      "width": 232,
+      "height": 49,
+      "description": "Reduce load and latency with the right placement and write strategy.",
+      "interactive": true
+    },
+    {
+      "id": "AUCyMMaN7s2OnCEMo2-Or",
+      "kind": "label",
+      "label": "Strategies",
+      "x": 581,
+      "y": 1448,
+      "width": 95,
+      "height": 36,
+      "description": "Note under this section: Strategies.",
+      "interactive": true
+    },
+    {
+      "id": "RHNRb6QWiGvCK3KQOPK3u",
+      "kind": "subtopic",
+      "label": "Client Caching",
+      "x": 515,
+      "y": 1497,
+      "width": 227,
+      "height": 49,
+      "description": "Study Client Caching in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "Kisvxlrjb7XnKFCOdxRtb",
+      "kind": "subtopic",
+      "label": "CDN Caching",
+      "x": 515,
+      "y": 1550,
+      "width": 227,
+      "height": 49,
+      "description": "Push or pull edge caches to cut latency for static and semi-static content close to users.",
+      "interactive": true
+    },
+    {
+      "id": "o532nPnL-d2vXJn9k6vMl",
+      "kind": "subtopic",
+      "label": "Web Server Caching",
+      "x": 515,
+      "y": 1603,
+      "width": 227,
+      "height": 49,
+      "description": "Study Web Server Caching in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "BeIg4jzbij2cwc_a_VpYG",
+      "kind": "subtopic",
+      "label": "Database Caching",
+      "x": 515,
+      "y": 1656,
+      "width": 227,
+      "height": 49,
+      "description": "Pick storage for your access patterns—consistency, query shape, and operational cost.",
+      "interactive": true
+    },
+    {
+      "id": "5Ux_JBDOkflCaIm4tVBgO",
+      "kind": "subtopic",
+      "label": "Application Caching",
+      "x": 515,
+      "y": 1709,
+      "width": 227,
+      "height": 49,
+      "description": "Study Application Caching in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "84N4XY31PwXRntXX1sdCU",
+      "kind": "topic",
+      "label": "Asynchronism",
+      "x": 239,
+      "y": 1378,
+      "width": 167,
+      "height": 49,
+      "description": "Core System Design topic: Asynchronism. Learn when to use it, what it costs, and how it fails.",
+      "interactive": true
+    },
+    {
+      "id": "YiYRZFE_zwPMiCZxz9FnP",
+      "kind": "subtopic",
+      "label": "Back Pressure",
+      "x": -40,
+      "y": 1325,
+      "width": 190,
+      "height": 49,
+      "description": "Study Back Pressure in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "a9wGW_H1HpvvdYCXoS-Rf",
+      "kind": "subtopic",
+      "label": "Task Queues",
+      "x": -40,
+      "y": 1378,
+      "width": 190,
+      "height": 49,
+      "description": "Study Task Queues in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "37X1_9eCmkZkz5RDudE5N",
+      "kind": "subtopic",
+      "label": "Message Queues",
+      "x": -40,
+      "y": 1431,
+      "width": 190,
+      "height": 49,
+      "description": "Study Message Queues in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "8FbjRx2vPtjeayul0aczD",
+      "kind": "label",
+      "label": "Types of Caching",
+      "x": 554,
+      "y": 1769,
+      "width": 149,
+      "height": 36,
+      "description": "Note under this section: Types of Caching.",
+      "interactive": true
+    },
+    {
+      "id": "3pRi8M4xQXsehkdfUNtYL",
+      "kind": "topic",
+      "label": "Idempotent Operations",
+      "x": 239,
+      "y": 1526,
+      "width": 226,
+      "height": 49,
+      "description": "Core System Design topic: Idempotent Operations. Learn when to use it, what it costs, and how it fails.",
+      "interactive": true
+    },
+    {
+      "id": "uQFzD_ryd-8Dr1ppjorYJ",
+      "kind": "topic",
+      "label": "Communication",
+      "x": 11,
+      "y": 1526,
+      "width": 155,
+      "height": 49,
+      "description": "Core System Design topic: Communication. Learn when to use it, what it costs, and how it fails.",
+      "interactive": true
+    },
+    {
+      "id": "I_nR6EwjNXSG7_hw-_VhX",
+      "kind": "subtopic",
+      "label": "HTTP",
+      "x": -302,
+      "y": 1526,
+      "width": 76,
+      "height": 49,
+      "description": "Study HTTP in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "2nF5uC6fYKbf0RFgGNHiP",
+      "kind": "subtopic",
+      "label": "TCP",
+      "x": -224,
+      "y": 1526,
+      "width": 66,
+      "height": 49,
+      "description": "Study TCP in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "LC5aTmUKNiw9RuSUt3fSE",
+      "kind": "subtopic",
+      "label": "UDP",
+      "x": -155,
+      "y": 1526,
+      "width": 66,
+      "height": 49,
+      "description": "Study UDP in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "ixqucoAkgnphWYAFnsMe-",
+      "kind": "subtopic",
+      "label": "RPC",
+      "x": -294,
+      "y": 1592,
+      "width": 86,
+      "height": 49,
+      "description": "Study RPC in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "6-bgmfDTAQ9zABhpmVoHV",
+      "kind": "subtopic",
+      "label": "REST",
+      "x": -294,
+      "y": 1645,
+      "width": 86,
+      "height": 49,
+      "description": "Design clear contracts, handle errors, and keep services operable under real traffic.",
+      "interactive": true
+    },
+    {
+      "id": "Hw2v1rCYn24qxBhhmdc28",
+      "kind": "subtopic",
+      "label": "gRPC",
+      "x": -204,
+      "y": 1594,
+      "width": 101,
+      "height": 49,
+      "description": "Design clear contracts, handle errors, and keep services operable under real traffic.",
+      "interactive": true
+    },
+    {
+      "id": "jwv2g2Yeq-6Xv5zSd746R",
+      "kind": "subtopic",
+      "label": "GraphQL",
+      "x": -204,
+      "y": 1646,
+      "width": 101,
+      "height": 49,
+      "description": "Design clear contracts, handle errors, and keep services operable under real traffic.",
+      "interactive": true
+    },
+    {
+      "id": "p--uEm6klLx_hKxKJiXE5",
+      "kind": "topic",
+      "label": "Performance Antipatterns",
+      "x": -32,
+      "y": 1660,
+      "width": 243,
+      "height": 49,
+      "description": "Core System Design topic: Performance Antipatterns. Learn when to use it, what it costs, and how it fails.",
+      "interactive": true
+    },
+    {
+      "id": "hxiV2uF7tvhZKe4K-4fTn",
+      "kind": "subtopic",
+      "label": "Busy Database",
+      "x": 96,
+      "y": 1739,
+      "width": 176,
+      "height": 49,
+      "description": "Pick storage for your access patterns—consistency, query shape, and operational cost.",
+      "interactive": true
+    },
+    {
+      "id": "i_2M3VloG-xTgWDWp4ngt",
+      "kind": "subtopic",
+      "label": "Busy Frontend",
+      "x": 96,
+      "y": 1792,
+      "width": 176,
+      "height": 49,
+      "description": "Ship usable UI: structure, state, accessibility, and performance matter as much as the framework.",
+      "interactive": true
+    },
+    {
+      "id": "0IzQwuYi_E00bJwxDuw2B",
+      "kind": "subtopic",
+      "label": "Chatty I/O",
+      "x": 96,
+      "y": 1845,
+      "width": 176,
+      "height": 49,
+      "description": "Study Chatty I/O in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "6u3XmtJFWyJnyZUnJcGYb",
+      "kind": "subtopic",
+      "label": "Extraneous Fetching",
+      "x": -151,
+      "y": 1952,
+      "width": 243,
+      "height": 49,
+      "description": "Study Extraneous Fetching in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "lwMs4yiUHF3nQwcvauers",
+      "kind": "subtopic",
+      "label": "Improper Instantiation",
+      "x": -151,
+      "y": 1740,
+      "width": 243,
+      "height": 49,
+      "description": "Study Improper Instantiation in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "p1QhCptnwzTGUXVMnz_Oz",
+      "kind": "subtopic",
+      "label": "Monolithic Persistence",
+      "x": -151,
+      "y": 1793,
+      "width": 243,
+      "height": 49,
+      "description": "Study Monolithic Persistence in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "klvHk1_e03Jarn5T46QNi",
+      "kind": "subtopic",
+      "label": "No Caching",
+      "x": 96,
+      "y": 1951,
+      "width": 176,
+      "height": 49,
+      "description": "Study No Caching in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "r7uQxmurvfsYtTCieHqly",
+      "kind": "subtopic",
+      "label": "Noisy Neighbor",
+      "x": -151,
+      "y": 1846,
+      "width": 243,
+      "height": 49,
+      "description": "Study Noisy Neighbor in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "LNmAJmh2ndFtOQIpvX_ga",
+      "kind": "subtopic",
+      "label": "Retry Storm",
+      "x": 96,
+      "y": 1898,
+      "width": 176,
+      "height": 49,
+      "description": "Study Retry Storm in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "Ihnmxo_bVgZABDwg1QGGk",
+      "kind": "subtopic",
+      "label": "Synchronous I/O",
+      "x": -151,
+      "y": 1899,
+      "width": 243,
+      "height": 49,
+      "description": "Study Synchronous I/O in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "hDFYlGFYwcwWXLmrxodFX",
+      "kind": "topic",
+      "label": "Monitoring",
+      "x": 279,
+      "y": 2043,
+      "width": 146,
+      "height": 49,
+      "description": "Measure health, latency, errors, and saturation. Alerts should be actionable.",
+      "interactive": true
+    },
+    {
+      "id": "hkjYvLoVt9xKDzubm0Jy3",
+      "kind": "subtopic",
+      "label": "Health Monitoring",
+      "x": 522,
+      "y": 1884,
+      "width": 232,
+      "height": 49,
+      "description": "Measure health, latency, errors, and saturation. Alerts should be actionable.",
+      "interactive": true
+    },
+    {
+      "id": "rVrwaioGURvrqNBufF2dj",
+      "kind": "subtopic",
+      "label": "Availability Monitoring",
+      "x": 522,
+      "y": 1937,
+      "width": 232,
+      "height": 49,
+      "description": "Measure health, latency, errors, and saturation. Alerts should be actionable.",
+      "interactive": true
+    },
+    {
+      "id": "x1i3qWFtNNjd00-kAvFHw",
+      "kind": "subtopic",
+      "label": "Performance Monitoring",
+      "x": 522,
+      "y": 1990,
+      "width": 232,
+      "height": 49,
+      "description": "Measure health, latency, errors, and saturation. Alerts should be actionable.",
+      "interactive": true
+    },
+    {
+      "id": "I_NfmDcBph8-oyFVFTknL",
+      "kind": "subtopic",
+      "label": "Security Monitoring",
+      "x": 522,
+      "y": 2043,
+      "width": 232,
+      "height": 49,
+      "description": "Authenticate users, authorize actions, and protect data in transit and at rest.",
+      "interactive": true
+    },
+    {
+      "id": "eSZq74lROh5lllLyTBK5a",
+      "kind": "subtopic",
+      "label": "Usage Monitoring",
+      "x": 522,
+      "y": 2096,
+      "width": 232,
+      "height": 49,
+      "description": "Measure health, latency, errors, and saturation. Alerts should be actionable.",
+      "interactive": true
+    },
+    {
+      "id": "Q0fKphqmPwjTD0dhqiP6K",
+      "kind": "subtopic",
+      "label": "Instrumentation",
+      "x": 522,
+      "y": 2149,
+      "width": 232,
+      "height": 49,
+      "description": "Study Instrumentation in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "IwMOTpsYHApdvHZOhXtIw",
+      "kind": "subtopic",
+      "label": "Visualization & Alerts",
+      "x": 522,
+      "y": 2202,
+      "width": 232,
+      "height": 49,
+      "description": "Study Visualization & Alerts in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "THlzcZTNnPGLRiHPWT-Jv",
+      "kind": "topic",
+      "label": "Cloud Design Patterns",
+      "x": 139,
+      "y": 2251,
+      "width": 286,
+      "height": 49,
+      "description": "Core System Design topic: Cloud Design Patterns. Learn when to use it, what it costs, and how it fails.",
+      "interactive": true
+    },
+    {
+      "id": "dsWpta3WIBvv2K9pNVPo0",
+      "kind": "topic",
+      "label": "Messaging",
+      "x": 250,
+      "y": 2339,
+      "width": 286,
+      "height": 49,
+      "description": "Core System Design topic: Messaging. Learn when to use it, what it costs, and how it fails.",
+      "interactive": true
+    },
+    {
+      "id": "VgvUWAC6JYFyPZKBRoEqf",
+      "kind": "subtopic",
+      "label": "Sequential Convoy",
+      "x": 261,
+      "y": 2396,
+      "width": 267,
+      "height": 49,
+      "description": "Study Sequential Convoy in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "uR1fU6pm7zTtdBcNgSRi4",
+      "kind": "subtopic",
+      "label": "Scheduling Agent Supervisor",
+      "x": 261,
+      "y": 2449,
+      "width": 267,
+      "height": 49,
+      "description": "Study Scheduling Agent Supervisor in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "LncTxPg-wx8loy55r5NmV",
+      "kind": "subtopic",
+      "label": "Queue-Based Load Leveling",
+      "x": 261,
+      "y": 2502,
+      "width": 267,
+      "height": 49,
+      "description": "Study Queue-Based Load Leveling in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "2ryzJhRDTo98gGgn9mAxR",
+      "kind": "subtopic",
+      "label": "Publisher/Subscriber",
+      "x": 261,
+      "y": 2555,
+      "width": 267,
+      "height": 49,
+      "description": "Study Publisher/Subscriber in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "DZcZEOi7h3u0744YhASet",
+      "kind": "subtopic",
+      "label": "Priority Queue",
+      "x": 261,
+      "y": 2608,
+      "width": 267,
+      "height": 49,
+      "description": "Study Priority Queue in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "siXdR3TB9-4wx_qWieJ5w",
+      "kind": "subtopic",
+      "label": "Pipes and Filters",
+      "x": 261,
+      "y": 2661,
+      "width": 267,
+      "height": 49,
+      "description": "Study Pipes and Filters in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "9Ld07KLOqP0ICtXEjngYM",
+      "kind": "subtopic",
+      "label": "Competing Consumers",
+      "x": 261,
+      "y": 2714,
+      "width": 267,
+      "height": 49,
+      "description": "Study Competing Consumers in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "aCzRgUkVBvtHUeLU6p5ZH",
+      "kind": "subtopic",
+      "label": "Choreography",
+      "x": 261,
+      "y": 2767,
+      "width": 267,
+      "height": 49,
+      "description": "Study Choreography in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "kl4upCnnZvJSf2uII1Pa0",
+      "kind": "subtopic",
+      "label": "Claim Check",
+      "x": 261,
+      "y": 2820,
+      "width": 267,
+      "height": 49,
+      "description": "Study Claim Check in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "eNFNXPsFiryVxFe4unVxk",
+      "kind": "subtopic",
+      "label": "Async Request Reply",
+      "x": 262,
+      "y": 2873,
+      "width": 266,
+      "height": 49,
+      "description": "Study Async Request Reply in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "W0cUCrhiwH_Nrzxw50x3L",
+      "kind": "topic",
+      "label": "Data Management",
+      "x": 19,
+      "y": 2339,
+      "width": 235,
+      "height": 49,
+      "description": "Core System Design topic: Data Management. Learn when to use it, what it costs, and how it fails.",
+      "interactive": true
+    },
+    {
+      "id": "stZOcr8EUBOK_ZB48uToj",
+      "kind": "subtopic",
+      "label": "Valet Key",
+      "x": 27,
+      "y": 2397,
+      "width": 219,
+      "height": 49,
+      "description": "Study Valet Key in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "-lKq-LT7EPK7r3xbXLgwS",
+      "kind": "subtopic",
+      "label": "Static Content Hosting",
+      "x": 27,
+      "y": 2450,
+      "width": 219,
+      "height": 49,
+      "description": "Study Static Content Hosting in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "R6YehzA3X6DDo6oGBoBAx",
+      "kind": "subtopic",
+      "label": "Sharding",
+      "x": 27,
+      "y": 2503,
+      "width": 219,
+      "height": 49,
+      "description": "Study Sharding in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "WB7vQ4IJ0TPh2MbZvxP6V",
+      "kind": "subtopic",
+      "label": "Materialized View",
+      "x": 27,
+      "y": 2556,
+      "width": 219,
+      "height": 49,
+      "description": "Study Materialized View in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "AH0nVeVsfYOjcI3vZvcdz",
+      "kind": "subtopic",
+      "label": "Index Table",
+      "x": 27,
+      "y": 2609,
+      "width": 219,
+      "height": 49,
+      "description": "Study Index Table in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "7OgRKlwFqrk3XO2z49EI1",
+      "kind": "subtopic",
+      "label": "Event Sourcing",
+      "x": 27,
+      "y": 2662,
+      "width": 219,
+      "height": 49,
+      "description": "Study Event Sourcing in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "LTD3dn05c0ruUJW0IQO7z",
+      "kind": "subtopic",
+      "label": "CQRS",
+      "x": 27,
+      "y": 2715,
+      "width": 219,
+      "height": 49,
+      "description": "Study CQRS in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "PK4V9OWNVi8StdA2N13X2",
+      "kind": "subtopic",
+      "label": "Cache-Aside",
+      "x": 27,
+      "y": 2768,
+      "width": 219,
+      "height": 49,
+      "description": "Reduce load and latency with the right placement and write strategy.",
+      "interactive": true
+    },
+    {
+      "id": "PtJ7-v1VCLsyaWWYHYujV",
+      "kind": "topic",
+      "label": "Design & Implementation",
+      "x": -342,
+      "y": 2251,
+      "width": 335,
+      "height": 49,
+      "description": "Core System Design topic: Design & Implementation. Learn when to use it, what it costs, and how it fails.",
+      "interactive": true
+    },
+    {
+      "id": "VIbXf7Jh9PbQ9L-g6pHUG",
+      "kind": "subtopic",
+      "label": "Strangler Fig",
+      "x": -334,
+      "y": 2308,
+      "width": 168,
+      "height": 49,
+      "description": "Study Strangler Fig in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "izPT8NfJy1JC6h3i7GJYl",
+      "kind": "subtopic",
+      "label": "Static Content Hosting",
+      "x": -334,
+      "y": 2361,
+      "width": 319,
+      "height": 49,
+      "description": "Study Static Content Hosting in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "AAgOGrra5Yz3_eG6tD2Fx",
+      "kind": "subtopic",
+      "label": "Sidecar",
+      "x": -162,
+      "y": 2308,
+      "width": 147,
+      "height": 49,
+      "description": "Study Sidecar in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "WkoFezOXLf1H2XI9AtBtv",
+      "kind": "subtopic",
+      "label": "Pipes & Filters",
+      "x": -334,
+      "y": 2469,
+      "width": 169,
+      "height": 49,
+      "description": "Study Pipes & Filters in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "beWKUIB6Za27yhxQwEYe3",
+      "kind": "subtopic",
+      "label": "Leader Election",
+      "x": -334,
+      "y": 2414,
+      "width": 169,
+      "height": 49,
+      "description": "Study Leader Election in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "LXH_mDlILqcyIKtMYTWqy",
+      "kind": "subtopic",
+      "label": "Gateway Routing",
+      "x": -334,
+      "y": 2523,
+      "width": 319,
+      "height": 49,
+      "description": "Study Gateway Routing in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "0SOWAA8hrLM-WsG5k66fd",
+      "kind": "subtopic",
+      "label": "Gateway Offloading",
+      "x": -334,
+      "y": 2576,
+      "width": 319,
+      "height": 49,
+      "description": "Study Gateway Offloading in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "bANGLm_5zR9mqMd6Oox8s",
+      "kind": "subtopic",
+      "label": "Gateway Aggregation",
+      "x": -334,
+      "y": 2629,
+      "width": 319,
+      "height": 49,
+      "description": "Study Gateway Aggregation in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "BrgXwf7g2F-6Rqfjryvpj",
+      "kind": "subtopic",
+      "label": "External Config Store",
+      "x": -334,
+      "y": 2682,
+      "width": 319,
+      "height": 49,
+      "description": "Study External Config Store in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "ODjVoXnvJasPvCS2A5iMO",
+      "kind": "subtopic",
+      "label": "Compute Resource Consolidation",
+      "x": -334,
+      "y": 2735,
+      "width": 319,
+      "height": 49,
+      "description": "Study Compute Resource Consolidation in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "ivr3mh0OES5n86FI1PN4N",
+      "kind": "subtopic",
+      "label": "CQRS",
+      "x": -161,
+      "y": 2414,
+      "width": 144,
+      "height": 49,
+      "description": "Study CQRS in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "n4It-lr7FFtSY83DcGydX",
+      "kind": "subtopic",
+      "label": "Backends for Frontend",
+      "x": -334,
+      "y": 2788,
+      "width": 319,
+      "height": 49,
+      "description": "Ship usable UI: structure, state, accessibility, and performance matter as much as the framework.",
+      "interactive": true
+    },
+    {
+      "id": "4hi7LvjLcv8eR6m-uk8XQ",
+      "kind": "subtopic",
+      "label": "Anti-Corruption Layer",
+      "x": -334,
+      "y": 2841,
+      "width": 319,
+      "height": 49,
+      "description": "Study Anti-Corruption Layer in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "Hja4YF3JcgM6CPwB1mxmo",
+      "kind": "subtopic",
+      "label": "Ambassador",
+      "x": -161,
+      "y": 2469,
+      "width": 144,
+      "height": 49,
+      "description": "Study Ambassador in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "DYkdM_L7T2GcTPAoZNnUR",
+      "kind": "topic",
+      "label": "Reliability Patterns",
+      "x": 527,
+      "y": 2958,
+      "width": 187,
+      "height": 49,
+      "description": "Core System Design topic: Reliability Patterns. Learn when to use it, what it costs, and how it fails.",
+      "interactive": true
+    },
+    {
+      "id": "Xzkvf4naveszLGV9b-8ih",
+      "kind": "topic",
+      "label": "Availability",
+      "x": -352,
+      "y": 3020,
+      "width": 284,
+      "height": 49,
+      "description": "Core System Design topic: Availability. Learn when to use it, what it costs, and how it fails.",
+      "interactive": true
+    },
+    {
+      "id": "FPPJw-I1cw8OxKwmDh0dT",
+      "kind": "subtopic",
+      "label": "Deployment Stamps",
+      "x": -344,
+      "y": 3077,
+      "width": 266,
+      "height": 49,
+      "description": "Study Deployment Stamps in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "Ml9lPDGjRAJTHkBnX51Un",
+      "kind": "subtopic",
+      "label": "Geodes",
+      "x": -344,
+      "y": 3130,
+      "width": 111,
+      "height": 49,
+      "description": "Study Geodes in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "cNJQoMNZmxNygWAJIA8HI",
+      "kind": "subtopic",
+      "label": "Health Endpoint Monitoring",
+      "x": -344,
+      "y": 3183,
+      "width": 266,
+      "height": 49,
+      "description": "Measure health, latency, errors, and saturation. Alerts should be actionable.",
+      "interactive": true
+    },
+    {
+      "id": "-M3Zd8w79sKBAY6_aJRE8",
+      "kind": "subtopic",
+      "label": "Queue-Based Load Leveling",
+      "x": -344,
+      "y": 3236,
+      "width": 266,
+      "height": 49,
+      "description": "Study Queue-Based Load Leveling in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "6YVkguDOtwveyeP4Z1NL3",
+      "kind": "subtopic",
+      "label": "Throttling",
+      "x": -227,
+      "y": 3130,
+      "width": 151,
+      "height": 50,
+      "description": "Study Throttling in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "wPe7Xlwqws7tEpTAVvYjr",
+      "kind": "topic",
+      "label": "High Availability",
+      "x": -72,
+      "y": 3021,
+      "width": 273,
+      "height": 49,
+      "description": "Core System Design topic: High Availability. Learn when to use it, what it costs, and how it fails.",
+      "interactive": true
+    },
+    {
+      "id": "Ze471tPbAwlwZyU4oIzH9",
+      "kind": "subtopic",
+      "label": "Deployment Stamps",
+      "x": -64,
+      "y": 3078,
+      "width": 257,
+      "height": 49,
+      "description": "Study Deployment Stamps in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "6hOSEZJZ7yezVN67h5gmS",
+      "kind": "subtopic",
+      "label": "Geodes",
+      "x": -64,
+      "y": 3131,
+      "width": 124,
+      "height": 49,
+      "description": "Study Geodes in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "uK5o7NgDvr2pV0ulF0Fh9",
+      "kind": "subtopic",
+      "label": "Health Endpoint Monitoring",
+      "x": -64,
+      "y": 3184,
+      "width": 257,
+      "height": 49,
+      "description": "Measure health, latency, errors, and saturation. Alerts should be actionable.",
+      "interactive": true
+    },
+    {
+      "id": "IR2_kgs2U9rnAJiDBmpqK",
+      "kind": "subtopic",
+      "label": "Bulkhead",
+      "x": 64,
+      "y": 3131,
+      "width": 129,
+      "height": 49,
+      "description": "Study Bulkhead in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "D1OmCoqvd3-_af3u0ciHr",
+      "kind": "subtopic",
+      "label": "Circuit Breaker",
+      "x": -64,
+      "y": 3235,
+      "width": 257,
+      "height": 49,
+      "description": "Study Circuit Breaker in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "wlAWMjxZF6yav3ZXOScxH",
+      "kind": "topic",
+      "label": "Resiliency",
+      "x": 198,
+      "y": 3021,
+      "width": 284,
+      "height": 49,
+      "description": "Core System Design topic: Resiliency. Learn when to use it, what it costs, and how it fails.",
+      "interactive": true
+    },
+    {
+      "id": "PLn9TF9GYnPcbpTdDMQbG",
+      "kind": "subtopic",
+      "label": "Bulkhead",
+      "x": 208,
+      "y": 3078,
+      "width": 266,
+      "height": 49,
+      "description": "Study Bulkhead in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "O4zYDqvVWD7sMI27k_0Nl",
+      "kind": "subtopic",
+      "label": "Circuit Breaker",
+      "x": 208,
+      "y": 3131,
+      "width": 266,
+      "height": 49,
+      "description": "Study Circuit Breaker in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "MNlWNjrG8eh5OzPVlbb9t",
+      "kind": "subtopic",
+      "label": "Compensating Transaction",
+      "x": 208,
+      "y": 3184,
+      "width": 266,
+      "height": 49,
+      "description": "Study Compensating Transaction in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "CKCNk3obx4u43rBqUj2Yf",
+      "kind": "subtopic",
+      "label": "Health Endpoint Monitoring",
+      "x": 208,
+      "y": 3237,
+      "width": 266,
+      "height": 49,
+      "description": "Measure health, latency, errors, and saturation. Alerts should be actionable.",
+      "interactive": true
+    },
+    {
+      "id": "AJLBFyAsEdQYF6ygO0MmQ",
+      "kind": "subtopic",
+      "label": "Leader Election",
+      "x": 208,
+      "y": 3290,
+      "width": 266,
+      "height": 49,
+      "description": "Study Leader Election in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "NybkOwl1lgaglZPRJQJ_Z",
+      "kind": "subtopic",
+      "label": "Queue-Based Load Leveling",
+      "x": 208,
+      "y": 3343,
+      "width": 266,
+      "height": 49,
+      "description": "Study Queue-Based Load Leveling in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "xX_9VGUaOkBYFH3jPjnww",
+      "kind": "subtopic",
+      "label": "Retry",
+      "x": 208,
+      "y": 3396,
+      "width": 266,
+      "height": 49,
+      "description": "Study Retry in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "RTEJHZ26znfBLrpQPtNvn",
+      "kind": "subtopic",
+      "label": "Scheduler Agent Supervisor",
+      "x": 208,
+      "y": 3449,
+      "width": 266,
+      "height": 49,
+      "description": "Study Scheduler Agent Supervisor in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "ZvYpE6-N5dAtRDIwqcAu6",
+      "kind": "topic",
+      "label": "Security",
+      "x": -73,
+      "y": 3292,
+      "width": 275,
+      "height": 49,
+      "description": "Authenticate users, authorize actions, and protect data in transit and at rest.",
+      "interactive": true
+    },
+    {
+      "id": "lHPl-kr1ArblR7bJeQEB9",
+      "kind": "subtopic",
+      "label": "Federated Identity",
+      "x": -58,
+      "y": 3349,
+      "width": 247,
+      "height": 49,
+      "description": "Study Federated Identity in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "DTQJu0AvgWOhMFcOYqzTD",
+      "kind": "subtopic",
+      "label": "Gatekeeper",
+      "x": -58,
+      "y": 3402,
+      "width": 247,
+      "height": 49,
+      "description": "Study Gatekeeper in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    },
+    {
+      "id": "VltZgIrApHOwZ8YHvdmHB",
+      "kind": "subtopic",
+      "label": "Valet Key",
+      "x": -58,
+      "y": 3455,
+      "width": 247,
+      "height": 49,
+      "description": "Study Valet Key in the System Design path—problem, trade-offs, and a minimal practice task.",
+      "interactive": true
+    }
+  ],
+  "edges": [
+    {
+      "id": "XX0I26JoVMVXIe_7bVMix",
+      "from": "iogwMmOvub2ZF4zgg6WyF",
+      "to": "_hYN0gEi9BL24nptEtXWU"
+    },
+    {
+      "id": "dFn6kGOoJ-0BzJJEb9DSG",
+      "from": "_hYN0gEi9BL24nptEtXWU",
+      "to": "idLHBxhvcIqZTqmh_E8Az"
+    },
+    {
+      "id": "arkF7QJJRbCBYWp0crqa2",
+      "from": "_hYN0gEi9BL24nptEtXWU",
+      "to": "os3Pa6W9SSNEzgmlBbglQ"
+    },
+    {
+      "id": "reactflow__edge-GHe8V-REu1loRpDnHbyUnz2-rRDGVynX43inSeQ9lR_FSy1",
+      "from": "GHe8V-REu1loRpDnHbyUn",
+      "to": "rRDGVynX43inSeQ9lR_FS"
+    },
+    {
+      "id": "reactflow__edge-GHe8V-REu1loRpDnHbyUnz2-EKD5AikZtwjtsEYRPJhQ2y1",
+      "from": "GHe8V-REu1loRpDnHbyUn",
+      "to": "EKD5AikZtwjtsEYRPJhQ2"
+    },
+    {
+      "id": "reactflow__edge-GHe8V-REu1loRpDnHbyUnz2-JjB7eB8gdRCAYf5M0RcT7y1",
+      "from": "GHe8V-REu1loRpDnHbyUn",
+      "to": "JjB7eB8gdRCAYf5M0RcT7"
+    },
+    {
+      "id": "reactflow__edge-GHe8V-REu1loRpDnHbyUnx2-ezptoTqeaepByegxS5kHLw2",
+      "from": "GHe8V-REu1loRpDnHbyUn",
+      "to": "ezptoTqeaepByegxS5kHL"
+    },
+    {
+      "id": "reactflow__edge-ezptoTqeaepByegxS5kHLx2-DOESIlBThd_wp2uOSd_CSz1",
+      "from": "ezptoTqeaepByegxS5kHL",
+      "to": "DOESIlBThd_wp2uOSd_CS"
+    },
+    {
+      "id": "reactflow__edge-zoViI4kzpKIxpU20T89K_x2-2gRIstNT-fTkv5GZ692gxw1",
+      "from": "zoViI4kzpKIxpU20T89K_",
+      "to": "2gRIstNT-fTkv5GZ692gx"
+    },
+    {
+      "id": "reactflow__edge-DOESIlBThd_wp2uOSd_CSy2-NEsPjQifNDlZJE-2YLVl1z2",
+      "from": "DOESIlBThd_wp2uOSd_CS",
+      "to": "NEsPjQifNDlZJE-2YLVl1"
+    },
+    {
+      "id": "reactflow__edge-DOESIlBThd_wp2uOSd_CSy2-zoViI4kzpKIxpU20T89K_z1",
+      "from": "DOESIlBThd_wp2uOSd_CS",
+      "to": "zoViI4kzpKIxpU20T89K_"
+    },
+    {
+      "id": "reactflow__edge-DOESIlBThd_wp2uOSd_CSx2-O730v5Ww3ByAiBSs6fwyMw1",
+      "from": "DOESIlBThd_wp2uOSd_CS",
+      "to": "Uk6J8JRcKVEFz4_8rLfnQ"
+    },
+    {
+      "id": "reactflow__edge-Uk6J8JRcKVEFz4_8rLfnQz2-O730v5Ww3ByAiBSs6fwyMy1",
+      "from": "Uk6J8JRcKVEFz4_8rLfnQ",
+      "to": "O730v5Ww3ByAiBSs6fwyM"
+    },
+    {
+      "id": "reactflow__edge-O730v5Ww3ByAiBSs6fwyMz2-HkXiEMLqxJoQyAHav3ccLy1",
+      "from": "O730v5Ww3ByAiBSs6fwyM",
+      "to": "HkXiEMLqxJoQyAHav3ccL"
+    },
+    {
+      "id": "reactflow__edge-O730v5Ww3ByAiBSs6fwyMz2-uIerrf_oziiLg-KEyz8WMy1",
+      "from": "O730v5Ww3ByAiBSs6fwyM",
+      "to": "uIerrf_oziiLg-KEyz8WM"
+    },
+    {
+      "id": "reactflow__edge-14KqLKgh090Rb3MDwelWYz2-ocdcbhHrwjJX0KWgmsOL6y1",
+      "from": "14KqLKgh090Rb3MDwelWY",
+      "to": "ocdcbhHrwjJX0KWgmsOL6"
+    },
+    {
+      "id": "reactflow__edge-14KqLKgh090Rb3MDwelWYz2-urSjLyLTE5IIz0TFxMBWLy1",
+      "from": "14KqLKgh090Rb3MDwelWY",
+      "to": "urSjLyLTE5IIz0TFxMBWL"
+    },
+    {
+      "id": "reactflow__edge-14KqLKgh090Rb3MDwelWYz2-e69-JVbDj7dqV_p1j1kMLy2",
+      "from": "14KqLKgh090Rb3MDwelWY",
+      "to": "e69-JVbDj7dqV_p1j1kML"
+    },
+    {
+      "id": "reactflow__edge-14KqLKgh090Rb3MDwelWYz2-MpM9rT1-_LGD7YbnBjqOky1",
+      "from": "14KqLKgh090Rb3MDwelWY",
+      "to": "MpM9rT1-_LGD7YbnBjqOk"
+    },
+    {
+      "id": "reactflow__edge-14KqLKgh090Rb3MDwelWYz2-IkUCfSWNY-02wg2WCo1c6y1",
+      "from": "14KqLKgh090Rb3MDwelWY",
+      "to": "IkUCfSWNY-02wg2WCo1c6"
+    },
+    {
+      "id": "reactflow__edge-14KqLKgh090Rb3MDwelWYy2-XXuzTrP5UNVwSpAk-tAGrz2",
+      "from": "14KqLKgh090Rb3MDwelWY",
+      "to": "XXuzTrP5UNVwSpAk-tAGr"
+    },
+    {
+      "id": "reactflow__edge-XXuzTrP5UNVwSpAk-tAGrw2-Nt0HUWLOl4O77elF8Is1Sx2",
+      "from": "XXuzTrP5UNVwSpAk-tAGr",
+      "to": "Nt0HUWLOl4O77elF8Is1S"
+    },
+    {
+      "id": "reactflow__edge-XXuzTrP5UNVwSpAk-tAGrx2-84N4XY31PwXRntXX1sdCUw1",
+      "from": "XXuzTrP5UNVwSpAk-tAGr",
+      "to": "5FXwwRMNBhG7LT5ub6t2L"
+    },
+    {
+      "id": "reactflow__edge-84N4XY31PwXRntXX1sdCUx2-KLnpMR2FxlQkCHZP6-tZmw2",
+      "from": "5FXwwRMNBhG7LT5ub6t2L",
+      "to": "KLnpMR2FxlQkCHZP6-tZm"
+    },
+    {
+      "id": "reactflow__edge-5FXwwRMNBhG7LT5ub6t2Lz2-84N4XY31PwXRntXX1sdCUw1",
+      "from": "5FXwwRMNBhG7LT5ub6t2L",
+      "to": "-X4g8kljgVBOBcf1DDzgi"
+    },
+    {
+      "id": "reactflow__edge--X4g8kljgVBOBcf1DDzgix2-84N4XY31PwXRntXX1sdCUw2",
+      "from": "-X4g8kljgVBOBcf1DDzgi",
+      "to": "84N4XY31PwXRntXX1sdCU"
+    },
+    {
+      "id": "reactflow__edge-84N4XY31PwXRntXX1sdCUy2-a9wGW_H1HpvvdYCXoS-Rfz1",
+      "from": "84N4XY31PwXRntXX1sdCU",
+      "to": "a9wGW_H1HpvvdYCXoS-Rf"
+    },
+    {
+      "id": "reactflow__edge-84N4XY31PwXRntXX1sdCUy2-37X1_9eCmkZkz5RDudE5Nz1",
+      "from": "84N4XY31PwXRntXX1sdCU",
+      "to": "37X1_9eCmkZkz5RDudE5N"
+    },
+    {
+      "id": "reactflow__edge-84N4XY31PwXRntXX1sdCUy2-YiYRZFE_zwPMiCZxz9FnPz1",
+      "from": "84N4XY31PwXRntXX1sdCU",
+      "to": "YiYRZFE_zwPMiCZxz9FnP"
+    },
+    {
+      "id": "reactflow__edge-3pRi8M4xQXsehkdfUNtYLy2-uQFzD_ryd-8Dr1ppjorYJz1",
+      "from": "3pRi8M4xQXsehkdfUNtYL",
+      "to": "uQFzD_ryd-8Dr1ppjorYJ"
+    },
+    {
+      "id": "reactflow__edge-uQFzD_ryd-8Dr1ppjorYJy2-LC5aTmUKNiw9RuSUt3fSEz2",
+      "from": "uQFzD_ryd-8Dr1ppjorYJ",
+      "to": "LC5aTmUKNiw9RuSUt3fSE"
+    },
+    {
+      "id": "reactflow__edge-p--uEm6klLx_hKxKJiXE5z2-hDFYlGFYwcwWXLmrxodFXw1",
+      "from": "p--uEm6klLx_hKxKJiXE5",
+      "to": "hDFYlGFYwcwWXLmrxodFX"
+    },
+    {
+      "id": "reactflow__edge-hDFYlGFYwcwWXLmrxodFXz2-I_NfmDcBph8-oyFVFTknLy1",
+      "from": "hDFYlGFYwcwWXLmrxodFX",
+      "to": "I_NfmDcBph8-oyFVFTknL"
+    },
+    {
+      "id": "reactflow__edge-hDFYlGFYwcwWXLmrxodFXz2-hkjYvLoVt9xKDzubm0Jy3y1",
+      "from": "hDFYlGFYwcwWXLmrxodFX",
+      "to": "hkjYvLoVt9xKDzubm0Jy3"
+    },
+    {
+      "id": "reactflow__edge-hDFYlGFYwcwWXLmrxodFXz2-rVrwaioGURvrqNBufF2djy1",
+      "from": "hDFYlGFYwcwWXLmrxodFX",
+      "to": "rVrwaioGURvrqNBufF2dj"
+    },
+    {
+      "id": "reactflow__edge-hDFYlGFYwcwWXLmrxodFXz2-x1i3qWFtNNjd00-kAvFHwy1",
+      "from": "hDFYlGFYwcwWXLmrxodFX",
+      "to": "x1i3qWFtNNjd00-kAvFHw"
+    },
+    {
+      "id": "reactflow__edge-hDFYlGFYwcwWXLmrxodFXz2-eSZq74lROh5lllLyTBK5ay1",
+      "from": "hDFYlGFYwcwWXLmrxodFX",
+      "to": "eSZq74lROh5lllLyTBK5a"
+    },
+    {
+      "id": "reactflow__edge-hDFYlGFYwcwWXLmrxodFXz2-Q0fKphqmPwjTD0dhqiP6Ky1",
+      "from": "hDFYlGFYwcwWXLmrxodFX",
+      "to": "Q0fKphqmPwjTD0dhqiP6K"
+    },
+    {
+      "id": "reactflow__edge-hDFYlGFYwcwWXLmrxodFXz2-IwMOTpsYHApdvHZOhXtIwy1",
+      "from": "hDFYlGFYwcwWXLmrxodFX",
+      "to": "IwMOTpsYHApdvHZOhXtIw"
+    },
+    {
+      "id": "reactflow__edge-THlzcZTNnPGLRiHPWT-Jvy2-PtJ7-v1VCLsyaWWYHYujVz1",
+      "from": "THlzcZTNnPGLRiHPWT-Jv",
+      "to": "PtJ7-v1VCLsyaWWYHYujV"
+    },
+    {
+      "id": "reactflow__edge-THlzcZTNnPGLRiHPWT-Jvz2-DYkdM_L7T2GcTPAoZNnURw1",
+      "from": "THlzcZTNnPGLRiHPWT-Jv",
+      "to": "DYkdM_L7T2GcTPAoZNnUR"
+    }
+  ]
+}

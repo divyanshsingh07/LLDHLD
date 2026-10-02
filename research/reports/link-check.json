@@ -1,0 +1,16 @@
+{
+  "checked": 21,
+  "broken": [
+    {
+      "url": "https://linuxjourney.com/",
+      "status": 403,
+      "conceptId": "linux-cli"
+    },
+    {
+      "url": "https://docs.gitlab.com/ee/ci/introduction/",
+      "status": 403,
+      "conceptId": "ci-cd"
+    }
+  ],
+  "ok": false
+}

@@ -1,0 +1,47 @@
+{
+  "name": "engineering-roadmap-engine",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview",
+    "lint": "oxlint",
+    "test": "vitest run",
+    "research": "tsx research/scripts/run-research.ts",
+    "fetch": "tsx research/scripts/fetch.ts",
+    "discover": "tsx research/scripts/source-discovery.ts",
+    "parse": "tsx research/scripts/parse.ts",
+    "normalize": "tsx research/scripts/normalize.ts",
+    "deduplicate": "tsx research/scripts/deduplicate.ts",
+    "classify": "tsx research/scripts/classify.ts",
+    "build-roadmap": "tsx research/scripts/build-roadmap.ts",
+    "build-system-design": "tsx research/scripts/build-cloned-roadmaps.ts",
+    "build-cloned-roadmaps": "tsx research/scripts/build-cloned-roadmaps.ts",
+    "validate-roadmap": "tsx research/scripts/validate.ts",
+    "check-links": "tsx research/scripts/check-links.ts",
+    "report": "tsx research/scripts/report.ts"
+  },
+  "dependencies": {
+    "@xyflow/react": "^12.8.2",
+    "fuse.js": "^7.1.0",
+    "lucide-react": "^0.544.0",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "react-router-dom": "^7.18.4",
+    "yaml": "^2.8.1",
+    "zod": "^4.1.11"
+  },
+  "devDependencies": {
+    "@types/node": "^24.13.3",
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.7",
+    "@vitejs/plugin-react": "^6.1.1",
+    "oxlint": "^1.81.0",
+    "tsx": "^4.20.5",
+    "typescript": "~6.0.2",
+    "vite": "^8.3.0",
+    "vitest": "^3.2.4"
+  }
+}

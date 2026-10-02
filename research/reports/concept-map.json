@@ -1,0 +1,4173 @@
+{
+  "nodes": [
+    {
+      "id": "internet-fundamentals",
+      "name": "Internet Fundamentals",
+      "category": "FOUNDATIONS",
+      "importance": "CORE",
+      "level": "BEGINNER",
+      "tracks": [
+        "Backend",
+        "Full Stack",
+        "DevOps",
+        "System Design"
+      ],
+      "confidence": 6,
+      "onSpine": true
+    },
+    {
+      "id": "version-control-git",
+      "name": "Version Control with Git",
+      "category": "FOUNDATIONS",
+      "importance": "CORE",
+      "level": "BEGINNER",
+      "tracks": [
+        "Backend",
+        "Full Stack",
+        "DevOps",
+        "Cloud",
+        "Platform Engineer",
+        "Software Architect"
+      ],
+      "confidence": 48,
+      "onSpine": true
+    },
+    {
+      "id": "linux-cli",
+      "name": "Linux Command Line",
+      "category": "FOUNDATIONS",
+      "importance": "CORE",
+      "level": "BEGINNER",
+      "tracks": [
+        "Backend",
+        "DevOps",
+        "Cloud",
+        "Platform Engineer",
+        "SRE",
+        "Full Stack"
+      ],
+      "confidence": 18,
+      "onSpine": true
+    },
+    {
+      "id": "programming-fundamentals",
+      "name": "Programming Fundamentals",
+      "category": "PROGRAMMING",
+      "importance": "CORE",
+      "level": "BEGINNER",
+      "tracks": [
+        "Backend",
+        "Full Stack",
+        "DevOps",
+        "Platform Engineer"
+      ],
+      "confidence": 18,
+      "onSpine": true
+    },
+    {
+      "id": "data-structures",
+      "name": "Data Structures",
+      "category": "COMPUTER_SCIENCE",
+      "importance": "CORE",
+      "level": "BEGINNER",
+      "tracks": [
+        "Backend",
+        "System Design",
+        "Software Architect"
+      ],
+      "confidence": 15,
+      "onSpine": true
+    },
+    {
+      "id": "algorithms-complexity",
+      "name": "Algorithms & Complexity",
+      "category": "COMPUTER_SCIENCE",
+      "importance": "CORE",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend",
+        "System Design"
+      ],
+      "confidence": 9,
+      "onSpine": true
+    },
+    {
+      "id": "os-fundamentals",
+      "name": "Operating System Fundamentals",
+      "category": "COMPUTER_SCIENCE",
+      "importance": "CORE",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend",
+        "DevOps",
+        "SRE",
+        "System Design",
+        "Platform Engineer"
+      ],
+      "confidence": 12,
+      "onSpine": true
+    },
+    {
+      "id": "concurrency-basics",
+      "name": "Concurrency Basics",
+      "category": "COMPUTER_SCIENCE",
+      "importance": "CORE",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend",
+        "System Design",
+        "Cloud",
+        "DevOps"
+      ],
+      "confidence": 6,
+      "onSpine": false
+    },
+    {
+      "id": "networking-fundamentals",
+      "name": "Networking Fundamentals",
+      "category": "NETWORKING",
+      "importance": "CORE",
+      "level": "BEGINNER",
+      "tracks": [
+        "Backend",
+        "DevOps",
+        "Cloud",
+        "System Design",
+        "SRE",
+        "Platform Engineer"
+      ],
+      "confidence": 9,
+      "onSpine": true
+    },
+    {
+      "id": "dns",
+      "name": "DNS",
+      "category": "NETWORKING",
+      "importance": "CORE",
+      "level": "BEGINNER",
+      "tracks": [
+        "Backend",
+        "DevOps",
+        "Cloud",
+        "System Design",
+        "SRE",
+        "Platform Engineer"
+      ],
+      "confidence": 20,
+      "onSpine": true
+    },
+    {
+      "id": "tcp-udp",
+      "name": "TCP & UDP",
+      "category": "NETWORKING",
+      "importance": "CORE",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend",
+        "DevOps",
+        "System Design"
+      ],
+      "confidence": 16,
+      "onSpine": false
+    },
+    {
+      "id": "http-fundamentals",
+      "name": "HTTP Fundamentals",
+      "category": "NETWORKING",
+      "importance": "CORE",
+      "level": "BEGINNER",
+      "tracks": [
+        "Backend",
+        "Full Stack",
+        "API Design",
+        "System Design",
+        "DevOps",
+        "Platform Engineer"
+      ],
+      "confidence": 24,
+      "onSpine": true
+    },
+    {
+      "id": "http2-http3",
+      "name": "HTTP/2 & HTTP/3",
+      "category": "NETWORKING",
+      "importance": "SUPPORTING",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend",
+        "Performance",
+        "System Design"
+      ],
+      "confidence": 3,
+      "onSpine": false
+    },
+    {
+      "id": "tls-https",
+      "name": "TLS & HTTPS",
+      "category": "SECURITY",
+      "importance": "CORE",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend",
+        "DevOps",
+        "Security",
+        "Cloud",
+        "SRE",
+        "Platform Engineer"
+      ],
+      "confidence": 15,
+      "onSpine": true
+    },
+    {
+      "id": "load-balancing",
+      "name": "Load Balancing",
+      "category": "SYSTEM_DESIGN",
+      "importance": "CORE",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend",
+        "DevOps",
+        "Cloud",
+        "Distributed Systems",
+        "System Design",
+        "Platform Engineer"
+      ],
+      "confidence": 33,
+      "onSpine": true
+    },
+    {
+      "id": "reverse-proxy-cdn",
+      "name": "Reverse Proxies & CDNs",
+      "category": "NETWORKING",
+      "importance": "CORE",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend",
+        "DevOps",
+        "Cloud",
+        "System Design"
+      ],
+      "confidence": 24,
+      "onSpine": false
+    },
+    {
+      "id": "api-fundamentals",
+      "name": "API Fundamentals",
+      "category": "API_DESIGN",
+      "importance": "CORE",
+      "level": "BEGINNER",
+      "tracks": [
+        "Backend",
+        "Full Stack",
+        "System Design"
+      ],
+      "confidence": 9,
+      "onSpine": true
+    },
+    {
+      "id": "rest-api-design",
+      "name": "REST API Design",
+      "category": "API_DESIGN",
+      "importance": "CORE",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend",
+        "Full Stack",
+        "Software Architect",
+        "System Design"
+      ],
+      "confidence": 29,
+      "onSpine": true
+    },
+    {
+      "id": "rpc-grpc",
+      "name": "RPC & gRPC",
+      "category": "API_DESIGN",
+      "importance": "CORE",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend",
+        "Distributed Systems",
+        "Software Architect",
+        "System Design"
+      ],
+      "confidence": 17,
+      "onSpine": false
+    },
+    {
+      "id": "graphql-apis",
+      "name": "GraphQL APIs",
+      "category": "API_DESIGN",
+      "importance": "CORE",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend",
+        "Full Stack",
+        "Software Architect",
+        "System Design"
+      ],
+      "confidence": 15,
+      "onSpine": false
+    },
+    {
+      "id": "authentication",
+      "name": "Authentication",
+      "category": "SECURITY",
+      "importance": "CORE",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend",
+        "Full Stack",
+        "Security",
+        "System Design",
+        "Cloud",
+        "DevOps"
+      ],
+      "confidence": 18,
+      "onSpine": true
+    },
+    {
+      "id": "authorization",
+      "name": "Authorization & Access Control",
+      "category": "SECURITY",
+      "importance": "CORE",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend",
+        "Security",
+        "Cloud"
+      ],
+      "confidence": 6,
+      "onSpine": false
+    },
+    {
+      "id": "backend-services",
+      "name": "Backend Service Design",
+      "category": "BACKEND",
+      "importance": "CORE",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend",
+        "Full Stack",
+        "Software Architect"
+      ],
+      "confidence": 6,
+      "onSpine": true
+    },
+    {
+      "id": "web-servers",
+      "name": "Web Servers & App Runtimes",
+      "category": "BACKEND",
+      "importance": "CORE",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend",
+        "DevOps",
+        "Platform Engineer",
+        "System Design"
+      ],
+      "confidence": 29,
+      "onSpine": false
+    },
+    {
+      "id": "error-handling-validation",
+      "name": "Validation & Error Handling",
+      "category": "BACKEND",
+      "importance": "CORE",
+      "level": "BEGINNER",
+      "tracks": [
+        "Backend",
+        "Full Stack",
+        "API Design"
+      ],
+      "confidence": 6,
+      "onSpine": false
+    },
+    {
+      "id": "testing-backend",
+      "name": "Backend Testing",
+      "category": "BACKEND",
+      "importance": "CORE",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend",
+        "Full Stack",
+        "DevOps",
+        "Cloud"
+      ],
+      "confidence": 30,
+      "onSpine": false
+    },
+    {
+      "id": "code-review",
+      "name": "Code Review",
+      "category": "FOUNDATIONS",
+      "importance": "CORE",
+      "level": "BEGINNER",
+      "tracks": [
+        "Backend",
+        "Full Stack",
+        "DevOps",
+        "Software Architect"
+      ],
+      "confidence": 21,
+      "onSpine": false
+    },
+    {
+      "id": "sql-fundamentals",
+      "name": "SQL Fundamentals",
+      "category": "DATABASES",
+      "importance": "CORE",
+      "level": "BEGINNER",
+      "tracks": [
+        "Backend",
+        "Full Stack",
+        "Data Engineering",
+        "System Design"
+      ],
+      "confidence": 12,
+      "onSpine": true
+    },
+    {
+      "id": "relational-databases",
+      "name": "Relational Databases",
+      "category": "DATABASES",
+      "importance": "CORE",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend",
+        "System Design",
+        "Software Architect",
+        "Full Stack"
+      ],
+      "confidence": 39,
+      "onSpine": true
+    },
+    {
+      "id": "indexing",
+      "name": "Database Indexing",
+      "category": "DATABASES",
+      "importance": "CORE",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend",
+        "Performance",
+        "System Design"
+      ],
+      "confidence": 18,
+      "onSpine": false
+    },
+    {
+      "id": "transactions-isolation",
+      "name": "Transactions & Isolation",
+      "category": "DATABASES",
+      "importance": "CORE",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend",
+        "System Design"
+      ],
+      "confidence": 21,
+      "onSpine": false
+    },
+    {
+      "id": "database-replication",
+      "name": "Database Replication",
+      "category": "DATABASES",
+      "importance": "CORE",
+      "level": "ADVANCED",
+      "tracks": [
+        "Backend",
+        "DevOps",
+        "System Design",
+        "SRE"
+      ],
+      "confidence": 20,
+      "onSpine": false
+    },
+    {
+      "id": "sharding-partitioning",
+      "name": "Sharding & Partitioning",
+      "category": "DATABASES",
+      "importance": "CORE",
+      "level": "ADVANCED",
+      "tracks": [
+        "Backend",
+        "Distributed Systems",
+        "System Design"
+      ],
+      "confidence": 15,
+      "onSpine": false
+    },
+    {
+      "id": "nosql-datastores",
+      "name": "NoSQL Data Models",
+      "category": "DATABASES",
+      "importance": "CORE",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend",
+        "System Design"
+      ],
+      "confidence": 28,
+      "onSpine": false
+    },
+    {
+      "id": "caching-fundamentals",
+      "name": "Caching Fundamentals",
+      "category": "PERFORMANCE",
+      "importance": "CORE",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend",
+        "System Design",
+        "Distributed Systems"
+      ],
+      "confidence": 44,
+      "onSpine": true
+    },
+    {
+      "id": "cache-strategies",
+      "name": "Cache Strategies",
+      "category": "PERFORMANCE",
+      "importance": "CORE",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend",
+        "System Design"
+      ],
+      "confidence": 15,
+      "onSpine": false
+    },
+    {
+      "id": "cache-invalidation",
+      "name": "Cache Invalidation",
+      "category": "PERFORMANCE",
+      "importance": "SUPPORTING",
+      "level": "ADVANCED",
+      "tracks": [
+        "Backend",
+        "System Design"
+      ],
+      "confidence": 0,
+      "onSpine": false
+    },
+    {
+      "id": "distributed-caching",
+      "name": "Distributed Caching",
+      "category": "DISTRIBUTED_SYSTEMS",
+      "importance": "CORE",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend",
+        "System Design",
+        "Cloud",
+        "Full Stack"
+      ],
+      "confidence": 21,
+      "onSpine": false
+    },
+    {
+      "id": "search-engines",
+      "name": "Search & Indexing Engines",
+      "category": "DATA_ENGINEERING",
+      "importance": "SUPPORTING",
+      "level": "ADVANCED",
+      "tracks": [
+        "Backend",
+        "System Design"
+      ],
+      "confidence": 6,
+      "onSpine": false
+    },
+    {
+      "id": "messaging-queues",
+      "name": "Message Queues",
+      "category": "DISTRIBUTED_SYSTEMS",
+      "importance": "CORE",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend",
+        "DevOps",
+        "System Design"
+      ],
+      "confidence": 25,
+      "onSpine": true
+    },
+    {
+      "id": "task-queues-workers",
+      "name": "Task Queues & Workers",
+      "category": "BACKEND",
+      "importance": "CORE",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend",
+        "DevOps",
+        "System Design"
+      ],
+      "confidence": 11,
+      "onSpine": false
+    },
+    {
+      "id": "event-driven-architecture",
+      "name": "Event-Driven Architecture",
+      "category": "SOFTWARE_ARCHITECTURE",
+      "importance": "CORE",
+      "level": "ADVANCED",
+      "tracks": [
+        "Backend",
+        "Software Architect",
+        "System Design",
+        "Cloud",
+        "DevOps"
+      ],
+      "confidence": 12,
+      "onSpine": false
+    },
+    {
+      "id": "backpressure",
+      "name": "Backpressure",
+      "category": "DISTRIBUTED_SYSTEMS",
+      "importance": "SUPPORTING",
+      "level": "ADVANCED",
+      "tracks": [
+        "Backend",
+        "SRE",
+        "System Design"
+      ],
+      "confidence": 11,
+      "onSpine": false
+    },
+    {
+      "id": "stream-processing",
+      "name": "Stream Processing",
+      "category": "DATA_ENGINEERING",
+      "importance": "SPECIALIZATION",
+      "level": "ADVANCED",
+      "tracks": [
+        "Backend",
+        "Data Engineering"
+      ],
+      "confidence": 6,
+      "onSpine": false
+    },
+    {
+      "id": "clean-code-principles",
+      "name": "Clean Code & Design Principles",
+      "category": "SOFTWARE_ARCHITECTURE",
+      "importance": "CORE",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend",
+        "Software Architect",
+        "Full Stack"
+      ],
+      "confidence": 18,
+      "onSpine": true
+    },
+    {
+      "id": "design-patterns",
+      "name": "Design Patterns",
+      "category": "SOFTWARE_ARCHITECTURE",
+      "importance": "SUPPORTING",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend",
+        "Software Architect"
+      ],
+      "confidence": 9,
+      "onSpine": false
+    },
+    {
+      "id": "architectural-styles",
+      "name": "Architectural Styles & Patterns",
+      "category": "SOFTWARE_ARCHITECTURE",
+      "importance": "CORE",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend",
+        "Software Architect",
+        "System Design"
+      ],
+      "confidence": 27,
+      "onSpine": true
+    },
+    {
+      "id": "modular-monolith",
+      "name": "Modular Monolith",
+      "category": "SOFTWARE_ARCHITECTURE",
+      "importance": "SUPPORTING",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend",
+        "Software Architect"
+      ],
+      "confidence": 3,
+      "onSpine": false
+    },
+    {
+      "id": "microservices",
+      "name": "Microservices",
+      "category": "SOFTWARE_ARCHITECTURE",
+      "importance": "CORE",
+      "level": "ADVANCED",
+      "tracks": [
+        "Backend",
+        "Software Architect",
+        "DevOps",
+        "System Design"
+      ],
+      "confidence": 20,
+      "onSpine": false
+    },
+    {
+      "id": "service-discovery",
+      "name": "Service Discovery",
+      "category": "DISTRIBUTED_SYSTEMS",
+      "importance": "SUPPORTING",
+      "level": "ADVANCED",
+      "tracks": [
+        "Backend",
+        "DevOps",
+        "Platform Engineer",
+        "System Design"
+      ],
+      "confidence": 8,
+      "onSpine": false
+    },
+    {
+      "id": "domain-driven-design",
+      "name": "Domain-Driven Design",
+      "category": "SOFTWARE_ARCHITECTURE",
+      "importance": "SPECIALIZATION",
+      "level": "ADVANCED",
+      "tracks": [
+        "Software Architect",
+        "Backend"
+      ],
+      "confidence": 6,
+      "onSpine": false
+    },
+    {
+      "id": "software-architect-role",
+      "name": "Software Architecture Roles",
+      "category": "SOFTWARE_ARCHITECTURE",
+      "importance": "CORE",
+      "level": "ADVANCED",
+      "tracks": [
+        "Software Architect",
+        "Backend"
+      ],
+      "confidence": 21,
+      "onSpine": false
+    },
+    {
+      "id": "ci-cd",
+      "name": "CI/CD",
+      "category": "DEVOPS",
+      "importance": "CORE",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "DevOps",
+        "Backend",
+        "Cloud",
+        "Platform Engineer",
+        "Software Architect"
+      ],
+      "confidence": 9,
+      "onSpine": true
+    },
+    {
+      "id": "containerization",
+      "name": "Containerization",
+      "category": "CONTAINERS",
+      "importance": "CORE",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "DevOps",
+        "Backend",
+        "Cloud",
+        "Platform Engineer",
+        "Software Architect"
+      ],
+      "confidence": 24,
+      "onSpine": true
+    },
+    {
+      "id": "docker-workflows",
+      "name": "Docker Workflows",
+      "category": "CONTAINERS",
+      "importance": "CORE",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "DevOps",
+        "Backend",
+        "Cloud",
+        "Platform Engineer"
+      ],
+      "confidence": 15,
+      "onSpine": false
+    },
+    {
+      "id": "infrastructure-as-code",
+      "name": "Infrastructure as Code",
+      "category": "INFRASTRUCTURE",
+      "importance": "CORE",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "DevOps",
+        "Cloud",
+        "Platform Engineer",
+        "Full Stack",
+        "Software Architect"
+      ],
+      "confidence": 21,
+      "onSpine": true
+    },
+    {
+      "id": "cloud-fundamentals",
+      "name": "Cloud Computing Fundamentals",
+      "category": "CLOUD",
+      "importance": "CORE",
+      "level": "BEGINNER",
+      "tracks": [
+        "Cloud",
+        "DevOps",
+        "Backend",
+        "System Design"
+      ],
+      "confidence": 9,
+      "onSpine": true
+    },
+    {
+      "id": "aws-core-services",
+      "name": "Cloud Core Services",
+      "category": "CLOUD",
+      "importance": "CORE",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Cloud",
+        "DevOps",
+        "Backend"
+      ],
+      "confidence": 15,
+      "onSpine": false
+    },
+    {
+      "id": "well-architected",
+      "name": "Well-Architected Thinking",
+      "category": "CLOUD",
+      "importance": "CORE",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Cloud",
+        "Software Architect",
+        "SRE",
+        "DevOps"
+      ],
+      "confidence": 6,
+      "onSpine": false
+    },
+    {
+      "id": "kubernetes-fundamentals",
+      "name": "Kubernetes Fundamentals",
+      "category": "ORCHESTRATION",
+      "importance": "CORE",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "DevOps",
+        "Cloud",
+        "Platform Engineer",
+        "SRE",
+        "Backend"
+      ],
+      "confidence": 15,
+      "onSpine": true
+    },
+    {
+      "id": "k8s-workloads",
+      "name": "Kubernetes Workloads & Networking",
+      "category": "ORCHESTRATION",
+      "importance": "CORE",
+      "level": "ADVANCED",
+      "tracks": [
+        "DevOps",
+        "Platform Engineer",
+        "Cloud"
+      ],
+      "confidence": 12,
+      "onSpine": false
+    },
+    {
+      "id": "gitops",
+      "name": "GitOps",
+      "category": "DEVOPS",
+      "importance": "SUPPORTING",
+      "level": "ADVANCED",
+      "tracks": [
+        "DevOps",
+        "Platform Engineer",
+        "Cloud"
+      ],
+      "confidence": 6,
+      "onSpine": false
+    },
+    {
+      "id": "service-mesh",
+      "name": "Service Mesh",
+      "category": "ORCHESTRATION",
+      "importance": "SPECIALIZATION",
+      "level": "EXPERT",
+      "tracks": [
+        "Platform Engineer",
+        "SRE",
+        "Backend",
+        "DevOps",
+        "Software Architect"
+      ],
+      "confidence": 18,
+      "onSpine": false
+    },
+    {
+      "id": "system-design-intro",
+      "name": "System Design Approach",
+      "category": "SYSTEM_DESIGN",
+      "importance": "CORE",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "System Design",
+        "Backend",
+        "Software Architect"
+      ],
+      "confidence": 14,
+      "onSpine": true
+    },
+    {
+      "id": "scalability-metrics",
+      "name": "Performance vs Scalability",
+      "category": "SYSTEM_DESIGN",
+      "importance": "CORE",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "System Design",
+        "Backend",
+        "SRE"
+      ],
+      "confidence": 21,
+      "onSpine": true
+    },
+    {
+      "id": "cap-consistency",
+      "name": "CAP & Consistency Models",
+      "category": "DISTRIBUTED_SYSTEMS",
+      "importance": "CORE",
+      "level": "ADVANCED",
+      "tracks": [
+        "System Design",
+        "Backend",
+        "Distributed Systems"
+      ],
+      "confidence": 54,
+      "onSpine": true
+    },
+    {
+      "id": "availability-patterns",
+      "name": "Availability Patterns",
+      "category": "RELIABILITY",
+      "importance": "CORE",
+      "level": "ADVANCED",
+      "tracks": [
+        "System Design",
+        "SRE",
+        "Cloud",
+        "Backend"
+      ],
+      "confidence": 16,
+      "onSpine": false
+    },
+    {
+      "id": "horizontal-scaling",
+      "name": "Horizontal Scaling",
+      "category": "SYSTEM_DESIGN",
+      "importance": "CORE",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend",
+        "Cloud",
+        "System Design"
+      ],
+      "confidence": 8,
+      "onSpine": false
+    },
+    {
+      "id": "stateless-services",
+      "name": "Stateless Services",
+      "category": "BACKEND",
+      "importance": "SUPPORTING",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend",
+        "System Design"
+      ],
+      "confidence": 3,
+      "onSpine": false
+    },
+    {
+      "id": "distributed-coordination",
+      "name": "Distributed Coordination",
+      "category": "DISTRIBUTED_SYSTEMS",
+      "importance": "SPECIALIZATION",
+      "level": "EXPERT",
+      "tracks": [
+        "System Design",
+        "Platform Engineer",
+        "Backend"
+      ],
+      "confidence": 9,
+      "onSpine": false
+    },
+    {
+      "id": "circuit-breaker-resilience",
+      "name": "Resilience Patterns",
+      "category": "RELIABILITY",
+      "importance": "CORE",
+      "level": "ADVANCED",
+      "tracks": [
+        "Backend",
+        "SRE",
+        "System Design"
+      ],
+      "confidence": 15,
+      "onSpine": false
+    },
+    {
+      "id": "observability-fundamentals",
+      "name": "Observability Fundamentals",
+      "category": "OBSERVABILITY",
+      "importance": "CORE",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "DevOps",
+        "SRE",
+        "Backend",
+        "Platform Engineer",
+        "Cloud",
+        "System Design"
+      ],
+      "confidence": 36,
+      "onSpine": true
+    },
+    {
+      "id": "sli-slo-sla",
+      "name": "SLIs, SLOs & SLAs",
+      "category": "RELIABILITY",
+      "importance": "SUPPORTING",
+      "level": "ADVANCED",
+      "tracks": [
+        "SRE",
+        "DevOps",
+        "Software Architect"
+      ],
+      "confidence": 0,
+      "onSpine": false
+    },
+    {
+      "id": "incident-response",
+      "name": "Incident Response & Postmortems",
+      "category": "RELIABILITY",
+      "importance": "SUPPORTING",
+      "level": "ADVANCED",
+      "tracks": [
+        "SRE",
+        "DevOps"
+      ],
+      "confidence": 0,
+      "onSpine": false
+    },
+    {
+      "id": "security-fundamentals",
+      "name": "Application Security Fundamentals",
+      "category": "SECURITY",
+      "importance": "CORE",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend",
+        "Full Stack",
+        "DevOps",
+        "Security",
+        "Cloud",
+        "Software Architect",
+        "System Design"
+      ],
+      "confidence": 32,
+      "onSpine": true
+    },
+    {
+      "id": "secrets-management",
+      "name": "Secrets Management",
+      "category": "SECURITY",
+      "importance": "SUPPORTING",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "DevOps",
+        "Cloud",
+        "Security",
+        "Platform Engineer"
+      ],
+      "confidence": 3,
+      "onSpine": false
+    },
+    {
+      "id": "supply-chain-security",
+      "name": "Supply Chain & Runtime Security",
+      "category": "SECURITY",
+      "importance": "SPECIALIZATION",
+      "level": "ADVANCED",
+      "tracks": [
+        "DevOps",
+        "Platform Engineer",
+        "Security"
+      ],
+      "confidence": 0,
+      "onSpine": false
+    },
+    {
+      "id": "html-css-js",
+      "name": "Web Frontend Foundations",
+      "category": "FRONTEND",
+      "importance": "CORE",
+      "level": "BEGINNER",
+      "tracks": [
+        "Full Stack",
+        "Backend",
+        "SRE"
+      ],
+      "confidence": 30,
+      "onSpine": false
+    },
+    {
+      "id": "frontend-tooling",
+      "name": "Frontend Tooling",
+      "category": "FRONTEND",
+      "importance": "SUPPORTING",
+      "level": "BEGINNER",
+      "tracks": [
+        "Full Stack"
+      ],
+      "confidence": 3,
+      "onSpine": false
+    },
+    {
+      "id": "fullstack-integration",
+      "name": "Full Stack Integration",
+      "category": "FULL_STACK",
+      "importance": "CORE",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Full Stack"
+      ],
+      "confidence": 6,
+      "onSpine": false
+    },
+    {
+      "id": "capacity-estimation",
+      "name": "Capacity Estimation",
+      "category": "SYSTEM_DESIGN",
+      "importance": "CORE",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "System Design",
+        "Backend"
+      ],
+      "confidence": 5,
+      "onSpine": true
+    },
+    {
+      "id": "data-modeling-at-scale",
+      "name": "Data Modeling at Scale",
+      "category": "SYSTEM_DESIGN",
+      "importance": "CORE",
+      "level": "ADVANCED",
+      "tracks": [
+        "System Design",
+        "Backend",
+        "Cloud",
+        "DevOps"
+      ],
+      "confidence": 6,
+      "onSpine": false
+    },
+    {
+      "id": "multi-region",
+      "name": "Multi-Region Architecture",
+      "category": "ADVANCED_ARCHITECTURE",
+      "importance": "SPECIALIZATION",
+      "level": "EXPERT",
+      "tracks": [
+        "Cloud",
+        "System Design",
+        "SRE"
+      ],
+      "confidence": 0,
+      "onSpine": false
+    },
+    {
+      "id": "real-world-design-practice",
+      "name": "Real-World Design Practice",
+      "category": "SYSTEM_DESIGN",
+      "importance": "CORE",
+      "level": "ADVANCED",
+      "tracks": [
+        "System Design",
+        "Software Architect",
+        "Backend"
+      ],
+      "confidence": 15,
+      "onSpine": true
+    },
+    {
+      "id": "rate-limiting",
+      "name": "Rate Limiting",
+      "category": "SYSTEM_DESIGN",
+      "importance": "CORE",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend",
+        "System Design",
+        "Security"
+      ],
+      "confidence": 9,
+      "onSpine": false
+    },
+    {
+      "id": "idempotency",
+      "name": "Idempotency & Exactly-once Illusions",
+      "category": "DISTRIBUTED_SYSTEMS",
+      "importance": "SUPPORTING",
+      "level": "ADVANCED",
+      "tracks": [
+        "Backend",
+        "System Design"
+      ],
+      "confidence": 3,
+      "onSpine": false
+    },
+    {
+      "id": "object-storage",
+      "name": "Object Storage",
+      "category": "CLOUD",
+      "importance": "SUPPORTING",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Cloud",
+        "Backend",
+        "System Design",
+        "DevOps",
+        "SRE",
+        "Full Stack"
+      ],
+      "confidence": 9,
+      "onSpine": false
+    },
+    {
+      "id": "networking-in-cloud",
+      "name": "Cloud Networking",
+      "category": "CLOUD",
+      "importance": "CORE",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Cloud",
+        "DevOps",
+        "Platform Engineer",
+        "Full Stack"
+      ],
+      "confidence": 12,
+      "onSpine": false
+    },
+    {
+      "id": "cost-aware-architecture",
+      "name": "Cost-Aware Architecture",
+      "category": "CLOUD",
+      "importance": "SUPPORTING",
+      "level": "ADVANCED",
+      "tracks": [
+        "Cloud",
+        "Software Architect"
+      ],
+      "confidence": 0,
+      "onSpine": false
+    },
+    {
+      "id": "platform-engineering",
+      "name": "Platform Engineering Basics",
+      "category": "DEVOPS",
+      "importance": "SPECIALIZATION",
+      "level": "ADVANCED",
+      "tracks": [
+        "Platform Engineer"
+      ],
+      "confidence": 0,
+      "onSpine": false
+    },
+    {
+      "id": "database-migrations",
+      "name": "Schema Migrations",
+      "category": "DATABASES",
+      "importance": "SUPPORTING",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend",
+        "DevOps"
+      ],
+      "confidence": 3,
+      "onSpine": false
+    },
+    {
+      "id": "logging-strategies",
+      "name": "Structured Logging",
+      "category": "OBSERVABILITY",
+      "importance": "SUPPORTING",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend",
+        "DevOps",
+        "SRE"
+      ],
+      "confidence": 0,
+      "onSpine": false
+    },
+    {
+      "id": "distributed-tracing",
+      "name": "Distributed Tracing",
+      "category": "OBSERVABILITY",
+      "importance": "SUPPORTING",
+      "level": "ADVANCED",
+      "tracks": [
+        "SRE",
+        "Backend",
+        "Platform Engineer",
+        "DevOps"
+      ],
+      "confidence": 6,
+      "onSpine": false
+    },
+    {
+      "id": "metrics-alerting",
+      "name": "Metrics & Alerting",
+      "category": "OBSERVABILITY",
+      "importance": "CORE",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "SRE",
+        "DevOps",
+        "Platform Engineer",
+        "Backend"
+      ],
+      "confidence": 12,
+      "onSpine": false
+    },
+    {
+      "id": "storage-engines",
+      "name": "Storage Engines & Durability",
+      "category": "DATABASES",
+      "importance": "SPECIALIZATION",
+      "level": "EXPERT",
+      "tracks": [
+        "System Design",
+        "Backend"
+      ],
+      "confidence": 0,
+      "onSpine": false
+    },
+    {
+      "id": "api-gateways",
+      "name": "API Gateways",
+      "category": "API_DESIGN",
+      "importance": "SUPPORTING",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend",
+        "Cloud",
+        "System Design",
+        "DevOps"
+      ],
+      "confidence": 9,
+      "onSpine": false
+    },
+    {
+      "id": "websockets-realtime",
+      "name": "Realtime Communication",
+      "category": "BACKEND",
+      "importance": "SUPPORTING",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend",
+        "Full Stack",
+        "System Design"
+      ],
+      "confidence": 6,
+      "onSpine": false
+    },
+    {
+      "id": "feature-flags",
+      "name": "Feature Flags & Progressive Delivery",
+      "category": "DEVOPS",
+      "importance": "SUPPORTING",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "DevOps",
+        "Backend",
+        "Platform Engineer"
+      ],
+      "confidence": 0,
+      "onSpine": false
+    },
+    {
+      "id": "chaos-engineering",
+      "name": "Chaos Engineering",
+      "category": "RELIABILITY",
+      "importance": "SPECIALIZATION",
+      "level": "EXPERT",
+      "tracks": [
+        "SRE"
+      ],
+      "confidence": 0,
+      "onSpine": false
+    },
+    {
+      "id": "data-pipelines",
+      "name": "Data Pipelines",
+      "category": "DATA_ENGINEERING",
+      "importance": "OPTIONAL",
+      "level": "ADVANCED",
+      "tracks": [
+        "Backend",
+        "Data Engineering"
+      ],
+      "confidence": 0,
+      "onSpine": false
+    },
+    {
+      "id": "graph-databases",
+      "name": "Graph Databases",
+      "category": "DATABASES",
+      "importance": "SUPPORTING",
+      "level": "ADVANCED",
+      "tracks": [
+        "Backend",
+        "System Design"
+      ],
+      "confidence": 9,
+      "onSpine": false
+    },
+    {
+      "id": "security-networking",
+      "name": "Zero Trust & Network Security",
+      "category": "SECURITY",
+      "importance": "SUPPORTING",
+      "level": "ADVANCED",
+      "tracks": [
+        "Security",
+        "Cloud",
+        "Platform Engineer",
+        "DevOps"
+      ],
+      "confidence": 3,
+      "onSpine": false
+    },
+    {
+      "id": "perf-profiling",
+      "name": "Performance Profiling",
+      "category": "PERFORMANCE",
+      "importance": "SUPPORTING",
+      "level": "ADVANCED",
+      "tracks": [
+        "Backend",
+        "Full Stack"
+      ],
+      "confidence": 3,
+      "onSpine": false
+    },
+    {
+      "id": "contracts-versioning",
+      "name": "API Versioning & Compatibility",
+      "category": "API_DESIGN",
+      "importance": "SUPPORTING",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend",
+        "Software Architect"
+      ],
+      "confidence": 0,
+      "onSpine": false
+    },
+    {
+      "id": "package-managers",
+      "name": "Dependency & Package Management",
+      "category": "PROGRAMMING",
+      "importance": "SUPPORTING",
+      "level": "BEGINNER",
+      "tracks": [
+        "Backend",
+        "Full Stack",
+        "DevOps"
+      ],
+      "confidence": 6,
+      "onSpine": false
+    },
+    {
+      "id": "memory-networking-perf",
+      "name": "Latency Literacy",
+      "category": "PERFORMANCE",
+      "importance": "SUPPORTING",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "System Design",
+        "Backend"
+      ],
+      "confidence": 0,
+      "onSpine": false
+    },
+    {
+      "id": "shell-scripting",
+      "name": "Shell Scripting",
+      "category": "FOUNDATIONS",
+      "importance": "SUPPORTING",
+      "level": "BEGINNER",
+      "tracks": [
+        "DevOps",
+        "Backend",
+        "Platform Engineer"
+      ],
+      "confidence": 3,
+      "onSpine": false
+    },
+    {
+      "id": "networking-ports-firewall",
+      "name": "Ports, Firewalls & NAT",
+      "category": "NETWORKING",
+      "importance": "SUPPORTING",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "DevOps",
+        "Cloud",
+        "Security",
+        "Backend",
+        "SRE"
+      ],
+      "confidence": 6,
+      "onSpine": false
+    },
+    {
+      "id": "http-caching",
+      "name": "HTTP Caching",
+      "category": "PERFORMANCE",
+      "importance": "SUPPORTING",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend",
+        "Full Stack",
+        "System Design"
+      ],
+      "confidence": 6,
+      "onSpine": false
+    },
+    {
+      "id": "cookies-sessions",
+      "name": "Cookies & Sessions",
+      "category": "SECURITY",
+      "importance": "SUPPORTING",
+      "level": "BEGINNER",
+      "tracks": [
+        "Backend",
+        "Full Stack"
+      ],
+      "confidence": 6,
+      "onSpine": false
+    },
+    {
+      "id": "password-hashing",
+      "name": "Password Hashing",
+      "category": "SECURITY",
+      "importance": "SUPPORTING",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend",
+        "Security"
+      ],
+      "confidence": 3,
+      "onSpine": false
+    },
+    {
+      "id": "orm-vs-sql",
+      "name": "ORMs vs Raw SQL",
+      "category": "DATABASES",
+      "importance": "SUPPORTING",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend",
+        "Full Stack"
+      ],
+      "confidence": 0,
+      "onSpine": false
+    },
+    {
+      "id": "connection-pooling",
+      "name": "Connection Pooling",
+      "category": "DATABASES",
+      "importance": "SUPPORTING",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend",
+        "Performance"
+      ],
+      "confidence": 0,
+      "onSpine": false
+    },
+    {
+      "id": "n-plus-one",
+      "name": "N+1 Queries",
+      "category": "PERFORMANCE",
+      "importance": "SUPPORTING",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend"
+      ],
+      "confidence": 3,
+      "onSpine": false
+    },
+    {
+      "id": "serialization",
+      "name": "Serialization Formats",
+      "category": "API_DESIGN",
+      "importance": "SUPPORTING",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend",
+        "Data Engineering"
+      ],
+      "confidence": 3,
+      "onSpine": false
+    },
+    {
+      "id": "pagination-filtering",
+      "name": "Pagination & Filtering",
+      "category": "API_DESIGN",
+      "importance": "SUPPORTING",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend",
+        "Full Stack"
+      ],
+      "confidence": 3,
+      "onSpine": false
+    },
+    {
+      "id": "webhooks",
+      "name": "Webhooks",
+      "category": "API_DESIGN",
+      "importance": "OPTIONAL",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend",
+        "Full Stack"
+      ],
+      "confidence": 3,
+      "onSpine": false
+    },
+    {
+      "id": "hexagonal-architecture",
+      "name": "Hexagonal & Clean Architecture",
+      "category": "SOFTWARE_ARCHITECTURE",
+      "importance": "SUPPORTING",
+      "level": "ADVANCED",
+      "tracks": [
+        "Software Architect",
+        "Backend"
+      ],
+      "confidence": 0,
+      "onSpine": false
+    },
+    {
+      "id": "cqrs",
+      "name": "CQRS",
+      "category": "SOFTWARE_ARCHITECTURE",
+      "importance": "SPECIALIZATION",
+      "level": "ADVANCED",
+      "tracks": [
+        "Software Architect",
+        "System Design"
+      ],
+      "confidence": 9,
+      "onSpine": false
+    },
+    {
+      "id": "saga-pattern",
+      "name": "Saga Pattern",
+      "category": "DISTRIBUTED_SYSTEMS",
+      "importance": "SPECIALIZATION",
+      "level": "EXPERT",
+      "tracks": [
+        "Backend",
+        "System Design"
+      ],
+      "confidence": 0,
+      "onSpine": false
+    },
+    {
+      "id": "outbox-pattern",
+      "name": "Transactional Outbox",
+      "category": "DISTRIBUTED_SYSTEMS",
+      "importance": "SPECIALIZATION",
+      "level": "ADVANCED",
+      "tracks": [
+        "Backend",
+        "System Design"
+      ],
+      "confidence": 0,
+      "onSpine": false
+    },
+    {
+      "id": "config-management",
+      "name": "Configuration Management",
+      "category": "DEVOPS",
+      "importance": "SUPPORTING",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "DevOps",
+        "Backend",
+        "Platform Engineer",
+        "Cloud"
+      ],
+      "confidence": 6,
+      "onSpine": false
+    },
+    {
+      "id": "secrets-rotation",
+      "name": "Secret Rotation",
+      "category": "SECURITY",
+      "importance": "SUPPORTING",
+      "level": "ADVANCED",
+      "tracks": [
+        "Security",
+        "DevOps",
+        "Cloud"
+      ],
+      "confidence": 0,
+      "onSpine": false
+    },
+    {
+      "id": "blue-green-deploy",
+      "name": "Blue/Green & Canary Deploys",
+      "category": "DEVOPS",
+      "importance": "SUPPORTING",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "DevOps",
+        "SRE",
+        "Platform Engineer"
+      ],
+      "confidence": 0,
+      "onSpine": false
+    },
+    {
+      "id": "infrastructure-monitoring",
+      "name": "Infrastructure Monitoring",
+      "category": "OBSERVABILITY",
+      "importance": "SUPPORTING",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "SRE",
+        "DevOps",
+        "Platform Engineer"
+      ],
+      "confidence": 3,
+      "onSpine": false
+    },
+    {
+      "id": "log-retention",
+      "name": "Log Retention & Privacy",
+      "category": "OBSERVABILITY",
+      "importance": "OPTIONAL",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "SRE",
+        "Security"
+      ],
+      "confidence": 0,
+      "onSpine": false
+    },
+    {
+      "id": "backup-restore",
+      "name": "Backup & Restore",
+      "category": "RELIABILITY",
+      "importance": "CORE",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "SRE",
+        "DevOps",
+        "Cloud",
+        "Backend"
+      ],
+      "confidence": 9,
+      "onSpine": false
+    },
+    {
+      "id": "rto-rpo",
+      "name": "RTO & RPO",
+      "category": "RELIABILITY",
+      "importance": "SUPPORTING",
+      "level": "ADVANCED",
+      "tracks": [
+        "SRE",
+        "Software Architect"
+      ],
+      "confidence": 0,
+      "onSpine": false
+    },
+    {
+      "id": "capacity-planning",
+      "name": "Capacity Planning",
+      "category": "SYSTEM_DESIGN",
+      "importance": "SUPPORTING",
+      "level": "ADVANCED",
+      "tracks": [
+        "System Design",
+        "SRE",
+        "Cloud"
+      ],
+      "confidence": 0,
+      "onSpine": false
+    },
+    {
+      "id": "queue-backlog-slo",
+      "name": "Async Backlog Health",
+      "category": "RELIABILITY",
+      "importance": "SUPPORTING",
+      "level": "ADVANCED",
+      "tracks": [
+        "SRE",
+        "Backend"
+      ],
+      "confidence": 0,
+      "onSpine": false
+    },
+    {
+      "id": "cdn-edge-compute",
+      "name": "CDN & Edge Compute",
+      "category": "CLOUD",
+      "importance": "OPTIONAL",
+      "level": "ADVANCED",
+      "tracks": [
+        "Cloud",
+        "Full Stack",
+        "System Design"
+      ],
+      "confidence": 0,
+      "onSpine": false
+    },
+    {
+      "id": "iam-cloud",
+      "name": "Cloud IAM",
+      "category": "CLOUD",
+      "importance": "SUPPORTING",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Cloud",
+        "Security",
+        "DevOps"
+      ],
+      "confidence": 3,
+      "onSpine": false
+    },
+    {
+      "id": "managed-databases",
+      "name": "Managed Databases",
+      "category": "CLOUD",
+      "importance": "SUPPORTING",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Cloud",
+        "Backend",
+        "DevOps"
+      ],
+      "confidence": 3,
+      "onSpine": false
+    },
+    {
+      "id": "k8s-storage",
+      "name": "Kubernetes Storage",
+      "category": "ORCHESTRATION",
+      "importance": "SUPPORTING",
+      "level": "ADVANCED",
+      "tracks": [
+        "Platform Engineer",
+        "DevOps"
+      ],
+      "confidence": 0,
+      "onSpine": false
+    },
+    {
+      "id": "k8s-autoscaling",
+      "name": "Kubernetes Autoscaling",
+      "category": "ORCHESTRATION",
+      "importance": "SUPPORTING",
+      "level": "ADVANCED",
+      "tracks": [
+        "Platform Engineer",
+        "SRE"
+      ],
+      "confidence": 0,
+      "onSpine": false
+    },
+    {
+      "id": "policy-as-code",
+      "name": "Policy as Code",
+      "category": "SECURITY",
+      "importance": "SPECIALIZATION",
+      "level": "ADVANCED",
+      "tracks": [
+        "Platform Engineer",
+        "Security"
+      ],
+      "confidence": 0,
+      "onSpine": false
+    },
+    {
+      "id": "sbom-signing",
+      "name": "Image Signing & SBOMs",
+      "category": "SECURITY",
+      "importance": "SPECIALIZATION",
+      "level": "ADVANCED",
+      "tracks": [
+        "DevOps",
+        "Security"
+      ],
+      "confidence": 0,
+      "onSpine": false
+    },
+    {
+      "id": "debugging-production",
+      "name": "Production Debugging",
+      "category": "OBSERVABILITY",
+      "importance": "SUPPORTING",
+      "level": "ADVANCED",
+      "tracks": [
+        "Backend",
+        "SRE"
+      ],
+      "confidence": 0,
+      "onSpine": false
+    },
+    {
+      "id": "api-security-threats",
+      "name": "API Threat Modeling",
+      "category": "SECURITY",
+      "importance": "SUPPORTING",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend",
+        "Security"
+      ],
+      "confidence": 3,
+      "onSpine": false
+    },
+    {
+      "id": "input-validation",
+      "name": "Input Validation & Injection Defense",
+      "category": "SECURITY",
+      "importance": "CORE",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend",
+        "Full Stack",
+        "Security",
+        "SRE"
+      ],
+      "confidence": 6,
+      "onSpine": false
+    },
+    {
+      "id": "consistent-hashing",
+      "name": "Consistent Hashing",
+      "category": "DISTRIBUTED_SYSTEMS",
+      "importance": "SUPPORTING",
+      "level": "ADVANCED",
+      "tracks": [
+        "System Design",
+        "Backend"
+      ],
+      "confidence": 0,
+      "onSpine": false
+    },
+    {
+      "id": "bloom-filters",
+      "name": "Bloom Filters",
+      "category": "COMPUTER_SCIENCE",
+      "importance": "OPTIONAL",
+      "level": "ADVANCED",
+      "tracks": [
+        "System Design",
+        "Backend"
+      ],
+      "confidence": 0,
+      "onSpine": false
+    },
+    {
+      "id": "gossip-protocols",
+      "name": "Gossip Protocols",
+      "category": "DISTRIBUTED_SYSTEMS",
+      "importance": "SPECIALIZATION",
+      "level": "EXPERT",
+      "tracks": [
+        "System Design"
+      ],
+      "confidence": 0,
+      "onSpine": false
+    },
+    {
+      "id": "vector-clocks",
+      "name": "Version Vectors & Clocks",
+      "category": "DISTRIBUTED_SYSTEMS",
+      "importance": "SPECIALIZATION",
+      "level": "EXPERT",
+      "tracks": [
+        "System Design"
+      ],
+      "confidence": 0,
+      "onSpine": false
+    },
+    {
+      "id": "design-url-shortener",
+      "name": "Design: URL Shortener",
+      "category": "SYSTEM_DESIGN",
+      "importance": "SUPPORTING",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "System Design"
+      ],
+      "confidence": 0,
+      "onSpine": false
+    },
+    {
+      "id": "design-rate-limiter",
+      "name": "Design: Rate Limiter",
+      "category": "SYSTEM_DESIGN",
+      "importance": "SUPPORTING",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "System Design"
+      ],
+      "confidence": 0,
+      "onSpine": false
+    },
+    {
+      "id": "design-chat",
+      "name": "Design: Chat System",
+      "category": "SYSTEM_DESIGN",
+      "importance": "SUPPORTING",
+      "level": "ADVANCED",
+      "tracks": [
+        "System Design"
+      ],
+      "confidence": 0,
+      "onSpine": false
+    },
+    {
+      "id": "fanout-feeds",
+      "name": "Feed Fanout Patterns",
+      "category": "SYSTEM_DESIGN",
+      "importance": "SUPPORTING",
+      "level": "ADVANCED",
+      "tracks": [
+        "System Design",
+        "Backend"
+      ],
+      "confidence": 0,
+      "onSpine": false
+    },
+    {
+      "id": "design-notification",
+      "name": "Design: Notification System",
+      "category": "SYSTEM_DESIGN",
+      "importance": "SUPPORTING",
+      "level": "ADVANCED",
+      "tracks": [
+        "System Design",
+        "Backend"
+      ],
+      "confidence": 0,
+      "onSpine": false
+    },
+    {
+      "id": "client-caching",
+      "name": "Client-Side Caching",
+      "category": "FRONTEND",
+      "importance": "OPTIONAL",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Full Stack"
+      ],
+      "confidence": 0,
+      "onSpine": false
+    },
+    {
+      "id": "state-management",
+      "name": "Client State Management",
+      "category": "FRONTEND",
+      "importance": "OPTIONAL",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Full Stack"
+      ],
+      "confidence": 0,
+      "onSpine": false
+    },
+    {
+      "id": "accessibility-basics",
+      "name": "Web Accessibility Basics",
+      "category": "FRONTEND",
+      "importance": "OPTIONAL",
+      "level": "BEGINNER",
+      "tracks": [
+        "Full Stack"
+      ],
+      "confidence": 0,
+      "onSpine": false
+    },
+    {
+      "id": "contract-testing",
+      "name": "Contract Testing",
+      "category": "BACKEND",
+      "importance": "SUPPORTING",
+      "level": "ADVANCED",
+      "tracks": [
+        "Backend",
+        "DevOps",
+        "Cloud"
+      ],
+      "confidence": 6,
+      "onSpine": false
+    },
+    {
+      "id": "load-testing",
+      "name": "Load Testing",
+      "category": "PERFORMANCE",
+      "importance": "SUPPORTING",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend",
+        "SRE",
+        "DevOps"
+      ],
+      "confidence": 3,
+      "onSpine": false
+    },
+    {
+      "id": "chaos-gamedays",
+      "name": "Game Days",
+      "category": "RELIABILITY",
+      "importance": "SPECIALIZATION",
+      "level": "ADVANCED",
+      "tracks": [
+        "SRE"
+      ],
+      "confidence": 0,
+      "onSpine": false
+    },
+    {
+      "id": "finops-basics",
+      "name": "FinOps Basics",
+      "category": "CLOUD",
+      "importance": "OPTIONAL",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Cloud",
+        "Platform Engineer"
+      ],
+      "confidence": 0,
+      "onSpine": false
+    },
+    {
+      "id": "multi-tenancy",
+      "name": "Multi-Tenancy Patterns",
+      "category": "ADVANCED_ARCHITECTURE",
+      "importance": "SPECIALIZATION",
+      "level": "EXPERT",
+      "tracks": [
+        "Software Architect",
+        "Backend"
+      ],
+      "confidence": 0,
+      "onSpine": false
+    },
+    {
+      "id": "lib-source-and-further-reading",
+      "name": "Source(s) and further reading",
+      "category": "BACKEND",
+      "importance": "OPTIONAL",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend"
+      ],
+      "confidence": 26,
+      "onSpine": false
+    },
+    {
+      "id": "lib-usecases",
+      "name": "Usecases",
+      "category": "BACKEND",
+      "importance": "OPTIONAL",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend"
+      ],
+      "confidence": 14,
+      "onSpine": false
+    },
+    {
+      "id": "lib-more-commands",
+      "name": "More Commands",
+      "category": "BACKEND",
+      "importance": "OPTIONAL",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend"
+      ],
+      "confidence": 9,
+      "onSpine": false
+    },
+    {
+      "id": "lib-python",
+      "name": "Python",
+      "category": "BACKEND",
+      "importance": "OPTIONAL",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend"
+      ],
+      "confidence": 8,
+      "onSpine": false
+    },
+    {
+      "id": "lib-github-actions",
+      "name": "GitHub Actions",
+      "category": "FOUNDATIONS",
+      "importance": "OPTIONAL",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend"
+      ],
+      "confidence": 5,
+      "onSpine": false
+    },
+    {
+      "id": "lib-the",
+      "name": "Learn the Basics",
+      "category": "BACKEND",
+      "importance": "OPTIONAL",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend"
+      ],
+      "confidence": 4,
+      "onSpine": false
+    },
+    {
+      "id": "lib-breadth-first-search",
+      "name": "Breadth First Search",
+      "category": "BACKEND",
+      "importance": "OPTIONAL",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend"
+      ],
+      "confidence": 4,
+      "onSpine": false
+    },
+    {
+      "id": "lib-depth-first-search",
+      "name": "Depth First Search",
+      "category": "BACKEND",
+      "importance": "OPTIONAL",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend"
+      ],
+      "confidence": 4,
+      "onSpine": false
+    },
+    {
+      "id": "lib-cloud-design-patterns",
+      "name": "Cloud Design Patterns",
+      "category": "CLOUD",
+      "importance": "OPTIONAL",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend"
+      ],
+      "confidence": 4,
+      "onSpine": false
+    },
+    {
+      "id": "lib-databases",
+      "name": "Databases",
+      "category": "DATABASES",
+      "importance": "OPTIONAL",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend"
+      ],
+      "confidence": 4,
+      "onSpine": false
+    },
+    {
+      "id": "lib-ansible",
+      "name": "Ansible",
+      "category": "BACKEND",
+      "importance": "OPTIONAL",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend"
+      ],
+      "confidence": 4,
+      "onSpine": false
+    },
+    {
+      "id": "lib-communication",
+      "name": "Communication",
+      "category": "BACKEND",
+      "importance": "OPTIONAL",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend"
+      ],
+      "confidence": 4,
+      "onSpine": false
+    },
+    {
+      "id": "lib-streams",
+      "name": "Streams",
+      "category": "BACKEND",
+      "importance": "OPTIONAL",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend"
+      ],
+      "confidence": 3,
+      "onSpine": false
+    },
+    {
+      "id": "lib-datadog",
+      "name": "Datadog",
+      "category": "BACKEND",
+      "importance": "OPTIONAL",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend"
+      ],
+      "confidence": 3,
+      "onSpine": false
+    },
+    {
+      "id": "lib-functional-testing",
+      "name": "Functional Testing",
+      "category": "BACKEND",
+      "importance": "OPTIONAL",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend"
+      ],
+      "confidence": 3,
+      "onSpine": false
+    },
+    {
+      "id": "lib-testing",
+      "name": "Testing",
+      "category": "BACKEND",
+      "importance": "OPTIONAL",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend"
+      ],
+      "confidence": 3,
+      "onSpine": false
+    },
+    {
+      "id": "lib-serverless",
+      "name": "Serverless",
+      "category": "BACKEND",
+      "importance": "OPTIONAL",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend"
+      ],
+      "confidence": 3,
+      "onSpine": false
+    },
+    {
+      "id": "lib-linear",
+      "name": "Linear",
+      "category": "BACKEND",
+      "importance": "OPTIONAL",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend"
+      ],
+      "confidence": 3,
+      "onSpine": false
+    },
+    {
+      "id": "lib-dijkstra-s-algorithm",
+      "name": "Dijkstra's Algorithm",
+      "category": "COMPUTER_SCIENCE",
+      "importance": "OPTIONAL",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend"
+      ],
+      "confidence": 3,
+      "onSpine": false
+    },
+    {
+      "id": "lib-search-algorithms",
+      "name": "Search Algorithms",
+      "category": "COMPUTER_SCIENCE",
+      "importance": "OPTIONAL",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend"
+      ],
+      "confidence": 3,
+      "onSpine": false
+    },
+    {
+      "id": "lib-reverse-proxy",
+      "name": "Reverse Proxy",
+      "category": "BACKEND",
+      "importance": "OPTIONAL",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend"
+      ],
+      "confidence": 3,
+      "onSpine": false
+    },
+    {
+      "id": "lib-data-types",
+      "name": "Data Types",
+      "category": "BACKEND",
+      "importance": "OPTIONAL",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend"
+      ],
+      "confidence": 3,
+      "onSpine": false
+    },
+    {
+      "id": "lib-object-oriented-programming",
+      "name": "Object Oriented Programming",
+      "category": "BACKEND",
+      "importance": "OPTIONAL",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend"
+      ],
+      "confidence": 3,
+      "onSpine": false
+    },
+    {
+      "id": "lib-fail-over",
+      "name": "Fail-Over",
+      "category": "BACKEND",
+      "importance": "OPTIONAL",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend"
+      ],
+      "confidence": 3,
+      "onSpine": false
+    },
+    {
+      "id": "lib-cdn-caching",
+      "name": "CDN Caching",
+      "category": "NETWORKING",
+      "importance": "OPTIONAL",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend"
+      ],
+      "confidence": 3,
+      "onSpine": false
+    },
+    {
+      "id": "lib-web-server-caching",
+      "name": "Web Server Caching",
+      "category": "BACKEND",
+      "importance": "OPTIONAL",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend"
+      ],
+      "confidence": 3,
+      "onSpine": false
+    },
+    {
+      "id": "lib-database-caching",
+      "name": "Database Caching",
+      "category": "DATABASES",
+      "importance": "OPTIONAL",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend"
+      ],
+      "confidence": 3,
+      "onSpine": false
+    },
+    {
+      "id": "lib-queue-based-load-leveling",
+      "name": "Queue-Based Load Leveling",
+      "category": "BACKEND",
+      "importance": "OPTIONAL",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend"
+      ],
+      "confidence": 3,
+      "onSpine": false
+    },
+    {
+      "id": "lib-health-endpoint-monitoring",
+      "name": "Health Endpoint Monitoring",
+      "category": "BACKEND",
+      "importance": "OPTIONAL",
+      "level": "INTERMEDIATE",
+      "tracks": [
+        "Backend"
+      ],
+      "confidence": 3,
+      "onSpine": false
+    }
+  ],
+  "edges": [
+    {
+      "from": "programming-fundamentals",
+      "to": "data-structures",
+      "type": "prerequisite"
+    },
+    {
+      "from": "data-structures",
+      "to": "algorithms-complexity",
+      "type": "prerequisite"
+    },
+    {
+      "from": "os-fundamentals",
+      "to": "concurrency-basics",
+      "type": "prerequisite"
+    },
+    {
+      "from": "programming-fundamentals",
+      "to": "concurrency-basics",
+      "type": "prerequisite"
+    },
+    {
+      "from": "networking-fundamentals",
+      "to": "dns",
+      "type": "prerequisite"
+    },
+    {
+      "from": "internet-fundamentals",
+      "to": "dns",
+      "type": "prerequisite"
+    },
+    {
+      "from": "networking-fundamentals",
+      "to": "tcp-udp",
+      "type": "prerequisite"
+    },
+    {
+      "from": "internet-fundamentals",
+      "to": "http-fundamentals",
+      "type": "prerequisite"
+    },
+    {
+      "from": "http-fundamentals",
+      "to": "http2-http3",
+      "type": "prerequisite"
+    },
+    {
+      "from": "http-fundamentals",
+      "to": "tls-https",
+      "type": "prerequisite"
+    },
+    {
+      "from": "http-fundamentals",
+      "to": "load-balancing",
+      "type": "prerequisite"
+    },
+    {
+      "from": "networking-fundamentals",
+      "to": "load-balancing",
+      "type": "prerequisite"
+    },
+    {
+      "from": "http-fundamentals",
+      "to": "reverse-proxy-cdn",
+      "type": "prerequisite"
+    },
+    {
+      "from": "dns",
+      "to": "reverse-proxy-cdn",
+      "type": "prerequisite"
+    },
+    {
+      "from": "http-fundamentals",
+      "to": "api-fundamentals",
+      "type": "prerequisite"
+    },
+    {
+      "from": "api-fundamentals",
+      "to": "rest-api-design",
+      "type": "prerequisite"
+    },
+    {
+      "from": "api-fundamentals",
+      "to": "rpc-grpc",
+      "type": "prerequisite"
+    },
+    {
+      "from": "tcp-udp",
+      "to": "rpc-grpc",
+      "type": "prerequisite"
+    },
+    {
+      "from": "api-fundamentals",
+      "to": "graphql-apis",
+      "type": "prerequisite"
+    },
+    {
+      "from": "http-fundamentals",
+      "to": "authentication",
+      "type": "prerequisite"
+    },
+    {
+      "from": "api-fundamentals",
+      "to": "authentication",
+      "type": "prerequisite"
+    },
+    {
+      "from": "authentication",
+      "to": "authorization",
+      "type": "prerequisite"
+    },
+    {
+      "from": "rest-api-design",
+      "to": "backend-services",
+      "type": "prerequisite"
+    },
+    {
+      "from": "programming-fundamentals",
+      "to": "backend-services",
+      "type": "prerequisite"
+    },
+    {
+      "from": "http-fundamentals",
+      "to": "web-servers",
+      "type": "prerequisite"
+    },
+    {
+      "from": "api-fundamentals",
+      "to": "error-handling-validation",
+      "type": "prerequisite"
+    },
+    {
+      "from": "backend-services",
+      "to": "testing-backend",
+      "type": "prerequisite"
+    },
+    {
+      "from": "sql-fundamentals",
+      "to": "relational-databases",
+      "type": "prerequisite"
+    },
+    {
+      "from": "relational-databases",
+      "to": "indexing",
+      "type": "prerequisite"
+    },
+    {
+      "from": "data-structures",
+      "to": "indexing",
+      "type": "prerequisite"
+    },
+    {
+      "from": "relational-databases",
+      "to": "transactions-isolation",
+      "type": "prerequisite"
+    },
+    {
+      "from": "relational-databases",
+      "to": "database-replication",
+      "type": "prerequisite"
+    },
+    {
+      "from": "transactions-isolation",
+      "to": "database-replication",
+      "type": "prerequisite"
+    },
+    {
+      "from": "database-replication",
+      "to": "sharding-partitioning",
+      "type": "prerequisite"
+    },
+    {
+      "from": "relational-databases",
+      "to": "nosql-datastores",
+      "type": "prerequisite"
+    },
+    {
+      "from": "http-fundamentals",
+      "to": "caching-fundamentals",
+      "type": "prerequisite"
+    },
+    {
+      "from": "backend-services",
+      "to": "caching-fundamentals",
+      "type": "prerequisite"
+    },
+    {
+      "from": "caching-fundamentals",
+      "to": "cache-strategies",
+      "type": "prerequisite"
+    },
+    {
+      "from": "cache-strategies",
+      "to": "cache-invalidation",
+      "type": "prerequisite"
+    },
+    {
+      "from": "caching-fundamentals",
+      "to": "distributed-caching",
+      "type": "prerequisite"
+    },
+    {
+      "from": "nosql-datastores",
+      "to": "search-engines",
+      "type": "prerequisite"
+    },
+    {
+      "from": "backend-services",
+      "to": "messaging-queues",
+      "type": "prerequisite"
+    },
+    {
+      "from": "messaging-queues",
+      "to": "task-queues-workers",
+      "type": "prerequisite"
+    },
+    {
+      "from": "messaging-queues",
+      "to": "event-driven-architecture",
+      "type": "prerequisite"
+    },
+    {
+      "from": "architectural-styles",
+      "to": "event-driven-architecture",
+      "type": "prerequisite"
+    },
+    {
+      "from": "messaging-queues",
+      "to": "backpressure",
+      "type": "prerequisite"
+    },
+    {
+      "from": "messaging-queues",
+      "to": "stream-processing",
+      "type": "prerequisite"
+    },
+    {
+      "from": "programming-fundamentals",
+      "to": "clean-code-principles",
+      "type": "prerequisite"
+    },
+    {
+      "from": "clean-code-principles",
+      "to": "design-patterns",
+      "type": "prerequisite"
+    },
+    {
+      "from": "backend-services",
+      "to": "architectural-styles",
+      "type": "prerequisite"
+    },
+    {
+      "from": "architectural-styles",
+      "to": "modular-monolith",
+      "type": "prerequisite"
+    },
+    {
+      "from": "modular-monolith",
+      "to": "microservices",
+      "type": "prerequisite"
+    },
+    {
+      "from": "api-fundamentals",
+      "to": "microservices",
+      "type": "prerequisite"
+    },
+    {
+      "from": "messaging-queues",
+      "to": "microservices",
+      "type": "prerequisite"
+    },
+    {
+      "from": "microservices",
+      "to": "service-discovery",
+      "type": "prerequisite"
+    },
+    {
+      "from": "dns",
+      "to": "service-discovery",
+      "type": "prerequisite"
+    },
+    {
+      "from": "architectural-styles",
+      "to": "domain-driven-design",
+      "type": "prerequisite"
+    },
+    {
+      "from": "version-control-git",
+      "to": "ci-cd",
+      "type": "prerequisite"
+    },
+    {
+      "from": "linux-cli",
+      "to": "containerization",
+      "type": "prerequisite"
+    },
+    {
+      "from": "os-fundamentals",
+      "to": "containerization",
+      "type": "prerequisite"
+    },
+    {
+      "from": "containerization",
+      "to": "docker-workflows",
+      "type": "prerequisite"
+    },
+    {
+      "from": "linux-cli",
+      "to": "infrastructure-as-code",
+      "type": "prerequisite"
+    },
+    {
+      "from": "version-control-git",
+      "to": "infrastructure-as-code",
+      "type": "prerequisite"
+    },
+    {
+      "from": "cloud-fundamentals",
+      "to": "aws-core-services",
+      "type": "prerequisite"
+    },
+    {
+      "from": "cloud-fundamentals",
+      "to": "well-architected",
+      "type": "prerequisite"
+    },
+    {
+      "from": "containerization",
+      "to": "kubernetes-fundamentals",
+      "type": "prerequisite"
+    },
+    {
+      "from": "networking-fundamentals",
+      "to": "kubernetes-fundamentals",
+      "type": "prerequisite"
+    },
+    {
+      "from": "kubernetes-fundamentals",
+      "to": "k8s-workloads",
+      "type": "prerequisite"
+    },
+    {
+      "from": "ci-cd",
+      "to": "gitops",
+      "type": "prerequisite"
+    },
+    {
+      "from": "kubernetes-fundamentals",
+      "to": "gitops",
+      "type": "prerequisite"
+    },
+    {
+      "from": "microservices",
+      "to": "service-mesh",
+      "type": "prerequisite"
+    },
+    {
+      "from": "kubernetes-fundamentals",
+      "to": "service-mesh",
+      "type": "prerequisite"
+    },
+    {
+      "from": "backend-services",
+      "to": "system-design-intro",
+      "type": "prerequisite"
+    },
+    {
+      "from": "relational-databases",
+      "to": "system-design-intro",
+      "type": "prerequisite"
+    },
+    {
+      "from": "system-design-intro",
+      "to": "scalability-metrics",
+      "type": "prerequisite"
+    },
+    {
+      "from": "system-design-intro",
+      "to": "cap-consistency",
+      "type": "prerequisite"
+    },
+    {
+      "from": "load-balancing",
+      "to": "availability-patterns",
+      "type": "prerequisite"
+    },
+    {
+      "from": "database-replication",
+      "to": "availability-patterns",
+      "type": "prerequisite"
+    },
+    {
+      "from": "load-balancing",
+      "to": "horizontal-scaling",
+      "type": "prerequisite"
+    },
+    {
+      "from": "stateless-services",
+      "to": "horizontal-scaling",
+      "type": "prerequisite"
+    },
+    {
+      "from": "backend-services",
+      "to": "stateless-services",
+      "type": "prerequisite"
+    },
+    {
+      "from": "authentication",
+      "to": "stateless-services",
+      "type": "prerequisite"
+    },
+    {
+      "from": "cap-consistency",
+      "to": "distributed-coordination",
+      "type": "prerequisite"
+    },
+    {
+      "from": "microservices",
+      "to": "circuit-breaker-resilience",
+      "type": "prerequisite"
+    },
+    {
+      "from": "observability-fundamentals",
+      "to": "circuit-breaker-resilience",
+      "type": "prerequisite"
+    },
+    {
+      "from": "backend-services",
+      "to": "observability-fundamentals",
+      "type": "prerequisite"
+    },
+    {
+      "from": "observability-fundamentals",
+      "to": "sli-slo-sla",
+      "type": "prerequisite"
+    },
+    {
+      "from": "observability-fundamentals",
+      "to": "incident-response",
+      "type": "prerequisite"
+    },
+    {
+      "from": "sli-slo-sla",
+      "to": "incident-response",
+      "type": "prerequisite"
+    },
+    {
+      "from": "http-fundamentals",
+      "to": "security-fundamentals",
+      "type": "prerequisite"
+    },
+    {
+      "from": "authentication",
+      "to": "security-fundamentals",
+      "type": "prerequisite"
+    },
+    {
+      "from": "security-fundamentals",
+      "to": "secrets-management",
+      "type": "prerequisite"
+    },
+    {
+      "from": "infrastructure-as-code",
+      "to": "secrets-management",
+      "type": "prerequisite"
+    },
+    {
+      "from": "containerization",
+      "to": "supply-chain-security",
+      "type": "prerequisite"
+    },
+    {
+      "from": "security-fundamentals",
+      "to": "supply-chain-security",
+      "type": "prerequisite"
+    },
+    {
+      "from": "html-css-js",
+      "to": "frontend-tooling",
+      "type": "prerequisite"
+    },
+    {
+      "from": "html-css-js",
+      "to": "fullstack-integration",
+      "type": "prerequisite"
+    },
+    {
+      "from": "rest-api-design",
+      "to": "fullstack-integration",
+      "type": "prerequisite"
+    },
+    {
+      "from": "authentication",
+      "to": "fullstack-integration",
+      "type": "prerequisite"
+    },
+    {
+      "from": "scalability-metrics",
+      "to": "capacity-estimation",
+      "type": "prerequisite"
+    },
+    {
+      "from": "relational-databases",
+      "to": "data-modeling-at-scale",
+      "type": "prerequisite"
+    },
+    {
+      "from": "nosql-datastores",
+      "to": "data-modeling-at-scale",
+      "type": "prerequisite"
+    },
+    {
+      "from": "availability-patterns",
+      "to": "multi-region",
+      "type": "prerequisite"
+    },
+    {
+      "from": "cap-consistency",
+      "to": "multi-region",
+      "type": "prerequisite"
+    },
+    {
+      "from": "dns",
+      "to": "multi-region",
+      "type": "prerequisite"
+    },
+    {
+      "from": "system-design-intro",
+      "to": "real-world-design-practice",
+      "type": "prerequisite"
+    },
+    {
+      "from": "caching-fundamentals",
+      "to": "real-world-design-practice",
+      "type": "prerequisite"
+    },
+    {
+      "from": "messaging-queues",
+      "to": "real-world-design-practice",
+      "type": "prerequisite"
+    },
+    {
+      "from": "load-balancing",
+      "to": "real-world-design-practice",
+      "type": "prerequisite"
+    },
+    {
+      "from": "api-fundamentals",
+      "to": "rate-limiting",
+      "type": "prerequisite"
+    },
+    {
+      "from": "caching-fundamentals",
+      "to": "rate-limiting",
+      "type": "prerequisite"
+    },
+    {
+      "from": "distributed-caching",
+      "to": "rate-limiting",
+      "type": "prerequisite"
+    },
+    {
+      "from": "messaging-queues",
+      "to": "idempotency",
+      "type": "prerequisite"
+    },
+    {
+      "from": "transactions-isolation",
+      "to": "idempotency",
+      "type": "prerequisite"
+    },
+    {
+      "from": "cloud-fundamentals",
+      "to": "object-storage",
+      "type": "prerequisite"
+    },
+    {
+      "from": "networking-fundamentals",
+      "to": "networking-in-cloud",
+      "type": "prerequisite"
+    },
+    {
+      "from": "cloud-fundamentals",
+      "to": "networking-in-cloud",
+      "type": "prerequisite"
+    },
+    {
+      "from": "well-architected",
+      "to": "cost-aware-architecture",
+      "type": "prerequisite"
+    },
+    {
+      "from": "kubernetes-fundamentals",
+      "to": "platform-engineering",
+      "type": "prerequisite"
+    },
+    {
+      "from": "ci-cd",
+      "to": "platform-engineering",
+      "type": "prerequisite"
+    },
+    {
+      "from": "observability-fundamentals",
+      "to": "platform-engineering",
+      "type": "prerequisite"
+    },
+    {
+      "from": "relational-databases",
+      "to": "database-migrations",
+      "type": "prerequisite"
+    },
+    {
+      "from": "ci-cd",
+      "to": "database-migrations",
+      "type": "prerequisite"
+    },
+    {
+      "from": "observability-fundamentals",
+      "to": "logging-strategies",
+      "type": "prerequisite"
+    },
+    {
+      "from": "observability-fundamentals",
+      "to": "distributed-tracing",
+      "type": "prerequisite"
+    },
+    {
+      "from": "microservices",
+      "to": "distributed-tracing",
+      "type": "prerequisite"
+    },
+    {
+      "from": "observability-fundamentals",
+      "to": "metrics-alerting",
+      "type": "prerequisite"
+    },
+    {
+      "from": "transactions-isolation",
+      "to": "storage-engines",
+      "type": "prerequisite"
+    },
+    {
+      "from": "rest-api-design",
+      "to": "api-gateways",
+      "type": "prerequisite"
+    },
+    {
+      "from": "load-balancing",
+      "to": "api-gateways",
+      "type": "prerequisite"
+    },
+    {
+      "from": "http-fundamentals",
+      "to": "websockets-realtime",
+      "type": "prerequisite"
+    },
+    {
+      "from": "backend-services",
+      "to": "websockets-realtime",
+      "type": "prerequisite"
+    },
+    {
+      "from": "ci-cd",
+      "to": "feature-flags",
+      "type": "prerequisite"
+    },
+    {
+      "from": "circuit-breaker-resilience",
+      "to": "chaos-engineering",
+      "type": "prerequisite"
+    },
+    {
+      "from": "observability-fundamentals",
+      "to": "chaos-engineering",
+      "type": "prerequisite"
+    },
+    {
+      "from": "messaging-queues",
+      "to": "data-pipelines",
+      "type": "prerequisite"
+    },
+    {
+      "from": "object-storage",
+      "to": "data-pipelines",
+      "type": "prerequisite"
+    },
+    {
+      "from": "nosql-datastores",
+      "to": "graph-databases",
+      "type": "prerequisite"
+    },
+    {
+      "from": "networking-in-cloud",
+      "to": "security-networking",
+      "type": "prerequisite"
+    },
+    {
+      "from": "security-fundamentals",
+      "to": "security-networking",
+      "type": "prerequisite"
+    },
+    {
+      "from": "scalability-metrics",
+      "to": "perf-profiling",
+      "type": "prerequisite"
+    },
+    {
+      "from": "observability-fundamentals",
+      "to": "perf-profiling",
+      "type": "prerequisite"
+    },
+    {
+      "from": "rest-api-design",
+      "to": "contracts-versioning",
+      "type": "prerequisite"
+    },
+    {
+      "from": "programming-fundamentals",
+      "to": "package-managers",
+      "type": "prerequisite"
+    },
+    {
+      "from": "os-fundamentals",
+      "to": "memory-networking-perf",
+      "type": "prerequisite"
+    },
+    {
+      "from": "scalability-metrics",
+      "to": "memory-networking-perf",
+      "type": "prerequisite"
+    },
+    {
+      "from": "linux-cli",
+      "to": "shell-scripting",
+      "type": "prerequisite"
+    },
+    {
+      "from": "networking-fundamentals",
+      "to": "networking-ports-firewall",
+      "type": "prerequisite"
+    },
+    {
+      "from": "http-fundamentals",
+      "to": "http-caching",
+      "type": "prerequisite"
+    },
+    {
+      "from": "caching-fundamentals",
+      "to": "http-caching",
+      "type": "prerequisite"
+    },
+    {
+      "from": "http-fundamentals",
+      "to": "cookies-sessions",
+      "type": "prerequisite"
+    },
+    {
+      "from": "authentication",
+      "to": "cookies-sessions",
+      "type": "prerequisite"
+    },
+    {
+      "from": "authentication",
+      "to": "password-hashing",
+      "type": "prerequisite"
+    },
+    {
+      "from": "sql-fundamentals",
+      "to": "orm-vs-sql",
+      "type": "prerequisite"
+    },
+    {
+      "from": "relational-databases",
+      "to": "orm-vs-sql",
+      "type": "prerequisite"
+    },
+    {
+      "from": "relational-databases",
+      "to": "connection-pooling",
+      "type": "prerequisite"
+    },
+    {
+      "from": "orm-vs-sql",
+      "to": "n-plus-one",
+      "type": "prerequisite"
+    },
+    {
+      "from": "indexing",
+      "to": "n-plus-one",
+      "type": "prerequisite"
+    },
+    {
+      "from": "api-fundamentals",
+      "to": "serialization",
+      "type": "prerequisite"
+    },
+    {
+      "from": "rest-api-design",
+      "to": "pagination-filtering",
+      "type": "prerequisite"
+    },
+    {
+      "from": "rest-api-design",
+      "to": "webhooks",
+      "type": "prerequisite"
+    },
+    {
+      "from": "authentication",
+      "to": "webhooks",
+      "type": "prerequisite"
+    },
+    {
+      "from": "architectural-styles",
+      "to": "hexagonal-architecture",
+      "type": "prerequisite"
+    },
+    {
+      "from": "event-driven-architecture",
+      "to": "cqrs",
+      "type": "prerequisite"
+    },
+    {
+      "from": "microservices",
+      "to": "saga-pattern",
+      "type": "prerequisite"
+    },
+    {
+      "from": "messaging-queues",
+      "to": "saga-pattern",
+      "type": "prerequisite"
+    },
+    {
+      "from": "messaging-queues",
+      "to": "outbox-pattern",
+      "type": "prerequisite"
+    },
+    {
+      "from": "transactions-isolation",
+      "to": "outbox-pattern",
+      "type": "prerequisite"
+    },
+    {
+      "from": "backend-services",
+      "to": "config-management",
+      "type": "prerequisite"
+    },
+    {
+      "from": "containerization",
+      "to": "config-management",
+      "type": "prerequisite"
+    },
+    {
+      "from": "secrets-management",
+      "to": "secrets-rotation",
+      "type": "prerequisite"
+    },
+    {
+      "from": "ci-cd",
+      "to": "blue-green-deploy",
+      "type": "prerequisite"
+    },
+    {
+      "from": "feature-flags",
+      "to": "blue-green-deploy",
+      "type": "prerequisite"
+    },
+    {
+      "from": "metrics-alerting",
+      "to": "infrastructure-monitoring",
+      "type": "prerequisite"
+    },
+    {
+      "from": "logging-strategies",
+      "to": "log-retention",
+      "type": "prerequisite"
+    },
+    {
+      "from": "security-fundamentals",
+      "to": "log-retention",
+      "type": "prerequisite"
+    },
+    {
+      "from": "relational-databases",
+      "to": "backup-restore",
+      "type": "prerequisite"
+    },
+    {
+      "from": "object-storage",
+      "to": "backup-restore",
+      "type": "prerequisite"
+    },
+    {
+      "from": "backup-restore",
+      "to": "rto-rpo",
+      "type": "prerequisite"
+    },
+    {
+      "from": "sli-slo-sla",
+      "to": "rto-rpo",
+      "type": "prerequisite"
+    },
+    {
+      "from": "capacity-estimation",
+      "to": "capacity-planning",
+      "type": "prerequisite"
+    },
+    {
+      "from": "horizontal-scaling",
+      "to": "capacity-planning",
+      "type": "prerequisite"
+    },
+    {
+      "from": "messaging-queues",
+      "to": "queue-backlog-slo",
+      "type": "prerequisite"
+    },
+    {
+      "from": "sli-slo-sla",
+      "to": "queue-backlog-slo",
+      "type": "prerequisite"
+    },
+    {
+      "from": "reverse-proxy-cdn",
+      "to": "cdn-edge-compute",
+      "type": "prerequisite"
+    },
+    {
+      "from": "cloud-fundamentals",
+      "to": "cdn-edge-compute",
+      "type": "prerequisite"
+    },
+    {
+      "from": "cloud-fundamentals",
+      "to": "iam-cloud",
+      "type": "prerequisite"
+    },
+    {
+      "from": "authorization",
+      "to": "iam-cloud",
+      "type": "prerequisite"
+    },
+    {
+      "from": "relational-databases",
+      "to": "managed-databases",
+      "type": "prerequisite"
+    },
+    {
+      "from": "aws-core-services",
+      "to": "managed-databases",
+      "type": "prerequisite"
+    },
+    {
+      "from": "k8s-workloads",
+      "to": "k8s-storage",
+      "type": "prerequisite"
+    },
+    {
+      "from": "k8s-workloads",
+      "to": "k8s-autoscaling",
+      "type": "prerequisite"
+    },
+    {
+      "from": "horizontal-scaling",
+      "to": "k8s-autoscaling",
+      "type": "prerequisite"
+    },
+    {
+      "from": "kubernetes-fundamentals",
+      "to": "policy-as-code",
+      "type": "prerequisite"
+    },
+    {
+      "from": "security-fundamentals",
+      "to": "policy-as-code",
+      "type": "prerequisite"
+    },
+    {
+      "from": "supply-chain-security",
+      "to": "sbom-signing",
+      "type": "prerequisite"
+    },
+    {
+      "from": "observability-fundamentals",
+      "to": "debugging-production",
+      "type": "prerequisite"
+    },
+    {
+      "from": "perf-profiling",
+      "to": "debugging-production",
+      "type": "prerequisite"
+    },
+    {
+      "from": "security-fundamentals",
+      "to": "api-security-threats",
+      "type": "prerequisite"
+    },
+    {
+      "from": "rest-api-design",
+      "to": "api-security-threats",
+      "type": "prerequisite"
+    },
+    {
+      "from": "security-fundamentals",
+      "to": "input-validation",
+      "type": "prerequisite"
+    },
+    {
+      "from": "sql-fundamentals",
+      "to": "input-validation",
+      "type": "prerequisite"
+    },
+    {
+      "from": "sharding-partitioning",
+      "to": "consistent-hashing",
+      "type": "prerequisite"
+    },
+    {
+      "from": "distributed-caching",
+      "to": "consistent-hashing",
+      "type": "prerequisite"
+    },
+    {
+      "from": "data-structures",
+      "to": "bloom-filters",
+      "type": "prerequisite"
+    },
+    {
+      "from": "caching-fundamentals",
+      "to": "bloom-filters",
+      "type": "prerequisite"
+    },
+    {
+      "from": "distributed-coordination",
+      "to": "gossip-protocols",
+      "type": "prerequisite"
+    },
+    {
+      "from": "cap-consistency",
+      "to": "vector-clocks",
+      "type": "prerequisite"
+    },
+    {
+      "from": "system-design-intro",
+      "to": "design-url-shortener",
+      "type": "prerequisite"
+    },
+    {
+      "from": "caching-fundamentals",
+      "to": "design-url-shortener",
+      "type": "prerequisite"
+    },
+    {
+      "from": "relational-databases",
+      "to": "design-url-shortener",
+      "type": "prerequisite"
+    },
+    {
+      "from": "rate-limiting",
+      "to": "design-rate-limiter",
+      "type": "prerequisite"
+    },
+    {
+      "from": "distributed-caching",
+      "to": "design-rate-limiter",
+      "type": "prerequisite"
+    },
+    {
+      "from": "websockets-realtime",
+      "to": "design-chat",
+      "type": "prerequisite"
+    },
+    {
+      "from": "messaging-queues",
+      "to": "design-chat",
+      "type": "prerequisite"
+    },
+    {
+      "from": "fanout-feeds",
+      "to": "design-chat",
+      "type": "prerequisite"
+    },
+    {
+      "from": "messaging-queues",
+      "to": "fanout-feeds",
+      "type": "prerequisite"
+    },
+    {
+      "from": "caching-fundamentals",
+      "to": "fanout-feeds",
+      "type": "prerequisite"
+    },
+    {
+      "from": "nosql-datastores",
+      "to": "fanout-feeds",
+      "type": "prerequisite"
+    },
+    {
+      "from": "messaging-queues",
+      "to": "design-notification",
+      "type": "prerequisite"
+    },
+    {
+      "from": "task-queues-workers",
+      "to": "design-notification",
+      "type": "prerequisite"
+    },
+    {
+      "from": "http-caching",
+      "to": "client-caching",
+      "type": "prerequisite"
+    },
+    {
+      "from": "html-css-js",
+      "to": "client-caching",
+      "type": "prerequisite"
+    },
+    {
+      "from": "html-css-js",
+      "to": "state-management",
+      "type": "prerequisite"
+    },
+    {
+      "from": "fullstack-integration",
+      "to": "state-management",
+      "type": "prerequisite"
+    },
+    {
+      "from": "html-css-js",
+      "to": "accessibility-basics",
+      "type": "prerequisite"
+    },
+    {
+      "from": "testing-backend",
+      "to": "contract-testing",
+      "type": "prerequisite"
+    },
+    {
+      "from": "rest-api-design",
+      "to": "contract-testing",
+      "type": "prerequisite"
+    },
+    {
+      "from": "scalability-metrics",
+      "to": "load-testing",
+      "type": "prerequisite"
+    },
+    {
+      "from": "observability-fundamentals",
+      "to": "load-testing",
+      "type": "prerequisite"
+    },
+    {
+      "from": "chaos-engineering",
+      "to": "chaos-gamedays",
+      "type": "prerequisite"
+    },
+    {
+      "from": "incident-response",
+      "to": "chaos-gamedays",
+      "type": "prerequisite"
+    },
+    {
+      "from": "cost-aware-architecture",
+      "to": "finops-basics",
+      "type": "prerequisite"
+    },
+    {
+      "from": "modular-monolith",
+      "to": "multi-tenancy",
+      "type": "prerequisite"
+    },
+    {
+      "from": "authorization",
+      "to": "multi-tenancy",
+      "type": "prerequisite"
+    },
+    {
+      "from": "relational-databases",
+      "to": "multi-tenancy",
+      "type": "prerequisite"
+    },
+    {
+      "from": "internet-fundamentals",
+      "to": "version-control-git",
+      "type": "related"
+    },
+    {
+      "from": "version-control-git",
+      "to": "linux-cli",
+      "type": "related"
+    },
+    {
+      "from": "linux-cli",
+      "to": "code-review",
+      "type": "related"
+    },
+    {
+      "from": "data-structures",
+      "to": "algorithms-complexity",
+      "type": "related"
+    },
+    {
+      "from": "algorithms-complexity",
+      "to": "os-fundamentals",
+      "type": "related"
+    },
+    {
+      "from": "os-fundamentals",
+      "to": "concurrency-basics",
+      "type": "related"
+    },
+    {
+      "from": "networking-fundamentals",
+      "to": "dns",
+      "type": "related"
+    },
+    {
+      "from": "dns",
+      "to": "http-fundamentals",
+      "type": "related"
+    },
+    {
+      "from": "http-fundamentals",
+      "to": "tcp-udp",
+      "type": "related"
+    },
+    {
+      "from": "tcp-udp",
+      "to": "reverse-proxy-cdn",
+      "type": "related"
+    },
+    {
+      "from": "tls-https",
+      "to": "authentication",
+      "type": "related"
+    },
+    {
+      "from": "authentication",
+      "to": "security-fundamentals",
+      "type": "related"
+    },
+    {
+      "from": "security-fundamentals",
+      "to": "authorization",
+      "type": "related"
+    },
+    {
+      "from": "authorization",
+      "to": "input-validation",
+      "type": "related"
+    },
+    {
+      "from": "load-balancing",
+      "to": "system-design-intro",
+      "type": "related"
+    },
+    {
+      "from": "system-design-intro",
+      "to": "scalability-metrics",
+      "type": "related"
+    },
+    {
+      "from": "scalability-metrics",
+      "to": "capacity-estimation",
+      "type": "related"
+    },
+    {
+      "from": "capacity-estimation",
+      "to": "real-world-design-practice",
+      "type": "related"
+    },
+    {
+      "from": "real-world-design-practice",
+      "to": "horizontal-scaling",
+      "type": "related"
+    },
+    {
+      "from": "horizontal-scaling",
+      "to": "data-modeling-at-scale",
+      "type": "related"
+    },
+    {
+      "from": "data-modeling-at-scale",
+      "to": "rate-limiting",
+      "type": "related"
+    },
+    {
+      "from": "api-fundamentals",
+      "to": "rest-api-design",
+      "type": "related"
+    },
+    {
+      "from": "rest-api-design",
+      "to": "rpc-grpc",
+      "type": "related"
+    },
+    {
+      "from": "rpc-grpc",
+      "to": "graphql-apis",
+      "type": "related"
+    },
+    {
+      "from": "backend-services",
+      "to": "web-servers",
+      "type": "related"
+    },
+    {
+      "from": "web-servers",
+      "to": "error-handling-validation",
+      "type": "related"
+    },
+    {
+      "from": "error-handling-validation",
+      "to": "testing-backend",
+      "type": "related"
+    },
+    {
+      "from": "testing-backend",
+      "to": "task-queues-workers",
+      "type": "related"
+    },
+    {
+      "from": "sql-fundamentals",
+      "to": "relational-databases",
+      "type": "related"
+    },
+    {
+      "from": "relational-databases",
+      "to": "indexing",
+      "type": "related"
+    },
+    {
+      "from": "indexing",
+      "to": "transactions-isolation",
+      "type": "related"
+    },
+    {
+      "from": "transactions-isolation",
+      "to": "database-replication",
+      "type": "related"
+    },
+    {
+      "from": "database-replication",
+      "to": "sharding-partitioning",
+      "type": "related"
+    },
+    {
+      "from": "sharding-partitioning",
+      "to": "nosql-datastores",
+      "type": "related"
+    },
+    {
+      "from": "caching-fundamentals",
+      "to": "cache-strategies",
+      "type": "related"
+    },
+    {
+      "from": "messaging-queues",
+      "to": "cap-consistency",
+      "type": "related"
+    },
+    {
+      "from": "cap-consistency",
+      "to": "distributed-caching",
+      "type": "related"
+    },
+    {
+      "from": "clean-code-principles",
+      "to": "architectural-styles",
+      "type": "related"
+    },
+    {
+      "from": "architectural-styles",
+      "to": "event-driven-architecture",
+      "type": "related"
+    },
+    {
+      "from": "event-driven-architecture",
+      "to": "microservices",
+      "type": "related"
+    },
+    {
+      "from": "microservices",
+      "to": "software-architect-role",
+      "type": "related"
+    },
+    {
+      "from": "containerization",
+      "to": "docker-workflows",
+      "type": "related"
+    },
+    {
+      "from": "cloud-fundamentals",
+      "to": "aws-core-services",
+      "type": "related"
+    },
+    {
+      "from": "aws-core-services",
+      "to": "well-architected",
+      "type": "related"
+    },
+    {
+      "from": "well-architected",
+      "to": "networking-in-cloud",
+      "type": "related"
+    },
+    {
+      "from": "kubernetes-fundamentals",
+      "to": "k8s-workloads",
+      "type": "related"
+    },
+    {
+      "from": "availability-patterns",
+      "to": "circuit-breaker-resilience",
+      "type": "related"
+    },
+    {
+      "from": "circuit-breaker-resilience",
+      "to": "backup-restore",
+      "type": "related"
+    },
+    {
+      "from": "observability-fundamentals",
+      "to": "metrics-alerting",
+      "type": "related"
+    },
+    {
+      "from": "containerization",
+      "to": "docker-workflows",
+      "type": "specialization"
+    },
+    {
+      "from": "cloud-fundamentals",
+      "to": "aws-core-services",
+      "type": "specialization"
+    },
+    {
+      "from": "containerization",
+      "to": "kubernetes-fundamentals",
+      "type": "specialization"
+    },
+    {
+      "from": "caching-fundamentals",
+      "to": "distributed-caching",
+      "type": "specialization"
+    },
+    {
+      "from": "api-fundamentals",
+      "to": "rpc-grpc",
+      "type": "specialization"
+    },
+    {
+      "from": "api-fundamentals",
+      "to": "graphql-apis",
+      "type": "specialization"
+    },
+    {
+      "from": "load-balancing",
+      "to": "real-world-design-practice",
+      "type": "practice"
+    },
+    {
+      "from": "caching-fundamentals",
+      "to": "real-world-design-practice",
+      "type": "practice"
+    },
+    {
+      "from": "messaging-queues",
+      "to": "real-world-design-practice",
+      "type": "practice"
+    },
+    {
+      "from": "cap-consistency",
+      "to": "real-world-design-practice",
+      "type": "practice"
+    },
+    {
+      "from": "rate-limiting",
+      "to": "real-world-design-practice",
+      "type": "practice"
+    },
+    {
+      "from": "caching-fundamentals",
+      "to": "cache-strategies",
+      "type": "expands-on"
+    },
+    {
+      "from": "cache-strategies",
+      "to": "cache-invalidation",
+      "type": "expands-on"
+    },
+    {
+      "from": "http-fundamentals",
+      "to": "http2-http3",
+      "type": "expands-on"
+    },
+    {
+      "from": "relational-databases",
+      "to": "nosql-datastores",
+      "type": "alternative"
+    }
+  ],
+  "spine": [
+    "internet-fundamentals",
+    "version-control-git",
+    "linux-cli",
+    "programming-fundamentals",
+    "data-structures",
+    "algorithms-complexity",
+    "os-fundamentals",
+    "networking-fundamentals",
+    "dns",
+    "http-fundamentals",
+    "tls-https",
+    "api-fundamentals",
+    "rest-api-design",
+    "authentication",
+    "backend-services",
+    "sql-fundamentals",
+    "relational-databases",
+    "caching-fundamentals",
+    "clean-code-principles",
+    "architectural-styles",
+    "load-balancing",
+    "messaging-queues",
+    "ci-cd",
+    "containerization",
+    "infrastructure-as-code",
+    "cloud-fundamentals",
+    "kubernetes-fundamentals",
+    "system-design-intro",
+    "scalability-metrics",
+    "cap-consistency",
+    "observability-fundamentals",
+    "security-fundamentals",
+    "capacity-estimation",
+    "real-world-design-practice"
+  ],
+  "stages": [
+    {
+      "id": "foundations",
+      "name": "Foundations",
+      "domains": [
+        "FOUNDATIONS",
+        "PROGRAMMING",
+        "COMPUTER_SCIENCE"
+      ]
+    },
+    {
+      "id": "networking",
+      "name": "Networking",
+      "domains": [
+        "NETWORKING"
+      ]
+    },
+    {
+      "id": "backend",
+      "name": "Backend",
+      "domains": [
+        "BACKEND",
+        "API_DESIGN"
+      ]
+    },
+    {
+      "id": "databases",
+      "name": "Databases",
+      "domains": [
+        "DATABASES"
+      ]
+    },
+    {
+      "id": "architecture",
+      "name": "Software Architecture",
+      "domains": [
+        "SOFTWARE_ARCHITECTURE"
+      ]
+    },
+    {
+      "id": "devops",
+      "name": "DevOps",
+      "domains": [
+        "DEVOPS",
+        "CONTAINERS",
+        "INFRASTRUCTURE"
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud",
+      "domains": [
+        "CLOUD",
+        "ORCHESTRATION"
+      ]
+    },
+    {
+      "id": "distributed",
+      "name": "Distributed Systems",
+      "domains": [
+        "DISTRIBUTED_SYSTEMS"
+      ]
+    },
+    {
+      "id": "reliability",
+      "name": "Reliability",
+      "domains": [
+        "RELIABILITY",
+        "OBSERVABILITY",
+        "SECURITY"
+      ]
+    },
+    {
+      "id": "system-design",
+      "name": "Advanced System Design",
+      "domains": [
+        "SYSTEM_DESIGN",
+        "PERFORMANCE",
+        "ADVANCED_ARCHITECTURE"
+      ]
+    }
+  ]
+}

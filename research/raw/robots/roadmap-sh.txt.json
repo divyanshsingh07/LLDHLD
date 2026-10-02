@@ -1,0 +1,11 @@
+{
+  "source": "robots-roadmap-sh",
+  "url": "https://roadmap.sh/robots.txt",
+  "retrievedAt": "2026-10-02T05:13:56.381Z",
+  "contentHash": "832bc9a4fc26f55d06227f9c57a0ce2c888df4ebb7dd9abd65d45b99b831fd76",
+  "contentType": "text/plain",
+  "content": "User-agent: *\n\n# Utility/internal endpoints\nDisallow: /og/\n\n# Auth/account pages\nDisallow: /login\nDisallow: /signup\nDisallow: /forgot-password\nDisallow: /reset-password\nDisallow: /verify-account\nDisallow: /verify-email\nDisallow: /verification-pending\nDisallow: /account\n\n# Dashboard/private\nDisallow: /dashboard\nDisallow: /feed\nDisallow: /ask\n\n# Teams (auth-required)\nDisallow: /teams/\n\n# Creator tools (auth-required)\nDisallow: /course-creator\nDisallow: /ai-creator\n\n# Custom roadmap editor\nDisallow: /r/embed\n\n# Invite/utility\nDisallow: /respond-invite\nDisallow: /befriend\nDisallow: /thank-you\n\n# Premium content\nDisallow: /packs/\n\n# Sitemap\nSitemap: https://roadmap.sh/sitemap_index.xml\n",
+  "meta": {
+    "status": 200
+  }
+}
